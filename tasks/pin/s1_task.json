@@ -1,0 +1,224 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Align and secure two fabric panels along a seam before stitching",
+            "original_tool": "sewing pins",
+            "expected_outcome": "The fabric layers are immobilized together along the seam line, preventing shifting while sewing",
+            "required_tool_attributes": [
+                "sharp tapered tip to penetrate fabric with minimal force",
+                "rigid slender shaft to resist bending under thumb pressure",
+                "small head to concentrate applied pressure and stop pull-through",
+                "smooth surface to reduce snagging while maintaining frictional hold"
+            ]
+        },
+        {
+            "task_goal": "Hold a metal plate steady on a drill press table for accurate hole drilling",
+            "original_tool": "toggle clamp (hold-down clamp)",
+            "expected_outcome": "The metal plate remains fixed in position without sliding or rotating during drilling",
+            "required_tool_attributes": [
+                "small contact foot to focus normal force on the workpiece",
+                "rigid linkage to prevent deflection under load",
+                "over-center locking mechanism to maintain clamping force",
+                "textured or rubberized pad to increase friction"
+            ]
+        },
+        {
+            "task_goal": "Affix a printed notice to a corkboard in an office hallway",
+            "original_tool": "pushpin",
+            "expected_outcome": "The paper stays flat and secured to the board without sagging or falling",
+            "required_tool_attributes": [
+                "sharp point to penetrate cork with minimal effort",
+                "rigid pin shaft to transmit localized force",
+                "broad head to apply thumb pressure safely",
+                "small cross-sectional area to achieve high insertion pressure"
+            ]
+        },
+        {
+            "task_goal": "Secure a tent corner to the ground in windy conditions",
+            "original_tool": "tent stake",
+            "expected_outcome": "The tent remains anchored with the corner immobilized against wind forces",
+            "required_tool_attributes": [
+                "pointed tip to pierce soil with localized force",
+                "rigid body to resist bending under tension",
+                "hooked or notched head to capture guyline",
+                "sufficient length to develop soil frictional hold"
+            ]
+        },
+        {
+            "task_goal": "Fix a frog specimen to a wax dissection tray for lab examination",
+            "original_tool": "dissection pins",
+            "expected_outcome": "The specimen is immobilized in the desired orientation for precise cuts and observation",
+            "required_tool_attributes": [
+                "fine sharp tip to penetrate tissue and wax cleanly",
+                "rigid stainless steel shaft to hold position",
+                "small head for controlled pressure and easy handling",
+                "corrosion resistance for wet lab environments"
+            ]
+        },
+        {
+            "task_goal": "Keep a rolled paper backdrop from curling during a tabletop photo shoot",
+            "original_tool": "binder clips",
+            "expected_outcome": "The backdrop edge remains pinned flat to the table, preventing movement and curl",
+            "required_tool_attributes": [
+                "narrow rigid jaws to concentrate clamping force at the edge",
+                "strong spring to maintain sustained pressure",
+                "textured or slightly grooved jaws to increase friction",
+                "flat handles for additional applied leverage"
+            ]
+        },
+        {
+            "task_goal": "Attach a tomato plant stem to a support stake to guide vertical growth",
+            "original_tool": "plant tie clips",
+            "expected_outcome": "The stem is held gently but firmly against the stake without slipping or damage",
+            "required_tool_attributes": [
+                "small curved contact surfaces to localize pressure without cutting",
+                "spring or latch mechanism to maintain clamping force",
+                "rigid frame to resist opening under plant weight",
+                "slightly textured pads to improve frictional hold"
+            ]
+        },
+        {
+            "task_goal": "Stabilize a bicycle chain link to press out a pin for removal",
+            "original_tool": "chain breaker tool",
+            "expected_outcome": "The selected link is immobilized and the chain pin is driven out cleanly",
+            "required_tool_attributes": [
+                "V-shaped anvil to confine and align chain plates",
+                "hardened driving pin with a small contact tip",
+                "threaded press mechanism for controlled localized force",
+                "rigid body to resist flex during pressing"
+            ]
+        },
+        {
+            "task_goal": "Hold a thin wire and a small PCB pad steady for soldering",
+            "original_tool": "helping hands with alligator clips",
+            "expected_outcome": "The wire and PCB are immobilized in alignment, enabling a clean solder joint",
+            "required_tool_attributes": [
+                "small serrated jaws to increase friction at a tiny contact area",
+                "spring tension to maintain continuous pressure",
+                "adjustable rigid arms to set position and angle",
+                "heat-resistant or insulated jaws near the contact point"
+            ]
+        },
+        {
+            "task_goal": "Clamp a fish\u2019s tail to a fillet board to keep it from sliding while filleting",
+            "original_tool": "fish fillet board tail clamp",
+            "expected_outcome": "The fish is firmly held by the tail, allowing safe and accurate filleting",
+            "required_tool_attributes": [
+                "small serrated clamping surface for grip on slippery skin",
+                "rigid lever or spring to generate sustained force",
+                "corrosion-resistant metal suitable for wet conditions",
+                "compact jaw to focus pressure without excessive damage"
+            ]
+        },
+        {
+            "task_goal": "Secure hair sections to form a bun for a dance performance",
+            "original_tool": "bobby pins",
+            "expected_outcome": "Hair remains pinned in place throughout the performance without slipping",
+            "required_tool_attributes": [
+                "narrow rigid prongs to localize pressure on hair strands",
+                "spring tension between prongs to maintain grip",
+                "wavy surface to increase friction with hair",
+                "rounded tips for safe application of pressure"
+            ]
+        },
+        {
+            "task_goal": "Temporarily stop coolant flow by pinching a rubber hose during car maintenance",
+            "original_tool": "hose pinch-off pliers",
+            "expected_outcome": "The hose is compressed and fluid flow is halted without damaging the hose",
+            "required_tool_attributes": [
+                "narrow rounded jaws to concentrate force and avoid cutting",
+                "adjustable locking mechanism to hold pressure",
+                "rigid handles and pivot to transmit clamping force",
+                "smooth, non-marring jaw surfaces"
+            ]
+        },
+        {
+            "task_goal": "Hold delicate trim in place while glue sets during cabinetry",
+            "original_tool": "23-gauge pin nailer",
+            "expected_outcome": "Trim is immobilized without visible nail heads until adhesive cures",
+            "required_tool_attributes": [
+                "slim nosepiece to apply localized driving force precisely",
+                "high-speed driver to insert small-diameter pins",
+                "use of headless micro pins to rely on frictional retention",
+                "depth control to avoid surface damage"
+            ]
+        },
+        {
+            "task_goal": "Seat and hold a wood blank on a lathe to start turning",
+            "original_tool": "spur center (lathe drive center)",
+            "expected_outcome": "The blank is pinned at the center and driven without slipping during initial cuts",
+            "required_tool_attributes": [
+                "hardened center point and spurs to bite into wood",
+                "small, sharp contact teeth to concentrate force",
+                "rigid steel body to prevent deflection",
+                "compatibility with tailstock pressure to maintain embedment"
+            ]
+        },
+        {
+            "task_goal": "Attach a race bib to a running shirt before an event",
+            "original_tool": "safety pins",
+            "expected_outcome": "The bib stays securely attached without shifting during the run",
+            "required_tool_attributes": [
+                "sharp point to pierce fabric with localized force",
+                "rigid wire to maintain shape under tension",
+                "locking clasp to hold the pin closed under movement",
+                "small cross-section to minimize fabric damage"
+            ]
+        },
+        {
+            "task_goal": "Anchor weed barrier fabric to the soil around garden beds",
+            "original_tool": "landscape staples",
+            "expected_outcome": "The fabric remains flat and fixed against wind and foot traffic",
+            "required_tool_attributes": [
+                "U-shaped design with two sharp legs for localized penetration",
+                "rigid steel to resist bending in compacted soil",
+                "sufficient leg length for soil frictional retention",
+                "narrow legs to achieve high insertion pressure"
+            ]
+        },
+        {
+            "task_goal": "Temporarily hold two sheet metal panels in alignment for riveting",
+            "original_tool": "cleco fasteners with cleco pliers",
+            "expected_outcome": "Panels are pinned together accurately so permanent fasteners can be installed",
+            "required_tool_attributes": [
+                "expandable pin that applies radial pressure in the hole",
+                "precise diameter to fit drilled holes snugly",
+                "spring mechanism to maintain constant clamping force",
+                "rigid nosepiece for localized contact on panel surfaces"
+            ]
+        },
+        {
+            "task_goal": "Clamp a bleeding vessel during a first-aid procedure to control hemorrhage",
+            "original_tool": "hemostat clamp",
+            "expected_outcome": "The vessel is pinned closed, reducing or stopping blood flow until definitive care",
+            "required_tool_attributes": [
+                "narrow serrated jaws to increase friction on tissue",
+                "ratcheting lock to maintain constant pressure",
+                "rigid stainless steel structure to transmit localized force",
+                "fine tip for precise placement"
+            ]
+        },
+        {
+            "task_goal": "Mount a smartphone securely on a tripod for steady video recording",
+            "original_tool": "smartphone tripod clamp",
+            "expected_outcome": "The phone is immobilized in the clamp without slipping or wobbling",
+            "required_tool_attributes": [
+                "small padded jaws to localize pressure and protect the device",
+                "spring or screw mechanism to apply and maintain clamping force",
+                "rigid frame to prevent flexing",
+                "textured pads to increase friction"
+            ]
+        },
+        {
+            "task_goal": "Hold a small PCB blank on a CNC router spoilboard for milling",
+            "original_tool": "cam clamp",
+            "expected_outcome": "The PCB remains firmly pinned in place throughout the milling operation",
+            "required_tool_attributes": [
+                "eccentric cam with a small contact point to concentrate force",
+                "rigid base anchored to the table for stability",
+                "lever action to generate high normal force quickly",
+                "textured or rubberized foot to increase friction"
+            ]
+        }
+    ]
+}

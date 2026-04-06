@@ -1,0 +1,552 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Brew a clean pour-over coffee by separating grounds from the brew",
+            "original_tool": "paper coffee filter",
+            "expected_outcome": "Clear, sediment-free coffee drips into the mug while grounds remain in the filter",
+            "required_tool_attributes": [
+                "microporous cellulose fibers with pores smaller than coffee grounds",
+                "conical shape to seat in dripper and promote directed flow",
+                "wet strength to resist tearing in hot water",
+                "edge sealing against dripper walls to prevent bypass"
+            ],
+            "unconventional_tools": [
+                "High-strength paper towel folded into a cone",
+                "Empty disposable paper tea filter bag lined in the dripper",
+                "Stacked paper cupcake liners pressed into a cone"
+            ],
+            "opposite_tool_attributes": [
+                "macroporous or perforated material with pores larger than coffee grounds, allowing solids to pass",
+                "flat or non-conforming shape that cannot form a cone or seat in a dripper, causing undirected flow",
+                "low wet strength or soluble material that tears/disintegrates in hot water and cannot maintain an edge seal (bypass)"
+            ],
+            "impossible_tools": [
+                "plastic wrap (cling film)",
+                "metal colander",
+                "kitchen sponge",
+                "flat ceramic plate"
+            ]
+        },
+        {
+            "task_goal": "Clarify used frying oil by removing burnt crumbs and batter bits",
+            "original_tool": "fine-mesh metal sieve lined with paper towel",
+            "expected_outcome": "Clean oil flows into the container while food particles are trapped in the liner",
+            "required_tool_attributes": [
+                "heat-resistant metal mesh to support the liner",
+                "absorbent, porous paper with smaller pores than crumbs",
+                "rigid rim and handle to hold steady over a pot",
+                "sufficient open area to maintain oil flow rate"
+            ],
+            "unconventional_tools": [
+                "stainless-steel splatter screen lined with a coffee filter or paper towel",
+                "folding metal steamer basket lined with paper towel or brown paper, set over the pot",
+                "stainless-steel canning funnel lined with a paper coffee filter"
+            ],
+            "opposite_tool_attributes": [
+                "heat-sensitive plastic or nylon mesh that softens or melts in hot oil",
+                "non-porous, non-absorbent liner that blocks oil flow (e.g., plastic film)",
+                "flimsy, rimless form with no handle that collapses under the oil's weight"
+            ],
+            "impossible_tools": [
+                "plastic wrap (cling film)",
+                "plastic colander or nylon-mesh strainer",
+                "solid metal ladle",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Make Greek yogurt by straining whey from plain yogurt",
+            "original_tool": "cheesecloth",
+            "expected_outcome": "Thickened yogurt remains in the cloth while whey drains into the bowl",
+            "required_tool_attributes": [
+                "woven cotton with micron-scale pores to retain milk solids",
+                "food-safe and non-reactive material",
+                "high tensile strength when wet",
+                "flexible fabric to form a hanging pouch for drainage"
+            ],
+            "unconventional_tools": [
+                "Clean, pre-washed cotton pillowcase",
+                "Pre-washed 100% cotton T-shirt (used as a straining cloth)",
+                "Stacked paper coffee filters placed in a colander"
+            ],
+            "opposite_tool_attributes": [
+                "non-porous/impermeable material that prevents whey from draining",
+                "very coarse pore size (millimeter-scale holes) that allows milk solids to pass through",
+                "low tensile strength when wet, making it unable to support a hanging pouch of yogurt"
+            ],
+            "impossible_tools": [
+                "plastic wrap (cling film)",
+                "standard pasta colander with large holes",
+                "kitchen sponge",
+                "rope",
+                "aluminum foil"
+            ]
+        },
+        {
+            "task_goal": "Sift flour to remove lumps and aerate before baking",
+            "original_tool": "flour sifter (fine-mesh)",
+            "expected_outcome": "Uniform, lump-free flour falls into the mixing bowl; larger clumps are retained",
+            "required_tool_attributes": [
+                "fine stainless-steel mesh with uniform aperture",
+                "rigid frame to keep mesh taut",
+                "agitation mechanism to drive particles through",
+                "food-safe construction"
+            ],
+            "unconventional_tools": [
+                "stainless-steel splatter screen (for frying)",
+                "reusable stainless-steel pour-over coffee filter cone",
+                "large stainless-steel tea infuser basket"
+            ],
+            "opposite_tool_attributes": [
+                "solid surface or very coarse/irregular openings instead of a fine, uniform mesh",
+                "flexible, collapsible frame that lets the mesh sag instead of keeping it taut",
+                "no agitation mechanism or a sealed design that traps flour rather than promoting flow"
+            ],
+            "impossible_tools": [
+                "solid ceramic plate",
+                "kitchen sponge",
+                "rope",
+                "sealed plastic bag"
+            ]
+        },
+        {
+            "task_goal": "Brew loose-leaf tea without leaves escaping into the cup",
+            "original_tool": "tea infuser basket (fine-mesh)",
+            "expected_outcome": "Tea liquor flows into the cup while leaves are confined in the basket",
+            "required_tool_attributes": [
+                "fine perforated or mesh walls small enough to retain tea fragments",
+                "heat-resistant stainless steel",
+                "secure lid or closure to prevent leaf escape",
+                "rigid basket to maintain shape in hot water"
+            ],
+            "unconventional_tools": [
+                "reusable stainless steel K-Cup coffee filter pod (snap-lid mesh)",
+                "stainless steel powdered sugar dredger/shaker with fine-mesh cap (screw-top)",
+                "stainless steel herb/spice infuser tube (screw-top perforated canister)"
+            ],
+            "opposite_tool_attributes": [
+                "coarse or large perforations/mesh that let tea fragments pass",
+                "heat-sensitive or reactive material (melts, warps, or leaches in hot water)",
+                "no lid or loose closure with gaps that allow leaves to escape"
+            ],
+            "impossible_tools": [
+                "pasta colander",
+                "slotted spoon",
+                "kitchen sponge",
+                "plastic zip-top bag",
+                "mesh laundry bag"
+            ]
+        },
+        {
+            "task_goal": "Remove dried skin and debris from latex paint before spraying",
+            "original_tool": "paint strainer cone (nylon mesh)",
+            "expected_outcome": "Smooth, debris-free paint collects in the sprayer cup, reducing nozzle clogs",
+            "required_tool_attributes": [
+                "solvent-resistant nylon mesh",
+                "fine pores sized to catch paint skins and nibs",
+                "cone shape to fit paint cans and funnels",
+                "strong seams to withstand flow"
+            ],
+            "unconventional_tools": [
+                "Reusable nylon pour-over coffee filter cone",
+                "Nylon pantyhose or knee-high stocking stretched over a funnel or can rim",
+                "Nylon nut-milk strainer bag"
+            ],
+            "opposite_tool_attributes": [
+                "non-solvent-resistant, absorbent material (paper/cotton) that swells, tears, or dissolves in wet paint",
+                "very coarse or open structure with large holes or no mesh, allowing skins and nibs to pass",
+                "flat or rigid sheet with no cone form and weak seams that burst under flow"
+            ],
+            "impossible_tools": [
+                "solid plastic funnel with no mesh",
+                "kitchen sponge or foam block",
+                "sheet of printer paper",
+                "metal spoon"
+            ]
+        },
+        {
+            "task_goal": "Filter rust flakes from gasoline while refueling a generator",
+            "original_tool": "funnel with built-in fine mesh screen",
+            "expected_outcome": "Clean fuel reaches the tank while particulates are trapped by the screen",
+            "required_tool_attributes": [
+                "gasoline-resistant plastic or metal construction",
+                "fine stainless-steel mesh at the outlet",
+                "rigid funnel geometry for controlled flow",
+                "secure fit to receiving tank to prevent spills and bypass"
+            ],
+            "unconventional_tools": [
+                "Reusable stainless-steel pour-over coffee dripper (mesh cone) used as a straining funnel",
+                "Cut HDPE motor-oil jug used as a makeshift funnel with a stainless kitchen splatter screen clipped over the spout",
+                "Stainless-steel tea infuser basket seated in the filler neck and paired with a rigid metal funnel"
+            ],
+            "opposite_tool_attributes": [
+                "absorbent or gasoline-soluble materials (paper, cardboard, non-fuel-safe rubber) that degrade in fuel",
+                "no mesh or very coarse openings that allow rust flakes to pass",
+                "flexible/collapsible body that cannot hold shape or seal to the tank, causing bypass and spills"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "paper coffee filter",
+                "cardboard funnel",
+                "kitchen colander"
+            ]
+        },
+        {
+            "task_goal": "Keep an HVAC system clean by trapping dust in return air",
+            "original_tool": "pleated HVAC air filter (MERV-rated)",
+            "expected_outcome": "Dust and lint accumulate in the filter while clean air circulates through the ducts",
+            "required_tool_attributes": [
+                "fibrous porous media with rated pore size",
+                "pleated design for high surface area",
+                "stiff frame and gasket to eliminate bypass",
+                "structural integrity under airflow and pressure"
+            ],
+            "unconventional_tools": [
+                "HEPA vacuum cleaner bag (cut-to-fit filter media)",
+                "Automotive cabin air filter (pleated cartridge)",
+                "Pleated paper coffee filters (stacked in a frame)"
+            ],
+            "opposite_tool_attributes": [
+                "non-fibrous, non-porous sheet or very coarse, unrated mesh with no controlled pore size",
+                "flat, unpleated media with minimal surface area",
+                "flimsy, frameless material without a sealing gasket that collapses or deforms under airflow"
+            ],
+            "impossible_tools": [
+                "solid plastic sheet",
+                "window screen",
+                "kitchen sponge",
+                "loose fiberglass insulation batt"
+            ]
+        },
+        {
+            "task_goal": "Improve office air quality by capturing fine particulates and pollen",
+            "original_tool": "HEPA air purifier filter cartridge",
+            "expected_outcome": "Air exiting the purifier has significantly fewer fine particles and allergens",
+            "required_tool_attributes": [
+                "submicron fibrous media (HEPA-rated)",
+                "pleated area to reduce pressure drop",
+                "sealed edges within the cartridge to prevent bypass",
+                "compatibility with a fan to draw air through"
+            ],
+            "unconventional_tools": [
+                "MERV 13\u201316 HVAC furnace filter taped to a box fan (Corsi-Rosenthal style)",
+                "HEPA-rated vacuum cleaner bag used as an intake filter on a fan",
+                "Automotive cabin air filter (HEPA type) mounted over a fan or blower intake"
+            ],
+            "opposite_tool_attributes": [
+                "coarse, non-fibrous mesh with large pores (not HEPA/submicron rated)",
+                "flat, unpleated media with minimal surface area causing high pressure drop",
+                "unsealed or leaky cartridge edges that allow air to bypass the media"
+            ],
+            "impossible_tools": [
+                "window/mosquito screen mesh",
+                "solid plastic cling film used as a 'filter'",
+                "chain-link fence panel",
+                "loose cotton T-shirt stretched over a frame"
+            ]
+        },
+        {
+            "task_goal": "Make stream water potable on a backpacking trip",
+            "original_tool": "pump water filter with hollow-fiber cartridge",
+            "expected_outcome": "Clear water free of sediment, protozoa, and bacteria fills the bottle",
+            "required_tool_attributes": [
+                "hollow-fiber membrane with 0.2\u20130.3 \u00b5m pores",
+                "hand pump to create pressure differential",
+                "backflushable design to restore flow",
+                "impact-resistant housing and seals"
+            ],
+            "unconventional_tools": [
+                "Large irrigation syringe (60\u2013100 mL) paired with a 0.22 \u00b5m disposable syringe filter",
+                "Aeropress coffee maker using a 0.2 \u00b5m lab membrane disc instead of the paper filter",
+                "Hand-pump garden sprayer bottle plumbed through a 0.2 \u00b5m sterilizing-grade inline capsule filter"
+            ],
+            "opposite_tool_attributes": [
+                "coarse filtration (pore size >0.3 \u00b5m) or no hollow-fiber membrane",
+                "no hand pump; relies only on gravity or passive soaking with no user-operated pressure",
+                "non-backflushable, sealed cartridge that cannot be cleaned to restore flow"
+            ],
+            "impossible_tools": [
+                "cotton T-shirt or bandana",
+                "coffee filter paper",
+                "kitchen mesh strainer/colander",
+                "Brita-style activated carbon pitcher",
+                "household sponge"
+            ]
+        },
+        {
+            "task_goal": "Keep leaves and debris out of a rain barrel during collection",
+            "original_tool": "rain barrel debris screen",
+            "expected_outcome": "Rainwater passes into the barrel while leaves and insects are blocked on top",
+            "required_tool_attributes": [
+                "coarse mesh sized to retain leaves and twigs",
+                "UV- and weather-resistant material",
+                "rigid ring or frame to sit on the barrel opening",
+                "easy-to-clean surface"
+            ],
+            "unconventional_tools": [
+                "frying pan splatter screen",
+                "aluminum pizza screen (perforated pizza pan)",
+                "spare window screen frame"
+            ],
+            "opposite_tool_attributes": [
+                "very large openings or no mesh, allowing leaves and twigs to pass through",
+                "UV-unstable, water-absorbent material that degrades outdoors",
+                "no rigid ring/frame; floppy edges that collapse into the barrel opening"
+            ],
+            "impossible_tools": [
+                "plastic cling wrap (non-permeable sheet that blocks rainwater, tears in sun)",
+                "paper towel (soaks, tears, no rigidity, degrades in weather)",
+                "kitchen sponge (absorbs water and blocks flow; hard to clean; degrades outside)",
+                "inflatable beach ball (wrong shape; cannot act as a mesh or sit as a frame)",
+                "single length of rope (no mesh or frame; cannot prevent debris entry)"
+            ]
+        },
+        {
+            "task_goal": "Clear cloudy aquarium water by removing suspended solids",
+            "original_tool": "aquarium canister filter with mechanical filter pad",
+            "expected_outcome": "Aquarium water becomes visibly clearer as particles are trapped in the pad",
+            "required_tool_attributes": [
+                "porous foam or floss with graded porosity",
+                "sealed canister forcing all water through media",
+                "aquarium-safe materials",
+                "pump-driven flow through the filter"
+            ],
+            "unconventional_tools": [
+                "Clean nylon pantyhose stuffed with polyester pillow stuffing (polyfill) secured over the intake of a small tabletop fountain pump",
+                "2-liter PET soda bottle packed with polyester pillow stuffing used as a DIY sealed canister, driven by a small submersible fountain pump",
+                "Drip coffee cone with paper filter fed by a small fountain pump to push aquarium water through the paper media"
+            ],
+            "opposite_tool_attributes": [
+                "non-porous barrier or single coarse mesh with no graded porosity",
+                "unsealed/open design that allows water to bypass the media",
+                "no pump-driven flow (passive/gravity-only movement)"
+            ],
+            "impossible_tools": [
+                "open mesh fish net",
+                "air stone/bubbler",
+                "UV sterilizer (standalone, no mechanical media)",
+                "steel wool scrubber pad"
+            ]
+        },
+        {
+            "task_goal": "Restore swimming pool clarity by trapping fine debris",
+            "original_tool": "pool sand filter",
+            "expected_outcome": "Pool water runs clear as fine particulates are captured in the sand bed",
+            "required_tool_attributes": [
+                "graded silica bed forming tortuous pore paths",
+                "pressure-rated tank to contain flow",
+                "underdrain laterals for even collection",
+                "multiport valve for backwashing"
+            ],
+            "unconventional_tools": [
+                "under-sink water filter housing with a refillable cartridge packed with fine pool sand",
+                "large aquarium canister filter loaded with pool filter sand instead of ceramic media",
+                "polyester pillow stuffing placed in a fine-mesh laundry bag and used as a skimmer/return sock"
+            ],
+            "opposite_tool_attributes": [
+                "Open, straight-through flow path or coarse ungraded media that does not form tortuous pore paths (fine debris bypasses)",
+                "Non-pressure-rated, flexible or porous container that leaks or ruptures under pump pressure instead of a sealed tank",
+                "Single-point outlet with no underdrain manifold and no multiport/backwash capability, causing channeling and preventing media cleaning"
+            ],
+            "impossible_tools": [
+                "Kitchen colander/strainer",
+                "Mesh laundry bag",
+                "Open bucket filled with pebbles",
+                "Bath sponge",
+                "Rope"
+            ]
+        },
+        {
+            "task_goal": "Collect a precipitate from a reaction mixture in a chemistry lab",
+            "original_tool": "Buchner funnel with filter paper and vacuum flask",
+            "expected_outcome": "Solid precipitate remains on the paper while filtrate is pulled into the flask",
+            "required_tool_attributes": [
+                "filter paper with specified retention rating",
+                "perforated support plate to distribute suction",
+                "vacuum-tight seal between funnel and flask",
+                "chemical-resistant glass/ceramic components"
+            ],
+            "unconventional_tools": [
+                "Ceramic pour-over coffee dripper with paper coffee filter",
+                "Aeropress coffee maker (paper disk filter and plunger seal)",
+                "Stovetop moka pot filter basket and gasket assembly used with paper filter"
+            ],
+            "opposite_tool_attributes": [
+                "absence of rated filter medium (e.g., coarse fabric or torn paper that passes particulates)",
+                "solid, non-perforated support surface that blocks suction distribution",
+                "leaky, non-vacuum-tight connection between funnel and flask"
+            ],
+            "impossible_tools": [
+                "kitchen colander/metal sieve",
+                "sponge",
+                "rubber balloon used as a vacuum flask",
+                "cheesecloth bag",
+                "wooden sieve/basket"
+            ]
+        },
+        {
+            "task_goal": "Separate soil into size fractions for particle-size analysis",
+            "original_tool": "stacked sieves with mechanical shaker",
+            "expected_outcome": "Soil fractions are sorted by mesh size into separate sieves and a pan",
+            "required_tool_attributes": [
+                "wire meshes with standardized aperture sizes",
+                "rigid frames to maintain mesh geometry",
+                "mechanical agitation to promote passage",
+                "lid and catch pan to contain sample"
+            ],
+            "unconventional_tools": [
+                "Nested kitchen sieves/colanders and splatter screens over a baking sheet catch pan with a pot lid on top, vibrated by holding a handheld orbital sander against the stack",
+                "Embroidery hoops stretched with different meshes (window screen, hardware cloth, chiffon) stacked over a roasting pan with a baking tray as catch pan and lid, agitated using a massage gun against the frame",
+                "A salad spinner holding stacked mesh strainers inside its basket; the spinner provides mechanical agitation while the outer bowl serves as the catch pan and a plate works as a lid"
+            ],
+            "opposite_tool_attributes": [
+                "solid, non-perforated surfaces with no standardized openings",
+                "flexible or deformable frames that collapse or change geometry under load",
+                "no mechanical agitation and no containment (open design without lid or catch pan)"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "plastic wrap sheet",
+                "rope",
+                "solid mixing bowl"
+            ]
+        },
+        {
+            "task_goal": "Remove wax cappings and bee parts from raw honey",
+            "original_tool": "double stainless-steel honey strainer",
+            "expected_outcome": "Clean honey flows into the bucket while coarse and fine debris are retained",
+            "required_tool_attributes": [
+                "nested coarse and fine stainless meshes",
+                "food-grade metal resistant to warm viscous honey",
+                "hooked rim to sit securely on a bucket",
+                "large open area to maintain flow"
+            ],
+            "unconventional_tools": [
+                "Stainless-steel colander nested over a fine-mesh splatter screen laid across the bucket rim",
+                "Perforated stainless-steel steamer insert resting on the bucket with a stainless-steel chinois (conical strainer) underneath for finer filtering",
+                "Stainless-steel deep-fryer basket hooked on the bucket edge with a fine-mesh drum sieve (baker's tamis) positioned below"
+            ],
+            "opposite_tool_attributes": [
+                "solid or non-perforated surface with no nested meshes",
+                "non-food-safe, heat-sensitive material that warps or leaches into warm honey",
+                "smooth rim without hooks/support and a small restrictive filtering area that impedes flow"
+            ],
+            "impossible_tools": [
+                "kitchen sponge",
+                "rubber balloon",
+                "solid glass plate",
+                "rope"
+            ]
+        },
+        {
+            "task_goal": "Reuse leftover UV resin by removing cured flakes before pouring back into the bottle",
+            "original_tool": "resin filter cone and funnel",
+            "expected_outcome": "Filtered resin passes cleanly into the bottle without solid contaminants",
+            "required_tool_attributes": [
+                "UV- and solvent-resistant nylon mesh (190\u2013220 \u00b5m)",
+                "conical form that nests in a funnel/bottle neck",
+                "support ring to maintain the opening",
+                "fine pores to capture cured resin bits"
+            ],
+            "unconventional_tools": [
+                "Nylon pantyhose stretched over a funnel and secured with a rubber band",
+                "Reusable nylon pour-over coffee filter cone",
+                "Fine-mesh nylon nut milk bag clipped over a funnel"
+            ],
+            "opposite_tool_attributes": [
+                "UV- and solvent-sensitive, absorbent materials (paper/cotton/latex) instead of resistant nylon mesh",
+                "flat or collapsible form with no support ring that cannot nest/seal in a funnel or bottle neck",
+                "pore size far from 190\u2013220 \u00b5m: either millimeter-scale (too coarse) or no pores at all (solid film)"
+            ],
+            "impossible_tools": [
+                "plastic wrap sheet (non-porous film)",
+                "kitchen sponge (absorbent foam)",
+                "paper towel (cellulose, tears and absorbs resin)",
+                "plain metal funnel without any mesh",
+                "pasta colander/strainer with large holes"
+            ]
+        },
+        {
+            "task_goal": "Prepare compost tea for a sprayer by removing solid particles",
+            "original_tool": "reusable nylon filter bag",
+            "expected_outcome": "Particle-free liquid fills the sprayer tank, reducing nozzle clogging",
+            "required_tool_attributes": [
+                "fine porous nylon fabric",
+                "drawstring or closure to prevent solids escape",
+                "tear-resistant material when wet",
+                "high permeability to maintain flow"
+            ],
+            "unconventional_tools": [
+                "nylon pantyhose or knee-high stockings (tied off as a makeshift filter)",
+                "mesh laundry delicates bag with drawstring",
+                "organza drawstring gift/favor bag (sheer fabric)"
+            ],
+            "opposite_tool_attributes": [
+                "non-porous or very low-permeability material that blocks liquid flow",
+                "coarse, large-hole mesh that allows solids to pass through",
+                "tears or disintegrates when wet (low wet strength)"
+            ],
+            "impossible_tools": [
+                "solid plastic wrap (cling film)",
+                "chain-link fence panel",
+                "rope",
+                "metal pot lid"
+            ]
+        },
+        {
+            "task_goal": "Keep hop matter out of wort before fermentation",
+            "original_tool": "hop spider (nylon mesh bag with frame)",
+            "expected_outcome": "Wort drains clear of hop particles while hops remain captured in the mesh",
+            "required_tool_attributes": [
+                "heat-resistant mesh (300\u2013400 \u00b5m) to retain hop material",
+                "rigid frame to suspend bag in kettle or fermenter",
+                "seams and closure that prevent bypass",
+                "sufficient open area for rapid wort flow"
+            ],
+            "unconventional_tools": [
+                "stainless steel splatter screen (pan grease guard) rolled into a cylinder and clipped to the kettle rim",
+                "large stainless steel tea infuser basket with locking lid",
+                "stainless steel cold-brew coffee mesh infuser (mason jar insert)"
+            ],
+            "opposite_tool_attributes": [
+                "non-heat-resistant material that softens, warps, or melts in hot wort",
+                "no rigid support frame; collapsible form that won\u2019t stay open or suspended",
+                "very coarse mesh or unsealed/torn seams and loose closure that allow hop particles to bypass"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "plastic wrap/cling film",
+                "rubber balloon"
+            ]
+        },
+        {
+            "task_goal": "Remove large gravel from paydirt before fine gold panning",
+            "original_tool": "classifier sieve (1/4-inch mesh)",
+            "expected_outcome": "Oversize rocks are retained while finer material suitable for panning passes into the bucket",
+            "required_tool_attributes": [
+                "rigid mesh of known aperture size",
+                "sturdy plastic frame that nests on a bucket",
+                "high open area for fast throughput",
+                "abrasion resistance for rough aggregates"
+            ],
+            "unconventional_tools": [
+                "baking cooling rack (1/4-inch grid)",
+                "deep-fryer basket",
+                "frying pan splatter screen"
+            ],
+            "opposite_tool_attributes": [
+                "flexible or elastic membrane with variable, undefined openings that deform under load",
+                "weak, non-nesting frame that collapses under gravel weight and cannot sit on a bucket",
+                "low open area or nearly solid surface that restricts flow and clogs; poor abrasion resistance that tears on rough aggregate"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "plastic grocery bag",
+                "rope",
+                "balloon",
+                "paper coffee filter"
+            ]
+        }
+    ]
+}

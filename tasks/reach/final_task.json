@@ -1,0 +1,560 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Retrieve a set of keys that fell through a storm drain grate",
+            "original_tool": "telescoping magnetic pickup tool",
+            "expected_outcome": "The keys are lifted from the drain space and brought back to hand without removing the grate.",
+            "required_tool_attributes": [
+                "elongated rigid shaft to extend reach",
+                "telescoping segments with secure locks",
+                "magnetic tip to couple force to the metal keys at a distance",
+                "low deflection to transmit lifting force along the length",
+                "ergonomic handle for precise positioning"
+            ],
+            "unconventional_tools": [
+                "telescoping selfie stick with a strong magnet secured to the phone mount",
+                "extendable curtain rod with a neodymium magnet taped to the tip",
+                "painter's extension pole with a magnet attached to the threaded end"
+            ],
+            "opposite_tool_attributes": [
+                "short, floppy, highly flexible body that buckles under its own weight (no rigid shaft, high deflection)",
+                "non-magnetic, soft or rubberized tip that cannot attract or hold metal keys",
+                "telescoping sections that slip or collapse under load due to insecure locks"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable balloon",
+                "paper sheet"
+            ]
+        },
+        {
+            "task_goal": "Replace a burnt-out bulb in a high gymnasium ceiling",
+            "original_tool": "light bulb changer pole",
+            "expected_outcome": "The burnt bulb is unscrewed and a new bulb installed without using a lift or ladder.",
+            "required_tool_attributes": [
+                "long, rigid extension pole",
+                "suction cup or spring-grip head to grip the bulb",
+                "angle-adjustable head for alignment",
+                "non-conductive shaft for electrical safety",
+                "locking telescopic mechanism to maintain length under load"
+            ],
+            "unconventional_tools": [
+                "Telescoping paint roller pole with an angle adapter and a suction dent puller cup zip-tied to the end",
+                "Fiberglass pruning pole fitted with a windshield phone suction mount as the bulb gripper",
+                "Fiberglass pool skimmer pole with a small rubber sink plunger lashed to the tip at a slight angle"
+            ],
+            "opposite_tool_attributes": [
+                "short, flexible cord-like body that bends under load instead of a long, rigid extension pole",
+                "flat, slick head with no suction or gripping mechanism to hold the bulb",
+                "bare, conductive metal shaft that can transmit electricity"
+            ],
+            "impossible_tools": [
+                "rope",
+                "metal chain",
+                "helium balloon",
+                "sponge",
+                "rubber band"
+            ]
+        },
+        {
+            "task_goal": "Dust the blades of a high ceiling fan",
+            "original_tool": "extendable duster",
+            "expected_outcome": "Dust and debris are removed from all fan blades without climbing.",
+            "required_tool_attributes": [
+                "elongated rigid structure to transmit sweeping force",
+                "lightweight pole to reduce bending torque",
+                "soft dusting head to capture particles at a distance",
+                "secure head connection to prevent wobble",
+                "telescoping length with positive locks"
+            ],
+            "unconventional_tools": [
+                "Paint roller on a telescoping paint extension pole wrapped in a microfiber cloth",
+                "Pool skimmer pole with a microfiber sock stretched over the skimmer head",
+                "Telescoping snow brush/ice scraper with a microfiber sleeve over the brush"
+            ],
+            "opposite_tool_attributes": [
+                "floppy, non-rigid shaft that collapses or whips under load instead of transmitting sweeping force",
+                "heavy, high-mass pole that increases bending torque and user fatigue at reach",
+                "fixed short length or telescoping sections without positive locks that slip or collapse"
+            ],
+            "impossible_tools": [
+                "rope",
+                "loose metal chain",
+                "helium balloon",
+                "tissue paper sheet"
+            ]
+        },
+        {
+            "task_goal": "Paint the upper walls and ceiling of a stairwell",
+            "original_tool": "paint roller with extension pole",
+            "expected_outcome": "Even coats of paint are applied to elevated surfaces from the floor.",
+            "required_tool_attributes": [
+                "stiff, elongated pole for reach and pressure transmission",
+                "threaded roller connection for torque transfer",
+                "non-slip grip for controlled rolling force",
+                "telescopic length adjustment to fit varying heights"
+            ],
+            "unconventional_tools": [
+                "broom or mop handle with threaded tip",
+                "telescoping pool skimmer pole",
+                "camera monopod"
+            ],
+            "opposite_tool_attributes": [
+                "limp, flexible or stretchy shaft that cannot transmit push or torque",
+                "non-threaded, free-spinning connector that decouples torque from the roller",
+                "fixed short length with no adjustability for reach"
+            ],
+            "impossible_tools": [
+                "rope",
+                "chain",
+                "garden hose",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Cut small branches 12 feet above ground in a backyard",
+            "original_tool": "pole pruner",
+            "expected_outcome": "Selected branches are cleanly cut and fall safely to the ground without climbing the tree.",
+            "required_tool_attributes": [
+                "long, rigid pole to deliver cutting force remotely",
+                "rope-actuated or geared cutting head for force transmission",
+                "high stiffness to minimize flex during cutting",
+                "locking telescopic sections to hold reach under load"
+            ],
+            "unconventional_tools": [
+                "Telescoping painter\u2019s extension pole fitted with a rope-pull lopper head",
+                "Telescoping pool skimmer pole with a clamped-on bypass lopper head and pull cord",
+                "Telescoping fruit picker pole with integrated rope-operated cutter"
+            ],
+            "opposite_tool_attributes": [
+                "short, highly flexible or collapsible shaft that cannot transmit compressive force",
+                "no remote actuation (no rope/gearing) and a blunt/non-cutting head requiring hand contact",
+                "non-locking telescopic joints that slip/retract under load, with low stiffness causing excessive flex"
+            ],
+            "impossible_tools": [
+                "rope",
+                "garden hose",
+                "balloon",
+                "pillow",
+                "retractable measuring tape"
+            ]
+        },
+        {
+            "task_goal": "Clear leaves from second-story house gutters",
+            "original_tool": "gutter cleaning scoop on extension pole",
+            "expected_outcome": "Gutters are cleared of debris while standing on the ground.",
+            "required_tool_attributes": [
+                "elongated rigid pole to access gutter line",
+                "angled scoop head to pull debris toward the operator",
+                "sufficient stiffness to drag loaded debris",
+                "corrosion-resistant materials for wet, dirty environments",
+                "length locks that resist twisting torque"
+            ],
+            "unconventional_tools": [
+                "telescoping pool skimmer net (aluminum pole with twist locks) used to pull and lift gutter debris",
+                "roof snow rake with telescoping handle (use the wide angled blade to drag leaves toward you)",
+                "paint roller extension pole with a plastic dustpan zip-tied at an angle to act as a scoop"
+            ],
+            "opposite_tool_attributes": [
+                "Flexible, rope-like shaft that bends or collapses under load instead of a rigid pole",
+                "Straight, non-angled, soft or rounded head that cannot scoop or pull debris toward the user",
+                "Telescoping sections or locks that slip, spin, or collapse under twisting torque"
+            ],
+            "impossible_tools": [
+                "Rope (e.g., climbing rope or clothesline)",
+                "Bungee cord",
+                "Loose-link chain",
+                "Handheld cooking ladle",
+                "Paper towel or soft rag"
+            ]
+        },
+        {
+            "task_goal": "Skim leaves and insects from the middle of a swimming pool",
+            "original_tool": "pool skimmer net with telescopic pole",
+            "expected_outcome": "Floating debris is collected and removed without entering the pool.",
+            "required_tool_attributes": [
+                "long, lightweight rigid pole",
+                "net frame head to capture debris at a distance",
+                "low flex to transmit lifting force through water resistance",
+                "secure telescoping locks for extended length"
+            ],
+            "unconventional_tools": [
+                "telescoping painter\u2019s extension pole with a bent wire coat hanger hoop and mesh laundry bag zip-tied as a net head",
+                "fruit picker basket on a telescoping orchard pole",
+                "long-handled butterfly or fishing landing net"
+            ],
+            "opposite_tool_attributes": [
+                "short, heavy, highly flexible pole that bends or collapses under water resistance",
+                "head without a capturing net (solid face or open ring) so debris cannot be retained",
+                "loose or non-locking telescoping sections that slip or collapse when extended"
+            ],
+            "impossible_tools": [
+                "rope",
+                "bungee cord",
+                "inflatable pool noodle",
+                "paper towel"
+            ]
+        },
+        {
+            "task_goal": "Pick up trash and retrieve items from behind a low fence without entering",
+            "original_tool": "litter picker grabber",
+            "expected_outcome": "Litter and small objects are gripped and lifted to the operator\u2019s hand.",
+            "required_tool_attributes": [
+                "elongated rigid shaft to extend reach",
+                "trigger mechanism to transmit grip force to distal jaws",
+                "non-slip rubberized jaws for secure grasp at a distance",
+                "lightweight construction for one-handed control"
+            ],
+            "unconventional_tools": [
+                "long-handled barbecue tongs (silicone-tipped)",
+                "telescoping golf ball retriever",
+                "children\u2019s toy robotic grabber claw"
+            ],
+            "opposite_tool_attributes": [
+                "limp, flexible shaft that cannot transmit force or maintain reach",
+                "no remote trigger or linkage to actuate distal jaws (or no jaws at all)",
+                "smooth, hard, non-rubberized contact surfaces that easily slip off items and excessive weight requiring two hands"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "sheet of paper",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Pull boxes forward from a high warehouse shelf",
+            "original_tool": "stock picker box hook",
+            "expected_outcome": "Boxes are safely pulled within easy reach for manual handling.",
+            "required_tool_attributes": [
+                "long, rigid pole to contact distant packages",
+                "curved hook tip to latch onto box edges",
+                "high stiffness to transmit pulling force",
+                "textured handle for controlled leverage"
+            ],
+            "unconventional_tools": [
+                "Telescoping paint roller extension pole with a metal S-hook securely taped/clamped to the tip",
+                "Garden shepherd\u2019s hook (plant hanger pole) used as a reach-and-pull hook",
+                "Broom handle with a heavy-duty carabiner or bent coat hanger zip-tied to form a hook"
+            ],
+            "opposite_tool_attributes": [
+                "short, limp, flexible shaft that cannot reach or transmit pulling force",
+                "smooth, blunt, non-hooked tip that cannot latch onto box edges",
+                "slippery, untextured handle that reduces grip and control under load"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "sheet of paper",
+                "rubber band",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Open and close a roof skylight from the floor",
+            "original_tool": "skylight operating pole with hook/crank adapter",
+            "expected_outcome": "The skylight is operated smoothly without a ladder.",
+            "required_tool_attributes": [
+                "elongated rigid pole to reach the skylight operator",
+                "hook or crank coupling to transmit rotational/linear force",
+                "stiff shaft to avoid torsional twist",
+                "length adjustment to match ceiling height"
+            ],
+            "unconventional_tools": [
+                "Telescoping paint roller extension pole with an S-hook or bent coat hanger secured to the tip",
+                "Telescoping pool skimmer pole with a carabiner or wire hook attached",
+                "Extendable window squeegee pole with a zip-tied L-shaped Allen key or small box wrench as the crank interface"
+            ],
+            "opposite_tool_attributes": [
+                "short, non-extendable form that cannot reach the skylight",
+                "limp or highly flexible shaft that buckles or twists under torque",
+                "smooth, rounded end with no hook/crank interface to transfer force"
+            ],
+            "impossible_tools": [
+                "rope or jump rope",
+                "pillow",
+                "rubber hose",
+                "balloon on a string",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Wash and squeegee exterior second-floor windows from the ground",
+            "original_tool": "window squeegee with extension pole",
+            "expected_outcome": "Windows are scrubbed and streak-free without scaffolding.",
+            "required_tool_attributes": [
+                "long, rigid pole to reach panes",
+                "squeegee/washer combo head to apply and remove water at distance",
+                "angle-adjustable head for correct blade contact",
+                "secure telescoping locks to hold reach under pressure"
+            ],
+            "unconventional_tools": [
+                "Telescoping car snow brush/ice scraper with pivoting squeegee head",
+                "Pool skimmer telescoping pole with a gas-station sponge-and-squeegee head clamped to the tip",
+                "Painter's extension pole with an angle adapter and a shower squeegee/microfiber pad strapped on"
+            ],
+            "opposite_tool_attributes": [
+                "short, flexible pole that bends under load instead of a long, rigid reach",
+                "head lacking squeegee/washer edges (e.g., fluffy or bristled head) instead of a combo cleaning/squeegee head",
+                "fixed or freely spinning head with no angle control instead of an angle-adjustable head"
+            ],
+            "impossible_tools": [
+                "rope",
+                "feather duster",
+                "garden hose (no squeegee/brush head)",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Press the test button on a ceiling-mounted smoke detector in an office",
+            "original_tool": "alarm test pole",
+            "expected_outcome": "The alarm is triggered and verified without accessing a ladder.",
+            "required_tool_attributes": [
+                "elongated non-conductive rigid pole",
+                "soft, precise tip to depress small buttons",
+                "sufficient stiffness for accurate force application",
+                "telescoping sections that lock firmly"
+            ],
+            "unconventional_tools": [
+                "telescoping microfiber duster with plastic handle",
+                "extendable window squeegee with rubber blade",
+                "trekking pole with rubber tip"
+            ],
+            "opposite_tool_attributes": [
+                "flexible, collapsible body that bends under light pressure",
+                "electrically conductive shaft or tip",
+                "hard, blunt, or sharp tip that lacks precision/softness for small buttons"
+            ],
+            "impossible_tools": [
+                "rope",
+                "slinky spring",
+                "helium balloon on a string",
+                "loose sponge"
+            ]
+        },
+        {
+            "task_goal": "Retrieve a golf ball from a water hazard",
+            "original_tool": "telescopic golf ball retriever",
+            "expected_outcome": "The ball is scooped and brought back without entering the water.",
+            "required_tool_attributes": [
+                "long, rigid telescopic shaft",
+                "ring or scoop head sized for a golf ball",
+                "corrosion-resistant materials for wet use",
+                "low deflection to lift the ball steadily"
+            ],
+            "unconventional_tools": [
+                "pool skimmer net with telescopic pole",
+                "telescopic fruit picker basket",
+                "fishing landing net with telescopic handle"
+            ],
+            "opposite_tool_attributes": [
+                "short, floppy, non-extendable shaft with high deflection",
+                "flat or open head lacking a ring/scoop or with an aperture too large/small for a golf ball",
+                "water-absorbent or corrosion-prone materials that degrade when wet"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "cardboard tube",
+                "magnet",
+                "inflatable pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Hang string lights along roof eaves from the ground",
+            "original_tool": "light-hanging pole with clip head",
+            "expected_outcome": "Clips and light strands are placed on eaves without climbing.",
+            "required_tool_attributes": [
+                "elongated rigid pole to extend reach to eaves",
+                "clip or hook head to place and release light strands",
+                "stiff shaft for precise placement",
+                "locking telescopic length for variable heights"
+            ],
+            "unconventional_tools": [
+                "Telescoping paint roller extension pole with a bent wire coat hanger hook zip-tied to the end",
+                "Pool skimmer telescoping pole with a large binder clip or spring clamp zip-tied at the tip",
+                "Extendable window squeegee pole fitted with an S-hook and small cord loop taped to the head"
+            ],
+            "opposite_tool_attributes": [
+                "short, non-extendable, flexible/limp form factor instead of an elongated rigid pole",
+                "smooth, featureless head with no clip or hook to grasp or release light strands",
+                "non-locking telescoping sections that collapse or twist under light load, preventing precise placement"
+            ],
+            "impossible_tools": [
+                "rope",
+                "rubber garden hose",
+                "pillow",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Hang a promotional banner on high gym rafters",
+            "original_tool": "banner hanging pole with J-hook",
+            "expected_outcome": "Banner grommets are engaged on ceiling hooks without a lift.",
+            "required_tool_attributes": [
+                "long, rigid pole for overhead reach",
+                "J-hook tip to manipulate grommets at distance",
+                "high stiffness to control lateral movement",
+                "grippy handle for steady leverage"
+            ],
+            "unconventional_tools": [
+                "telescoping paint roller pole with a bent coat hanger taped into a J-hook at the tip",
+                "pool skimmer pole with a bicycle storage hook zip-tied on as a J-hook",
+                "push broom or mop handle with a large cup hook screwed into the end to act as a J-hook"
+            ],
+            "opposite_tool_attributes": [
+                "short, floppy or collapsible shaft with little to no rigidity",
+                "rounded or smooth tip without any hook to catch grommets",
+                "slippery handle that provides poor grip and control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "cooked spaghetti noodle",
+                "inflatable beach ball",
+                "garden hose",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Pull down an attic ladder using its ceiling cord",
+            "original_tool": "reach pole with utility hook",
+            "expected_outcome": "The attic ladder is safely deployed to the floor.",
+            "required_tool_attributes": [
+                "elongated rigid shaft to catch the distant cord loop",
+                "hook tip to transfer pulling force",
+                "sufficient stiffness to overcome latch resistance",
+                "non-slip grip for controlled downward force"
+            ],
+            "unconventional_tools": [
+                "broom or mop handle with a bent wire coat hanger hook taped to the tip",
+                "telescoping paint roller pole with a screwed-in cup hook or taped carabiner",
+                "garden rake held upside-down to snag the cord loop with a tine"
+            ],
+            "opposite_tool_attributes": [
+                "short, non-elongated form factor that cannot reach the distant loop",
+                "limp, flexible structure that buckles under load instead of a rigid shaft",
+                "smooth, hookless tip that cannot catch the cord loop"
+            ],
+            "impossible_tools": [
+                "loose rope",
+                "soft foam sponge",
+                "pillow",
+                "deflated balloon",
+                "cooked spaghetti strand"
+            ]
+        },
+        {
+            "task_goal": "Position a microphone above an actor on set without entering frame",
+            "original_tool": "microphone boom pole",
+            "expected_outcome": "The mic is held close to the sound source while the operator remains off-camera.",
+            "required_tool_attributes": [
+                "long, lightweight rigid pole for extended reach",
+                "threaded mount for shock-mount/microphone",
+                "high stiffness to minimize mic drift",
+                "secure telescopic locks for quiet operation"
+            ],
+            "unconventional_tools": [
+                "telescoping paint roller extension pole",
+                "pool skimmer pole",
+                "telescopic window cleaning/squeegee pole"
+            ],
+            "opposite_tool_attributes": [
+                "short, heavy, flexible shaft that bends or sags under load",
+                "no threaded mount or compatible end to attach a shock mount/microphone",
+                "loose, noisy telescoping sections that slip and rattle (low stiffness, insecure locks)"
+            ],
+            "impossible_tools": [
+                "rope",
+                "bungee cord",
+                "rubber garden hose",
+                "pool noodle (foam tube)",
+                "loose metal chain"
+            ]
+        },
+        {
+            "task_goal": "Remove cobwebs from high warehouse rafters",
+            "original_tool": "cobweb brush on extension pole",
+            "expected_outcome": "Webs and dust are cleared from beams without a lift.",
+            "required_tool_attributes": [
+                "elongated rigid pole to reach rafters",
+                "soft bristle head to snag webs at distance",
+                "stiff shaft for sweeping force transmission",
+                "locking telescopic mechanism to hold length"
+            ],
+            "unconventional_tools": [
+                "pool skimmer net on a telescoping pole",
+                "telescoping paint roller with a shaggy microfiber cover",
+                "telescoping car snow brush (use the bristle side)"
+            ],
+            "opposite_tool_attributes": [
+                "short, non-extendable, flexible shaft that bends or sags under load",
+                "smooth, hard, bristle-less head that cannot snag or hold webs",
+                "unlocked telescopic joint that collapses or rotates when pushed"
+            ],
+            "impossible_tools": [
+                "rope",
+                "wet sponge",
+                "sheet of paper",
+                "cooked spaghetti noodle",
+                "helium balloon"
+            ]
+        },
+        {
+            "task_goal": "Collect a mid-channel water sample from a stream bank",
+            "original_tool": "telescopic sampling pole with bottle clamp",
+            "expected_outcome": "A sealed bottle is filled at the target location and retrieved without wading.",
+            "required_tool_attributes": [
+                "long, rigid pole to extend over water",
+                "secure clamp to hold and release sample bottle",
+                "high stiffness to manage fluid drag",
+                "corrosion-resistant materials for wet environments"
+            ],
+            "unconventional_tools": [
+                "Extendable painter's pole with a spring A-clamp zip-tied to the end to hold a sample bottle",
+                "Telescoping pool skimmer pole fitted with a stainless hose clamp to secure the bottle neck",
+                "Long-reach pole pruner using its rope-operated jaws to grip the bottle cap ring"
+            ],
+            "opposite_tool_attributes": [
+                "short, flexible line instead of a long, rigid pole",
+                "no secure clamp or an unreliable grip that can\u2019t hold/release a bottle",
+                "corrosion-prone or water-absorbent materials that degrade when wet"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber hose",
+                "cardboard tube (paper towel roll)",
+                "cloth towel"
+            ]
+        },
+        {
+            "task_goal": "Pull snow off a low-pitch roof to reduce load",
+            "original_tool": "roof rake with extension pole",
+            "expected_outcome": "Snow is dragged from the roof edge to the ground from a safe distance.",
+            "required_tool_attributes": [
+                "elongated rigid pole to reach roof sections",
+                "wide, angled rake head to transfer pulling force",
+                "stiff, lightweight construction to handle heavy loads",
+                "telescoping locks that resist torsion"
+            ],
+            "unconventional_tools": [
+                "telescoping pool skimmer pole with a wide pool brush head",
+                "painter\u2019s extension pole threaded into a push broom head",
+                "extendable window-washing squeegee/scrubber on a long pole"
+            ],
+            "opposite_tool_attributes": [
+                "short, flexible, collapsible form that cannot reach or transmit pulling force",
+                "narrow, un-angled, smooth head that cannot catch snow to pull it down",
+                "heavy, flimsy build with loose, non-locking telescoping joints that twist or collapse under load"
+            ],
+            "impossible_tools": [
+                "rope",
+                "garden hose",
+                "extension cord",
+                "pool noodle"
+            ]
+        }
+    ]
+}

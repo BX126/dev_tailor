@@ -1,0 +1,547 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Slice a loaf of crusty sourdough for sandwiches",
+            "original_tool": "bread knife",
+            "expected_outcome": "Even slices are produced without crushing the loaf, ready for making sandwiches",
+            "required_tool_attributes": [
+                "long serrated edge to concentrate stress on tough crust",
+                "thin, sharp bevel to minimize drag",
+                "rigid blade to prevent flex during sawing",
+                "ergonomic handle for controlled shearing force"
+            ],
+            "unconventional_tools": [
+                "hacksaw with a fine-tooth blade",
+                "folding pruning saw",
+                "serrated cake server"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, short, dull edge with no serrations that spreads force over the crust",
+                "thick, blunt bevel that increases drag and crushes the crumb",
+                "flexible, floppy blade that bends under load and wanders during sawing"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber spatula",
+                "rope",
+                "inflatable pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Trim protruding zip-tie tails in a server rack",
+            "original_tool": "flush cutters",
+            "expected_outcome": "Zip-tie ends are cut flush to the locking head, leaving no sharp snagging edges",
+            "required_tool_attributes": [
+                "flush-ground, razor-sharp jaws for near-surface cutting",
+                "hardened cutting edges to withstand high local stress",
+                "tight pivot alignment for precise shearing",
+                "leveraged handle geometry for force multiplication"
+            ],
+            "unconventional_tools": [
+                "toenail clippers",
+                "single-edge razor blade",
+                "waxed dental floss"
+            ],
+            "opposite_tool_attributes": [
+                "bulky, rounded, dull jaws that crush instead of flush, razor-sharp shearing",
+                "soft or unhardened cutting edges that deform or chip under high local stress",
+                "loose, misaligned pivot with lateral play and minimal handle leverage"
+            ],
+            "impossible_tools": [
+                "rubber mallet",
+                "sponge",
+                "rope",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Cut vinyl aquarium tubing to a precise length",
+            "original_tool": "tubing cutter (scissor-style)",
+            "expected_outcome": "Tubing ends are square and clean, ensuring a tight, leak-free fit",
+            "required_tool_attributes": [
+                "curved, sharp blade to focus shear on soft tubing",
+                "rigid anvil jaw to oppose cutting force",
+                "aligned pivot for consistent edge contact",
+                "non-flexing handles for steady pressure"
+            ],
+            "unconventional_tools": [
+                "anvil-style pruning shears (garden pruners)",
+                "double-guillotine cigar cutter",
+                "large toenail clippers"
+            ],
+            "opposite_tool_attributes": [
+                "dull, flat or flexible edge that spreads force instead of a curved, sharp blade",
+                "soft, compressible opposing surface that deforms under load instead of a rigid anvil jaw",
+                "loose, misaligned pivot and bending handles that flex and twist under pressure instead of aligned, non-flexing linkage"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Prune overgrown rose bush canes cleanly",
+            "original_tool": "bypass pruners",
+            "expected_outcome": "Stems are removed with clean, angled cuts that promote healthy regrowth",
+            "required_tool_attributes": [
+                "keen, bypassing blades for scissor-like shear",
+                "rigid, forged steel construction to resist flex",
+                "compound leverage pivot to increase cutting force",
+                "curved blade geometry to keep the cut aligned"
+            ],
+            "unconventional_tools": [
+                "poultry shears",
+                "aviation snips (curved/left-cut)",
+                "ratcheting cable cutters"
+            ],
+            "opposite_tool_attributes": [
+                "dull, non-bypassing anvil edge that crushes rather than shears",
+                "flexible, soft plastic construction that bends under load",
+                "simple, loose pivot with no compound leverage or mechanical advantage"
+            ],
+            "impossible_tools": [
+                "wet sponge",
+                "rope",
+                "rubber mallet",
+                "silicone spatula"
+            ]
+        },
+        {
+            "task_goal": "Open a sealed plastic clamshell package",
+            "original_tool": "utility knife",
+            "expected_outcome": "Package is separated along a cut seam, allowing safe access to the product",
+            "required_tool_attributes": [
+                "replaceable, ultra-sharp blade to create high stress concentration",
+                "rigid blade carrier to prevent wobble",
+                "secure blade lock to maintain cutting depth",
+                "thin edge for controlled penetration"
+            ],
+            "unconventional_tools": [
+                "disposable shaving razor (cartridge razor)",
+                "vegetable peeler",
+                "pizza cutter wheel"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded, non-replaceable edge that disperses force",
+                "flexible or soft blade carrier that bends and wobbles under load",
+                "no secure blade lock, allowing uncontrolled, varying cutting depth"
+            ],
+            "impossible_tools": [
+                "rope",
+                "foam sponge",
+                "rubber spatula",
+                "towel"
+            ]
+        },
+        {
+            "task_goal": "Cut an opening in drywall for an electrical outlet",
+            "original_tool": "utility knife",
+            "expected_outcome": "A rectangular opening is cut to size, allowing the outlet box to fit flush",
+            "required_tool_attributes": [
+                "sharp, pointed tip for scoring and starting cuts",
+                "stiff blade support to transmit force without flex",
+                "thin, sharp edge for effective scoring and shearing",
+                "lockable blade position for consistent depth"
+            ],
+            "unconventional_tools": [
+                "paring knife",
+                "scratch awl",
+                "heavy-duty kitchen shears"
+            ],
+            "opposite_tool_attributes": [
+                "rounded, blunt tip that cannot pierce or start a cut",
+                "flexible, floppy blade/support that bends under load",
+                "thick, dull edge with a non-locking, free-sliding blade position"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "rubber spatula",
+                "inflatable balloon"
+            ]
+        },
+        {
+            "task_goal": "Cut 0.8 mm aluminum sheet to fabricate a small bracket",
+            "original_tool": "aviation snips",
+            "expected_outcome": "Sheet is cut to the bracket\u2019s outline with clean, controlled edges",
+            "required_tool_attributes": [
+                "hardened, sharp cutting edges for metal shearing",
+                "compound leverage pivot to amplify force",
+                "rigid handles to prevent torsional flex",
+                "aligned jaws to maintain a narrow kerf"
+            ],
+            "unconventional_tools": [
+                "heavy-duty poultry shears",
+                "bypass garden pruners (secateurs)",
+                "large diagonal cutters (side cutters)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, dull cutting edges that mash or bend metal instead of shearing",
+                "loose, non-compound pivot with little mechanical advantage that dissipates force",
+                "misaligned jaws that create a wide, wandering kerf"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "plastic safety scissors",
+                "rubber band"
+            ]
+        },
+        {
+            "task_goal": "Cut a wooden dowel to length for shelving pegs",
+            "original_tool": "backsaw",
+            "expected_outcome": "Dowel segments have square, smooth ends suitable for insertion",
+            "required_tool_attributes": [
+                "fine, sharp teeth to shear wood fibers cleanly",
+                "rigid spine to keep the blade straight",
+                "tooth set to clear sawdust (kerf control)",
+                "stiff blade to avoid wandering"
+            ],
+            "unconventional_tools": [
+                "hacksaw with fine-tooth blade",
+                "serrated bread knife",
+                "heavy-duty utility knife (score-and-snap)"
+            ],
+            "opposite_tool_attributes": [
+                "dull, toothless, smooth edge that cannot shear wood fibers",
+                "flexible, floppy blade without a rigid spine, causing wandering cuts",
+                "no tooth set or kerf clearance so the blade binds with sawdust"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber spatula",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Remove a damaged section of carpet for patching",
+            "original_tool": "carpet knife (hook blade)",
+            "expected_outcome": "The damaged area is cut out cleanly along the pile direction with minimal fraying",
+            "required_tool_attributes": [
+                "hooked, replaceable sharp blade to engage fibers",
+                "rigid handle to apply controlled force",
+                "thin cutting edge to concentrate shear",
+                "secure blade clamp to prevent flex or slip"
+            ],
+            "unconventional_tools": [
+                "seatbelt cutter/rescue hook",
+                "safety box opener with concealed hook blade",
+                "razor blade window/paint scraper"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded non-hooked edge that cannot catch or sever fibers",
+                "flexible, compressible handle that bends or collapses under load",
+                "loose, non-locking blade mount that allows wobble, flex, or slip"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "balloon",
+                "feather duster",
+                "silicone oven mitt"
+            ]
+        },
+        {
+            "task_goal": "Cut cotton fabric panels for a quilt",
+            "original_tool": "rotary cutter",
+            "expected_outcome": "Fabric is cut into accurate, clean-edged panels that match the cutting mat grid",
+            "required_tool_attributes": [
+                "circular, ultra-sharp wheel to deliver continuous shear",
+                "rigid axle to prevent wobble",
+                "thin bevel for low cutting resistance",
+                "stable handle for straight, downward force"
+            ],
+            "unconventional_tools": [
+                "pizza cutter",
+                "pastry wheel (straight-edge)",
+                "office rotary paper trimmer"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, non-rotating edge or irregular/soft perimeter instead of a circular, ultra-sharp wheel",
+                "flexible or loose axle that allows wobble and lateral play",
+                "unstable, flexible, or slippery handle that cannot apply straight, downward force"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "paint roller",
+                "rolling pin"
+            ]
+        },
+        {
+            "task_goal": "Cut ceramic tiles to size for a backsplash",
+            "original_tool": "wet tile saw",
+            "expected_outcome": "Tiles are cut to precise dimensions with minimal chipping",
+            "required_tool_attributes": [
+                "diamond-embedded cutting rim for hard, brittle material",
+                "rigid rotating disc to maintain a true edge",
+                "stable guide fence for straight cuts",
+                "stiff arbor mounting to resist deflection"
+            ],
+            "unconventional_tools": [
+                "circular saw fitted with a continuous-rim diamond blade and a clamped straightedge as a fence",
+                "rotary tool (Dremel) with a small diamond cutoff wheel and an edge guide",
+                "miter saw fitted with a continuous-rim diamond blade using the saw's fence"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, non-abrasive, soft edge instead of a diamond-embedded cutting rim",
+                "flexible or deformable cutting element (belt/wire) instead of a rigid rotating disc",
+                "wobbly/no guide fence and a loose, compliant arbor that deflects under load"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "plastic butter knife",
+                "paint roller"
+            ]
+        },
+        {
+            "task_goal": "Cut copper plumbing pipe to replace a leaking segment",
+            "original_tool": "rotary pipe cutter",
+            "expected_outcome": "Pipe ends are cut square and ready for fitting soldered or compression joints",
+            "required_tool_attributes": [
+                "hardened steel cutting wheel to focus high local stress",
+                "rigid C-frame to hold alignment under load",
+                "feed screw to gradually increase shearing pressure",
+                "guide rollers to keep the cut square"
+            ],
+            "unconventional_tools": [
+                "manual can opener (swing-a-way style)",
+                "heavy-duty C-clamp",
+                "stainless steel hose clamp with a glass cutter"
+            ],
+            "opposite_tool_attributes": [
+                "soft or rounded cutting edge (e.g., rubber/plastic) that disperses force instead of concentrating high local stress",
+                "flexible or flimsy frame that bends/twists under load, losing alignment",
+                "no positive feed screw\u2014fixed gap or springy tension that can\u2019t incrementally increase shearing pressure"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "balloon",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Snip support sprues off a plastic 3D print",
+            "original_tool": "precision flush cutters",
+            "expected_outcome": "Supports are removed cleanly, leaving minimal marks on the model surface",
+            "required_tool_attributes": [
+                "razor-sharp, flush-ground jaws for near-surface cuts",
+                "fine, pointed tips for access in tight spaces",
+                "hardened cutting edges to resist dulling",
+                "spring return for controlled, repeatable shearing"
+            ],
+            "unconventional_tools": [
+                "cuticle nippers (manicure plier-style)",
+                "sewing thread snips (embroidery nippers)",
+                "unwaxed dental floss (used as a saw to separate supports)"
+            ],
+            "opposite_tool_attributes": [
+                "dull, beveled jaws that cannot make flush cuts",
+                "bulky, blunt tips that cannot access tight spaces",
+                "soft, unhardened edges that deform instead of shearing"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "rubber band",
+                "paper towel"
+            ]
+        },
+        {
+            "task_goal": "Trim a small tree branch overhanging the driveway",
+            "original_tool": "pruning saw",
+            "expected_outcome": "Branch is removed with a clean cut near the branch collar",
+            "required_tool_attributes": [
+                "sharp, impulse-hardened teeth for aggressive shearing",
+                "rigid blade to prevent buckling under load",
+                "tooth set to clear kerf and prevent binding",
+                "handle geometry to deliver steady pull-cut force"
+            ],
+            "unconventional_tools": [
+                "serrated bread knife",
+                "hacksaw (metal-cutting)",
+                "drywall jab saw (keyhole saw)"
+            ],
+            "opposite_tool_attributes": [
+                "dull, non-hardened, toothless edge that cannot shear wood fibers",
+                "flexible, floppy blade that buckles under load instead of staying rigid",
+                "no tooth set, causing a narrow kerf that binds immediately in the cut"
+            ],
+            "impossible_tools": [
+                "wet sponge",
+                "rubber spatula",
+                "feather duster",
+                "inflatable pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Slice foam board panels for an architectural model",
+            "original_tool": "craft knife",
+            "expected_outcome": "Foam board is cut into straight, smooth-edged panels without tearing the paper facing",
+            "required_tool_attributes": [
+                "ultra-sharp, pointed blade for clean scoring and cuts",
+                "rigid handle to prevent blade flex",
+                "thin bevel to reduce crushing",
+                "secure blade lock for consistent depth"
+            ],
+            "unconventional_tools": [
+                "ceramic paring knife",
+                "single-edge razor blade clamped in a binder clip as a handle",
+                "double-edge safety razor (using a blade corner for scoring)"
+            ],
+            "opposite_tool_attributes": [
+                "dull, rounded edge with a thick bevel that crushes material",
+                "flexible, flimsy handle or blade that bends under pressure",
+                "loose, non-locking blade mechanism causing variable, inconsistent depth"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "rubber band"
+            ]
+        },
+        {
+            "task_goal": "Cut nylon rope to length for a campsite tarp ridgeline",
+            "original_tool": "serrated pocket knife",
+            "expected_outcome": "Rope is cleanly separated to the required length without excessive fraying",
+            "required_tool_attributes": [
+                "sharp serrated edge to grip and shear fibers",
+                "rigid, locking blade to handle high localized force",
+                "corrosion-resistant hard steel to maintain edge",
+                "ergonomic handle for controlled slicing"
+            ],
+            "unconventional_tools": [
+                "grapefruit spoon (serrated-tip spoon)",
+                "single hacksaw blade with a taped handle",
+                "heated flathead screwdriver used as a hot knife"
+            ],
+            "opposite_tool_attributes": [
+                "dull, smooth (non-serrated) edge that slides over rope fibers instead of gripping",
+                "flexible, non-locking blade that bends or folds under load",
+                "soft, rust-prone metal that deforms or corrodes quickly, losing what little edge it has"
+            ],
+            "impossible_tools": [
+                "rubber spatula",
+                "wet sponge",
+                "inflatable beach ball",
+                "length of nylon rope",
+                "silicone oven mitt"
+            ]
+        },
+        {
+            "task_goal": "Trim printed handouts to final size for a meeting",
+            "original_tool": "paper guillotine trimmer",
+            "expected_outcome": "Stacks of paper are cut to consistent, clean edges matching the target dimensions",
+            "required_tool_attributes": [
+                "long, sharp guillotine blade for shearing through stacks",
+                "rigid base and anvil edge for opposing force",
+                "levered pivot to amplify cutting force",
+                "paper clamp to prevent sheet shift during shear"
+            ],
+            "unconventional_tools": [
+                "rotary pizza cutter guided by a metal ruler on a cutting mat (stack held with binder clips)",
+                "large kitchen cleaver against a wooden cutting board with a straightedge fence (stack clamped with spring clamps)",
+                "kitchen mandoline slicer using its hand guard as a paper clamp and the bed as the anvil base"
+            ],
+            "opposite_tool_attributes": [
+                "short, dull, flexible edge that bends instead of a long, sharp guillotine blade",
+                "soft, compressible base with no rigid anvil edge to oppose the cut",
+                "no pivoted lever or mechanical advantage; requires direct, unamplified force"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Cut a gasket from sheet rubber for a faucet repair",
+            "original_tool": "utility knife",
+            "expected_outcome": "A precisely shaped rubber gasket is produced with smooth edges for a proper seal",
+            "required_tool_attributes": [
+                "sharp pointed blade for detailed curves",
+                "rigid blade support to avoid flex in thick rubber",
+                "thin cutting edge for high stress concentration",
+                "secure grip for controlled pressure"
+            ],
+            "unconventional_tools": [
+                "single-edge razor blade clamped in a binder clip as a handle",
+                "paring knife (kitchen knife)",
+                "curved manicure scissors"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded edge with no sharp point",
+                "flexible, floppy blade lacking rigid support",
+                "slippery handle that prevents a secure grip"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "rubber mallet",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Cut a ribeye steak into bite-sized pieces at the table",
+            "original_tool": "steak knife",
+            "expected_outcome": "The steak is portioned cleanly without tearing the meat fibers",
+            "required_tool_attributes": [
+                "sharp fine or micro-serrated edge to shear cooked fibers",
+                "rigid, narrow blade for precise cuts",
+                "pointed tip to initiate cuts",
+                "hard steel to sustain a sharp edge"
+            ],
+            "unconventional_tools": [
+                "utility knife (box cutter) with a fresh blade",
+                "office scissors",
+                "metal letter opener"
+            ],
+            "opposite_tool_attributes": [
+                "dull, rounded edge with no serration",
+                "flexible, wide blade that lacks rigidity and precision",
+                "soft, low-hardness material that cannot hold a sharp edge"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "silicone rubber spatula"
+            ]
+        },
+        {
+            "task_goal": "Cut a steel rod to length for a shelf bracket",
+            "original_tool": "hacksaw",
+            "expected_outcome": "Steel rod sections are cut to specified lengths with straight kerfs ready for deburring",
+            "required_tool_attributes": [
+                "hardened, fine-tooth blade for metal shearing",
+                "high-tension, rigid frame to keep the blade straight",
+                "narrow kerf to reduce cutting effort",
+                "ergonomic handle for steady stroke control"
+            ],
+            "unconventional_tools": [
+                "Locking pliers clamped onto a metal-cutting reciprocating saw blade (used as a hand saw)",
+                "C-clamp used to tension a loose hacksaw blade as a makeshift frame",
+                "Cold chisel and hammer to score and shear the rod"
+            ],
+            "opposite_tool_attributes": [
+                "soft, dull, coarse-tooth or toothless edge not hardened for metal",
+                "flexible, low-tension frame that lets the blade bend and wander",
+                "extra-wide kerf with a slippery, non-ergonomic handle"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "paper towel"
+            ]
+        }
+    ]
+}

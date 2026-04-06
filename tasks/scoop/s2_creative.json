@@ -1,0 +1,324 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Serve 4 bowls of chicken soup from a stockpot",
+            "original_tool": "ladle",
+            "expected_outcome": "Four bowls are filled evenly with soup without spilling",
+            "required_tool_attributes": [
+                "deep concave bowl",
+                "long heat-resistant handle",
+                "pouring lip for controlled flow",
+                "sufficient volume capacity"
+            ],
+            "unconventional_tools": [
+                "small saucepan with a pour spout and long handle",
+                "heat-resistant glass measuring cup (e.g., 4-cup Pyrex) with spout",
+                "metal ice scoop with a tapered pouring edge"
+            ]
+        },
+        {
+            "task_goal": "Portion 8 scoops of ice cream into waffle cones at a birthday party",
+            "original_tool": "ice cream scoop",
+            "expected_outcome": "Each cone receives a rounded serving that releases cleanly from the tool",
+            "required_tool_attributes": [
+                "hemispherical rigid bowl",
+                "sharpened leading edge to cut into frozen dessert",
+                "ergonomic handle",
+                "integrated release mechanism"
+            ],
+            "unconventional_tools": [
+                "spring-loaded cookie dough scoop (trigger disher)",
+                "melon baller",
+                "meatball maker tongs"
+            ]
+        },
+        {
+            "task_goal": "Remove clumped waste from a cat's litter tray into a trash bag",
+            "original_tool": "litter scoop",
+            "expected_outcome": "Clumps are lifted and separated while clean litter falls back into the tray",
+            "required_tool_attributes": [
+                "slotted concave basket",
+                "rigid construction",
+                "tapered front edge to slide under clumps",
+                "offset handle for leverage"
+            ],
+            "unconventional_tools": [
+                "slotted fish spatula",
+                "wire spider skimmer",
+                "children's sand sifter shovel"
+            ]
+        },
+        {
+            "task_goal": "Fill a sandcastle bucket with damp beach sand",
+            "original_tool": "sand shovel",
+            "expected_outcome": "Bucket is packed with sufficient sand for molding",
+            "required_tool_attributes": [
+                "wide concave blade with raised sides",
+                "sturdy handle",
+                "durable material for abrasive sand",
+                "slightly pointed leading edge"
+            ],
+            "unconventional_tools": [
+                "dustpan",
+                "large metal ladle",
+                "plastic measuring cup with pour spout"
+            ]
+        },
+        {
+            "task_goal": "Transfer 2 cups of flour from a paper bag to a mixing bowl",
+            "original_tool": "measuring cup",
+            "expected_outcome": "Accurate flour quantity is moved without tearing the bag or spilling",
+            "required_tool_attributes": [
+                "calibrated concave cup",
+                "flat rim for leveling",
+                "rigid structure",
+                "handle for stable grip"
+            ],
+            "unconventional_tools": [
+                "8-oz (1-cup) soup ladle with stamped volume",
+                "Small saucepan with internal cup/ounce markings",
+                "Clean 1-cup dry pet food scoop"
+            ]
+        },
+        {
+            "task_goal": "Skim floating leaves from a backyard koi pond into a yard waste bin",
+            "original_tool": "pond skimmer net",
+            "expected_outcome": "Pond surface is cleared of leaves while water drains back into the pond",
+            "required_tool_attributes": [
+                "deep mesh pocket forming a concave container",
+                "rigid rim/frame",
+                "long handle for reach",
+                "fine mesh to retain leaves"
+            ],
+            "unconventional_tools": [
+                "large fine-mesh kitchen strainer (sieve) with handle",
+                "collapsible mesh laundry hamper",
+                "metal mesh office wastebasket"
+            ]
+        },
+        {
+            "task_goal": "Bail rainwater out of a canoe after a storm",
+            "original_tool": "hand bailer scoop",
+            "expected_outcome": "Water level is reduced enough for safe paddling",
+            "required_tool_attributes": [
+                "large hollow cavity for volume support",
+                "rigid waterproof body",
+                "grip handle",
+                "pouring lip to direct outflow"
+            ],
+            "unconventional_tools": [
+                "plastic milk jug with the bottom cut off",
+                "saucepan",
+                "large plastic pitcher"
+            ]
+        },
+        {
+            "task_goal": "Load 30 grams of coffee beans from a storage jar into a grinder",
+            "original_tool": "coffee scoop",
+            "expected_outcome": "Correct bean amount is placed in the grinder hopper without spillage",
+            "required_tool_attributes": [
+                "small concave bowl",
+                "rigid food-safe material",
+                "short handle",
+                "capacity marking for measurement"
+            ],
+            "unconventional_tools": [
+                "tablespoon measuring spoon",
+                "protein powder scoop",
+                "baby formula scoop"
+            ]
+        },
+        {
+            "task_goal": "Collect a pile of sawdust from under a table saw into a trash bin",
+            "original_tool": "dustpan",
+            "expected_outcome": "Workbench area is cleared of loose sawdust",
+            "required_tool_attributes": [
+                "shallow pan with raised sides",
+                "wide front lip that sits flush to the floor",
+                "rigid structure",
+                "handle for control"
+            ],
+            "unconventional_tools": [
+                "rigid storage bin lid",
+                "plastic cutting board with handle",
+                "plastic desk drawer organizer tray"
+            ]
+        },
+        {
+            "task_goal": "Transfer granular lawn fertilizer from a bag into a broadcast spreader",
+            "original_tool": "garden scoop",
+            "expected_outcome": "Spreader hopper is filled without spilling granules onto the lawn",
+            "required_tool_attributes": [
+                "deep concave scoop",
+                "corrosion-resistant material",
+                "tapered mouth for easier entry into the bag",
+                "handle for steady lifting"
+            ],
+            "unconventional_tools": [
+                "empty plastic milk jug cut diagonally to create a handled scoop",
+                "large plastic measuring cup with a pouring spout",
+                "deep plastic dustpan with a pour lip"
+            ]
+        },
+        {
+            "task_goal": "Fill six seedling pots with potting mix from a large sack",
+            "original_tool": "potting scoop",
+            "expected_outcome": "Pots are evenly filled and ready for planting",
+            "required_tool_attributes": [
+                "curved cupped blade with high sides",
+                "rigid construction",
+                "pointed tip to penetrate compacted mix",
+                "comfortable handle"
+            ],
+            "unconventional_tools": [
+                "large kitchen ladle",
+                "laundry detergent scoop",
+                "small dustpan"
+            ]
+        },
+        {
+            "task_goal": "Serve steamed rice from a cooker into four plates",
+            "original_tool": "rice ladle",
+            "expected_outcome": "Neat portions of rice are placed on each plate without sticking",
+            "required_tool_attributes": [
+                "shallow concave paddle",
+                "nonstick textured surface",
+                "heat-resistant rigidity",
+                "short handle for control"
+            ],
+            "unconventional_tools": [
+                "trigger-style ice cream scoop",
+                "silicone spoonula (spoon-shaped spatula)",
+                "1/3-cup plastic measuring cup"
+            ]
+        },
+        {
+            "task_goal": "Move rock salt from a storage bucket to a handheld spreader for de-icing steps",
+            "original_tool": "salt scoop",
+            "expected_outcome": "Spreader is loaded without contaminating or spilling salt",
+            "required_tool_attributes": [
+                "deep concave body",
+                "corrosion-resistant material",
+                "pouring spout for controlled transfer",
+                "handle"
+            ],
+            "unconventional_tools": [
+                "plastic measuring cup with pouring spout",
+                "laundry detergent scoop (thoroughly cleaned)",
+                "repurposed plastic milk jug cut into a scoop"
+            ]
+        },
+        {
+            "task_goal": "Add aquarium gravel from a bag into a new fish tank",
+            "original_tool": "small hand scoop",
+            "expected_outcome": "Gravel is deposited evenly without scratching the glass",
+            "required_tool_attributes": [
+                "narrow concave scoop",
+                "water-safe, non-reactive material",
+                "rigid structure",
+                "smooth edges"
+            ],
+            "unconventional_tools": [
+                "plastic protein powder scoop",
+                "stainless steel serving spoon",
+                "child's plastic beach shovel"
+            ]
+        },
+        {
+            "task_goal": "Remove cooled ash from a wood stove into a metal ash bucket",
+            "original_tool": "ash shovel",
+            "expected_outcome": "Firebox is cleared and ash is securely contained in the bucket",
+            "required_tool_attributes": [
+                "shallow wide metal scoop with raised sides",
+                "heat-resistant construction",
+                "long handle for distance",
+                "rigid blade"
+            ],
+            "unconventional_tools": [
+                "long-handled metal dustpan (lobby-style)",
+                "stainless steel grill spatula/turner",
+                "metal garden trowel"
+            ]
+        },
+        {
+            "task_goal": "Portion muffin batter evenly into a 12-cup tin",
+            "original_tool": "portion scoop (disher)",
+            "expected_outcome": "Each cup is filled to the same level with minimal drips",
+            "required_tool_attributes": [
+                "hemispherical bowl",
+                "built-in sweep/release mechanism",
+                "rigid food-safe metal",
+                "handle for one-handed operation"
+            ],
+            "unconventional_tools": [
+                "small stainless-steel ladle (1/4-cup)",
+                "spring-ejector melon baller (stainless steel)",
+                "stainless-steel turkey baster"
+            ]
+        },
+        {
+            "task_goal": "Clear a path on a deck by moving drifted powdery snow into a pile",
+            "original_tool": "scoop shovel",
+            "expected_outcome": "A walkable path is opened with snow piled off to the side",
+            "required_tool_attributes": [
+                "wide deep blade with sidewalls",
+                "long handle for leverage",
+                "lightweight yet rigid material",
+                "slick surface to shed snow"
+            ],
+            "unconventional_tools": [
+                "push broom",
+                "plastic garbage can lid",
+                "aluminum pizza peel"
+            ]
+        },
+        {
+            "task_goal": "Measure and pour 2 cups of dry dog kibble into a feeding bowl",
+            "original_tool": "kibble scoop",
+            "expected_outcome": "Correct portion is delivered to the bowl without spilling",
+            "required_tool_attributes": [
+                "deep food-safe scoop",
+                "rigid structure",
+                "handle for grip",
+                "level-able rim"
+            ],
+            "unconventional_tools": [
+                "soup ladle",
+                "small saucepan",
+                "large coffee mug"
+            ]
+        },
+        {
+            "task_goal": "Collect a small soil sample from a riverbank into a specimen bag",
+            "original_tool": "geologist's trowel scoop",
+            "expected_outcome": "A representative soil sample is obtained with minimal contamination",
+            "required_tool_attributes": [
+                "small concave blade",
+                "rigid metal construction",
+                "pointed edge to penetrate soil",
+                "handle for control"
+            ],
+            "unconventional_tools": [
+                "stainless steel grapefruit spoon (serrated tip)",
+                "metal melon baller",
+                "stainless steel spork"
+            ]
+        },
+        {
+            "task_goal": "Load ice from an ice bin into a cocktail shaker at a bar",
+            "original_tool": "ice scoop",
+            "expected_outcome": "Shaker is filled with the required ice cubes without hand contact or spillage",
+            "required_tool_attributes": [
+                "deep curved scoop",
+                "perforations to drain meltwater",
+                "rigid food-safe material",
+                "handle for hygienic grip"
+            ],
+            "unconventional_tools": [
+                "perforated ladle (slotted ladle)",
+                "wire skimmer (spider strainer)",
+                "pasta server spoon"
+            ]
+        }
+    ]
+}

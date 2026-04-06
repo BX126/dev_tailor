@@ -1,0 +1,244 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Mix a homemade vinaigrette by combining oil and vinegar in a container",
+            "original_tool": "mason jar with screw-top lid",
+            "expected_outcome": "A stable, well-emulsified dressing with no visible separation",
+            "required_tool_attributes": [
+                "leak-proof lid to contain liquids during rapid motion",
+                "rigid walls to transmit oscillatory force",
+                "textured, grippable exterior for secure handling",
+                "sufficient headspace to allow fluid sloshing",
+                "durable seal that withstands repeated shaking"
+            ]
+        },
+        {
+            "task_goal": "Activate an aerosol spray paint can before painting a metal railing",
+            "original_tool": "spray paint can",
+            "expected_outcome": "Pigment and propellant are fully mixed, producing an even spray pattern",
+            "required_tool_attributes": [
+                "internal mixing ball to agitate settled pigment",
+                "sealed, rigid cylindrical body to handle inertial forces",
+                "hand-sized diameter for reliable grip",
+                "solvent-resistant interior lining",
+                "intact spray valve that remains closed while shaking"
+            ]
+        },
+        {
+            "task_goal": "Reset an old-style mercury-in-glass thermometer to below room temperature",
+            "original_tool": "mercury thermometer",
+            "expected_outcome": "Mercury column drops so the next reading starts low and is accurate",
+            "required_tool_attributes": [
+                "sealed glass tube to contain the liquid metal",
+                "dense mercury column responsive to inertial flicking",
+                "elongated stem to generate acceleration when shaken",
+                "grippable end section for control",
+                "sufficient structural integrity to withstand repeated motion"
+            ]
+        },
+        {
+            "task_goal": "Create a snowfall effect in a decorative display",
+            "original_tool": "snow globe",
+            "expected_outcome": "Glitter or faux snow swirls dramatically and then slowly settles",
+            "required_tool_attributes": [
+                "sealed, liquid-filled chamber",
+                "grippable base for secure handling",
+                "shatter-resistant glass or acrylic",
+                "watertight seals to prevent leaks",
+                "free internal particles that respond to oscillation"
+            ]
+        },
+        {
+            "task_goal": "Blend protein powder with water for a post-workout drink",
+            "original_tool": "protein shaker bottle",
+            "expected_outcome": "Smooth, lump-free shake with fully dissolved powder",
+            "required_tool_attributes": [
+                "leak-proof cap to contain vigorous motion",
+                "internal mixing ball or baffles to break clumps",
+                "rigid body to transmit shaking energy",
+                "contoured, grippable exterior",
+                "adequate headspace for fluid movement"
+            ]
+        },
+        {
+            "task_goal": "Mix and chill a martini",
+            "original_tool": "cocktail shaker",
+            "expected_outcome": "Properly integrated, well-chilled cocktail with slight aeration",
+            "required_tool_attributes": [
+                "tight-fitting pieces to prevent leaks",
+                "cold-resistant stainless steel construction",
+                "balanced mass for efficient oscillation",
+                "textured surface for secure grip when wet",
+                "sufficient volume to accommodate ice and liquid motion"
+            ]
+        },
+        {
+            "task_goal": "Evenly dust a cake with powdered sugar",
+            "original_tool": "fine-mesh sieve",
+            "expected_outcome": "A uniform, clump-free layer of powdered sugar over the cake",
+            "required_tool_attributes": [
+                "fine mesh that releases powder under vibration",
+                "rigid frame to maintain mesh tension during shaking",
+                "handle for controlled oscillation",
+                "bowl-shaped cavity to hold powder while moving",
+                "light but sturdy construction for rapid motion"
+            ]
+        },
+        {
+            "task_goal": "Remove loose dust and crumbs from a small entryway rug",
+            "original_tool": "door mat rug",
+            "expected_outcome": "Visible dust and debris are released from the fibers",
+            "required_tool_attributes": [
+                "durable fabric that tolerates abrupt motion",
+                "reinforced edges for gripping",
+                "sufficient mass to build inertial waves",
+                "flexible body to transmit oscillations",
+                "manageable size for two-handed shaking"
+            ]
+        },
+        {
+            "task_goal": "Erase the drawing on a classic screen toy",
+            "original_tool": "Etch A Sketch",
+            "expected_outcome": "Screen returns to a uniformly blank slate",
+            "required_tool_attributes": [
+                "sealed chamber with free aluminum powder",
+                "rigid rectangular frame to withstand shaking",
+                "grippable sides for controlled motion",
+                "internal particles that redistribute under oscillation",
+                "durable construction to absorb repeated impacts"
+            ]
+        },
+        {
+            "task_goal": "Extend print quality by redistributing toner in a fading cartridge",
+            "original_tool": "laser printer toner cartridge",
+            "expected_outcome": "Toner is spread evenly, temporarily improving print density",
+            "required_tool_attributes": [
+                "sealed compartments to prevent powder leaks",
+                "integrated handholds for safe grip",
+                "internal baffles or geometry that respond to shaking",
+                "rigid casing to endure oscillatory forces",
+                "light-blocking housing to protect toner"
+            ]
+        },
+        {
+            "task_goal": "Coat chicken pieces evenly with seasoned flour without making a mess",
+            "original_tool": "zip-top freezer bag",
+            "expected_outcome": "Chicken is uniformly coated and ready for cooking",
+            "required_tool_attributes": [
+                "reliable zipper seal to contain contents",
+                "heavy-duty plastic that resists tearing",
+                "flexible walls to tumble pieces during shaking",
+                "textured exterior for a secure grip",
+                "sufficient capacity and headspace for motion"
+            ]
+        },
+        {
+            "task_goal": "Activate a glow stick for nighttime visibility on a hike",
+            "original_tool": "glow stick",
+            "expected_outcome": "Even, bright luminescence along the entire stick",
+            "required_tool_attributes": [
+                "sealed, flexible plastic tube",
+                "fragile inner glass ampoule to snap before shaking",
+                "translucent casing to emit light",
+                "slender shape for easy, rapid oscillation",
+                "chemically resistant housing to contain reactants"
+            ]
+        },
+        {
+            "task_goal": "Resuspend a pediatric antibiotic that has settled between doses",
+            "original_tool": "medicine bottle (amoxicillin suspension)",
+            "expected_outcome": "Uniformly mixed suspension for accurate dosing",
+            "required_tool_attributes": [
+                "child-resistant, leak-proof cap",
+                "rigid bottle walls to transmit shaking force",
+                "amber or opaque material to protect from light",
+                "grippable bottle shape for control",
+                "adequate headspace for fluid agitation"
+            ]
+        },
+        {
+            "task_goal": "Recombine separated pigments in a nail polish before application",
+            "original_tool": "nail polish bottle",
+            "expected_outcome": "Consistent, streak-free color that applies evenly",
+            "required_tool_attributes": [
+                "tight screw cap to prevent leaks",
+                "internal metal mixing balls to agitate pigment",
+                "rigid glass vessel for inertia transfer",
+                "hand-sized, grippable geometry",
+                "solvent-resistant materials"
+            ]
+        },
+        {
+            "task_goal": "Prime and mix a paint marker before labeling storage bins",
+            "original_tool": "paint marker",
+            "expected_outcome": "Opaque, uniformly mixed paint flows reliably to the tip",
+            "required_tool_attributes": [
+                "sealed barrel to contain liquid paint",
+                "internal ball agitator to break up settled pigment",
+                "rigid cylindrical body for efficient shaking",
+                "valve tip that remains closed during shaking",
+                "solvent-resistant construction"
+            ]
+        },
+        {
+            "task_goal": "Move rice to one corner of a bag before cutting a pour spout",
+            "original_tool": "plastic rice bag",
+            "expected_outcome": "Grains collect at a corner, allowing a clean, controlled opening and pour",
+            "required_tool_attributes": [
+                "sealed, gusseted flexible packaging",
+                "smooth interior for grains to slide under inertia",
+                "grippable exterior for secure handling",
+                "robust welded seams to withstand agitation",
+                "sufficient mass of contents for effective displacement"
+            ]
+        },
+        {
+            "task_goal": "Activate an air-activated hand warmer quickly in cold weather",
+            "original_tool": "hand warmer pouch",
+            "expected_outcome": "Warmer heats up uniformly and maintains steady warmth",
+            "required_tool_attributes": [
+                "air-permeable but sealed outer pouch",
+                "granular contents that redistribute when shaken",
+                "tear-resistant fabric to handle motion",
+                "palm-sized for easy oscillation",
+                "sufficient mass to respond to shaking"
+            ]
+        },
+        {
+            "task_goal": "Agitate diluted fertilizer in a garden sprayer before application",
+            "original_tool": "pump sprayer tank",
+            "expected_outcome": "Solution is uniformly mixed, ensuring consistent nutrient delivery",
+            "required_tool_attributes": [
+                "screw-on, leak-resistant cap",
+                "rigid, chemical-resistant tank",
+                "carry handle for gripping and shaking",
+                "internal free volume to allow sloshing",
+                "durable seals to prevent leakage under motion"
+            ]
+        },
+        {
+            "task_goal": "Dislodge viscous ketchup from a glass bottle to speed pouring",
+            "original_tool": "glass ketchup bottle",
+            "expected_outcome": "Ketchup moves to the neck and flows smoothly when poured",
+            "required_tool_attributes": [
+                "rigid glass body to transfer inertial force",
+                "narrow neck to channel displaced contents",
+                "secure cap to contain shaking if needed",
+                "grippable shape or textured label",
+                "sufficient mass of contents to respond to oscillation"
+            ]
+        },
+        {
+            "task_goal": "Churn heavy cream into butter using a household container",
+            "original_tool": "wide-mouth jar with tight lid",
+            "expected_outcome": "Butter solids form and separate from buttermilk",
+            "required_tool_attributes": [
+                "leak-proof lid to contain vigorous sloshing",
+                "rigid walls to transmit shaking energy",
+                "wide mouth to accommodate cream and later removal",
+                "ergonomic, grippable body",
+                "ample headspace to promote phase separation via agitation"
+            ]
+        }
+    ]
+}

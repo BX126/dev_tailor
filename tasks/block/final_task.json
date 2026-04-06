@@ -1,0 +1,551 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Keep a bedroom door from closing due to drafts",
+            "original_tool": "doorstop wedge",
+            "expected_outcome": "The door remains fixed in the open position and does not swing shut.",
+            "required_tool_attributes": [
+                "rigid wedge geometry",
+                "high-friction contact surfaces",
+                "sufficient compressive strength",
+                "size matched to door gap"
+            ],
+            "unconventional_tools": [
+                "large wedge-shaped rubber eraser",
+                "wooden kitchen spatula (tapered edge)",
+                "plastic car ice scraper"
+            ],
+            "opposite_tool_attributes": [
+                "rounded or rolling, non-wedge geometry",
+                "low-friction, slippery contact surfaces",
+                "soft, easily deformed with low compressive strength"
+            ],
+            "impossible_tools": [
+                "marble (ball bearing)",
+                "bar of soap",
+                "inflatable balloon",
+                "cooked spaghetti noodle"
+            ]
+        },
+        {
+            "task_goal": "Prevent a parked trailer from rolling on a sloped driveway",
+            "original_tool": "wheel chocks",
+            "expected_outcome": "The trailer stays stationary with its wheels immobilized.",
+            "required_tool_attributes": [
+                "triangular profile to oppose wheel motion",
+                "high-friction base",
+                "high compressive strength",
+                "sufficient width to contact tire tread"
+            ],
+            "unconventional_tools": [
+                "Wedge cut from a 4x4 lumber offcut (wooden wheel wedge)",
+                "Heavy rubber doorstop wedge",
+                "Triangular landscape edging stone or a large wedge-shaped rock"
+            ],
+            "opposite_tool_attributes": [
+                "rounded or cylindrical profile that promotes rolling instead of blocking",
+                "smooth, low-friction base that slides on pavement",
+                "low compressive strength or easily deformable under load"
+            ],
+            "impossible_tools": [
+                "skateboard",
+                "inflatable beach ball",
+                "bar of soap",
+                "metal pipe (round rod)"
+            ]
+        },
+        {
+            "task_goal": "Close off a residential street for a block party",
+            "original_tool": "folding A-frame barricades",
+            "expected_outcome": "Vehicles are physically prevented from entering the closed street segment.",
+            "required_tool_attributes": [
+                "rigid frame construction",
+                "wide, stable footprint",
+                "adequate height and span to obstruct lane",
+                "anchoring or ballast capability"
+            ],
+            "unconventional_tools": [
+                "parked cars or pickup trucks positioned perpendicular across the roadway",
+                "heavy wooden picnic tables placed end-to-end across the lane and weighted with sandbags",
+                "large wheeled trash bins filled with water or sand, arranged across the street and tied together"
+            ],
+            "opposite_tool_attributes": [
+                "flexible or soft construction with no rigid frame",
+                "narrow, unstable footprint prone to tipping",
+                "low height and limited span that cannot obstruct a traffic lane"
+            ],
+            "impossible_tools": [
+                "caution tape roll",
+                "rope or clothesline",
+                "inflatable pool noodles",
+                "plastic wrap (cling film)",
+                "cardboard poster board"
+            ]
+        },
+        {
+            "task_goal": "Stop cold air from seeping under an exterior door",
+            "original_tool": "draft stopper (door snake)",
+            "expected_outcome": "Airflow under the door is blocked, reducing drafts.",
+            "required_tool_attributes": [
+                "elongated form to span door width",
+                "sufficient mass to stay in place",
+                "surface friction to resist sliding",
+                "dense, impermeable fill"
+            ],
+            "unconventional_tools": [
+                "rolled bath towel",
+                "pool noodle",
+                "water-filled garden hose"
+            ],
+            "opposite_tool_attributes": [
+                "short or non-elongated shape that cannot span the door width",
+                "very low mass/floaty so it will not stay in place",
+                "porous or mesh construction that allows air to pass through"
+            ],
+            "impossible_tools": [
+                "helium balloon",
+                "wire mesh screen",
+                "slinky spring",
+                "skateboard"
+            ]
+        },
+        {
+            "task_goal": "Keep a dog from going upstairs",
+            "original_tool": "pressure-mounted baby gate",
+            "expected_outcome": "The staircase entry is blocked, preventing the dog from passing.",
+            "required_tool_attributes": [
+                "rigid frame and bars",
+                "adjustable width for tight fit",
+                "non-slip, cushioned pressure pads",
+                "secure latch mechanism"
+            ],
+            "unconventional_tools": [
+                "foldable metal laundry drying rack",
+                "spring-tension shower curtain rods (stacked 2\u20133)",
+                "expandable fireplace screen"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible mesh or fabric instead of a rigid frame and bars",
+                "fixed, non-adjustable width that can't achieve a tight fit",
+                "smooth, uncushioned contact points that slip and no secure latch"
+            ],
+            "impossible_tools": [
+                "rope",
+                "bath towel",
+                "sponge",
+                "plastic wrap"
+            ]
+        },
+        {
+            "task_goal": "Fill a kitchen sink for soaking dishes",
+            "original_tool": "sink stopper",
+            "expected_outcome": "Water is retained in the basin with no drain flow.",
+            "required_tool_attributes": [
+                "impermeable material",
+                "snug, tapered fit to drain opening",
+                "structural stiffness to resist water pressure",
+                "grippable edge for placement and removal"
+            ],
+            "unconventional_tools": [
+                "silicone suction bowl lid",
+                "mini cup plunger",
+                "partially inflated balloon inserted into the drain"
+            ],
+            "opposite_tool_attributes": [
+                "porous or absorbent material that allows water to pass through",
+                "loose, non-tapered shape that cannot form a seal with the drain opening",
+                "flimsy, collapsible structure that deforms under water pressure and won't hold position"
+            ],
+            "impossible_tools": [
+                "wire mesh strainer",
+                "kitchen sponge",
+                "paper towel",
+                "rope"
+            ]
+        },
+        {
+            "task_goal": "Keep books from sliding on an open shelf",
+            "original_tool": "bookend",
+            "expected_outcome": "Books remain upright and do not slide along the shelf.",
+            "required_tool_attributes": [
+                "rigid L-shaped plate",
+                "broad base for stability",
+                "non-slip underside",
+                "sufficient height to contact book spines"
+            ],
+            "unconventional_tools": [
+                "L-shaped shelf bracket (angle bracket)",
+                "Magazine file holder (vertical desk organizer)",
+                "Brick or paver stone on a silicone coaster"
+            ],
+            "opposite_tool_attributes": [
+                "flexible, non-L-shaped form that collapses under load",
+                "narrow, tippy or rounded base that easily rolls",
+                "smooth, low-friction or wheeled underside"
+            ],
+            "impossible_tools": [
+                "rope",
+                "inflated balloon",
+                "sheet of paper",
+                "marbles"
+            ]
+        },
+        {
+            "task_goal": "Prevent a sliding glass patio door from being opened",
+            "original_tool": "sliding door security bar (dowel in track)",
+            "expected_outcome": "The door cannot slide because the track is physically obstructed.",
+            "required_tool_attributes": [
+                "rigid rod construction",
+                "length adjustable or cut-to-fit",
+                "end caps for friction and stability",
+                "diameter sufficient to resist bending"
+            ],
+            "unconventional_tools": [
+                "telescoping shower curtain rod",
+                "old broom or mop handle (cut to fit)",
+                "trekking/hiking pole"
+            ],
+            "opposite_tool_attributes": [
+                "flexible or compressible construction (rope/foam/elastic) instead of rigid rod",
+                "fixed, non-adjustable length that cannot be cut or resized",
+                "smooth, slippery ends without caps that provide little friction or stability"
+            ],
+            "impossible_tools": [
+                "rope",
+                "bungee cord",
+                "foam pool noodle",
+                "inflatable balloon",
+                "paper towel cardboard tube"
+            ]
+        },
+        {
+            "task_goal": "Hold tool chest drawers closed during a move",
+            "original_tool": "packing foam blocks",
+            "expected_outcome": "Drawers remain immobilized and cannot slide open.",
+            "required_tool_attributes": [
+                "compressive stiffness to resist drawer force",
+                "precise sizing to fill gaps",
+                "non-marring surface",
+                "shape stability under vibration"
+            ],
+            "unconventional_tools": [
+                "rubber doorstop wedges",
+                "pool noodle segments (cut to size)",
+                "wine corks used as compressible shims"
+            ],
+            "opposite_tool_attributes": [
+                "very low compressive stiffness that collapses under small loads",
+                "irregular or non-precise sizing that can\u2019t reliably fill the gap",
+                "abrasive or tacky surface that scratches or leaves residue (marring)"
+            ],
+            "impossible_tools": [
+                "inflated balloon",
+                "bubble wrap sheets",
+                "kitchen sponge",
+                "loose sand",
+                "petroleum jelly"
+            ]
+        },
+        {
+            "task_goal": "Keep floodwater from entering a garage through the threshold",
+            "original_tool": "sandbags",
+            "expected_outcome": "A stable barrier forms at the doorway, reducing water ingress.",
+            "required_tool_attributes": [
+                "sufficient mass when filled",
+                "stackable shape for interlocking",
+                "water-resistant outer material",
+                "base friction to prevent slippage"
+            ],
+            "unconventional_tools": [
+                "heavy-duty contractor trash bags filled with dirt or playground sand and tied off",
+                "sealed bags of garden soil or pea gravel in their original plastic packaging",
+                "lidded plastic storage totes filled with water or sand and stacked at the threshold"
+            ],
+            "opposite_tool_attributes": [
+                "very low mass or buoyant when deployed",
+                "rounded, non-stackable shape that can\u2019t interlock or seal gaps",
+                "absorbent/porous outer material that takes on water"
+            ],
+            "impossible_tools": [
+                "helium balloons",
+                "inflatable beach balls",
+                "sponges",
+                "rope",
+                "marbles"
+            ]
+        },
+        {
+            "task_goal": "Temporarily plug a lab flask during mixing",
+            "original_tool": "rubber stopper",
+            "expected_outcome": "The flask opening is sealed, blocking liquid and vapor escape.",
+            "required_tool_attributes": [
+                "tapered geometry for interference fit",
+                "elastic yet structurally resistant material",
+                "impermeable surface",
+                "size matched to neck diameter"
+            ],
+            "unconventional_tools": [
+                "synthetic wine cork",
+                "tapered silicone wine bottle stopper",
+                "conical pencil eraser cap"
+            ],
+            "opposite_tool_attributes": [
+                "flat or non-tapered geometry that cannot create an interference fit",
+                "non-elastic, brittle material that cannot compress to seal",
+                "porous or absorbent surface that allows leakage"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "tennis ball",
+                "wire mesh strainer"
+            ]
+        },
+        {
+            "task_goal": "Prevent forklifts from entering a restricted warehouse aisle",
+            "original_tool": "portable steel bollards",
+            "expected_outcome": "The aisle is physically blocked to vehicle access.",
+            "required_tool_attributes": [
+                "high-strength steel construction",
+                "wide, weighted or anchored base",
+                "sufficient height to be effective and visible",
+                "interconnectivity for wider span"
+            ],
+            "unconventional_tools": [
+                "55-gallon steel drums filled with sand or water, chained together across the aisle",
+                "Filled IBC totes (water totes) strapped or chained side-by-side as a barrier",
+                "Heavy steel rolling dumpsters placed sideways and locked/chained in place"
+            ],
+            "opposite_tool_attributes": [
+                "low-strength, compressible materials (e.g., foam, plastic, fabric) instead of high-strength steel",
+                "narrow, unanchored, lightweight base that can tip or slide under impact",
+                "short, low-profile pieces with poor visibility and no ability to interconnect for span coverage"
+            ],
+            "impossible_tools": [
+                "caution tape barrier",
+                "inflatable pool noodles",
+                "stacked cardboard boxes",
+                "standard lightweight plastic traffic cones"
+            ]
+        },
+        {
+            "task_goal": "Stop a car from overrunning a parking spot",
+            "original_tool": "parking curb (wheel stop)",
+            "expected_outcome": "The vehicle tires contact the curb and cannot advance further.",
+            "required_tool_attributes": [
+                "rigid, high-compressive-strength body",
+                "anchoring spikes or bolts",
+                "sufficient height to meet tire",
+                "base friction and footprint stability"
+            ],
+            "unconventional_tools": [
+                "Pressure-treated 6x6 timber (railroad tie) anchored with rebar spikes",
+                "Concrete landscape edging blocks pinned with rebar or concrete anchors",
+                "Concrete masonry unit (cinder block) laid flat and bolted to the slab"
+            ],
+            "opposite_tool_attributes": [
+                "soft, deformable, low-compressive-strength body that collapses under tire load",
+                "unanchored, low-friction or rolling base that slides or moves instead of resisting",
+                "ultra-low-profile or tapered shape that fails to meet the tire and allows climb-over"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "balloon",
+                "rope",
+                "skateboard"
+            ]
+        },
+        {
+            "task_goal": "Block dust and overspray while painting wall trim",
+            "original_tool": "paint shield (handheld guard)",
+            "expected_outcome": "Paint is prevented from reaching protected adjacent surfaces.",
+            "required_tool_attributes": [
+                "thin, rigid flat blade",
+                "adequate width and length to cover area",
+                "handle for stable placement",
+                "edge stiffness to maintain a straight barrier"
+            ],
+            "unconventional_tools": [
+                "dustpan",
+                "pizza peel",
+                "plastic cutting board with handle"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, compressible blade/edge that bends or absorbs paint",
+                "narrow or short dimensions that fail to cover the target area",
+                "rounded or uneven edge that cannot maintain a straight barrier"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "feather duster",
+                "colander"
+            ]
+        },
+        {
+            "task_goal": "Childproof unused electrical outlets",
+            "original_tool": "outlet plug covers",
+            "expected_outcome": "Outlet slots are physically blocked from object insertion.",
+            "required_tool_attributes": [
+                "rigid, non-conductive plastic",
+                "prongs sized for snug fit",
+                "flush face to resist prying",
+                "shear resistance to pulling force"
+            ],
+            "unconventional_tools": [
+                "Old plastic gift card taped flush over the outlet face",
+                "Rigid plastic jar lid (e.g., peanut butter lid) adhered over the outlet",
+                "Cut square of stiff clamshell/blister packaging taped over the outlet"
+            ],
+            "opposite_tool_attributes": [
+                "conductive or metallic construction",
+                "undersized or oversized prongs that don't achieve a snug fit",
+                "protruding or raised face that provides leverage for prying"
+            ],
+            "impossible_tools": [
+                "metal fork",
+                "sponge",
+                "duct tape strip over the outlet",
+                "suction cup hook"
+            ]
+        },
+        {
+            "task_goal": "Block birds and rodents from entering a dryer vent",
+            "original_tool": "exterior vent cover with mesh",
+            "expected_outcome": "Wildlife cannot pass through the vent opening while airflow remains directed.",
+            "required_tool_attributes": [
+                "rigid grille or mesh",
+                "corrosion-resistant material",
+                "secure screw-mounted frame",
+                "mesh aperture small enough to prevent entry"
+            ],
+            "unconventional_tools": [
+                "stainless steel frying splatter screen",
+                "reusable metal coffee filter basket (gold-tone or stainless mesh)",
+                "stainless steel kitchen sieve/strainer"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible material that collapses instead of a rigid grille/mesh",
+                "rust-prone or degradable material (e.g., untreated steel, cardboard) instead of corrosion-resistant",
+                "adhesive-only or loose friction-fit mounting instead of a secure screw-mounted frame"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "plastic cling wrap",
+                "rope",
+                "paper towel or tissue",
+                "cloth towel"
+            ]
+        },
+        {
+            "task_goal": "Keep a rolling office chair stationary on a hard floor",
+            "original_tool": "caster cups with rims",
+            "expected_outcome": "Chair wheels settle into cups and are prevented from rolling.",
+            "required_tool_attributes": [
+                "rigid cup shape with raised edge",
+                "high-friction underside",
+                "load-bearing capacity",
+                "diameter sized to wheel"
+            ],
+            "unconventional_tools": [
+                "small terracotta plant saucers",
+                "silicone drink coasters with a raised lip",
+                "metal candle jar lids with a silicone gasket"
+            ],
+            "opposite_tool_attributes": [
+                "flat, flexible pad with no raised edge to capture the wheel",
+                "low-friction/slippery underside (e.g., PTFE) that encourages sliding",
+                "fragile or deformable material with poor load-bearing capacity; collapses under chair weight"
+            ],
+            "impossible_tools": [
+                "PTFE furniture sliders",
+                "marbles or loose ball bearings",
+                "roller skate",
+                "lubricant spray (e.g., WD-40)",
+                "thin plastic grocery bag"
+            ]
+        },
+        {
+            "task_goal": "Prevent a push mower from rolling while changing the blade",
+            "original_tool": "wooden wheel block",
+            "expected_outcome": "Mower wheels are chocked and the mower remains motionless.",
+            "required_tool_attributes": [
+                "solid, rigid block",
+                "angled face to oppose wheel motion",
+                "sufficient mass or grip to resist sliding",
+                "compressive strength under load"
+            ],
+            "unconventional_tools": [
+                "rubber doorstop wedge",
+                "triangular landscaping rock",
+                "garden trowel (metal blade wedged against the tire)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or compressible material that deforms under load",
+                "rounded or non-angled surface that cannot oppose wheel motion",
+                "low friction and lightweight, prone to slipping instead of holding"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "beach ball",
+                "plastic grocery bag",
+                "roller skate"
+            ]
+        },
+        {
+            "task_goal": "Restrict access to a damaged stair in a public building",
+            "original_tool": "expandable safety barrier",
+            "expected_outcome": "The stairway entrance is physically blocked to pedestrians.",
+            "required_tool_attributes": [
+                "rigid scissor-lattice construction",
+                "locking mechanism to hold span",
+                "wide, stable feet",
+                "adequate height to deter climbing"
+            ],
+            "unconventional_tools": [
+                "accordion-style folding clothes-drying rack",
+                "freestanding pet exercise pen (folding metal play yard)",
+                "folding room divider/screen with stabilizing feet"
+            ],
+            "opposite_tool_attributes": [
+                "flexible, limp construction that sags instead of a rigid scissor-lattice",
+                "no locking mechanism; free-sliding or loose joints that won\u2019t hold span",
+                "narrow, unstable or wheeled bases and very low height that\u2019s easy to step over"
+            ],
+            "impossible_tools": [
+                "roll of caution tape",
+                "rope or bungee cord",
+                "inflatable pool noodles",
+                "bath towel or tarp"
+            ]
+        },
+        {
+            "task_goal": "Cover a laptop webcam for privacy during a video call break",
+            "original_tool": "webcam cover slider",
+            "expected_outcome": "The camera lens is occluded, preventing image capture.",
+            "required_tool_attributes": [
+                "opaque, rigid shutter",
+                "adhesive or clip mount that stays put",
+                "smooth sliding action with positive stop",
+                "opening size sufficient to fully cover lens"
+            ],
+            "unconventional_tools": [
+                "Trimmed plastic gift/loyalty card with double-sided foam tape rails (DIY sliding shutter)",
+                "Pair of adhesive cable clips guiding a plastic card strip as a slider",
+                "Ballpoint pen pocket clip slid along the bezel as an occluding shutter"
+            ],
+            "opposite_tool_attributes": [
+                "transparent or perforated, flexible flap instead of an opaque, rigid shutter",
+                "no reliable attachment (weak/no adhesive or clip) that slips off easily",
+                "loose movement with no positive stop, cannot stay closed over the lens"
+            ],
+            "impossible_tools": [
+                "clear phone screen protector film",
+                "mesh fabric or gauze",
+                "rubber band",
+                "magnifying glass"
+            ]
+        }
+    ]
+}

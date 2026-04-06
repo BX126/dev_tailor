@@ -1,0 +1,547 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Attach baseboard along a living room wall by driving 2-inch finish nails",
+            "original_tool": "claw hammer",
+            "expected_outcome": "Nails are driven flush and the baseboard is secured tightly and evenly against the wall",
+            "required_tool_attributes": [
+                "weighted steel head for momentum transfer",
+                "smooth, flat, rigid striking face to avoid marring",
+                "handle length to generate swing speed and control",
+                "balanced head-to-handle alignment for accuracy"
+            ],
+            "unconventional_tools": [
+                "large adjustable wrench",
+                "metal meat tenderizer (smooth-face)",
+                "heavy Maglite flashlight"
+            ],
+            "opposite_tool_attributes": [
+                "soft, lightweight, deformable head (e.g., foam/plastic) that absorbs impact instead of transferring momentum",
+                "rounded, cushioned, or flexible striking face rather than a smooth, flat, rigid surface",
+                "no handle or a very short, flexible handle with poor head-to-handle balance/misalignment"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Seat wooden dowels fully in pre-drilled holes during flat-pack furniture assembly",
+            "original_tool": "rubber mallet",
+            "expected_outcome": "Dowels are fully seated without denting or cracking the wood",
+            "required_tool_attributes": [
+                "dense, slightly compliant striking face to prevent surface damage while transferring momentum",
+                "sufficient head mass to deliver impulsive force",
+                "rigid handle for directional control",
+                "broad striking face for even contact"
+            ],
+            "unconventional_tools": [
+                "rubber-soled sneaker (use heel as striking face)",
+                "meat tenderizer mallet with a silicone oven mitt or folded towel over the head",
+                "plastic bottle filled with rice or sand, base wrapped in a dish towel"
+            ],
+            "opposite_tool_attributes": [
+                "very soft, low-density, highly absorbent striking surface that deforms and dissipates force",
+                "very low head mass (lightweight or hollow), unable to deliver impulsive force",
+                "flexible or limp handle (or no handle), preventing controlled, directional strikes"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "feather duster",
+                "inflated balloon"
+            ]
+        },
+        {
+            "task_goal": "Smooth and harden a copper bracelet by planishing over a stake",
+            "original_tool": "planishing hammer",
+            "expected_outcome": "An even, work-hardened surface with reduced ripples and uniform curvature",
+            "required_tool_attributes": [
+                "polished, hardened convex striking face for clean impacts",
+                "moderate head mass for controlled momentum",
+                "rigid handle for precise strikes",
+                "well-balanced head for repeatable accuracy"
+            ],
+            "unconventional_tools": [
+                "smooth-faced carpenter hammer",
+                "stainless steel mortar pestle",
+                "trailer hitch ball used as a handheld striker"
+            ],
+            "opposite_tool_attributes": [
+                "soft, textured or concave striking face that mars instead of smoothing",
+                "very light or overly heavy, poorly balanced head that kills control",
+                "flexible, shock-absorbing handle that reduces precision and rebound"
+            ],
+            "impossible_tools": [
+                "rubber mallet",
+                "rawhide mallet",
+                "sponge",
+                "rope"
+            ]
+        },
+        {
+            "task_goal": "Cut off a rusted bolt using a cold chisel",
+            "original_tool": "club hammer (engineer\u2019s hammer)",
+            "expected_outcome": "The bolt is sheared along the chisel line and removed",
+            "required_tool_attributes": [
+                "compact, heavy head to maximize impulse on short swings",
+                "small, flat, rigid striking face for accurate blows",
+                "short, rigid handle for control in tight spaces",
+                "hardened steel construction to resist deformation"
+            ],
+            "unconventional_tools": [
+                "adjustable wrench (used as a striker on the flat of the jaw/head)",
+                "metal meat tenderizer mallet (smooth-face side)",
+                "small steel dumbbell (striking with the flat end)"
+            ],
+            "opposite_tool_attributes": [
+                "lightweight, soft, energy-absorbing head that dissipates impact instead of delivering it",
+                "large, domed or cushioned striking face that deforms and reduces accuracy",
+                "long, flexible or springy handle that whips and lacks tight-space control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable toy hammer",
+                "feather pillow",
+                "paper"
+            ]
+        },
+        {
+            "task_goal": "Mushroom the end of a copper rivet to fasten two leather straps",
+            "original_tool": "ball-peen hammer",
+            "expected_outcome": "The rivet head is flared evenly, locking the layers together",
+            "required_tool_attributes": [
+                "rounded peen to spread metal plastically",
+                "hardened, rigid faces to transmit impact",
+                "balanced head for fine control",
+                "sufficient mass for effective momentum transfer"
+            ],
+            "unconventional_tools": [
+                "trailer hitch ball",
+                "large ball bearing clamped in locking pliers",
+                "rounded river stone"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compliant striking surface that absorbs impact instead of hardened, rigid faces",
+                "sharp-edged or flat face rather than a rounded peen to spread metal",
+                "very low mass and poorly balanced head/handle, reducing momentum and control"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "towel",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Install a wheel bearing race evenly into a hub using a race driver",
+            "original_tool": "dead blow hammer",
+            "expected_outcome": "The race seats fully and evenly without rebound marks",
+            "required_tool_attributes": [
+                "non-rebounding head with internal shot to dampen bounce",
+                "dense, slightly compliant striking faces to avoid marring the driver",
+                "adequate head mass for high impulse",
+                "rigid handle for directional control"
+            ],
+            "unconventional_tools": [
+                "sand-filled sock secured tightly to a broom handle (shot-bag mallet)",
+                "plastic bottle filled with sand and taped to a short wooden dowel (makeshift dead-blow)",
+                "tennis ball packed with coins or BBs mounted on a wooden dowel (shot-filled striker)"
+            ],
+            "opposite_tool_attributes": [
+                "springy, high-rebound head with no internal damping (no shot fill)",
+                "very light, hollow head that cannot deliver adequate impulse",
+                "flexible or floppy handle that bends or whips under impact"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather pillow"
+            ]
+        },
+        {
+            "task_goal": "Reseat a paint can lid to create an airtight seal",
+            "original_tool": "rubber mallet",
+            "expected_outcome": "The lid is fully seated around the rim without deforming the can",
+            "required_tool_attributes": [
+                "soft yet dense striking face to prevent lid damage",
+                "weighted head for momentum transfer",
+                "broad face for distributed impact",
+                "rigid handle for alignment and control"
+            ],
+            "unconventional_tools": [
+                "neoprene-coated dumbbell",
+                "silicone rolling pin",
+                "small saucepan with a folded dish towel over the base"
+            ],
+            "opposite_tool_attributes": [
+                "extremely soft, low-density striking face that collapses and absorbs energy",
+                "ultralight or unweighted head with minimal mass/momentum",
+                "narrow, point-contact striking surface that concentrates force"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "inflated balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Attach carpet tack strips around a room perimeter",
+            "original_tool": "tack hammer",
+            "expected_outcome": "Tacks are driven flush and strips are secure at the correct spacing",
+            "required_tool_attributes": [
+                "lightweight, balanced head for precise, rapid tapping",
+                "small, rigid striking face for tiny fasteners",
+                "magnetic face to hold and start tacks",
+                "rigid handle to transmit quick impulses accurately"
+            ],
+            "unconventional_tools": [
+                "magnetized flat-head screwdriver",
+                "magnetic 1/4-inch nut driver",
+                "steel tablespoon (using the handle end as a light tapper)"
+            ],
+            "opposite_tool_attributes": [
+                "heavy, unbalanced head with a large, soft striking surface",
+                "non-magnetic, slick face that cannot hold or start tiny tacks",
+                "flexible or floppy handle that absorbs and diffuses impact"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Crack cooked crab claws cleanly for serving",
+            "original_tool": "wooden crab mallet",
+            "expected_outcome": "Shells crack open without pulverizing the meat or damaging the plate",
+            "required_tool_attributes": [
+                "lightweight yet weighted head for controlled impulse",
+                "broad, rigid wooden striking faces for distributed force",
+                "non-marring material safe for tableware",
+                "rigid handle for swing control"
+            ],
+            "unconventional_tools": [
+                "wooden pepper mill (use the flat base as the striker)",
+                "cocktail muddler (wood/bamboo, flat end)",
+                "wooden rolling pin (hold a handle and tap with the barrel/end)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible striking surface that absorbs impact instead of delivering it",
+                "narrow, sharp or abrasive edges that concentrate force and mar shells and tableware",
+                "flexible or limp handle that bends or flops, reducing swing control"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Split a brick paver to size for a walkway",
+            "original_tool": "brick mason\u2019s hammer",
+            "expected_outcome": "The paver breaks cleanly along the scored line",
+            "required_tool_attributes": [
+                "hardened, rigid striking face for crisp blows",
+                "chisel/peen edge to score the brick",
+                "sufficient head mass for effective momentum transfer",
+                "ergonomic handle for controlled impacts"
+            ],
+            "unconventional_tools": [
+                "framing hammer with a straight ripping claw",
+                "camp hatchet with a hammer poll",
+                "large adjustable wrench (crescent wrench)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compliant, or flexible striking surface that absorbs impact instead of delivering crisp blows",
+                "rounded, blunt edge with no chisel/peen for scoring",
+                "featherlight head and a floppy or slippery handle that prevents controlled, forceful strikes"
+            ],
+            "impossible_tools": [
+                "rubber mallet",
+                "rope",
+                "kitchen sponge",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Drive a steel fence T-post into garden soil",
+            "original_tool": "manual post driver",
+            "expected_outcome": "The post is embedded to the required depth and stands plumb",
+            "required_tool_attributes": [
+                "heavy steel tube with weighted striking collar to concentrate force on the post top",
+                "rigid construction to withstand repeated impacts",
+                "side handles to guide vertical strokes safely",
+                "sufficient mass to maximize momentum transfer"
+            ],
+            "unconventional_tools": [
+                "steel car wheel rim (without tire)",
+                "cast-iron patio umbrella base with center pole hole",
+                "Olympic weight plate with grip holes"
+            ],
+            "opposite_tool_attributes": [
+                "lightweight, low-mass body that minimizes momentum transfer",
+                "flexible or soft construction that absorbs impact and deforms under load instead of staying rigid",
+                "no side handles or slippery grips that prevent safe, controlled vertical guidance"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Close gaps in tongue-and-groove laminate flooring using a tapping block",
+            "original_tool": "nylon-faced mallet",
+            "expected_outcome": "Boards interlock snugly without chipping the edges",
+            "required_tool_attributes": [
+                "hard, non-marring synthetic faces to protect edges",
+                "moderate head mass for controlled impulse",
+                "low-rebound behavior for precise seating",
+                "rigid handle for accurate aim"
+            ],
+            "unconventional_tools": [
+                "neoprene- or vinyl-coated dumbbell (2\u20135 lb)",
+                "plastic water bottle filled with sand or rice (DIY dead-blow)",
+                "silicone-coated rolling pin"
+            ],
+            "opposite_tool_attributes": [
+                "soft or abrasive/metal striking faces that mar or deform laminate edges",
+                "very light head mass that cannot deliver a controlled impulse",
+                "high-rebound, bouncy striking behavior that reduces seating precision"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Set a brass grommet in a canvas tarp using a die set",
+            "original_tool": "ball-peen hammer",
+            "expected_outcome": "The grommet is rolled and locked securely to the fabric",
+            "required_tool_attributes": [
+                "flat, rigid striking face to drive the die straight",
+                "sufficient head mass for decisive blows",
+                "hardened steel construction for durability",
+                "balanced head for repeatable accuracy"
+            ],
+            "unconventional_tools": [
+                "large adjustable wrench (used as an improvised hammer, striking with the flat jaw side)",
+                "heavy chrome-vanadium socket (used as a handheld striker with its flat end)",
+                "stainless-steel meat tenderizer mallet (using the flat face)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compliant, or flexible striking face instead of a flat, rigid one",
+                "extremely light head with low inertia, unable to deliver decisive blows",
+                "non-hardened, easily deformed materials and/or an unbalanced, rounded head that causes glancing strikes"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster",
+                "cooked spaghetti noodle"
+            ]
+        },
+        {
+            "task_goal": "Break up a small cracked concrete pad for removal",
+            "original_tool": "sledgehammer",
+            "expected_outcome": "The slab fractures into manageable pieces for disposal",
+            "required_tool_attributes": [
+                "very heavy head to maximize momentum transfer",
+                "long, rigid handle to increase swing arc and velocity",
+                "broad, hardened striking face for durability",
+                "shock-absorbing grip for control and comfort"
+            ],
+            "unconventional_tools": [
+                "heavy kettlebell (e.g., 24-32 kg)",
+                "old steel car wheel with tire (used as a drop weight)",
+                "10-20 lb hex dumbbell"
+            ],
+            "opposite_tool_attributes": [
+                "feather-light or hollow head that cannot transfer momentum",
+                "short, flexible (rope-like) handle that limits swing arc and rigidity",
+                "soft, compressible striking surface that deforms instead of delivering impact"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable toy hammer",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Drive a steel wedge into a log to start a firewood split",
+            "original_tool": "drilling hammer (mini-sledge)",
+            "expected_outcome": "The wedge advances and the log splits along the grain",
+            "required_tool_attributes": [
+                "compact, high-mass head for powerful, accurate strikes",
+                "flat, rigid striking face aligned to the wedge head",
+                "short, rigid handle for close-control blows",
+                "hardened steel head to resist mushrooming"
+            ],
+            "unconventional_tools": [
+                "4-way lug wrench (tire iron)",
+                "hex-head one-handed dumbbell (5\u201310 lb)",
+                "large adjustable wrench (crescent wrench, 12\u201315 in)"
+            ],
+            "opposite_tool_attributes": [
+                "low-mass, hollow head that cannot deliver sufficient momentum",
+                "soft, rounded, compliant striking face that deforms or glances off",
+                "long, flexible handle that absorbs energy and reduces close-control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather pillow"
+            ]
+        },
+        {
+            "task_goal": "Nail metal flashing while installing asphalt shingles",
+            "original_tool": "roofing hammer (roofing hatchet)",
+            "expected_outcome": "Roofing nails are set flush at consistent spacing without damaging shingles",
+            "required_tool_attributes": [
+                "milled, rigid striking face to reduce nail slippage",
+                "moderate head mass for rapid driving",
+                "integrated magnet/gauge aids for nail placement",
+                "ergonomic handle for repetitive impacts"
+            ],
+            "unconventional_tools": [
+                "steel meat tenderizer mallet (textured face)",
+                "12-inch adjustable wrench used as an improvised hammer",
+                "D-cell Maglite flashlight (aluminum body) used for striking"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, soft, or flexible striking face that deforms and promotes nail slippage",
+                "ultralight or excessively heavy/imbalanced head that prevents fast, controlled driving",
+                "no integrated nail magnet/gauge and a slippery, non-ergonomic handle"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster",
+                "paper towel"
+            ]
+        },
+        {
+            "task_goal": "Straighten a bent steel L-bracket on an anvil",
+            "original_tool": "cross-peen hammer",
+            "expected_outcome": "The bracket is flattened and reformed to a true right angle",
+            "required_tool_attributes": [
+                "flat face for general strikes and cross-peen to localize force",
+                "hardened, rigid faces for effective metal deformation",
+                "balanced head for precise blows",
+                "sufficient mass for momentum transfer"
+            ],
+            "unconventional_tools": [
+                "large adjustable wrench",
+                "steel crowbar/wrecking bar",
+                "trailer hitch ball mount"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or shock-absorbing striking faces instead of hardened, rigid faces",
+                "no flat face or peen; rounded/spherical or knife-like edges that can't apply broad or linear localized force",
+                "extremely light, poorly balanced, or wobbly head/handle that prevents precise, high-momentum blows"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Install a bicycle star nut into a threadless steerer using a setting tool",
+            "original_tool": "ball-peen hammer",
+            "expected_outcome": "The star nut is seated straight at the specified depth",
+            "required_tool_attributes": [
+                "flat, rigid striking face to drive the setting tool squarely",
+                "moderate head mass for controlled impulse",
+                "balanced head and handle for aim accuracy",
+                "durable steel construction for repeated impacts"
+            ],
+            "unconventional_tools": [
+                "heavy adjustable wrench (used as an improvised hammer)",
+                "metal meat tenderizer mallet with a smooth face",
+                "large Maglite-style flashlight (aluminum-bodied) used to strike the setting tool"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compliant, or padded striking face (rounded/deforming) instead of a flat, rigid face",
+                "very low-mass or severely unbalanced head/handle that prevents controlled, accurate impacts",
+                "fragile, non-steel head (e.g., rubber foam, plastic, glass/ceramic) that deforms or shatters under repeated blows"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Chip slag from a stick-weld bead before the next pass",
+            "original_tool": "welding chipping hammer",
+            "expected_outcome": "Brittle slag flakes off, revealing clean weld metal",
+            "required_tool_attributes": [
+                "pointed and chisel peens to concentrate impact on slag",
+                "hardened, rigid head for repeated blows",
+                "spring or shock-damping handle for comfort and control",
+                "sufficient head mass to deliver sharp impacts"
+            ],
+            "unconventional_tools": [
+                "geologist's rock hammer (rock pick)",
+                "roofing hatchet",
+                "fireplace poker with a coiled/spring handle"
+            ],
+            "opposite_tool_attributes": [
+                "rounded, blunt impact face with no point or chisel edge, dispersing force instead of concentrating it",
+                "soft, flexible, deformable head (rubber/foam) that absorbs energy rather than delivering a sharp blow",
+                "ultra-light, hollow head lacking sufficient mass to chip brittle slag"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "feather duster",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Collect a hand sample by splitting a small rock in the field",
+            "original_tool": "geologist\u2019s hammer (rock hammer)",
+            "expected_outcome": "A fresh fracture exposes the rock\u2019s interior for analysis",
+            "required_tool_attributes": [
+                "hardened, rigid blunt face for striking",
+                "pick or chisel peen to initiate fractures",
+                "balanced, durable construction for repeated impacts",
+                "sufficient head mass for effective momentum transfer"
+            ],
+            "unconventional_tools": [
+                "camp hatchet (small axe)",
+                "tire iron (lug wrench)",
+                "large adjustable wrench"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible striking surface that deforms and absorbs impact instead of transferring force",
+                "no pointed/chisel peen; smooth, rounded ends that cannot concentrate stress to initiate fractures",
+                "very light, flexible, poorly balanced construction lacking sufficient head mass and durability for repeated blows"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        }
+    ]
+}

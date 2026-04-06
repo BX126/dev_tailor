@@ -1,0 +1,324 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Sweep cereal crumbs from a kitchen tile floor into a dustpan after breakfast",
+            "original_tool": "angled broom",
+            "expected_outcome": "Crumbs are consolidated into a small pile and transferred cleanly into the dustpan, leaving the floor clear",
+            "required_tool_attributes": [
+                "wide bristle head for broad surface contact",
+                "moderately stiff bristles to push particles via friction",
+                "angled head to maintain consistent edge contact with the floor",
+                "long handle to apply distributed force comfortably"
+            ],
+            "unconventional_tools": [
+                "long-handled car snow brush with bristle head",
+                "telescoping window squeegee",
+                "stiff piece of corrugated cardboard used as a floor scraper"
+            ]
+        },
+        {
+            "task_goal": "Clear sawdust off a woodworking bench into a waste bin",
+            "original_tool": "bench brush",
+            "expected_outcome": "Loose sawdust is gathered along the bench edge and swept into a bin, leaving a clean work surface",
+            "required_tool_attributes": [
+                "dense, short bristles for fine particulate control",
+                "rigid brush spine to distribute force evenly",
+                "hand-sized handle for precise strokes",
+                "slightly compliant bristle tips to conform to minor surface irregularities"
+            ],
+            "unconventional_tools": [
+                "nail brush",
+                "plastic dough scraper",
+                "small window squeegee"
+            ]
+        },
+        {
+            "task_goal": "Gather wet leaves on a front porch into a pile for bagging",
+            "original_tool": "push broom",
+            "expected_outcome": "Leaves are moved into a manageable pile without clogging, ready for pickup",
+            "required_tool_attributes": [
+                "extra-wide head for high-coverage sweeping",
+                "stiff, water-resistant bristles to move clumped leaves",
+                "rigid block to transfer distributed force across the head",
+                "long handle for leverage over rough outdoor surfaces"
+            ],
+            "unconventional_tools": [
+                "wide snow pusher shovel",
+                "storefront window squeegee with extension pole",
+                "rubber boot-scraper doormat strapped to a long handle as a pusher"
+            ]
+        },
+        {
+            "task_goal": "Push standing water across a garage floor toward a floor drain",
+            "original_tool": "floor squeegee",
+            "expected_outcome": "Water is driven in a consistent sheet toward the drain, leaving the floor largely dry",
+            "required_tool_attributes": [
+                "continuous flexible rubber blade for edge-to-surface seal",
+                "rigid channel to maintain uniform pressure along the blade",
+                "wide head for efficient coverage",
+                "long handle to apply even, distributed force"
+            ],
+            "unconventional_tools": [
+                "rubber-edged snow pusher shovel",
+                "long-handled dustpan with rubber lip",
+                "sponge mop (roller mop)"
+            ]
+        },
+        {
+            "task_goal": "Collect scattered nails and metal shavings on a shop floor into a disposal container",
+            "original_tool": "magnetic sweeper",
+            "expected_outcome": "Ferrous debris is gathered under the magnetic bar in a single path and released into a container, reducing puncture hazards",
+            "required_tool_attributes": [
+                "broad magnetic bar for wide-area pickup",
+                "wheels to maintain consistent height and motion",
+                "rigid frame to transmit pushing force evenly",
+                "handle for controlled sweeping over the surface"
+            ],
+            "unconventional_tools": [
+                "Hand truck/dolly with a magnetic knife strip fixed along the toe plate",
+                "Kick scooter with a magnetic knife strip mounted across the front axle",
+                "Rolling suitcase with strong magnets attached along the bottom front edge"
+            ]
+        },
+        {
+            "task_goal": "Remove fresh snow from a car windshield toward the hood before driving",
+            "original_tool": "snow brush",
+            "expected_outcome": "Windshield and wipers are cleared of loose snow, improving visibility",
+            "required_tool_attributes": [
+                "wide foam head or soft bristles for broad contact without scratching",
+                "cold-resistant materials to remain flexible in low temperatures",
+                "long handle for reach across the windshield",
+                "slight head compliance to follow glass curvature"
+            ],
+            "unconventional_tools": [
+                "sponge mop (foam head) with long handle",
+                "window squeegee with telescoping handle",
+                "foam paint roller on an extension pole"
+            ]
+        },
+        {
+            "task_goal": "Level surface and move topdressing on a clay tennis court toward the sidelines",
+            "original_tool": "court drag mat",
+            "expected_outcome": "Court surface is evened out with loose material redistributed to edges, improving play consistency",
+            "required_tool_attributes": [
+                "wide, flexible mesh to create distributed dragging force",
+                "weighted edge to maintain contact with the clay",
+                "pull bar or rope for even towing across the surface",
+                "abrasion-resistant material to withstand grit"
+            ],
+            "unconventional_tools": [
+                "section of plastic snow/safety fence mesh with a metal or PVC pipe as a weighted leading edge and a tow rope",
+                "cut piece of chain-link fencing with a 2x4 attached as a weighted edge and a pull rope",
+                "mesh truck tarp or shade cloth with a broom handle as a weighted edge and a rope for towing"
+            ]
+        },
+        {
+            "task_goal": "Brush algae and silt from a swimming pool floor toward the main drain",
+            "original_tool": "pool brush",
+            "expected_outcome": "Suspended debris is directed toward circulation points, aiding filtration and water clarity",
+            "required_tool_attributes": [
+                "wide brush head with angled bristles for effective push on a submerged surface",
+                "water-resistant construction for durability",
+                "telescoping pole for reach and leverage",
+                "medium-stiff bristles to dislodge biofilm without damaging liner"
+            ],
+            "unconventional_tools": [
+                "deck scrub brush head (polypropylene bristles) threaded onto a painter\u2019s telescoping pole",
+                "extendable car-wash brush (soft/medium nylon bristles) on a wash pole",
+                "wide floor squeegee with neoprene blade on a telescoping handle"
+            ]
+        },
+        {
+            "task_goal": "Sweep loose hair from a client\u2019s neck down to the cape edge after a haircut",
+            "original_tool": "barber neck duster",
+            "expected_outcome": "Neck and collar area are cleared of itchy clippings without irritating the skin",
+            "required_tool_attributes": [
+                "ultra-soft, dense bristles for gentle broad contact",
+                "flared brush profile to move many fine strands at once",
+                "compact handle for controlled strokes",
+                "anti-static fibers to reduce hair cling"
+            ],
+            "unconventional_tools": [
+                "kabuki makeup brush (large, dense powder brush)",
+                "baby hair brush (soft natural-bristle)",
+                "horsehair clothes brush (garment brush)"
+            ]
+        },
+        {
+            "task_goal": "Clear excess flour from a bakery prep table into a scrap bin",
+            "original_tool": "pastry bench brush",
+            "expected_outcome": "Work surface is free of loose flour, ready for the next dough batch",
+            "required_tool_attributes": [
+                "soft natural bristles to avoid scratching smooth benches",
+                "narrow, straight edge for controlled sweeping lines",
+                "rigid spine for uniform pressure distribution",
+                "food-safe, flour-resistant materials"
+            ],
+            "unconventional_tools": [
+                "new, unused natural-bristle flat paintbrush (2-3 inch)",
+                "new horsehair clothes/shoe brush",
+                "small silicone window squeegee"
+            ]
+        },
+        {
+            "task_goal": "Sweep crumbs and dust out from a desktop keyboard toward a collection tray",
+            "original_tool": "anti-static electronics brush",
+            "expected_outcome": "Debris is moved out of key gaps without building static, allowing easy disposal",
+            "required_tool_attributes": [
+                "fine, conductive bristles to dissipate static",
+                "narrow, tapered brush head for tight spaces",
+                "rigid back to apply controlled, even force",
+                "ergonomic handle for precise maneuvering"
+            ],
+            "unconventional_tools": [
+                "interdental brush (proxy brush with wire core)",
+                "straw-cleaning brush for reusable straws",
+                "pipe cleaner (chenille stem)"
+            ]
+        },
+        {
+            "task_goal": "Move pine needles off a shingled roof toward the gutter for collection",
+            "original_tool": "soft-bristle push broom on extension pole",
+            "expected_outcome": "Roof surface is cleared with debris aligned at the gutter line for easier bagging",
+            "required_tool_attributes": [
+                "soft, flagged bristles to avoid damaging shingles",
+                "wide head for efficient coverage",
+                "lightweight, long extension pole for reach and control",
+                "rigid block to maintain even contact along the sweep"
+            ],
+            "unconventional_tools": [
+                "Pool noodle zip-tied to a painter's extension pole",
+                "18-inch paint roller frame with microfiber or foam cover on an extension pole",
+                "Microfiber flat floor mop (Swiffer-style) with telescoping handle"
+            ]
+        },
+        {
+            "task_goal": "Sweep cold ash from a fireplace hearth toward the ash pan",
+            "original_tool": "hearth brush",
+            "expected_outcome": "Residual ash is gathered into the pan, leaving the hearth tidy for the next fire",
+            "required_tool_attributes": [
+                "heat-tolerant bristles suitable for ash",
+                "short, stiff bristles to move fine, heavy particles",
+                "rigid ferrule and spine for even pressure",
+                "compact handle for confined spaces"
+            ],
+            "unconventional_tools": [
+                "natural-fiber vegetable scrub brush (tampico/coir bristles on a wooden block)",
+                "stiff horsehair shoe-polishing brush",
+                "metal bench/dough scraper"
+            ]
+        },
+        {
+            "task_goal": "Clean accumulated chalk dust from a whiteboard tray into a waste bin",
+            "original_tool": "small counter brush",
+            "expected_outcome": "Chalk particles are consolidated and removed, preventing dust spread",
+            "required_tool_attributes": [
+                "narrow head for tray-sized strokes",
+                "stiff-but-flexible bristles for powdery debris",
+                "rigid spine for uniform sweeping pressure",
+                "slightly angled head for edge contact"
+            ],
+            "unconventional_tools": [
+                "old toothbrush (angled-neck)",
+                "expired gift card/credit card",
+                "small rubber shower squeegee"
+            ]
+        },
+        {
+            "task_goal": "Remove settled dust from solar panels toward the lower edge for rinsing",
+            "original_tool": "solar panel cleaning brush",
+            "expected_outcome": "Panels are free of dust films, improving light transmission and efficiency",
+            "required_tool_attributes": [
+                "ultra-soft, non-scratching bristles for delicate glass",
+                "wide head to maximize contact area",
+                "water-fed channel to lubricate and carry debris along the sweep",
+                "long, lightweight pole for reach and controlled force"
+            ],
+            "unconventional_tools": [
+                "microfiber spray floor mop (Bona/Swiffer-style) with refillable reservoir",
+                "microfiber paint roller on an extension pole paired with a hand-pump garden sprayer for water feed",
+                "pool skimmer pole with a foam pool noodle wrapped in microfiber and a zip-tied soaker hose for gentle water-fed sweeping"
+            ]
+        },
+        {
+            "task_goal": "Gather confetti and glitter off a theater stage into the wings after a show",
+            "original_tool": "stage broom",
+            "expected_outcome": "Floor is cleared with debris lined along the wings for bagging or vacuuming",
+            "required_tool_attributes": [
+                "extra-wide head for fast coverage of large areas",
+                "medium-stiff bristles to move mixed-size debris",
+                "long handle for ergonomic, even-pressure strokes",
+                "durable block to maintain flat contact"
+            ],
+            "unconventional_tools": [
+                "plastic snow pusher shovel (wide-blade driveway shovel)",
+                "leaf rake used upside-down to push debris",
+                "rubber doormat zip-tied to a pole as a wide floor pusher"
+            ]
+        },
+        {
+            "task_goal": "Consolidate gravel and grit on a warehouse floor toward a collection point",
+            "original_tool": "heavy-duty push broom",
+            "expected_outcome": "A windrow of debris is formed for easy shoveling or vacuuming, reducing slip hazards",
+            "required_tool_attributes": [
+                "very stiff bristles to push heavy particles",
+                "steel-reinforced block for rigidity under load",
+                "wide head for distributed force transfer",
+                "long handle for leverage over rough concrete"
+            ],
+            "unconventional_tools": [
+                "metal garden rake used as a push broom (tines forward or using the flat back)",
+                "wooden pallet dragged edge-on like a floor plow with a rope or handle",
+                "heavy coir doormat used as a drag broom to push grit toward a pile"
+            ]
+        },
+        {
+            "task_goal": "Brush spilled potting soil off a greenhouse potting bench into a trug",
+            "original_tool": "potting bench brush",
+            "expected_outcome": "Loose soil is gathered neatly for reuse or disposal, leaving the bench tidy",
+            "required_tool_attributes": [
+                "medium-stiff bristles to move damp soil",
+                "rigid brush spine to distribute sweeping force",
+                "short handle for close control near edges",
+                "moisture-resistant fibers"
+            ],
+            "unconventional_tools": [
+                "stiff nylon nail brush",
+                "window squeegee",
+                "plastic paddle hairbrush"
+            ]
+        },
+        {
+            "task_goal": "Clear litter and grit along a curb toward the vacuum intake of a municipal sweeper",
+            "original_tool": "street sweeper side broom",
+            "expected_outcome": "Debris is swept from the gutter line into the pickup path, leaving the curb clean",
+            "required_tool_attributes": [
+                "rotating disc with radial, stiff bristles for continuous sweeping contact",
+                "hydraulic drive to sustain distributed sweeping force",
+                "durable bristles to withstand asphalt and curb edges",
+                "integrated water spray for dust suppression and debris cohesion"
+            ],
+            "unconventional_tools": [
+                "Garden-hose-powered rotary car-wash brush",
+                "Cordless drill with a stiff nylon bristle wheel/brush attachment",
+                "Angle grinder fitted with a knotted wire cup brush and a clip-on hose mister"
+            ]
+        },
+        {
+            "task_goal": "Expose buried boundary lines on a beach volleyball court by moving sand off the tape",
+            "original_tool": "line sweeper brush",
+            "expected_outcome": "Court lines are clearly visible with sand brushed to either side of the tape",
+            "required_tool_attributes": [
+                "cylindrical brush sized to line width for precise sweeping",
+                "stiff radial bristles to push dry sand effectively",
+                "wheeled guide to maintain alignment over the tape",
+                "ergonomic handle to apply steady, distributed force"
+            ],
+            "unconventional_tools": [
+                "large round barrel hairbrush",
+                "2-inch paint roller (frame with short-nap cover)",
+                "growler-size bottle brush with stiff bristles"
+            ]
+        }
+    ]
+}

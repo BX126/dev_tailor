@@ -1,0 +1,324 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Puncture the shrink-wrap on a new electronics package to start opening it",
+            "original_tool": "utility knife",
+            "expected_outcome": "A clean initial hole in the plastic film allows it to tear open easily without excessive force",
+            "required_tool_attributes": [
+                "sharp, pointed tip",
+                "rigid steel blade",
+                "ergonomic handle for controlled force",
+                "high hardness to resist tip deformation"
+            ],
+            "unconventional_tools": [
+                "thumbtack (push pin)",
+                "Phillips screwdriver",
+                "metal nail file"
+            ]
+        },
+        {
+            "task_goal": "Vent a microwave meal by piercing the plastic film cover",
+            "original_tool": "kitchen fork",
+            "expected_outcome": "Small holes in the film release steam so the meal heats evenly without bursting",
+            "required_tool_attributes": [
+                "tapered, pointed tines",
+                "rigid stainless steel construction",
+                "insulated handle for safe grip",
+                "corrosion resistance for food contact"
+            ],
+            "unconventional_tools": [
+                "corn cob holder (two-prong)",
+                "wooden toothpick",
+                "plastic-headed thumbtack"
+            ]
+        },
+        {
+            "task_goal": "Pin a printed notice to a corkboard",
+            "original_tool": "thumbtack",
+            "expected_outcome": "The paper is secured to the board through a clean puncture and remains in place",
+            "required_tool_attributes": [
+                "sharp needle point",
+                "rigid metal shank",
+                "broad head to apply thumb pressure",
+                "tip hardness to penetrate cork cleanly"
+            ],
+            "unconventional_tools": [
+                "stud earring with backing",
+                "small wood screw",
+                "bead-head sewing pin"
+            ]
+        },
+        {
+            "task_goal": "Add a new hole to a leather belt for a better fit",
+            "original_tool": "leather awl",
+            "expected_outcome": "A neat, correctly placed hole is formed through the belt without tearing",
+            "required_tool_attributes": [
+                "hardened, tapered point",
+                "rigid shaft that won\u2019t flex",
+                "comfortable handle for controlled force",
+                "smooth, low-friction tip to pass through leather"
+            ],
+            "unconventional_tools": [
+                "ice pick",
+                "metal barbecue skewer",
+                "geometry drawing compass (the pointed leg)"
+            ]
+        },
+        {
+            "task_goal": "Pop a decorative balloon for cleanup after a party",
+            "original_tool": "sewing pin",
+            "expected_outcome": "The balloon rapidly deflates with a single prick",
+            "required_tool_attributes": [
+                "very fine, sharp point",
+                "rigid steel wire",
+                "small head for precise handling",
+                "low diameter to concentrate stress"
+            ],
+            "unconventional_tools": [
+                "toothpick",
+                "mechanical pencil lead (extended)",
+                "stud earring post"
+            ]
+        },
+        {
+            "task_goal": "Open the inner foil seal on a new tube of caulk",
+            "original_tool": "caulk gun puncture rod",
+            "expected_outcome": "The foil barrier inside the nozzle is pierced, allowing caulk to dispense smoothly",
+            "required_tool_attributes": [
+                "stiff steel rod with pointed tip",
+                "sufficient length to reach inner seal",
+                "rigid mounting to transmit force",
+                "tip hardness to resist blunting"
+            ],
+            "unconventional_tools": [
+                "16d framing nail clamped in locking pliers",
+                "stainless steel BBQ skewer",
+                "ice pick"
+            ]
+        },
+        {
+            "task_goal": "Anchor a tent by driving stakes into firm soil",
+            "original_tool": "tent stake and mallet",
+            "expected_outcome": "Stakes penetrate the ground and hold under tension, keeping the tent secure",
+            "required_tool_attributes": [
+                "tapered, pointed stake tip",
+                "rigid, impact-resistant body",
+                "head shape to accept mallet blows",
+                "sufficient length for ground purchase"
+            ],
+            "unconventional_tools": [
+                "long Phillips-head screwdriver",
+                "stainless steel BBQ skewer",
+                "large masonry nail or spike"
+            ]
+        },
+        {
+            "task_goal": "Aerate compacted soil in a potted plant",
+            "original_tool": "wooden chopstick",
+            "expected_outcome": "A series of narrow holes loosens soil and improves water and air flow to roots",
+            "required_tool_attributes": [
+                "tapered point",
+                "adequate rigidity to resist bending",
+                "length to reach root zone",
+                "smooth surface to slide through soil"
+            ],
+            "unconventional_tools": [
+                "knitting needle",
+                "ballpoint pen",
+                "paintbrush handle"
+            ]
+        },
+        {
+            "task_goal": "Prevent whole potatoes from bursting in the oven",
+            "original_tool": "fork",
+            "expected_outcome": "Pierced skins vent steam during baking, avoiding splits and mess",
+            "required_tool_attributes": [
+                "sharp, narrow tines",
+                "rigid metal construction",
+                "heat-resistant handle",
+                "point hardness to penetrate skin cleanly"
+            ],
+            "unconventional_tools": [
+                "meat thermometer probe",
+                "metal kebab skewer",
+                "corn cob holders"
+            ]
+        },
+        {
+            "task_goal": "Attach retail price tags to garments",
+            "original_tool": "tagging gun",
+            "expected_outcome": "The plastic fastener passes through fabric, securely joining the tag without large holes",
+            "required_tool_attributes": [
+                "hollow, sharp needle",
+                "rigid steel needle to prevent flex",
+                "trigger mechanism to drive the fastener",
+                "guarded tip for controlled penetration"
+            ],
+            "unconventional_tools": [
+                "marinade injector syringe",
+                "ball inflation needle attached to a small syringe",
+                "embroidery punch needle"
+            ]
+        },
+        {
+            "task_goal": "Start a small opening in drywall to pass a low-voltage cable",
+            "original_tool": "scratch awl",
+            "expected_outcome": "A clean puncture creates an entry point that can be widened as needed",
+            "required_tool_attributes": [
+                "hardened, pointed tip",
+                "rigid shaft for accurate force transfer",
+                "ergonomic handle for pushing force",
+                "tip geometry that concentrates stress"
+            ],
+            "unconventional_tools": [
+                "metal kebab skewer",
+                "large finishing nail gripped with pliers",
+                "letter opener"
+            ]
+        },
+        {
+            "task_goal": "Create a pour spout on an evaporated milk can",
+            "original_tool": "church key can piercer",
+            "expected_outcome": "A triangular hole in the can lid allows controlled pouring",
+            "required_tool_attributes": [
+                "sharp, pointed tooth",
+                "rigid steel lever arm",
+                "handle providing leverage",
+                "tip hardness to pierce thin metal"
+            ],
+            "unconventional_tools": [
+                "Phillips screwdriver",
+                "Ice pick",
+                "Vegetable peeler with pointed eye remover"
+            ]
+        },
+        {
+            "task_goal": "Release a trapped air bubble under wallpaper",
+            "original_tool": "straight pin",
+            "expected_outcome": "The bubble vents through a tiny hole and the wallpaper lies flat when smoothed",
+            "required_tool_attributes": [
+                "ultra-fine, sharp point",
+                "rigid wire to avoid bending",
+                "low-diameter shaft to minimize hole visibility",
+                "smooth surface to slide in cleanly"
+            ],
+            "unconventional_tools": [
+                "high E guitar string (cut end)",
+                "straightened staple (single leg)",
+                "drawing compass point"
+            ]
+        },
+        {
+            "task_goal": "Add drainage holes to a plastic plant pot",
+            "original_tool": "awl",
+            "expected_outcome": "Several small holes through the base allow excess water to escape",
+            "required_tool_attributes": [
+                "sharp, tapered tip",
+                "rigid, hardened steel shaft",
+                "comfortable handle for downward force",
+                "tip toughness to pierce plastic without chipping"
+            ],
+            "unconventional_tools": [
+                "metal BBQ skewer",
+                "large finishing nail (grip with pliers or wrap with cloth as a handle)",
+                "can punch opener (church key) with the pointed end"
+            ]
+        },
+        {
+            "task_goal": "Check if a cake is baked through",
+            "original_tool": "wooden toothpick",
+            "expected_outcome": "Toothpick penetrates the cake and comes out clean if done, with minimal surface damage",
+            "required_tool_attributes": [
+                "tapered, fine point",
+                "sufficient rigidity despite small diameter",
+                "food-safe, smooth surface",
+                "length to reach cake center"
+            ],
+            "unconventional_tools": [
+                "uncooked spaghetti strand",
+                "stainless steel knitting needle",
+                "tapered wooden chopstick"
+            ]
+        },
+        {
+            "task_goal": "Thread marinated meat cubes onto skewers for grilling",
+            "original_tool": "metal skewer",
+            "expected_outcome": "Meat pieces are neatly pierced and aligned on the skewer for even cooking",
+            "required_tool_attributes": [
+                "sharpened tip",
+                "rigid stainless steel shaft",
+                "sufficient length for multiple pieces",
+                "heat-resistant handle or loop"
+            ],
+            "unconventional_tools": [
+                "stainless steel knitting needle",
+                "metal tent stake/peg",
+                "stainless steel bicycle spoke"
+            ]
+        },
+        {
+            "task_goal": "Create a starter divot in wood so a drill bit won\u2019t wander",
+            "original_tool": "center punch",
+            "expected_outcome": "A small, conical indentation penetrates the surface fibers and guides the drill bit",
+            "required_tool_attributes": [
+                "hardened, conical tip",
+                "rigid, high-mass body to take hammer blows",
+                "tip geometry that concentrates impact",
+                "surface hardness to resist mushrooming"
+            ],
+            "unconventional_tools": [
+                "masonry nail",
+                "drywall screw",
+                "ice pick"
+            ]
+        },
+        {
+            "task_goal": "Break a thin ice layer on a birdbath to refresh water",
+            "original_tool": "ice pick",
+            "expected_outcome": "A puncture point fractures the ice, creating an opening for removal or melting",
+            "required_tool_attributes": [
+                "very sharp, hardened point",
+                "rigid steel shaft",
+                "non-slip, comfortable handle",
+                "robust tang-to-handle connection for impact"
+            ],
+            "unconventional_tools": [
+                "Phillips-head screwdriver",
+                "metal tent stake (tent peg)",
+                "dandelion weeder (root weeder tool)"
+            ]
+        },
+        {
+            "task_goal": "Withdraw solvent from a reagent bottle without removing its rubber septum",
+            "original_tool": "syringe with hypodermic needle",
+            "expected_outcome": "The needle pierces the septum, allowing controlled fluid withdrawal and resealing afterward",
+            "required_tool_attributes": [
+                "ultra-sharp beveled tip",
+                "rigid, thin-walled stainless steel",
+                "hollow lumen for fluid flow",
+                "secure luer-lock connection to syringe"
+            ],
+            "unconventional_tools": [
+                "sports ball inflation needle",
+                "marinade injector needle",
+                "grease gun needle adapter"
+            ]
+        },
+        {
+            "task_goal": "Hang lightweight string lights on a drywall surface",
+            "original_tool": "clear pushpin",
+            "expected_outcome": "Pushpins penetrate the drywall paper, holding the light cord in place without large holes",
+            "required_tool_attributes": [
+                "sharp, narrow point",
+                "rigid metal pin",
+                "grippable head for controlled pressure",
+                "tip hardness to pierce drywall paper cleanly"
+            ],
+            "unconventional_tools": [
+                "ball-head sewing pin",
+                "safety pin (opened and inserted)",
+                "stud earring (post)"
+            ]
+        }
+    ]
+}

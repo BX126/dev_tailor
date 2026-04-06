@@ -1,0 +1,549 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Open a glass-front cabinet door whose handle snapped off without scratching the surface",
+            "original_tool": "suction cup handle",
+            "expected_outcome": "The cabinet door is pulled open cleanly using the suction grip, with no damage to the glass",
+            "required_tool_attributes": [
+                "high-friction rubber cup that forms a vacuum seal",
+                "rigid handle to transmit tensile force",
+                "locking lever to maintain suction under load",
+                "ergonomic, non-slip grip"
+            ],
+            "unconventional_tools": [
+                "windshield smartphone mount with suction cup and locking lever",
+                "small sink plunger",
+                "suction-cup shower hook with lever lock"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, low-friction, porous or vented contact surface that cannot form an airtight vacuum seal",
+                "limp, flexible linkage instead of a rigid handle to transmit tensile force",
+                "no locking mechanism and a slippery, non-ergonomic grip that slips under load"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "paper towel",
+                "magnet hook"
+            ]
+        },
+        {
+            "task_goal": "Uncork a wine bottle at a dinner party",
+            "original_tool": "waiter's corkscrew",
+            "expected_outcome": "The cork is pulled out intact, leaving the bottle ready to pour",
+            "required_tool_attributes": [
+                "sharp helical worm to hook into the cork",
+                "lever fulcrum for controlled directional pull",
+                "rigid handle for tension transfer",
+                "textured grip for secure hold"
+            ],
+            "unconventional_tools": [
+                "screw eye (eye bolt)",
+                "self-drilling drywall anchor",
+                "dinner fork (used Ah-So style)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, non-helical tip that cannot penetrate or bite into cork",
+                "flexible, floppy body with no lever fulcrum or rigid handle",
+                "smooth, slick grip surface that offers no traction"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "cooked spaghetti noodle",
+                "bar of soap"
+            ]
+        },
+        {
+            "task_goal": "Remove a bent nail from a wooden pallet for reuse",
+            "original_tool": "claw hammer",
+            "expected_outcome": "The nail is pulled free without splitting the wood",
+            "required_tool_attributes": [
+                "V-notched curved claw to hook the nail head",
+                "hardened steel body for high tensile loads",
+                "long rigid handle for leverage and controlled pull",
+                "non-slip handle surface"
+            ],
+            "unconventional_tools": [
+                "locking pliers (Vise-Grips) clamped to the nail, rocked against a small wood block as fulcrum",
+                "5-in-1 painter's tool with nail-pulling notch",
+                "forked dandelion weeder (garden weeding tool) used as a lever"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, rounded end with no V-notch or hook to catch a nail head",
+                "soft, flexible, or brittle body material that deforms or fractures under tensile loads",
+                "short, bending or elastic handle with a slippery grip that prevents leverage and control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "silicone spatula",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Lower a roller shade to block afternoon glare in an office",
+            "original_tool": "roller shade beaded chain",
+            "expected_outcome": "The shade is pulled down smoothly and stays at the chosen height",
+            "required_tool_attributes": [
+                "low-stretch chain to transmit tension reliably",
+                "small spherical beads for finger grip",
+                "abrasion-resistant links for repeated pulling",
+                "adequate tensile strength for shade weight"
+            ],
+            "unconventional_tools": [
+                "ceiling fan or light fixture pull chain (metal ball chain segment)",
+                "dog tag ball-chain necklace used as a makeshift pull chain",
+                "paracord with evenly spaced stopper knots to mimic bead grip"
+            ],
+            "opposite_tool_attributes": [
+                "high-stretch, elastic cord that elongates under tension",
+                "smooth, beadless surface that offers no discrete grip or sprocket engagement",
+                "fragile, easily abraded links with low tensile strength that fray or snap under repeated pulls"
+            ],
+            "impossible_tools": [
+                "elastic bungee cord",
+                "silk ribbon",
+                "wet tissue paper strip",
+                "cooked spaghetti strand",
+                "slime/putty"
+            ]
+        },
+        {
+            "task_goal": "Start a lawn mower that has been idle all winter",
+            "original_tool": "recoil starter cord",
+            "expected_outcome": "The engine fires and the starter cord safely recoils into its housing",
+            "required_tool_attributes": [
+                "T-shaped grippable handle",
+                "high-tensile, low-stretch cord",
+                "abrasion-resistant sheath",
+                "secure attachment to the recoil mechanism"
+            ],
+            "unconventional_tools": [
+                "550 paracord with a short screwdriver as a T-handle, knotted to the recoil starter",
+                "braided polyester clothesline with a cut broom-handle segment as a T-grip, tied securely to the recoil mechanism",
+                "window blind pull cord threaded through a small dowel as a T-handle and tied to the recoil spool"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, handle-less or rounded end that is hard to grip",
+                "low-tensile, highly elastic cord that stretches under load",
+                "easily abraded, fraying material that fails with rubbing"
+            ],
+            "impossible_tools": [
+                "rubber band",
+                "silk ribbon",
+                "metal chain",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Extract tent stakes from compacted soil at the end of a camping trip",
+            "original_tool": "tent stake puller",
+            "expected_outcome": "Each stake is pulled straight out without bending",
+            "required_tool_attributes": [
+                "steel hook to capture the stake head or loop",
+                "rigid handle for directional force application",
+                "non-slip grip for secure pulling",
+                "high-strength construction to resist deformation"
+            ],
+            "unconventional_tools": [
+                "ratchet tie-down strap with J-hook",
+                "car scissor jack crank handle with hooked end",
+                "cat's paw nail puller/pry bar"
+            ],
+            "opposite_tool_attributes": [
+                "hookless, smooth contact surface made of soft, flexible material",
+                "limp, flexible handle that bends or stretches under load",
+                "slick, low\u2011friction grip with low\u2011strength construction that deforms or breaks under pulling force"
+            ],
+            "impossible_tools": [
+                "inflatable beach ball",
+                "kitchen sponge",
+                "plastic wrap (cling film)",
+                "silk scarf"
+            ]
+        },
+        {
+            "task_goal": "Haul a kayak up onto a dock after paddling",
+            "original_tool": "tow rope with carabiner",
+            "expected_outcome": "The kayak is pulled alongside and onto the dock without tipping",
+            "required_tool_attributes": [
+                "high-tensile rope for load-bearing tension",
+                "water-resistant fibers for wet use",
+                "locking carabiner to hook the kayak handle",
+                "comfortable grip section to reduce hand strain"
+            ],
+            "unconventional_tools": [
+                "Ratchet tie-down cargo strap with hooks",
+                "Heavy-duty dog leash with a locking carabiner",
+                "Coated steel bicycle cable lock (use the lock shackle as a hook and the cable for pulling)"
+            ],
+            "opposite_tool_attributes": [
+                "low-tensile, elastic or brittle cord that deforms or snaps under load",
+                "absorbent, water-swelling fibers that weaken and become slippery when wet",
+                "non-locking, open connector or smooth ring that can slip off the kayak handle"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "paper towels",
+                "inflatable beach ball",
+                "rubber balloon"
+            ]
+        },
+        {
+            "task_goal": "Load a disabled sedan onto a trailer in a driveway",
+            "original_tool": "come-along hand winch",
+            "expected_outcome": "The car is pulled steadily up the ramps onto the trailer bed and held in place",
+            "required_tool_attributes": [
+                "ratcheting mechanism to incrementally pull under tension",
+                "steel cable with a safety-latch hook",
+                "long lever handle for mechanical advantage",
+                "load-rated anchor hook for secure attachment"
+            ],
+            "unconventional_tools": [
+                "Heavy-duty ratchet tie-down strap with snap-hook ends",
+                "Hi-Lift farm jack rigged as a hand winch using grade-70 chain and safety-latch hooks",
+                "Boat trailer hand-crank winch with steel cable and snap hook, temporarily mounted to the trailer frame"
+            ],
+            "opposite_tool_attributes": [
+                "non-locking, free-spooling mechanism that cannot hold or incrementally pull under tension",
+                "elastic, low-tensile line without a safety-latch hook (e.g., bungee/strap instead of steel cable)",
+                "unrated, open-ended or adhesive 'anchor' that cannot be securely attached under load"
+            ],
+            "impossible_tools": [
+                "bungee cord",
+                "yoga resistance band",
+                "tape measure",
+                "plastic zip tie"
+            ]
+        },
+        {
+            "task_goal": "Complete a sled pull exercise in a gym circuit",
+            "original_tool": "battle rope",
+            "expected_outcome": "The weighted sled is pulled across the turf to the target line",
+            "required_tool_attributes": [
+                "thick, abrasion-resistant rope for high load",
+                "end knots or sleeves for grip",
+                "low-stretch construction for efficient force transfer",
+                "high tensile strength to prevent snapping"
+            ],
+            "unconventional_tools": [
+                "vehicle tow strap (polyester recovery strap with sewn loops)",
+                "heavy-duty cargo tie-down ratchet strap (polyester webbing with hooks)",
+                "marine dock line/mooring rope with an eye splice"
+            ],
+            "opposite_tool_attributes": [
+                "thin, easily frayed, abrasion-prone material",
+                "highly elastic/stretchy construction that elongates under load",
+                "smooth, gripless ends without knots or sleeves"
+            ],
+            "impossible_tools": [
+                "silk ribbon",
+                "sewing thread",
+                "plastic grocery bag handles",
+                "bungee cord",
+                "phone charging cable"
+            ]
+        },
+        {
+            "task_goal": "Uproot a mature dandelion from a lawn without breaking the taproot",
+            "original_tool": "stand-up weed puller",
+            "expected_outcome": "The entire weed, including root, is pulled out cleanly",
+            "required_tool_attributes": [
+                "barbed jaws or tines to hook the root crown",
+                "long shaft to direct upward pulling force",
+                "foot pedal to set the tines for secure grip",
+                "corrosion-resistant steel components"
+            ],
+            "unconventional_tools": [
+                "gooseneck pry bar (crowbar with nail-puller claw)",
+                "stainless steel carving fork (BBQ meat fork)",
+                "dog tie-out corkscrew stake"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, non-barbed jaws or tines that cannot hook the root crown",
+                "short, flexible shaft that bends or collapses under upward force",
+                "no foot pedal or leverage mechanism to set the tines securely; hand-only grip"
+            ],
+            "impossible_tools": [
+                "kitchen sponge",
+                "rope",
+                "rubber suction-cup dent puller",
+                "inflatable pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Close a winter coat securely before going outdoors",
+            "original_tool": "zipper pull tab",
+            "expected_outcome": "The zipper is pulled up smoothly and the jacket is fully closed",
+            "required_tool_attributes": [
+                "rigid tab with a loop for finger hooking",
+                "textured surface for grip in gloves",
+                "secure linkage to the slider to transmit pull",
+                "sufficient tab length for leverage"
+            ],
+            "unconventional_tools": [
+                "soda can pull tab",
+                "split key ring",
+                "mini keychain carabiner"
+            ],
+            "opposite_tool_attributes": [
+                "floppy, non-rigid piece without a loop or opening for fingers",
+                "smooth, slick surface that gloves can\u2019t grip",
+                "loose or non-attachable connection to the zipper slider (can\u2019t transmit force)"
+            ],
+            "impossible_tools": [
+                "bar of soap",
+                "glass marble",
+                "deflated latex balloon",
+                "cooked spaghetti noodle"
+            ]
+        },
+        {
+            "task_goal": "Clear a bathroom sink clogged with hair",
+            "original_tool": "barbed drain snake",
+            "expected_outcome": "The hair clog is hooked and pulled out, restoring drainage",
+            "required_tool_attributes": [
+                "flexible yet tensile strip or cable",
+                "backward-facing barbs to snag debris",
+                "handle for controlled insertion and pullback",
+                "corrosion-resistant material for wet environments"
+            ],
+            "unconventional_tools": [
+                "long nylon zip tie (with small backward-facing notches cut along the sides)",
+                "hook-side Velcro cable wrap/strip (fed in with hooks facing back)",
+                "plastic packing strap from a shipping box (trimmed into a narrow strip with angled barbs)"
+            ],
+            "opposite_tool_attributes": [
+                "rigid, brittle rod that cannot navigate P-trap bends",
+                "smooth, unbarbed surface that cannot snag debris",
+                "absorbent or corrosion-prone material that degrades in wet environments"
+            ],
+            "impossible_tools": [
+                "kitchen sponge",
+                "paper towel",
+                "magnet on a string",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Remove a tightly packed Ethernet plug from a crowded patch panel",
+            "original_tool": "RJ45 connector extraction tool",
+            "expected_outcome": "The RJ45 plug is pulled free without damaging the latch or port",
+            "required_tool_attributes": [
+                "hooked tips sized to capture the connector body or latch",
+                "rigid, narrow-profile shaft for tight spaces",
+                "insulated, non-slip handle",
+                "sufficient tensile strength to resist bending"
+            ],
+            "unconventional_tools": [
+                "small crochet hook (2\u20133 mm)",
+                "seam ripper",
+                "L-shaped hex key (Allen wrench, ~2 mm)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, wide, non-hooked tip that cannot engage the connector body or latch",
+                "flexible or bulky shaft that bends or cannot fit into tight spaces",
+                "smooth, conductive handle with no insulation or grip"
+            ],
+            "impossible_tools": [
+                "kitchen sponge",
+                "rope or string",
+                "bar magnet",
+                "inflatable balloon"
+            ]
+        },
+        {
+            "task_goal": "Pop the hood of a car to check the oil level",
+            "original_tool": "hood release lever",
+            "expected_outcome": "The hood latch is released and the hood pops open to the safety catch",
+            "required_tool_attributes": [
+                "grippable lever end for hand pull",
+                "integrated pull cable linkage to the latch",
+                "rigid mount to transfer directional force",
+                "durable pivot to withstand repeated pulls"
+            ],
+            "unconventional_tools": [
+                "locking pliers (clamped onto the exposed hood-release cable as a temporary pull lever)",
+                "key ring or small carabiner (looped through the release cable to create a grippable pull handle)",
+                "wire coat hanger (bent into a hook to pull the latch or cable through the grille)"
+            ],
+            "opposite_tool_attributes": [
+                "slick, flush, non-grippable end that slips from the hand",
+                "no mechanical linkage to the hood latch (disconnected or missing cable)",
+                "flexible or unsecured mount that bends instead of transmitting directional pull force"
+            ],
+            "impossible_tools": [
+                "wet sponge",
+                "sheet of paper",
+                "deflated balloon",
+                "loose rope",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Drag a fallen tree limb off a hiking trail",
+            "original_tool": "hookaroon",
+            "expected_outcome": "The limb is hooked and pulled clear of the trail without lifting fully",
+            "required_tool_attributes": [
+                "sharp hooked spike to bite into wood fibers",
+                "long rigid handle for leverage and reach",
+                "high-strength head-to-handle connection",
+                "non-slip grip for secure pulling"
+            ],
+            "unconventional_tools": [
+                "steel bow rake (garden rake)",
+                "garden hoe (draw hoe)",
+                "pitchfork (manure fork)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, smooth rounded end that cannot penetrate or hook wood fibers",
+                "short, flexible or collapsible handle that bends under load and provides little reach",
+                "weak, loose head-to-handle joint likely to detach under pulling force"
+            ],
+            "impossible_tools": [
+                "foam pool noodle",
+                "silk scarf",
+                "inflatable beach ball",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Reposition a loaded pallet in a warehouse aisle",
+            "original_tool": "pallet jack handle",
+            "expected_outcome": "The pallet jack and load are pulled to the designated spot smoothly",
+            "required_tool_attributes": [
+                "steel tow bar linked to the jack frame",
+                "ergonomic D-handle for two-handed grip",
+                "pivoting linkage for directional control under tension",
+                "load-rated construction to transmit pull to the forks"
+            ],
+            "unconventional_tools": [
+                "D-handle steel garden spade",
+                "ratchet tie-down strap with steel hooks",
+                "garden utility wagon with D-handle tow bar"
+            ],
+            "opposite_tool_attributes": [
+                "soft or elastic tether not rigidly linked to the jack frame (e.g., rope/bungee) instead of a steel tow bar",
+                "no ergonomic two-handed grip; small, slippery knob or handle-less interface",
+                "non-pivoting or locked linkage that cannot provide directional control under load"
+            ],
+            "impossible_tools": [
+                "bungee cord",
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "plastic drinking straw"
+            ]
+        },
+        {
+            "task_goal": "Retrieve a life ring and person back to the dock after a splash-in drill",
+            "original_tool": "lifebuoy throw line",
+            "expected_outcome": "The ring and person are pulled safely back to the dock edge",
+            "required_tool_attributes": [
+                "floating, water-resistant rope",
+                "high-visibility color for tracking",
+                "non-slip handle or knots for grip",
+                "adequate tensile strength for human load"
+            ],
+            "unconventional_tools": [
+                "water-ski tow rope",
+                "polypropylene clothesline",
+                "pool vacuum hose"
+            ],
+            "opposite_tool_attributes": [
+                "sinking, water-absorbent line that becomes heavy when wet",
+                "smooth, slippery surface with no knots or handles for grip",
+                "low tensile strength that tears or snaps under human load"
+            ],
+            "impossible_tools": [
+                "silk ribbon spool",
+                "metal chain",
+                "crepe paper streamer",
+                "monofilament fishing line"
+            ]
+        },
+        {
+            "task_goal": "Pull three electrical conductors through conduit from one junction box to another",
+            "original_tool": "fish tape",
+            "expected_outcome": "The wires are pulled through the conduit without insulation damage and reach the target box",
+            "required_tool_attributes": [
+                "flexible tape to navigate bends yet resist buckling",
+                "hooked eye or loop to attach pull string/wires",
+                "reel and handle for controlled retrieval",
+                "high tensile strength to handle wire drag"
+            ],
+            "unconventional_tools": [
+                "steel tape measure",
+                "handheld plumber's drain snake (auger)",
+                "bicycle brake/derailleur cable with housing"
+            ],
+            "opposite_tool_attributes": [
+                "rigid, non-bendable form that cannot navigate conduit bends",
+                "smooth, featureless end with no hook or eye to attach a pull line/wires",
+                "low tensile strength or stretchy material that elongates and snaps under drag"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "ball of yarn",
+                "rubber band",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Shut a heavy sliding barn door against a strong crosswind",
+            "original_tool": "door pull strap",
+            "expected_outcome": "The door is pulled fully closed and latched",
+            "required_tool_attributes": [
+                "wide, textured strap for a secure handhold",
+                "low-stretch, high-strength webbing",
+                "reinforced mounting grommets",
+                "length sufficient for full-range pulling"
+            ],
+            "unconventional_tools": [
+                "ratchet tie-down strap",
+                "tow strap",
+                "yoga strap"
+            ],
+            "opposite_tool_attributes": [
+                "narrow, smooth strap that slips from the hand",
+                "high-stretch, low-tensile elastic that elongates under load",
+                "unreinforced holes or adhesive-only mounts that tear out"
+            ],
+            "impossible_tools": [
+                "rubber band",
+                "silk ribbon",
+                "masking tape strip",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Extract an old fence post set in soil",
+            "original_tool": "farm jack with chain",
+            "expected_outcome": "The post is pulled vertically out of the ground without breaking",
+            "required_tool_attributes": [
+                "ratcheting climb mechanism to convert handle input into upward pull",
+                "load-rated chain with hook to grip the post",
+                "long lever handle for mechanical advantage",
+                "rigid steel column to guide directional force"
+            ],
+            "unconventional_tools": [
+                "Boat trailer hand winch (ratcheting) with strap/hook, lashed to a steel stepladder as a vertical guide",
+                "Heavy-duty ratchet tie-down strap looped on the post, using a stepladder as a makeshift column",
+                "Automotive scissor jack with a short load-rated chain and hook to convert push to upward pull"
+            ],
+            "opposite_tool_attributes": [
+                "free-spinning or slipping mechanism without a ratchet/pawl, so handle input does not convert to upward lift",
+                "stretchy, non-load-rated cord without a secure hook, unable to grip or hold the post under tension",
+                "flexible or collapsible shaft/column that bends or buckles instead of guiding a straight lifting force"
+            ],
+            "impossible_tools": [
+                "bungee cord",
+                "inflatable pool noodle",
+                "plastic wrap (cling film)",
+                "sponge"
+            ]
+        }
+    ]
+}

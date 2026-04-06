@@ -1,0 +1,572 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Mix a homemade vinaigrette by combining oil and vinegar in a container",
+            "original_tool": "mason jar with screw-top lid",
+            "expected_outcome": "A stable, well-emulsified dressing with no visible separation",
+            "required_tool_attributes": [
+                "leak-proof lid to contain liquids during rapid motion",
+                "rigid walls to transmit oscillatory force",
+                "textured, grippable exterior for secure handling",
+                "sufficient headspace to allow fluid sloshing",
+                "durable seal that withstands repeated shaking"
+            ],
+            "unconventional_tools": [
+                "insulated travel coffee mug with a screw-on, leak-proof lid",
+                "wide-mouth reusable water bottle with a screw cap (Nalgene-style)",
+                "baby bottle with sealing disc and cap"
+            ],
+            "opposite_tool_attributes": [
+                "open or non-sealing/vented top that allows liquid to escape",
+                "flexible, collapsible walls that absorb motion instead of transmitting it",
+                "smooth, slippery exterior with no grip texture"
+            ],
+            "impossible_tools": [
+                "colander",
+                "mesh produce bag",
+                "flat dinner plate",
+                "sponge"
+            ]
+        },
+        {
+            "task_goal": "Activate an aerosol spray paint can before painting a metal railing",
+            "original_tool": "spray paint can",
+            "expected_outcome": "Pigment and propellant are fully mixed, producing an even spray pattern",
+            "required_tool_attributes": [
+                "internal mixing ball to agitate settled pigment",
+                "sealed, rigid cylindrical body to handle inertial forces",
+                "hand-sized diameter for reliable grip",
+                "solvent-resistant interior lining",
+                "intact spray valve that remains closed while shaking"
+            ],
+            "unconventional_tools": [
+                "orbital sander",
+                "reciprocating saw",
+                "percussion massage gun"
+            ],
+            "opposite_tool_attributes": [
+                "no internal mixing ball to agitate settled pigment",
+                "flexible, unsealed pouch-like container that deforms or leaks under shaking",
+                "spray valve that opens or leaks instead of remaining closed while shaking"
+            ],
+            "impossible_tools": [
+                "zip-top plastic bag filled with paint",
+                "latex balloon filled with paint",
+                "paper cup of paint",
+                "sponge soaked with paint",
+                "open bucket of paint"
+            ]
+        },
+        {
+            "task_goal": "Reset an old-style mercury-in-glass thermometer to below room temperature",
+            "original_tool": "mercury thermometer",
+            "expected_outcome": "Mercury column drops so the next reading starts low and is accurate",
+            "required_tool_attributes": [
+                "sealed glass tube to contain the liquid metal",
+                "dense mercury column responsive to inertial flicking",
+                "elongated stem to generate acceleration when shaken",
+                "grippable end section for control",
+                "sufficient structural integrity to withstand repeated motion"
+            ],
+            "unconventional_tools": [
+                "salad spinner",
+                "tube sock",
+                "lanyard"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or porous enclosure that cannot confine a liquid metal",
+                "absence of a dense, continuous liquid column (uses gas/foam/solid that won\u2019t respond to inertial flicking)",
+                "short, flexible, or floppy form with no rigid stem or reliable grip to generate acceleration"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflated balloon",
+                "sheet of paper",
+                "digital infrared thermometer"
+            ]
+        },
+        {
+            "task_goal": "Create a snowfall effect in a decorative display",
+            "original_tool": "snow globe",
+            "expected_outcome": "Glitter or faux snow swirls dramatically and then slowly settles",
+            "required_tool_attributes": [
+                "sealed, liquid-filled chamber",
+                "grippable base for secure handling",
+                "shatter-resistant glass or acrylic",
+                "watertight seals to prevent leaks",
+                "free internal particles that respond to oscillation"
+            ],
+            "unconventional_tools": [
+                "double-walled glitter tumbler (with floating glitter between walls)",
+                "liquid glitter phone case",
+                "glitter-filled sensory wand"
+            ],
+            "opposite_tool_attributes": [
+                "open, unsealed container with no liquid",
+                "fragile, easily shattering material construction",
+                "fixed or clumped internal particles that don\u2019t move with shaking"
+            ],
+            "impossible_tools": [
+                "colander",
+                "sponge",
+                "rope",
+                "wire whisk"
+            ]
+        },
+        {
+            "task_goal": "Blend protein powder with water for a post-workout drink",
+            "original_tool": "protein shaker bottle",
+            "expected_outcome": "Smooth, lump-free shake with fully dissolved powder",
+            "required_tool_attributes": [
+                "leak-proof cap to contain vigorous motion",
+                "internal mixing ball or baffles to break clumps",
+                "rigid body to transmit shaking energy",
+                "contoured, grippable exterior",
+                "adequate headspace for fluid movement"
+            ],
+            "unconventional_tools": [
+                "cobbler-style cocktail shaker",
+                "mason jar with screw-on lid",
+                "insulated travel coffee tumbler with a screw-top lid"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or leaky opening (open top or perforated cap) that cannot contain vigorous shaking",
+                "soft, collapsible body that deforms and absorbs shaking energy",
+                "smooth interior with no internal agitator (no ball or baffles) to break clumps"
+            ],
+            "impossible_tools": [
+                "wire-mesh colander/strainer",
+                "sponge",
+                "flat cutting board",
+                "paper bag"
+            ]
+        },
+        {
+            "task_goal": "Mix and chill a martini",
+            "original_tool": "cocktail shaker",
+            "expected_outcome": "Properly integrated, well-chilled cocktail with slight aeration",
+            "required_tool_attributes": [
+                "tight-fitting pieces to prevent leaks",
+                "cold-resistant stainless steel construction",
+                "balanced mass for efficient oscillation",
+                "textured surface for secure grip when wet",
+                "sufficient volume to accommodate ice and liquid motion"
+            ],
+            "unconventional_tools": [
+                "stainless steel travel coffee mug with a screw-on lid",
+                "wide-mouth stainless steel water bottle with a screw cap",
+                "vacuum-insulated stainless steel food jar (wide-mouth thermos)"
+            ],
+            "opposite_tool_attributes": [
+                "loose, non-sealing joints that leak during shaking",
+                "brittle or flexible, non\u2013cold-resistant body (e.g., thin glass or soft plastic) instead of stainless steel",
+                "insufficient internal volume that cannot accommodate ice and liquid movement"
+            ],
+            "impossible_tools": [
+                "mesh colander",
+                "sponge",
+                "paper bag",
+                "wicker basket",
+                "thin glass ornament"
+            ]
+        },
+        {
+            "task_goal": "Evenly dust a cake with powdered sugar",
+            "original_tool": "fine-mesh sieve",
+            "expected_outcome": "A uniform, clump-free layer of powdered sugar over the cake",
+            "required_tool_attributes": [
+                "fine mesh that releases powder under vibration",
+                "rigid frame to maintain mesh tension during shaking",
+                "handle for controlled oscillation",
+                "bowl-shaped cavity to hold powder while moving",
+                "light but sturdy construction for rapid motion"
+            ],
+            "unconventional_tools": [
+                "tea infuser ball (mesh sphere with clamp and small handle)",
+                "reusable metal pour-over coffee filter cone",
+                "stainless steel mesh sink strainer"
+            ],
+            "opposite_tool_attributes": [
+                "solid, non-perforated surface that blocks powder instead of letting it pass",
+                "flexible, collapsible frame/mesh that sags and loses tension under shaking",
+                "heavy, handle-less, flat design with no bowl cavity to hold powder or control oscillation"
+            ],
+            "impossible_tools": [
+                "solid ceramic plate",
+                "sponge",
+                "rope",
+                "hammer",
+                "magnet"
+            ]
+        },
+        {
+            "task_goal": "Remove loose dust and crumbs from a small entryway rug",
+            "original_tool": "door mat rug",
+            "expected_outcome": "Visible dust and debris are released from the fibers",
+            "required_tool_attributes": [
+                "durable fabric that tolerates abrupt motion",
+                "reinforced edges for gripping",
+                "sufficient mass to build inertial waves",
+                "flexible body to transmit oscillations",
+                "manageable size for two-handed shaking"
+            ],
+            "unconventional_tools": [
+                "rubber car floor mat",
+                "rolled yoga mat",
+                "blackout curtain panel with grommets"
+            ],
+            "opposite_tool_attributes": [
+                "delicate, easily torn material that can't tolerate abrupt motion",
+                "rigid, inflexible structure that won't transmit oscillations",
+                "featherlight body with insufficient mass to build inertial waves"
+            ],
+            "impossible_tools": [
+                "tissue paper sheet",
+                "helium balloon",
+                "glass pane",
+                "aluminum foil sheet"
+            ]
+        },
+        {
+            "task_goal": "Erase the drawing on a classic screen toy",
+            "original_tool": "Etch A Sketch",
+            "expected_outcome": "Screen returns to a uniformly blank slate",
+            "required_tool_attributes": [
+                "sealed chamber with free aluminum powder",
+                "rigid rectangular frame to withstand shaking",
+                "grippable sides for controlled motion",
+                "internal particles that redistribute under oscillation",
+                "durable construction to absorb repeated impacts"
+            ],
+            "unconventional_tools": [
+                "handheld massage gun",
+                "orbital sander",
+                "washing machine on spin cycle"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or porous chamber where particles escape or are immobilized (no free aluminum powder)",
+                "flexible, non-rectangular body that deforms under shaking instead of a rigid rectangular frame",
+                "slippery, ungrippable surfaces and fragile construction that cannot withstand repeated impacts"
+            ],
+            "impossible_tools": [
+                "pencil eraser",
+                "whiteboard eraser",
+                "rubber balloon",
+                "rope"
+            ]
+        },
+        {
+            "task_goal": "Extend print quality by redistributing toner in a fading cartridge",
+            "original_tool": "laser printer toner cartridge",
+            "expected_outcome": "Toner is spread evenly, temporarily improving print density",
+            "required_tool_attributes": [
+                "sealed compartments to prevent powder leaks",
+                "integrated handholds for safe grip",
+                "internal baffles or geometry that respond to shaking",
+                "rigid casing to endure oscillatory forces",
+                "light-blocking housing to protect toner"
+            ],
+            "unconventional_tools": [
+                "opaque protein shaker bottle with mixing ball and locking screw cap",
+                "opaque laundry detergent jug with screw cap and molded handle",
+                "insulated stainless-steel travel mug with locking lid and handle"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or porous container that allows fine powder to leak during shaking",
+                "flexible, collapsible casing that deforms under oscillatory forces",
+                "smooth, unbaffled interior that does not redistribute material when agitated"
+            ],
+            "impossible_tools": [
+                "mesh strainer/colander",
+                "thin zip-top plastic bag filled with toner",
+                "balloon filled with toner powder",
+                "open bowl or tray"
+            ]
+        },
+        {
+            "task_goal": "Coat chicken pieces evenly with seasoned flour without making a mess",
+            "original_tool": "zip-top freezer bag",
+            "expected_outcome": "Chicken is uniformly coated and ready for cooking",
+            "required_tool_attributes": [
+                "reliable zipper seal to contain contents",
+                "heavy-duty plastic that resists tearing",
+                "flexible walls to tumble pieces during shaking",
+                "textured exterior for a secure grip",
+                "sufficient capacity and headspace for motion"
+            ],
+            "unconventional_tools": [
+                "clean, empty cereal box inner liner bag",
+                "disposable shower cap secured with a twist or clip",
+                "protein powder shaker bottle with screw-on lid"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or perforated design that allows flour to escape",
+                "thin, tear-prone, or porous material that fails under shaking",
+                "rigid, inflexible walls with too little capacity/headspace for tumbling"
+            ],
+            "impossible_tools": [
+                "wire mesh colander/strainer",
+                "cooling rack",
+                "slotted spoon",
+                "box cheese grater"
+            ]
+        },
+        {
+            "task_goal": "Activate a glow stick for nighttime visibility on a hike",
+            "original_tool": "glow stick",
+            "expected_outcome": "Even, bright luminescence along the entire stick",
+            "required_tool_attributes": [
+                "sealed, flexible plastic tube",
+                "fragile inner glass ampoule to snap before shaking",
+                "translucent casing to emit light",
+                "slender shape for easy, rapid oscillation",
+                "chemically resistant housing to contain reactants"
+            ],
+            "unconventional_tools": [
+                "LED shoelaces",
+                "electroluminescent (EL) wire with a small battery pack",
+                "clear vinyl aquarium tubing threaded with micro-LED fairy lights and capped at both ends"
+            ],
+            "opposite_tool_attributes": [
+                "rigid, inflexible outer body that prevents bending to snap an inner ampoule",
+                "opaque casing that blocks light transmission",
+                "porous, chemically reactive housing that leaks or degrades on contact with reactants"
+            ],
+            "impossible_tools": [
+                "solid steel rod",
+                "sponge",
+                "rope",
+                "ceramic mug"
+            ]
+        },
+        {
+            "task_goal": "Resuspend a pediatric antibiotic that has settled between doses",
+            "original_tool": "medicine bottle (amoxicillin suspension)",
+            "expected_outcome": "Uniformly mixed suspension for accurate dosing",
+            "required_tool_attributes": [
+                "child-resistant, leak-proof cap",
+                "rigid bottle walls to transmit shaking force",
+                "amber or opaque material to protect from light",
+                "grippable bottle shape for control",
+                "adequate headspace for fluid agitation"
+            ],
+            "unconventional_tools": [
+                "empty amber hydrogen peroxide bottle with child-resistant cap",
+                "mouthwash bottle with child-resistant cap",
+                "protein shaker bottle with screw-on, leak-proof lid"
+            ],
+            "opposite_tool_attributes": [
+                "non-sealing or vented opening without a child-resistant, leak-proof cap",
+                "flexible, collapsible walls that fail to transmit shaking force",
+                "no headspace (container filled to the brim) preventing fluid agitation"
+            ],
+            "impossible_tools": [
+                "open cereal bowl",
+                "mesh kitchen colander",
+                "household sponge",
+                "paper towel"
+            ]
+        },
+        {
+            "task_goal": "Recombine separated pigments in a nail polish before application",
+            "original_tool": "nail polish bottle",
+            "expected_outcome": "Consistent, streak-free color that applies evenly",
+            "required_tool_attributes": [
+                "tight screw cap to prevent leaks",
+                "internal metal mixing balls to agitate pigment",
+                "rigid glass vessel for inertia transfer",
+                "hand-sized, grippable geometry",
+                "solvent-resistant materials"
+            ],
+            "unconventional_tools": [
+                "Small glass spice jar with screw cap + 2 stainless-steel nuts as mixing balls",
+                "Empty glass cough-syrup bottle (childproof screw cap) + a couple of stainless-steel BBs",
+                "Mini glass hot sauce bottle (1\u20132 oz) + a clean stainless-steel bolt as agitator"
+            ],
+            "opposite_tool_attributes": [
+                "loose, non-sealing or open cap prone to leaking during shaking",
+                "flexible, collapsible container that absorbs motion instead of transferring inertia",
+                "solvent-reactive or porous materials that dissolve, swell, or leach into polish"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "paper cup",
+                "plastic zip-top bag",
+                "mesh strainer/colander",
+                "latex balloon"
+            ]
+        },
+        {
+            "task_goal": "Prime and mix a paint marker before labeling storage bins",
+            "original_tool": "paint marker",
+            "expected_outcome": "Opaque, uniformly mixed paint flows reliably to the tip",
+            "required_tool_attributes": [
+                "sealed barrel to contain liquid paint",
+                "internal ball agitator to break up settled pigment",
+                "rigid cylindrical body for efficient shaking",
+                "valve tip that remains closed during shaking",
+                "solvent-resistant construction"
+            ],
+            "unconventional_tools": [
+                "correction fluid pen",
+                "nail polish bottle with mixing ball",
+                "spray paint can"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or porous reservoir/tip that leaks during shaking",
+                "no internal agitator; absorbent wick system instead of a mixing ball",
+                "flexible, deformable body (bag or squeeze tube) rather than a rigid cylinder"
+            ],
+            "impossible_tools": [
+                "paintbrush",
+                "open paper cup of paint",
+                "squeeze tube of acrylic craft paint",
+                "chalk stick",
+                "felt-tip highlighter"
+            ]
+        },
+        {
+            "task_goal": "Move rice to one corner of a bag before cutting a pour spout",
+            "original_tool": "plastic rice bag",
+            "expected_outcome": "Grains collect at a corner, allowing a clean, controlled opening and pour",
+            "required_tool_attributes": [
+                "sealed, gusseted flexible packaging",
+                "smooth interior for grains to slide under inertia",
+                "grippable exterior for secure handling",
+                "robust welded seams to withstand agitation",
+                "sufficient mass of contents for effective displacement"
+            ],
+            "unconventional_tools": [
+                "unopened cereal bag liner",
+                "stand-up coffee bean pouch",
+                "gallon stand-up zip-top freezer bag"
+            ],
+            "opposite_tool_attributes": [
+                "Unsealed, rigid or perforated container lacking gussets (cannot be flexed to form a corner)",
+                "High-friction, textured or absorbent interior that prevents grains from sliding under inertia",
+                "Insufficient mass of contents (too little rice to displace effectively)"
+            ],
+            "impossible_tools": [
+                "Wire mesh colander",
+                "Flat ceramic plate or open tray",
+                "Kitchen sponge or microfiber towel",
+                "Rigid glass jar (no flexible corners to gather rice)",
+                "Open-weave produce net bag"
+            ]
+        },
+        {
+            "task_goal": "Activate an air-activated hand warmer quickly in cold weather",
+            "original_tool": "hand warmer pouch",
+            "expected_outcome": "Warmer heats up uniformly and maintains steady warmth",
+            "required_tool_attributes": [
+                "air-permeable but sealed outer pouch",
+                "granular contents that redistribute when shaken",
+                "tear-resistant fabric to handle motion",
+                "palm-sized for easy oscillation",
+                "sufficient mass to respond to shaking"
+            ],
+            "unconventional_tools": [
+                "food-grade oxygen absorber packet (iron powder sachet from packaged foods or bulk storage)",
+                "reptile shipping heat pack (long-duration air-activated pouch)",
+                "adhesive toe warmer pad"
+            ],
+            "opposite_tool_attributes": [
+                "airtight, non-breathable outer layer that blocks oxygen exchange",
+                "single solid block or viscous gel contents that do not redistribute when shaken",
+                "fragile, tear-prone outer material that rips under vigorous motion"
+            ],
+            "impossible_tools": [
+                "vacuum-sealed foil/mylar pouch",
+                "solid rubber hockey puck",
+                "reusable sodium acetate gel heat pack (click-heat warmer)",
+                "open-weave mesh produce bag"
+            ]
+        },
+        {
+            "task_goal": "Agitate diluted fertilizer in a garden sprayer before application",
+            "original_tool": "pump sprayer tank",
+            "expected_outcome": "Solution is uniformly mixed, ensuring consistent nutrient delivery",
+            "required_tool_attributes": [
+                "screw-on, leak-resistant cap",
+                "rigid, chemical-resistant tank",
+                "carry handle for gripping and shaking",
+                "internal free volume to allow sloshing",
+                "durable seals to prevent leakage under motion"
+            ],
+            "unconventional_tools": [
+                "empty laundry detergent jug with screw-on cap and handle",
+                "wide-mouth Nalgene (HDPE/Tritan) water bottle with loop-top screw cap",
+                "protein shaker bottle (BlenderBottle-style) with screw-on lid and gasket"
+            ],
+            "opposite_tool_attributes": [
+                "loose, non-sealing or open cap/lid that allows leakage",
+                "flexible, collapsible, or chemically reactive container body",
+                "completely full container with no internal headspace for sloshing"
+            ],
+            "impossible_tools": [
+                "colander/strainer",
+                "open-top bucket without a sealing lid",
+                "sponge",
+                "paper bag"
+            ]
+        },
+        {
+            "task_goal": "Dislodge viscous ketchup from a glass bottle to speed pouring",
+            "original_tool": "glass ketchup bottle",
+            "expected_outcome": "Ketchup moves to the neck and flows smoothly when poured",
+            "required_tool_attributes": [
+                "rigid glass body to transfer inertial force",
+                "narrow neck to channel displaced contents",
+                "secure cap to contain shaking if needed",
+                "grippable shape or textured label",
+                "sufficient mass of contents to respond to oscillation"
+            ],
+            "unconventional_tools": [
+                "clean glass olive oil bottle with screw cap",
+                "rinsed glass kombucha bottle with narrow mouth and cap",
+                "glass maple syrup bottle with cap"
+            ],
+            "opposite_tool_attributes": [
+                "Flexible or collapsible body that absorbs and damps inertial force instead of transmitting it",
+                "Wide, open mouth or perforated sides with no narrow neck to channel displaced contents",
+                "Unsealed or loose cap/closure that cannot contain contents during vigorous shaking"
+            ],
+            "impossible_tools": [
+                "Plastic zip-top bag of ketchup",
+                "Shallow open bowl or plate",
+                "Wire mesh colander",
+                "Kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Churn heavy cream into butter using a household container",
+            "original_tool": "wide-mouth jar with tight lid",
+            "expected_outcome": "Butter solids form and separate from buttermilk",
+            "required_tool_attributes": [
+                "leak-proof lid to contain vigorous sloshing",
+                "rigid walls to transmit shaking energy",
+                "wide mouth to accommodate cream and later removal",
+                "ergonomic, grippable body",
+                "ample headspace to promote phase separation via agitation"
+            ],
+            "unconventional_tools": [
+                "Protein shaker bottle (BlenderBottle-style) with screw lid",
+                "Wide-mouth Nalgene water bottle with screw cap",
+                "Wide-mouth insulated food thermos (soup jar) with leak-proof lid"
+            ],
+            "opposite_tool_attributes": [
+                "loose, vented, or non-sealing lid that leaks under vigorous shaking",
+                "soft, flexible, or collapsible walls that absorb motion instead of transmitting it",
+                "narrow mouth or constricted neck that prevents easy filling and butter removal"
+            ],
+            "impossible_tools": [
+                "colander/mesh strainer",
+                "mesh produce bag",
+                "open mixing bowl (no lid)",
+                "sponge",
+                "flat dinner plate"
+            ]
+        }
+    ]
+}

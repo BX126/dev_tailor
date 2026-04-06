@@ -1,0 +1,324 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Punch clean holes in a 20-sheet stack of paper for a binder",
+            "original_tool": "two-hole punch",
+            "expected_outcome": "Two aligned, clean holes are cut through the stack and the pages fit smoothly into the binder rings",
+            "required_tool_attributes": [
+                "rigid steel punches and anvil",
+                "lever handle for mechanical advantage",
+                "flat, stable base to direct normal force",
+                "alignment guide to localize pressure precisely"
+            ],
+            "unconventional_tools": [
+                "revolving leather belt hole punch pliers",
+                "hand drill with a 1/4-inch (6 mm) bit and a scrap-wood backer",
+                "stainless-steel drinking straw used as a hollow punch with a mallet and cutting board"
+            ]
+        },
+        {
+            "task_goal": "Dislodge a minor clog in a bathroom sink",
+            "original_tool": "sink plunger",
+            "expected_outcome": "Water drains freely after pressure cycles push and pull the blockage loose",
+            "required_tool_attributes": [
+                "rigid handle to transmit compressive force",
+                "stiffened rubber cup lip to seal and transfer normal force",
+                "broad contact face to apply localized pressure over the drain",
+                "durable construction to withstand repetitive loading"
+            ],
+            "unconventional_tools": [
+                "automotive dent puller suction cup",
+                "bathroom suction grab bar",
+                "silicone rimmed pot lid with center knob"
+            ]
+        },
+        {
+            "task_goal": "Inflate a bicycle tire to 60 PSI",
+            "original_tool": "floor pump",
+            "expected_outcome": "The tire reaches the target pressure and holds air",
+            "required_tool_attributes": [
+                "rigid pump handle and piston rod",
+                "sealed cylinder and piston head to convert pressing to air compression",
+                "stable base for vertical force application",
+                "pressure gauge to control applied force outcome"
+            ],
+            "unconventional_tools": [
+                "hand-pumped garden pressure sprayer",
+                "large veterinary or marinade syringe with tubing",
+                "compressed air duster can with a valve adapter"
+            ]
+        },
+        {
+            "task_goal": "Crush garlic cloves for cooking",
+            "original_tool": "garlic press",
+            "expected_outcome": "Finely crushed garlic extrudes through the perforations",
+            "required_tool_attributes": [
+                "rigid hopper and plunger plate",
+                "levered handles for force amplification",
+                "perforated metal grid to focus pressure",
+                "corrosion-resistant construction"
+            ],
+            "unconventional_tools": [
+                "potato ricer",
+                "handheld citrus squeezer (lemon/lime press)",
+                "cookie press with perforated disks"
+            ]
+        },
+        {
+            "task_goal": "Flatten a ball of masa into a uniform tortilla",
+            "original_tool": "tortilla press",
+            "expected_outcome": "A round, evenly thin tortilla is formed without tears",
+            "required_tool_attributes": [
+                "two flat, rigid plates for even normal force",
+                "hinge and handle to concentrate force",
+                "smooth, low-friction contact surface",
+                "stable base to prevent lateral slip"
+            ],
+            "unconventional_tools": [
+                "panini press",
+                "large 3-ring binder",
+                "hardcover book"
+            ]
+        },
+        {
+            "task_goal": "Compact espresso grounds evenly in a portafilter",
+            "original_tool": "espresso tamper",
+            "expected_outcome": "A level, compressed coffee puck with consistent density is formed",
+            "required_tool_attributes": [
+                "flat, rigid tamper base",
+                "diameter matched to basket for edge-to-edge pressure",
+                "ergonomic handle to apply vertical force",
+                "smooth face to prevent grounds from sticking"
+            ],
+            "unconventional_tools": [
+                "flat-bottomed shot glass or small rocks glass used upside-down",
+                "stainless steel 1/4-cup measuring cup",
+                "small spice jar with a flat, smooth base used upside-down"
+            ]
+        },
+        {
+            "task_goal": "Separate coffee grounds from brewed coffee",
+            "original_tool": "French press",
+            "expected_outcome": "The plunger reaches the bottom with minimal fines in the cup",
+            "required_tool_attributes": [
+                "rigid plunger rod and frame",
+                "flat, supported filter disk to transmit uniform force",
+                "close-fitting mesh to resist deformation",
+                "guided lid to maintain vertical alignment"
+            ],
+            "unconventional_tools": [
+                "potato ricer",
+                "hand-crank food mill",
+                "manual milk frother (plunger-style)"
+            ]
+        },
+        {
+            "task_goal": "Toast and compress a panini sandwich",
+            "original_tool": "panini press",
+            "expected_outcome": "A warmed, crisp sandwich with grill marks and melted interior",
+            "required_tool_attributes": [
+                "heavy, flat heated top plate",
+                "hinge allowing vertical normal force",
+                "rigid lower plate for counterforce",
+                "insulated handle for safe force application"
+            ],
+            "unconventional_tools": [
+                "waffle iron",
+                "cast iron campfire pie iron (jaffle iron)",
+                "hair straightener (flat iron)"
+            ]
+        },
+        {
+            "task_goal": "Remove wrinkles from a cotton shirt",
+            "original_tool": "steam iron",
+            "expected_outcome": "The fabric lies flat and smooth without creases",
+            "required_tool_attributes": [
+                "smooth, rigid soleplate to distribute compressive load",
+                "sufficient weight to maintain contact pressure",
+                "ergonomic handle for additional downward force",
+                "heat-resistant structure to maintain rigidity under temperature"
+            ],
+            "unconventional_tools": [
+                "cast-iron skillet",
+                "hair straightener (flat iron)",
+                "stainless steel saucepan filled with hot water"
+            ]
+        },
+        {
+            "task_goal": "Stamp a return address on 50 envelopes",
+            "original_tool": "rubber stamp with ink pad",
+            "expected_outcome": "Consistent, legible impressions appear on each envelope",
+            "required_tool_attributes": [
+                "firmly backed stamp face to transmit normal force",
+                "flat mounting block for even contact",
+                "handle to apply vertical pressure",
+                "precise relief pattern to localize pressure"
+            ],
+            "unconventional_tools": [
+                "Large vinyl eraser carved with the mirrored return address, double-sided taped to a small wooden block as a handle",
+                "Self-adhesive craft foam letters (reversed) arranged on a flat jar lid or wooden block to create a stamp face",
+                "Section of a rubber flip-flop sole carved in reverse and glued to a flat block for even contact and grip"
+            ]
+        },
+        {
+            "task_goal": "Emboss an official seal on a document",
+            "original_tool": "handheld embosser",
+            "expected_outcome": "A crisp, raised seal impression appears without tearing the paper",
+            "required_tool_attributes": [
+                "hardened male and female dies",
+                "lever mechanism for high localized pressure",
+                "rigid frame to prevent flex under load",
+                "registration guides for accurate placement"
+            ],
+            "unconventional_tools": [
+                "C-clamp with paired engraved steel washers acting as male/female dies and taped-on edge guides",
+                "Locking pliers (Vise-Grips) fitted with small matched die inserts and a simple registration jig",
+                "Garlic press outfitted with matching emboss plates and a corner-stop guide"
+            ]
+        },
+        {
+            "task_goal": "Install a phone screen protector bubble-free",
+            "original_tool": "plastic squeegee card",
+            "expected_outcome": "Protector is fully adhered with no trapped air or dust lines",
+            "required_tool_attributes": [
+                "rigid, straight edge to focus normal force along a line",
+                "smooth surface to glide without scratching",
+                "sufficient stiffness to transmit hand-applied pressure",
+                "compact form to control angle and contact"
+            ],
+            "unconventional_tools": [
+                "butter knife (dull) wrapped in a microfiber cloth or painter\u2019s tape",
+                "CD/DVD jewel case edge",
+                "wooden craft stick (popsicle stick) wrapped in clear tape"
+            ]
+        },
+        {
+            "task_goal": "Press a wheel bearing onto a hub assembly",
+            "original_tool": "hydraulic shop press",
+            "expected_outcome": "Bearing seats fully and squarely without damage",
+            "required_tool_attributes": [
+                "rigid hydraulic ram with flat pressing face",
+                "high-strength frame to resist deflection",
+                "press plates/adapters to localize force on the race",
+                "controlled stroke to apply steady normal load"
+            ],
+            "unconventional_tools": [
+                "large bench vise paired with a hardened impact socket or old bearing race as the press adapter",
+                "hydraulic bottle jack used as a ram inside a stout improvised H-frame with a flat pressing plate",
+                "long high-strength threaded rod (all-thread) with nuts, large washers, and sockets used as a draw-type press"
+            ]
+        },
+        {
+            "task_goal": "Drill a perpendicular 10 mm hole in hardwood",
+            "original_tool": "drill press",
+            "expected_outcome": "A clean, accurate hole with minimal tear-out",
+            "required_tool_attributes": [
+                "feed lever to apply controlled downward force",
+                "rigid quill and column to maintain alignment",
+                "flat table for counterforce",
+                "depth stop to limit press travel"
+            ],
+            "unconventional_tools": [
+                "camera tripod with crank center column (used to guide a hand drill vertically)",
+                "car scissor jack (used as a feed press to push a clamped drill straight down)",
+                "large F-clamp or bar clamp (used as a makeshift vertical press and depth stop)"
+            ]
+        },
+        {
+            "task_goal": "Compact gravel base for a patio paver",
+            "original_tool": "hand tamper",
+            "expected_outcome": "A level, densely packed surface that resists shifting",
+            "required_tool_attributes": [
+                "heavy, flat steel plate to deliver normal force",
+                "rigid handle to transmit impacts",
+                "broad contact area to distribute load evenly",
+                "durable welds to withstand repetitive pressing"
+            ],
+            "unconventional_tools": [
+                "Hand truck/utility dolly using the steel toe plate as a tamper",
+                "Square-point (transfer) shovel used flat-side-down to compact",
+                "Cast-iron skillet or griddle used face-down as a makeshift tamper"
+            ]
+        },
+        {
+            "task_goal": "Crimp crown caps onto homebrew bottles",
+            "original_tool": "bench bottle capper",
+            "expected_outcome": "Caps are evenly crimped and bottles are airtight",
+            "required_tool_attributes": [
+                "steel crimping cup to localize pressure around cap rim",
+                "lever arm for mechanical advantage",
+                "rigid post and base to counteract force",
+                "bottle height adjustment for correct contact"
+            ],
+            "unconventional_tools": [
+                "Drill press with a 26 mm deep socket chucked upside-down as the steel crimping cup (use press lever, rigid column/base, and adjustable table for height)",
+                "Bench vise pressing a 1 in. deep socket used as the crimping cup, with the bottle on wood blocks/shims for height adjustment",
+                "Heavy-duty C-clamp with a steel pipe cap or deep socket as the crimping cup, bottle on a rigid board and height tuned with shims"
+            ]
+        },
+        {
+            "task_goal": "Reset a router using its recessed reset switch",
+            "original_tool": "unfolded paperclip",
+            "expected_outcome": "Device resets after the switch is held down for the required time",
+            "required_tool_attributes": [
+                "narrow, rigid tip to reach the recessed button",
+                "stiff wire to transmit localized force",
+                "small contact area to concentrate pressure",
+                "non-bending length for precise control"
+            ],
+            "unconventional_tools": [
+                "sewing needle",
+                "opened safety pin",
+                "stud earring post"
+            ]
+        },
+        {
+            "task_goal": "Terminate Ethernet conductors into a keystone jack",
+            "original_tool": "110 punchdown tool",
+            "expected_outcome": "Each wire is fully seated and trimmed in the IDC slots",
+            "required_tool_attributes": [
+                "slotted, rigid blade to direct force onto the conductor",
+                "impact spring to deliver controlled pressing force",
+                "flat anvil surface for counterpressure",
+                "ergonomic grip for vertical application"
+            ],
+            "unconventional_tools": [
+                "flathead screwdriver",
+                "putty knife",
+                "metal spudger"
+            ]
+        },
+        {
+            "task_goal": "Install metal grommets in a canvas tarp",
+            "original_tool": "grommet hand press",
+            "expected_outcome": "Grommets are securely flared and flush without fabric tearing",
+            "required_tool_attributes": [
+                "hardened die set to localize high pressure",
+                "lever mechanism for force multiplication",
+                "rigid throat/frame for alignment",
+                "flat base to support the workpiece"
+            ],
+            "unconventional_tools": [
+                "Heavy-duty C-clamp with a deep socket (anvil) and a domed bolt head or ball bearing (setter)",
+                "Bench vise with a socket as the anvil and a rounded bolt head as the flaring die",
+                "Car scissor jack used as a press under a sturdy table with a shallow socket and large washer as improvised dies"
+            ]
+        },
+        {
+            "task_goal": "Test a ceiling-mounted smoke alarm",
+            "original_tool": "broom handle",
+            "expected_outcome": "The alarm sounds its test tone confirming it functions",
+            "required_tool_attributes": [
+                "long, rigid shaft to transmit force upward",
+                "small, firm tip to press the test button",
+                "lightweight construction for control at height",
+                "non-flexing structure to avoid energy loss"
+            ],
+            "unconventional_tools": [
+                "closed umbrella",
+                "vacuum cleaner wand/extension tube",
+                "telescoping curtain rod"
+            ]
+        }
+    ]
+}

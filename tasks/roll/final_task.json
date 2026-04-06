@@ -1,0 +1,551 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Flatten pie dough to an even thickness for a crust",
+            "original_tool": "rolling pin",
+            "expected_outcome": "Dough is uniformly flattened to the desired thickness without tearing",
+            "required_tool_attributes": [
+                "smooth cylindrical surface for continuous rotational contact",
+                "rigid structure to maintain shape under pressure",
+                "low-friction rotation relative to hands or handles",
+                "sufficient mass to aid rolling with reduced sliding"
+            ],
+            "unconventional_tools": [
+                "wine bottle",
+                "straight-sided drinking glass",
+                "stainless steel water bottle (filled)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or compressible body that deforms under pressure",
+                "irregular, non-cylindrical, or textured surface that prevents smooth continuous contact",
+                "fixed or high-friction interface with hands that prevents low-friction rotation"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "chain",
+                "wire whisk",
+                "cheese grater"
+            ]
+        },
+        {
+            "task_goal": "Apply an even coat of paint to a living room wall",
+            "original_tool": "paint roller",
+            "expected_outcome": "The wall is uniformly covered with paint without streaks or brush marks",
+            "required_tool_attributes": [
+                "cylindrical nap sleeve to enable rolling application",
+                "low-friction axle or cage bearings for smooth rotation",
+                "rigid frame to transmit torque",
+                "absorbent nap with appropriate pile height for paint loading"
+            ],
+            "unconventional_tools": [
+                "Kitchen rolling pin wrapped in a microfiber towel (secured with rubber bands)",
+                "Lint roller handle fitted with a terry-cloth sock sleeve",
+                "Pool noodle mounted on a broom/dowel axle and covered with a fleece or microfiber sleeve"
+            ],
+            "opposite_tool_attributes": [
+                "flat or irregular, non-cylindrical contact surface that cannot roll",
+                "seized/high-friction axle or no bearings that prevent smooth rotation",
+                "non-absorbent, slick surface with no nap/pile to load paint"
+            ],
+            "impossible_tools": [
+                "rope",
+                "chain",
+                "rolling pin",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Move a heavy refrigerator across the kitchen",
+            "original_tool": "appliance hand truck",
+            "expected_outcome": "The refrigerator is relocated safely with minimal effort and floor damage",
+            "required_tool_attributes": [
+                "round wheels with low rolling resistance",
+                "robust axle alignment for stable rotation",
+                "high load-bearing capacity",
+                "treaded tires for traction on various floor types"
+            ],
+            "unconventional_tools": [
+                "two sturdy skateboards topped with a plywood sheet as a makeshift dolly",
+                "heavy-duty garden wagon or yard cart with pneumatic treaded tires",
+                "large wheeled garbage bin (wheelie bin) used as a tilted dolly"
+            ],
+            "opposite_tool_attributes": [
+                "square or irregular wheels with high rolling resistance",
+                "bent/misaligned axles that wobble and bind",
+                "low load-bearing structure that collapses under heavy weight"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "sheet of paper",
+                "cluster of party balloons",
+                "inflatable pool float"
+            ]
+        },
+        {
+            "task_goal": "Level freshly laid sod on a backyard lawn",
+            "original_tool": "lawn roller",
+            "expected_outcome": "Sod is firmly pressed into contact with soil, leaving a smooth, even surface",
+            "required_tool_attributes": [
+                "large cylindrical drum for broad rotational contact",
+                "smooth surface to prevent gouging",
+                "fillable ballast (water/sand) for adjustable mass",
+                "low-friction bearings on the drum axle"
+            ],
+            "unconventional_tools": [
+                "barrel-style compost tumbler",
+                "55-gallon plastic rain barrel",
+                "stainless steel beer keg"
+            ],
+            "opposite_tool_attributes": [
+                "narrow, non-cylindrical or irregular contact surface (no broad rotational contact)",
+                "rough, serrated, or spiked surface that gouges the turf",
+                "non-fillable, ultra-light or soft body with no adjustable ballast and high-friction/no axle bearings"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "garden/leaf rake with metal tines",
+                "inflatable beach ball",
+                "kitchen whisk"
+            ]
+        },
+        {
+            "task_goal": "Remove pet hair from a wool coat",
+            "original_tool": "lint roller",
+            "expected_outcome": "Loose hair and lint are lifted off the coat without damaging the fabric",
+            "required_tool_attributes": [
+                "freely rotating cylindrical core",
+                "tacky surface to pick up fibers during rolling",
+                "ergonomic handle to apply light pressure",
+                "rigid core to prevent deformation"
+            ],
+            "unconventional_tools": [
+                "mini paint roller wrapped with painter's or masking tape (sticky side out)",
+                "ball-bearing rolling pin wrapped with packing tape (sticky side out)",
+                "muscle massage roller stick with rotating segments wrapped in double-sided tape"
+            ],
+            "opposite_tool_attributes": [
+                "fixed, non-rotating flat pad instead of a freely rotating cylindrical core",
+                "smooth, low-friction, non-adhesive surface that repels fibers rather than grabbing them",
+                "flexible, collapsible core without an ergonomic handle, preventing controlled pressure"
+            ],
+            "impossible_tools": [
+                "neodymium bar magnet",
+                "rope",
+                "smooth glass bottle",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Encapsulate a poster in clear laminate for protection",
+            "original_tool": "pouch laminator",
+            "expected_outcome": "Poster is sealed in laminate with no bubbles or wrinkles",
+            "required_tool_attributes": [
+                "paired parallel rollers for continuous feed",
+                "low-friction, heat-resistant roller surfaces",
+                "consistent nip pressure across the roller width",
+                "driven rotation for steady, uniform movement"
+            ],
+            "unconventional_tools": [
+                "hand-crank pasta maker (dough sheeter)",
+                "old-fashioned laundry wringer (mangle)",
+                "hand-cranked craft die-cutting/embossing machine"
+            ],
+            "opposite_tool_attributes": [
+                "single, non-rotating platen or misaligned/non-parallel contact surfaces (no paired parallel rollers for continuous feed)",
+                "high-friction, heat-sensitive or sticky contact surfaces that deform/melt under heat",
+                "uneven or no nip pressure across the width with undriven/free-spinning motion causing jerky, non-uniform feed"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "feather duster",
+                "belt sander"
+            ]
+        },
+        {
+            "task_goal": "Move packed cartons from packing station to staging area without lifting",
+            "original_tool": "gravity roller conveyor",
+            "expected_outcome": "Boxes glide smoothly along the line to the staging area with controlled speed",
+            "required_tool_attributes": [
+                "multiple low-friction cylindrical rollers",
+                "precision bearings to minimize sliding",
+                "rigid frame for roller alignment",
+                "consistent roller diameter for even motion"
+            ],
+            "unconventional_tools": [
+                "PVC pipe sections used as rollers within a metal rain gutter or U-channel",
+                "Several kitchen rolling pins laid side-by-side in a simple frame",
+                "A row of empty aluminum cans acting as rollers inside a shallow tray"
+            ],
+            "opposite_tool_attributes": [
+                "single high-friction flat surface with no bearings, causing sliding instead of rolling",
+                "flexible, sagging frame that misaligns supports and allows deflection",
+                "irregular or non-cylindrical supports with varying diameters that create jamming and uneven motion"
+            ],
+            "impossible_tools": [
+                "memory-foam mattress",
+                "pile of loose sand",
+                "hammock-style cargo net",
+                "adhesive glue mat"
+            ]
+        },
+        {
+            "task_goal": "Thin sheets of pasta to the final thickness for fettuccine",
+            "original_tool": "pasta machine",
+            "expected_outcome": "Pasta sheets are evenly thinned and emerge smooth and uniform",
+            "required_tool_attributes": [
+                "parallel steel rollers with adjustable gap",
+                "smooth cylindrical surfaces to prevent sticking",
+                "crank-driven rotation for controlled feed",
+                "stable bearings for consistent rolling pressure"
+            ],
+            "unconventional_tools": [
+                "hand-cranked clothes wringer (laundry mangle)",
+                "polymer clay conditioning machine",
+                "office thermal laminator"
+            ],
+            "opposite_tool_attributes": [
+                "non-parallel rollers with a fixed or uneven gap (no adjustability)",
+                "rough, sticky, serrated, or porous contact surfaces instead of smooth cylinders",
+                "no controlled rotational feed and loose, wobbly bearings causing inconsistent pressure"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "chainsaw",
+                "jackhammer"
+            ]
+        },
+        {
+            "task_goal": "Press down wallpaper seams after hanging",
+            "original_tool": "wallpaper seam roller",
+            "expected_outcome": "Seams lie flat and adhere without visible ridges or bubbles",
+            "required_tool_attributes": [
+                "narrow, smooth cylindrical wheel",
+                "slightly rounded edges to avoid cutting paper",
+                "rigid handle for precise pressure control",
+                "low-friction axle for smooth rolling"
+            ],
+            "unconventional_tools": [
+                "small toy car with smooth plastic wheels",
+                "empty thread spool on a pencil",
+                "detached office chair caster wheel"
+            ],
+            "opposite_tool_attributes": [
+                "broad, flat, textured or sticky contact surface that does not roll",
+                "sharp, square, or serrated edges that can cut or tear the wallpaper",
+                "flexible/flimsy handle and a high-friction or fixed axle that drags instead of rolling"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "serrated kitchen knife",
+                "sandpaper block",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Measure the length of a garden path accurately",
+            "original_tool": "measuring wheel",
+            "expected_outcome": "Distance reading is obtained with minimal error over uneven ground",
+            "required_tool_attributes": [
+                "calibrated circular wheel with known circumference",
+                "treaded surface for traction and reduced slip",
+                "low-friction hub to ensure true rotational counts",
+                "rigid frame and counter linked to the axle"
+            ],
+            "unconventional_tools": [
+                "bicycle with calibrated cyclometer",
+                "wheeled suitcase (rolling luggage) using known wheel circumference and rotation count",
+                "skateboard or longboard rolled along the path with calibrated wheel circumference"
+            ],
+            "opposite_tool_attributes": [
+                "irregular, deformable wheel with unknown or variable circumference",
+                "smooth, treadless contact surface that slips on soil or grass",
+                "counter not mechanically linked to the axle (and/or a binding, high-friction hub)"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "silk scarf",
+                "deflated balloon",
+                "bag of loose sand"
+            ]
+        },
+        {
+            "task_goal": "Self-massage tight calf muscles after running",
+            "original_tool": "foam roller",
+            "expected_outcome": "Muscle tension is reduced through controlled rolling pressure",
+            "required_tool_attributes": [
+                "cylindrical geometry for smooth body contact",
+                "firm, resilient foam with rigid core",
+                "sufficient diameter to maintain curvature under load",
+                "high-friction exterior to prevent unwanted sliding"
+            ],
+            "unconventional_tools": [
+                "wooden rolling pin",
+                "stainless-steel water bottle with a silicone sleeve",
+                "pool noodle slid over a broomstick"
+            ],
+            "opposite_tool_attributes": [
+                "flat, flexible sheet-like geometry instead of a rigid cylinder",
+                "soft, collapsible material with no rigid core that deforms under body weight",
+                "slick, low-friction exterior that slides on skin or floor"
+            ],
+            "impossible_tools": [
+                "silk scarf",
+                "water balloon",
+                "empty cardboard paper towel tube",
+                "rope",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Compact a newly spread gravel driveway",
+            "original_tool": "walk-behind drum roller",
+            "expected_outcome": "Gravel surface is densely compacted and evenly leveled",
+            "required_tool_attributes": [
+                "heavy steel cylindrical drums for high contact pressure",
+                "powered rotation for continuous rolling",
+                "robust bearings for sustained load",
+                "smooth drum surface to avoid rutting"
+            ],
+            "unconventional_tools": [
+                "water-filled lawn roller",
+                "55-gallon steel drum filled with water or sand, fitted with a rod axle and towed",
+                "loaded pickup truck or SUV repeatedly driven over the surface"
+            ],
+            "opposite_tool_attributes": [
+                "lightweight, soft, or inflatable contact elements instead of heavy steel drums",
+                "no powered rotation or dragging contact instead of continuous rolling",
+                "rough, treaded, or spiked surface rather than a smooth drum"
+            ],
+            "impossible_tools": [
+                "rope",
+                "inflatable beach ball",
+                "sponge",
+                "garden rake"
+            ]
+        },
+        {
+            "task_goal": "Relocate a full 55-gallon drum across a warehouse",
+            "original_tool": "drum dolly",
+            "expected_outcome": "The drum is transported safely and steadily to the new location",
+            "required_tool_attributes": [
+                "swiveling caster wheels with precision bearings",
+                "low rolling resistance wheels sized for floor transitions",
+                "circular frame to cradle the drum securely",
+                "high load capacity and rigid construction"
+            ],
+            "unconventional_tools": [
+                "Heavy-duty furniture dolly paired with an old automotive tire as a drum cradle",
+                "Automotive wheel/skate dolly (vehicle positioning dolly)",
+                "Commercial trash can dolly (wheeled base for 44\u201355 gal bins)"
+            ],
+            "opposite_tool_attributes": [
+                "non-swiveling casters or seized bearings that prevent smooth turning",
+                "undersized, high-friction wheels (or no wheels) that snag on floor transitions",
+                "flat, non-circular, flexible frame with low load capacity that deforms under load"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "bath towel",
+                "plastic shopping bag",
+                "inflatable pool float"
+            ]
+        },
+        {
+            "task_goal": "Support and rotate a steel pipe during cutting",
+            "original_tool": "pipe roller stand",
+            "expected_outcome": "Pipe turns smoothly for accurate, even cuts without binding",
+            "required_tool_attributes": [
+                "V-head with freely spinning cylindrical rollers",
+                "bearings to minimize friction under axial load",
+                "height-adjustable, rigid stand for alignment",
+                "rollers compatible with round workpieces"
+            ],
+            "unconventional_tools": [
+                "Upside-down skateboard used as a rolling cradle",
+                "Bicycle roller trainer (indoor cycling rollers)",
+                "Pair of kitchen rolling pins arranged in a V cradle"
+            ],
+            "opposite_tool_attributes": [
+                "Flat, non-rotating head with high-friction or sticky surface instead of a V-head with freely spinning cylindrical rollers",
+                "No bearings or seized bearings that lock under axial load and prevent low-friction rotation",
+                "Non-adjustable, flexible, or unstable support that deforms or wobbles under load, preventing proper alignment"
+            ],
+            "impossible_tools": [
+                "Rope",
+                "Sponge",
+                "Bench vise",
+                "Bean bag chair"
+            ]
+        },
+        {
+            "task_goal": "Maneuver a boat trailer into a tight garage space by hand",
+            "original_tool": "trailer dolly",
+            "expected_outcome": "Trailer is precisely positioned without vehicle assistance",
+            "required_tool_attributes": [
+                "large pneumatic wheel(s) for low rolling resistance",
+                "hitch ball interface for secure coupling",
+                "long handle for torque and control",
+                "sturdy axle and bearings for smooth rotation under tongue weight"
+            ],
+            "unconventional_tools": [
+                "Appliance hand truck with a hitch ball bolted to the toe plate",
+                "Two-wheeled wheelbarrow with a hitch ball mounted to the front cross brace",
+                "Hydraulic floor jack with a hitch ball fixed to the saddle"
+            ],
+            "opposite_tool_attributes": [
+                "small hard casters or solid non-pneumatic wheels with high rolling resistance",
+                "no hitch ball interface; unsecured friction or strap-only coupling",
+                "short, flexible handle that bends and provides little leverage or control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "skateboard",
+                "office chair",
+                "jack stand"
+            ]
+        },
+        {
+            "task_goal": "Capture a smooth lateral tracking shot on a film set",
+            "original_tool": "camera dolly with track",
+            "expected_outcome": "Footage is smoothly gliding without jitter or bounce",
+            "required_tool_attributes": [
+                "precisely machined wheels with low-friction bearings",
+                "wheel profile matched to track radius for guided rolling",
+                "rigid platform to maintain camera stability",
+                "even weight distribution to prevent wheel slip"
+            ],
+            "unconventional_tools": [
+                "longboard skateboard",
+                "manual wheelchair",
+                "furniture moving dolly"
+            ],
+            "opposite_tool_attributes": [
+                "rough, high-friction or seized bearings with poorly machined wheels",
+                "wheel profile that mismatches the track geometry (e.g., flat/square wheels, wrong flange/taper)",
+                "flexible, non-rigid platform with uneven/top-heavy load that shifts during motion"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "inflatable pool float",
+                "bean bag chair",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Transport clothes through an airport without carrying weight",
+            "original_tool": "rolling suitcase",
+            "expected_outcome": "Suitcase moves easily alongside the traveler with minimal effort",
+            "required_tool_attributes": [
+                "durable wheels with smooth bearings",
+                "aligned axles for straight rolling",
+                "rigid chassis to keep wheels true under load",
+                "extendable handle to apply forward force"
+            ],
+            "unconventional_tools": [
+                "rolling cooler with telescoping handle",
+                "baby stroller repurposed to carry clothes",
+                "skateboard with a duffel bag strapped on and a rope/leash as a pull handle"
+            ],
+            "opposite_tool_attributes": [
+                "fragile, high-friction wheels without smooth bearings",
+                "bent or misaligned axles that cause wobble and veering",
+                "no extendable handle (short or absent handle requiring lifting)"
+            ],
+            "impossible_tools": [
+                "cloth duffel bag without wheels",
+                "backpack",
+                "plastic grocery bag",
+                "rope",
+                "beach towel"
+            ]
+        },
+        {
+            "task_goal": "Ink a linocut block evenly before printing",
+            "original_tool": "brayer",
+            "expected_outcome": "A uniform ink layer is transferred to the block surface",
+            "required_tool_attributes": [
+                "smooth cylindrical rubber roller",
+                "low-friction axle for consistent rotation",
+                "rigid frame and handle for steady pressure",
+                "solvent-resistant materials to maintain surface integrity"
+            ],
+            "unconventional_tools": [
+                "mini foam paint roller",
+                "silicone mini rolling pin",
+                "wallpaper seam roller (rubber J-roller)"
+            ],
+            "opposite_tool_attributes": [
+                "porous, irregular, non-cylindrical surface that absorbs ink instead of transferring it smoothly",
+                "seized or high-friction axle that prevents consistent free rotation",
+                "flexible, flimsy frame and handle that bend and cannot maintain steady pressure"
+            ],
+            "impossible_tools": [
+                "rope",
+                "paper towel",
+                "feather duster",
+                "chain"
+            ]
+        },
+        {
+            "task_goal": "Set vinyl plank flooring by pressing adhesive uniformly",
+            "original_tool": "100-lb floor roller",
+            "expected_outcome": "Planks are fully bonded with no trapped air, ensuring flat installation",
+            "required_tool_attributes": [
+                "heavy cylindrical segments to deliver even pressure",
+                "smooth roller surfaces to prevent marring",
+                "low-friction bearings for steady movement",
+                "rigid handle for controlled rolling force"
+            ],
+            "unconventional_tools": [
+                "Water-filled steel lawn roller",
+                "Loaded Olympic barbell (roll on bumper plates, using the bar as a handle)",
+                "Full beer keg rolled carefully with a towel wrap"
+            ],
+            "opposite_tool_attributes": [
+                "lightweight, deformable, non-cylindrical contact surface instead of heavy cylindrical segments",
+                "rough or abrasive contact surface instead of smooth rollers",
+                "high-friction/no bearings and a flexible/limp handle instead of low-friction bearings and a rigid handle"
+            ],
+            "impossible_tools": [
+                "rope",
+                "feather duster",
+                "sponge mop",
+                "beach ball",
+                "sheet of sandpaper"
+            ]
+        },
+        {
+            "task_goal": "Move mulch from driveway to garden beds",
+            "original_tool": "wheelbarrow",
+            "expected_outcome": "Mulch is transported efficiently with reduced lifting strain",
+            "required_tool_attributes": [
+                "large pneumatic wheel to roll over uneven ground",
+                "sturdy axle and bearings for smooth rotation under load",
+                "treaded tire for traction",
+                "rigid frame to keep wheel alignment"
+            ],
+            "unconventional_tools": [
+                "jogging stroller with pneumatic tires (seat lined with a tarp or bin)",
+                "wheelie trash bin (tilted and rolled like a cart)",
+                "all-terrain kids' wagon with air-filled treaded tires"
+            ],
+            "opposite_tool_attributes": [
+                "small, solid non-pneumatic wheel that cannot absorb bumps",
+                "no axle or loose bearings that wobble and bind under load",
+                "smooth, treadless tire that lacks traction"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "silk scarf",
+                "inflatable beach ball",
+                "rope"
+            ]
+        }
+    ]
+}

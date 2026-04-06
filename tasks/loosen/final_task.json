@@ -1,0 +1,548 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Loosen a rusted hex nut on a backyard gate hinge to realign the gate",
+            "original_tool": "adjustable wrench",
+            "expected_outcome": "The nut backs off counterclockwise, reducing clamping force so the hinge can be adjusted",
+            "required_tool_attributes": [
+                "adjustable jaw sized to hex flats",
+                "parallel, flat jaws for full-face contact",
+                "rigid steel handle for torque transmission",
+                "ergonomic grip for applying reverse torque",
+                "low jaw play to prevent rounding"
+            ],
+            "unconventional_tools": [
+                "Small C-clamp tightened onto the nut and used as an improvised wrench",
+                "F-style bar clamp gripping the hex flats and turned as a handle",
+                "Locking pliers with stacked coin or washer shims to present parallel, flat jaws on the nut"
+            ],
+            "opposite_tool_attributes": [
+                "non-adjustable, wrong-sized or rounded/serrated jaws that aren\u2019t parallel, giving only point contact",
+                "flexible or soft handle/body (rubber/plastic) that bends or deforms under torque instead of rigid steel",
+                "high jaw play/loose hinge tolerance causing sloppy fit and rounding of hex flats"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stuck lid on a pickle jar",
+            "original_tool": "rubber jar opener pad",
+            "expected_outcome": "The lid unscrews and the vacuum seal breaks, allowing the jar to open",
+            "required_tool_attributes": [
+                "high-friction rubber surface",
+                "flexible pad that conforms to lid contours",
+                "sufficient diameter coverage for grip",
+                "enables strong hand-applied rotational force"
+            ],
+            "unconventional_tools": [
+                "rubber dishwashing glove",
+                "mouse pad (rubber backing side)",
+                "wide rubber band(s) wrapped around the lid"
+            ],
+            "opposite_tool_attributes": [
+                "slick, low-friction surface (e.g., polished or lubricated)",
+                "rigid, non-conforming shape that cannot wrap around the lid",
+                "minimal contact area that fails to cover the lid\u2019s diameter and distribute grip"
+            ],
+            "impossible_tools": [
+                "bar of soap",
+                "PTFE (Teflon) sheet",
+                "helium-filled party balloon",
+                "single steel ball bearing"
+            ]
+        },
+        {
+            "task_goal": "Loosen the seatpost clamp bolt on a bicycle to adjust saddle height",
+            "original_tool": "5 mm hex key",
+            "expected_outcome": "Clamp tension relaxes and the seatpost can slide",
+            "required_tool_attributes": [
+                "5 mm hex tip that matches the bolt socket",
+                "hardened steel to resist twisting",
+                "L-shaped form for leverage",
+                "non-slip grip surface"
+            ],
+            "unconventional_tools": [
+                "5 mm hex driver bit clamped in locking pliers as an improvised L-handle",
+                "T25 Torx L-key inserted into the 5 mm hex socket (light torque only)",
+                "4 mm hex key wrapped tightly with a strip of aluminum can to build up to ~5 mm"
+            ],
+            "opposite_tool_attributes": [
+                "Non-hexagonal or wrong-size tip that doesn't match a 5 mm socket",
+                "Soft, flexible material that twists or deforms under torque instead of hardened steel",
+                "Straight or floppy form without L-shaped leverage and with a smooth, slippery grip"
+            ],
+            "impossible_tools": [
+                "Rope",
+                "Kitchen sponge",
+                "Rubber band",
+                "Plastic drinking straw",
+                "Inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stuck 77 mm camera lens filter ring",
+            "original_tool": "lens filter wrench",
+            "expected_outcome": "The filter rotates free from lens threads without damage",
+            "required_tool_attributes": [
+                "thin, circular gripping band sized for the filter",
+                "non-marring, high-friction contact surface",
+                "leveraging handles for even reverse torque",
+                "clamp action to maintain grip under load"
+            ],
+            "unconventional_tools": [
+                "Small embroidery hoop (\u22483 in/75\u201380 mm) lined with a strip of bicycle inner tube or rubber glove, tightened and used as a clamp ring to twist the filter",
+                "Worm-drive hose clamp (\u224876\u201390 mm) with a silicone baking mat or inner-tube liner, snugged gently and turned using the screw housing as a handle",
+                "Camera neck strap or leather belt used as a loop/strap wrench over a silicone jar gripper pad for friction, pulling both ends evenly to apply torque"
+            ],
+            "opposite_tool_attributes": [
+                "bulky, non-circular contact area that cannot encircle or fit a 77 mm ring",
+                "smooth, hard, or lubricated low-friction surfaces that slip or mar the filter",
+                "no clamping or leverage (single-point prying or elastic grip that opens under load)"
+            ],
+            "impossible_tools": [
+                "magnetic pickup tool",
+                "inflatable beach ball",
+                "bar of soap",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Loosen an automotive oil filter during an oil change",
+            "original_tool": "oil filter wrench (band type)",
+            "expected_outcome": "The filter unscrews, releasing its seal from the engine",
+            "required_tool_attributes": [
+                "adjustable metal band to wrap the filter",
+                "textured inner surface for friction",
+                "long rigid handle for leverage",
+                "self-tightening action under reverse torque"
+            ],
+            "unconventional_tools": [
+                "Leather belt looped around the filter with a screwdriver or ratchet handle as the lever",
+                "Perforated metal plumber's tape (metal strapping) cinched into a loop with a bolt and turned with a socket wrench",
+                "Ratcheting tie-down strap (cargo strap) wrapped around the filter using the ratchet handle for leverage"
+            ],
+            "opposite_tool_attributes": [
+                "non-adjustable, stretchy loop that loosens under load instead of tightening",
+                "smooth or lubricated inner surface that reduces friction against the filter",
+                "short, flexible or no handle that bends and cannot transmit torque"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "silk scarf",
+                "balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Loosen a corroded garden hose coupling from an outdoor spigot",
+            "original_tool": "tongue-and-groove pliers",
+            "expected_outcome": "The coupling backs off the faucet threads so the hose can be removed",
+            "required_tool_attributes": [
+                "adjustable jaw opening for various diameters",
+                "serrated jaws for bite on metal fittings",
+                "long handles to amplify reverse torque",
+                "angled head for wall clearance"
+            ],
+            "unconventional_tools": [
+                "leather belt with a screwdriver or dowel as a makeshift strap wrench",
+                "ratchet tie-down strap cinched around the coupling and used as a lever",
+                "stainless steel barbecue tongs"
+            ],
+            "opposite_tool_attributes": [
+                "fixed, non-adjustable narrow jaw opening",
+                "smooth, non-serrated gripping surfaces",
+                "short or flexible handles that cannot transmit high reverse torque"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "feather duster",
+                "balloon",
+                "measuring tape"
+            ]
+        },
+        {
+            "task_goal": "Loosen the tiny set screw retaining a door knob trim collar",
+            "original_tool": "precision flathead screwdriver",
+            "expected_outcome": "The set screw turns out slightly, releasing the collar for removal",
+            "required_tool_attributes": [
+                "narrow, flat blade that fits the slot snugly",
+                "rigid shaft for precise torque transmission",
+                "rotating cap or slim handle for control",
+                "textured grip to prevent slipping"
+            ],
+            "unconventional_tools": [
+                "metal nail file (from a manicure set)",
+                "single-edge razor blade wrapped in tape for grip",
+                "thin house key edge"
+            ],
+            "opposite_tool_attributes": [
+                "wide, rounded, or non-flat tip that cannot seat in a narrow slotted screw",
+                "flexible or soft shaft that bends or twists instead of transmitting precise torque",
+                "bulky, smooth handle without a rotating cap or texture, prone to slipping"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "silicone spatula"
+            ]
+        },
+        {
+            "task_goal": "Loosen a woodworking C-clamp to release a glued board after curing",
+            "original_tool": "C-clamp T-handle",
+            "expected_outcome": "The screw backs out, relieving clamping pressure so the board can be removed",
+            "required_tool_attributes": [
+                "crossbar handle providing leverage",
+                "knurled or shaped grip for traction",
+                "rigid threaded screw converting rotation to axial release",
+                "steel construction to handle torque"
+            ],
+            "unconventional_tools": [
+                "Large flathead screwdriver inserted through the clamp screw\u2019s cross-hole to act as a temporary T-handle",
+                "L-shaped hex key (Allen wrench) used as a crossbar through the handle hole for leverage",
+                "Locking pliers (Vise-Grips) clamped onto the screw shaft or remaining handle to twist it free"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, rounded handle with no crossbar or texture, offering little leverage or traction",
+                "flexible, elastic shaft that twists or deforms instead of a rigid threaded screw converting rotation to axial motion",
+                "soft plastic or rubber construction that deforms under torque instead of strong steel"
+            ],
+            "impossible_tools": [
+                "rope",
+                "wet sponge",
+                "inflatable balloon",
+                "paper towel"
+            ]
+        },
+        {
+            "task_goal": "Loosen the regulator nut on a propane tank to disconnect the hose",
+            "original_tool": "7/8 inch open-end wrench",
+            "expected_outcome": "The nut turns counterclockwise, freeing the regulator fitting from the tank valve",
+            "required_tool_attributes": [
+                "accurately sized open jaws matching hex flats",
+                "slim head for access in tight spaces",
+                "hardened steel for high-torque loads",
+                "sufficient handle length for leverage"
+            ],
+            "unconventional_tools": [
+                "Claw hammer (using the V-notch of the claw on the hex flats)",
+                "Flat pry bar/wonder bar with nail-pulling slot",
+                "Large C-clamp or F-clamp tightened onto the hex flats"
+            ],
+            "opposite_tool_attributes": [
+                "rounded or wrong-sized jaws that don't match the nut's hex flats",
+                "bulky, thick head that cannot fit into the tight space around the regulator",
+                "soft, flexible material that deforms under torque instead of hardened steel"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Loosen lug nuts on a car wheel before lifting the vehicle",
+            "original_tool": "breaker bar with 19 mm six-point socket",
+            "expected_outcome": "Each lug nut breaks free, reducing clamping force so removal is easy",
+            "required_tool_attributes": [
+                "long rigid handle for high reverse torque",
+                "six-point socket for full-face hex engagement",
+                "secure square-drive coupling",
+                "hardened, corrosion-resistant construction"
+            ],
+            "unconventional_tools": [
+                "19 mm box-end wrench with a long steel pipe slipped over the handle (cheater bar)",
+                "Deep 3/4 in (\u224819 mm) six-point socket clamped in locking pliers, extended with a jack handle or pipe",
+                "Large adjustable wrench tightened onto the lug nut with a metal pipe for added leverage"
+            ],
+            "opposite_tool_attributes": [
+                "short, flexible handle that cannot transmit high reverse torque",
+                "rounded or twelve-point/smooth contact surfaces instead of full-face six-point hex engagement",
+                "loose, non-locking coupling between handle and socket (no secure square drive)"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "Phillips-head screwdriver",
+                "rubber mallet",
+                "suction cup lifter"
+            ]
+        },
+        {
+            "task_goal": "Loosen the mounting nut securing a kitchen faucet from under the sink",
+            "original_tool": "basin wrench",
+            "expected_outcome": "The nut backs off, allowing the faucet to be lifted out or repositioned",
+            "required_tool_attributes": [
+                "pivoting, spring-loaded jaws to grab hidden nuts",
+                "long, narrow shaft for deep reach",
+                "T-handle to apply rotational force in confined space",
+                "serrated jaws for reliable grip"
+            ],
+            "unconventional_tools": [
+                "long, spring-loaded BBQ tongs with scalloped jaws",
+                "leather belt used as a strap wrench with a screwdriver as a T-handle",
+                "ratchet tie-down strap used as a strap wrench (using the ratchet lever for torque)"
+            ],
+            "opposite_tool_attributes": [
+                "non-pivoting, non-spring, smooth jaws that cannot clamp",
+                "short, bulky shaft/head with poor deep reach",
+                "flexible/soft shaft without a T-handle, requiring a wide swing to apply torque"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "piece of paper",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Loosen the locknut on an angle grinder to change the cutting disc",
+            "original_tool": "pin spanner wrench",
+            "expected_outcome": "The locknut rotates free, releasing the disc from the spindle",
+            "required_tool_attributes": [
+                "dual pins spaced to fit locknut holes",
+                "rigid handle to transmit counter-torque",
+                "thin profile to fit near the guard",
+                "non-slip grip for controlled rotation"
+            ],
+            "unconventional_tools": [
+                "needle-nose pliers",
+                "dinner fork",
+                "two small drill bits clamped in locking pliers"
+            ],
+            "opposite_tool_attributes": [
+                "smooth face or single contact point with no dual pins (or pins at the wrong spacing)",
+                "flexible or soft handle that bends/twists instead of transmitting torque",
+                "bulky/thick head that cannot fit near the grinder guard"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "rubber band",
+                "suction cup lifter"
+            ]
+        },
+        {
+            "task_goal": "Loosen a decorative ceiling light fixture\u2019s threaded retaining collar without marring it",
+            "original_tool": "strap wrench",
+            "expected_outcome": "The collar unscrews, allowing the fixture canopy to drop for access",
+            "required_tool_attributes": [
+                "flexible, non-marring strap that wraps the collar",
+                "self-tightening loop under reverse torque",
+                "handle for leverage in cramped positions",
+                "high-friction strap material"
+            ],
+            "unconventional_tools": [
+                "leather belt cinched through its buckle as a strap",
+                "bicycle inner tube strip twisted around a wooden spoon as a handle",
+                "loop-style resistance band (exercise band) used as a self-tightening wrap"
+            ],
+            "opposite_tool_attributes": [
+                "rigid, toothed metal jaws that bite into and mar finishes instead of a flexible, non-marring strap",
+                "grip that slips or loosens under reverse torque rather than self-tightening",
+                "bulky body with no slim handle for leverage in cramped spaces and a low-friction contact surface"
+            ],
+            "impossible_tools": [
+                "pipe wrench with serrated jaws",
+                "locking pliers (Vise-Grips)",
+                "C-clamp",
+                "flat-head screwdriver"
+            ]
+        },
+        {
+            "task_goal": "Loosen the kingpin nut on a skateboard to make the trucks turn more freely",
+            "original_tool": "skate tool (1/2 inch socket)",
+            "expected_outcome": "The nut backs off slightly, reducing bushing compression for looser steering",
+            "required_tool_attributes": [
+                "correctly sized deep socket for hex nut",
+                "ergonomic T-shape for torque application",
+                "hardened steel socket to prevent rounding",
+                "compact profile for access near wheels"
+            ],
+            "unconventional_tools": [
+                "1/2-inch magnetic nut driver bit (deep-well), turned by hand or in a T-handle",
+                "locking pliers (Vise-Grips) with narrow jaws",
+                "small adjustable wrench (crescent) with thin head"
+            ],
+            "opposite_tool_attributes": [
+                "incorrectly sized, shallow socket that cannot fully engage the hex nut",
+                "soft or flexible material (e.g., rubber/plastic) instead of hardened steel",
+                "bulky head or non-ergonomic handle lacking T-shape leverage and access"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "Phillips screwdriver"
+            ]
+        },
+        {
+            "task_goal": "Loosen the hose clamp securing a washing machine drain hose",
+            "original_tool": "1/4 inch nut driver",
+            "expected_outcome": "The clamp band slackens and the hose can be pulled off the fitting",
+            "required_tool_attributes": [
+                "1/4 inch hex socket end matching clamp screw",
+                "rigid shaft to reach recessed clamps",
+                "comfortable handle for steady torque",
+                "snug socket fit to prevent cam-out"
+            ],
+            "unconventional_tools": [
+                "Magnetic 1/4-inch hex bit holder used as a makeshift socket, turned with locking pliers or a small wrench",
+                "Multi-bit screwdriver handle\u2019s 1/4-inch hex bit socket placed directly over the clamp\u2019s 1/4-inch hex head",
+                "A sturdy coin (e.g., a quarter) used in the clamp screw\u2019s slotted drive to back it off"
+            ],
+            "opposite_tool_attributes": [
+                "non-hex or wrong-size (not 1/4 inch) drive end that cannot engage the clamp screw",
+                "flexible or flimsy shaft that bends and can\u2019t reach/hold alignment in a recess",
+                "loose or rounded socket fit that slips and cams out under torque"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "inflatable balloon",
+                "plastic drinking straw"
+            ]
+        },
+        {
+            "task_goal": "Loosen a recessed faucet aerator for cleaning mineral buildup",
+            "original_tool": "aerator key",
+            "expected_outcome": "The aerator unthreads from the spout without damage",
+            "required_tool_attributes": [
+                "keyed prongs sized to the aerator spline pattern",
+                "rigid ring body for even torque",
+                "durable material that resists deformation",
+                "compact profile to fit inside the spout"
+            ],
+            "unconventional_tools": [
+                "needle-nose pliers (tips inserted into the internal notches and turned)",
+                "stainless steel tweezers (fine tips engaged in the spline slots)",
+                "unplugged two-prong electrical plug (prongs fit the two internal tabs to twist)"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, non-keyed face lacking correctly sized prongs",
+                "flexible or soft body that bends instead of transmitting torque",
+                "bulky profile that cannot fit inside the faucet spout"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "inflatable balloon",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Loosen the jam nut on a threaded rod of a gate latch adjustment",
+            "original_tool": "box-end wrench",
+            "expected_outcome": "The jam nut turns free, allowing the adjustment nut to spin independently",
+            "required_tool_attributes": [
+                "closed-loop hex engagement to prevent slippage",
+                "offset angled head for knuckle clearance",
+                "hardened steel for torque transmission",
+                "suitable handle length for leverage"
+            ],
+            "unconventional_tools": [
+                "Car lug wrench (tire iron) of matching size",
+                "Tubular spark plug wrench (tube spanner) used with a screwdriver or rod through the side holes",
+                "Keychain carabiner multi-tool with hex wrench cutouts"
+            ],
+            "opposite_tool_attributes": [
+                "open-ended, smooth contact without closed-loop hex engagement",
+                "inline, non-offset head that provides no knuckle clearance",
+                "soft, flexible construction with a very short handle that cannot transmit torque"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "cloth towel"
+            ]
+        },
+        {
+            "task_goal": "Loosen an over-tightened microphone stand clutch knob",
+            "original_tool": "rubber grip glove",
+            "expected_outcome": "The knob turns counterclockwise, relaxing the clutch so the stand height can adjust",
+            "required_tool_attributes": [
+                "high-friction palm to increase grip on smooth surfaces",
+                "flexible fit to conform to knob shape",
+                "abrasion-resistant material for traction under load",
+                "enables full-hand rotational force"
+            ],
+            "unconventional_tools": [
+                "silicone jar opener pad or trivet",
+                "bicycle inner tube segment wrapped around the knob",
+                "neoprene can koozie slipped over the knob"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, low-friction contact surface that increases slipping on smooth plastic/metal",
+                "rigid, nonconforming shape that cannot wrap around or mold to the knob",
+                "fragile, tear-prone material that loses traction under load and cannot transmit full-hand torque"
+            ],
+            "impossible_tools": [
+                "bar of soap",
+                "ice cube",
+                "cooking oil",
+                "helium balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Loosen a tiny Phillips screw securing an eyeglasses hinge",
+            "original_tool": "precision Phillips #00 screwdriver",
+            "expected_outcome": "The screw backs out slightly, reducing hinge tension for adjustment or repair",
+            "required_tool_attributes": [
+                "correctly sized #00 cross-tip for positive engagement",
+                "rigid, narrow shaft for fine control",
+                "rotating end cap for fingertip torque",
+                "textured handle to prevent slipping"
+            ],
+            "unconventional_tools": [
+                "pushpin (thumbtack)",
+                "SIM card ejector pin",
+                "safety pin"
+            ],
+            "opposite_tool_attributes": [
+                "oversized or wrong-tip geometry (flat, Torx, or rounded) that cannot engage a #00 Phillips recess",
+                "flexible or bulky shaft that bends or cannot fit into the tight hinge area",
+                "smooth, non-rotating handle lacking grip and an end cap for controlled fingertip torque"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "hammer",
+                "Phillips #2 screwdriver"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stubborn lawn mower blade bolt to remove the blade for sharpening",
+            "original_tool": "cordless impact wrench with 1/2 inch drive and appropriate socket",
+            "expected_outcome": "The bolt breaks free and can be spun out by hand",
+            "required_tool_attributes": [
+                "high-torque reverse setting to apply rapid reverse torque",
+                "1/2 inch square drive for impact-rated sockets",
+                "impact-rated six-point socket for secure hex engagement",
+                "ergonomic, grippable body to control recoil"
+            ],
+            "unconventional_tools": [
+                "telescoping lug wrench with 1/2 inch square drive and six-point socket",
+                "manual hammer-impact driver with a 1/2 inch square drive adapter",
+                "cordless drill with a hex-to-1/2 inch square drive adapter and six-point socket"
+            ],
+            "opposite_tool_attributes": [
+                "low-torque, non-impact drive with no reverse setting",
+                "1/4 inch hex or round output instead of a 1/2 inch square drive",
+                "non-impact-rated 12-point or rounded socket that cannot securely engage a hex fastener"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "Phillips screwdriver",
+                "suction cup"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Remove peeling paint from a wooden windowsill before repainting",
+            "original_tool": "paint scraper",
+            "expected_outcome": "Loose and flaking paint is lifted off, leaving a smooth, bare surface ready for primer",
+            "required_tool_attributes": [
+                "rigid, flat beveled steel edge",
+                "sturdy ergonomic handle for controlled force",
+                "sufficient blade width to cover surface",
+                "replaceable sharp blade"
+            ],
+            "unconventional_tools": [
+                "kitchen bench/pastry scraper (dough cutter)",
+                "plastic car windshield ice scraper",
+                "stiff butter knife (non-serrated)"
+            ]
+        },
+        {
+            "task_goal": "Scrape baked-on food residue from a cast-iron skillet",
+            "original_tool": "cast-iron pan scraper (flat steel blade)",
+            "expected_outcome": "Carbonized bits are removed without gouging the seasoning, restoring a clean cooking surface",
+            "required_tool_attributes": [
+                "thin, rigid metal edge",
+                "slightly angled blade for low scraping angle",
+                "heat-resistant construction",
+                "non-slip handle for controlled pressure"
+            ],
+            "unconventional_tools": [
+                "stainless steel putty knife (painter\u2019s scraper) with rubber handle",
+                "offset metal icing spatula",
+                "wide flathead screwdriver"
+            ]
+        },
+        {
+            "task_goal": "Lift adhesive label residue from a glass jar",
+            "original_tool": "razor blade scraper",
+            "expected_outcome": "Sticky film is sheared off the glass, leaving a clear, residue-free surface",
+            "required_tool_attributes": [
+                "very sharp, rigid blade edge",
+                "low-angle holder to maintain shallow approach",
+                "stiff blade retention to prevent flex",
+                "comfortable handle for precise control"
+            ],
+            "unconventional_tools": [
+                "old plastic gift card or loyalty card",
+                "stainless steel bench/pastry scraper",
+                "stainless steel ruler with a beveled edge"
+            ]
+        },
+        {
+            "task_goal": "Remove old silicone caulk from a bathtub seam",
+            "original_tool": "caulk removal tool (hooked scraper)",
+            "expected_outcome": "Hardened caulk bead is stripped from the seam, exposing clean edges for new sealant",
+            "required_tool_attributes": [
+                "narrow, rigid, beveled scraping edge",
+                "hooked tip to get under beads",
+                "ergonomic handle for steady pull",
+                "solvent-resistant body"
+            ],
+            "unconventional_tools": [
+                "seam ripper (sewing tool with hooked tip)",
+                "churchkey-style can opener (triangular puncture opener)",
+                "paint can opener/pry key"
+            ]
+        },
+        {
+            "task_goal": "Clear ice from a car windshield on a winter morning",
+            "original_tool": "automotive ice scraper",
+            "expected_outcome": "Ice sheets are shaved off the glass, restoring full visibility",
+            "required_tool_attributes": [
+                "hard polycarbonate flat edge",
+                "slight bevel for efficient shearing",
+                "cold-resistant material",
+                "grippy handle for applied force"
+            ],
+            "unconventional_tools": [
+                "rigid plastic dustpan with a beveled lip",
+                "expired credit or gift card",
+                "nylon kitchen spatula/turner"
+            ]
+        },
+        {
+            "task_goal": "Lift dried candle wax from a hardwood table",
+            "original_tool": "plastic scraper",
+            "expected_outcome": "Wax flakes off cleanly without scratching the wood finish",
+            "required_tool_attributes": [
+                "non-marring, slightly flexible plastic edge",
+                "thin blade to get under wax",
+                "rigid enough to transmit shear force",
+                "comfortable handle for control"
+            ],
+            "unconventional_tools": [
+                "expired credit card or gift card",
+                "thin-edged silicone baking spatula",
+                "plastic fly swatter (use the rim of the swatter head)"
+            ]
+        },
+        {
+            "task_goal": "Remove a flattened wad of chewing gum from a concrete sidewalk",
+            "original_tool": "long-handled floor scraper",
+            "expected_outcome": "Gum is separated from the concrete surface and lifted away in large pieces",
+            "required_tool_attributes": [
+                "heavy-duty, rigid steel blade",
+                "razor-sharp, flat edge",
+                "long handle for leverage and safe posture",
+                "secure blade mount to prevent flex"
+            ],
+            "unconventional_tools": [
+                "half-moon lawn edger",
+                "garden hoe",
+                "metal snow shovel with steel cutting edge"
+            ]
+        },
+        {
+            "task_goal": "Shave off dried paint drips on an interior door before finishing",
+            "original_tool": "putty knife",
+            "expected_outcome": "Hardened sags and drips are leveled flush with the surrounding surface",
+            "required_tool_attributes": [
+                "thin, slightly flexible steel blade",
+                "straight, beveled scraping edge",
+                "rigid spine to transmit force",
+                "comfortable handle for angle control"
+            ],
+            "unconventional_tools": [
+                "stainless steel dough/bench scraper",
+                "butter knife (dinner knife)",
+                "stainless steel ruler"
+            ]
+        },
+        {
+            "task_goal": "Strip barnacles and algae from a fiberglass boat hull at the marina",
+            "original_tool": "marine hull scraper",
+            "expected_outcome": "Fouling is removed, leaving a smooth hull ready for washing and inspection",
+            "required_tool_attributes": [
+                "wide, rigid stainless-steel edge",
+                "corrosion-resistant materials",
+                "slightly angled blade for efficient shearing",
+                "optional pole mount for reach"
+            ],
+            "unconventional_tools": [
+                "heavy-duty stainless steel BBQ spatula (grill turner)",
+                "stainless steel dough/bench scraper (pastry scraper)",
+                "stainless steel masonry finishing trowel"
+            ]
+        },
+        {
+            "task_goal": "Clean burnt carbon off grill grates after a cookout",
+            "original_tool": "grill scraper with notched grooves",
+            "expected_outcome": "Char and grease crust are scraped off, exposing bare metal bars",
+            "required_tool_attributes": [
+                "heat-resistant metal scraping edge",
+                "grooved profile to match grate rods",
+                "rigid body to maintain contact pressure",
+                "long handle for leverage and safety"
+            ],
+            "unconventional_tools": [
+                "adjustable wrench (crescent wrench)",
+                "stainless-steel carving fork",
+                "old-style bottle opener/can punch (churchkey)"
+            ]
+        },
+        {
+            "task_goal": "Remove bark from a green branch to prepare a walking stick",
+            "original_tool": "drawknife",
+            "expected_outcome": "Bark and cambium layers are shaved away, revealing smooth wood beneath",
+            "required_tool_attributes": [
+                "long, rigid blade with sharpened bevel",
+                "dual handles for controlled pull",
+                "slight blade camber for continuous contact",
+                "stiff edge to transmit shear along grain"
+            ],
+            "unconventional_tools": [
+                "two-handled mezzaluna (herb chopper)",
+                "flat pry bar (Wonder Bar)",
+                "stainless steel bench scraper (pastry/dough scraper)"
+            ]
+        },
+        {
+            "task_goal": "Knock rust scale off an old steel pipe before painting",
+            "original_tool": "scaling chisel",
+            "expected_outcome": "Loose rust flakes and scale are scraped away, leaving a more solid surface for coating",
+            "required_tool_attributes": [
+                "hardened steel, chisel-like scraping edge",
+                "rigid shaft that resists flex",
+                "slightly angled tip for aggressive shear",
+                "impact-resistant handle"
+            ],
+            "unconventional_tools": [
+                "large flathead screwdriver",
+                "flat pry bar (wrecking bar)",
+                "sidewalk ice chopper"
+            ]
+        },
+        {
+            "task_goal": "Strip packed mud from the treads of work boots at the entryway",
+            "original_tool": "boot scraper station",
+            "expected_outcome": "Mud and clay are scraped out of the soles, reducing tracked-in dirt",
+            "required_tool_attributes": [
+                "fixed, rigid metal scraping edges",
+                "textured, flat edges to catch debris",
+                "stable, anchored frame for foot-applied force",
+                "weather-resistant construction"
+            ],
+            "unconventional_tools": [
+                "Upside-down steel garden rake head bolted to a board as a fixed scraper",
+                "Old stainless barbecue grill grate recessed and anchored at the entry",
+                "Old oven rack (stainless wire shelf) secured in a frame for scraping"
+            ]
+        },
+        {
+            "task_goal": "Remove burnt-on spills from a glass-ceramic cooktop",
+            "original_tool": "glass cooktop razor scraper",
+            "expected_outcome": "Hardened residue is cleanly shaved from the glass without scratches",
+            "required_tool_attributes": [
+                "sharp, rigid razor blade",
+                "low-angle head to keep blade nearly flat",
+                "non-slip handle for delicate control",
+                "blade guard for consistent angle"
+            ],
+            "unconventional_tools": [
+                "Single-edge razor blade clamped in a medium binder clip (makeshift scraper with angle guard)",
+                "Utility knife blade embedded slightly into a thick rubber eraser to create a flat, grippy scraper",
+                "Old plastic gift/credit card used at a very low angle as a gentle scraper"
+            ]
+        },
+        {
+            "task_goal": "Scrape hardened mortar squeeze-out along tile edges during cleanup",
+            "original_tool": "carbide grout scraper",
+            "expected_outcome": "Excess mortar is removed from joints and tile faces without chipping",
+            "required_tool_attributes": [
+                "small, rigid carbide scraping tip",
+                "triangular or pointed edge for tight corners",
+                "stiff handle for precise force",
+                "abrasion-resistant cutting surface"
+            ],
+            "unconventional_tools": [
+                "carbide-tipped masonry drill bit (used as a handheld scraper)",
+                "tungsten-carbide wheel glass cutter (using the point/wheel edge to chip/scrape)",
+                "old flathead screwdriver (using a corner of the tip as a scraper)"
+            ]
+        },
+        {
+            "task_goal": "Remove an old vinyl window graphic from storefront glass",
+            "original_tool": "long-handled window scraper",
+            "expected_outcome": "Vinyl film and adhesive are sheared off, leaving clear storefront glass",
+            "required_tool_attributes": [
+                "razor-sharp, flat blade",
+                "adjustable head angle for shallow approach",
+                "extension pole for reach",
+                "rigid blade clamp to prevent chatter"
+            ],
+            "unconventional_tools": [
+                "Stainless-steel bench/dough scraper strapped to a telescoping paint roller pole",
+                "1-inch woodworking chisel hose-clamped to a broom handle",
+                "Single-edge razor blade held in a large binder clip taped to a painter's pole"
+            ]
+        },
+        {
+            "task_goal": "Strip old gasket material from an engine block mating surface",
+            "original_tool": "gasket scraper",
+            "expected_outcome": "All traces of the old gasket are removed, yielding a clean, flat sealing surface",
+            "required_tool_attributes": [
+                "narrow, stiff steel blade with square edge",
+                "slight bevel for controlled shaving",
+                "solvent- and oil-resistant handle",
+                "rigid shank to prevent flex near the edge"
+            ],
+            "unconventional_tools": [
+                "wood chisel",
+                "stiff putty knife/paint scraper",
+                "wide flathead screwdriver"
+            ]
+        },
+        {
+            "task_goal": "Scrape frost buildup off the inner walls of a chest freezer",
+            "original_tool": "freezer scraper (plastic)",
+            "expected_outcome": "Frost sheets detach from the liner without gouging the plastic interior",
+            "required_tool_attributes": [
+                "wide, non-brittle plastic edge",
+                "flat, slightly beveled blade",
+                "cold-resistant material",
+                "handhold for steady pressure"
+            ],
+            "unconventional_tools": [
+                "plastic bench/dough scraper (baking)",
+                "plastic drywall taping knife (putty knife)",
+                "sturdy plastic dustpan edge"
+            ]
+        },
+        {
+            "task_goal": "Remove dried construction adhesive blobs from a concrete floor",
+            "original_tool": "heavy-duty floor scraper",
+            "expected_outcome": "Hardened adhesive is sliced off flush with the slab, preparing it for new flooring",
+            "required_tool_attributes": [
+                "thick, rigid steel blade with sharp edge",
+                "long handle for leverage",
+                "replaceable blade for sustained sharpness",
+                "secure, rigid blade mounting"
+            ],
+            "unconventional_tools": [
+                "manual sidewalk ice chopper (long-handled steel ice scraper)",
+                "garden draw hoe",
+                "rigid metal putty knife hose-clamped to a broom handle"
+            ]
+        },
+        {
+            "task_goal": "Lift dried tree sap from a car\u2019s painted door without scratching",
+            "original_tool": "plastic razor blade scraper",
+            "expected_outcome": "Sap is gently separated from the clear coat, preserving the finish",
+            "required_tool_attributes": [
+                "soft, rigid plastic blade to avoid marring",
+                "finely beveled scraping edge",
+                "low-angle holder for shallow contact",
+                "solvent-resistant handle"
+            ],
+            "unconventional_tools": [
+                "expired plastic gift card or hotel key card",
+                "nylon kitchen spatula (beveled edge)",
+                "beveled-edge plastic ruler"
+            ]
+        }
+    ]
+}

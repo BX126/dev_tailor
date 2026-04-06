@@ -1,0 +1,224 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Tighten a loose bolt securing a dining chair leg",
+            "original_tool": "socket wrench",
+            "expected_outcome": "The chair leg is firmly secured with no wobble when weight is applied",
+            "required_tool_attributes": [
+                "correctly sized socket to match bolt head",
+                "rigid steel handle to transmit torque",
+                "ratcheting mechanism for continuous rotation in tight spaces",
+                "non-slip grip for controlled torque application"
+            ]
+        },
+        {
+            "task_goal": "Secure a bicycle seatpost clamp bolt to the correct tension",
+            "original_tool": "5 mm hex key",
+            "expected_outcome": "The seatpost remains at the chosen height without slipping during rides",
+            "required_tool_attributes": [
+                "precise 5 mm hex tip to fit the bolt head",
+                "hardened, rigid shaft to resist twisting",
+                "L-shaped design to provide leverage",
+                "textured or coated surface for a stable hand grip"
+            ]
+        },
+        {
+            "task_goal": "Stop a small leak by tightening a worm-drive hose clamp on a dishwasher drain hose",
+            "original_tool": "nut driver",
+            "expected_outcome": "The hose is compressed uniformly around the fitting and no water drips occur",
+            "required_tool_attributes": [
+                "nut driver tip sized to the clamp screw",
+                "long, rigid shaft to reach recessed clamps",
+                "ergonomic handle for higher torque",
+                "non-slip surface to maintain grip with wet hands"
+            ]
+        },
+        {
+            "task_goal": "Torque automotive wheel lug nuts after a tire change",
+            "original_tool": "torque wrench",
+            "expected_outcome": "Lug nuts are tightened to manufacturer-specified torque, ensuring wheel security without damage",
+            "required_tool_attributes": [
+                "adjustable torque scale with audible/ tactile click",
+                "compatible socket drive size",
+                "rigid body to deliver consistent torque",
+                "long handle for leverage and controlled application"
+            ]
+        },
+        {
+            "task_goal": "Seal a compression fitting on a refrigerator water supply line",
+            "original_tool": "open-end wrench",
+            "expected_outcome": "The ferrule is compressed properly and the joint no longer seeps",
+            "required_tool_attributes": [
+                "correct jaw size to match the nut",
+                "hardened, rigid jaws to prevent flex",
+                "thin profile to fit in confined spaces",
+                "textured handle to improve grip"
+            ]
+        },
+        {
+            "task_goal": "Eliminate faucet handle play by tightening the handle set screw",
+            "original_tool": "2.5 mm Allen key",
+            "expected_outcome": "The faucet handle rotates smoothly without looseness",
+            "required_tool_attributes": [
+                "accurate 2.5 mm hex tip to prevent stripping",
+                "rigid alloy steel construction for torque transfer",
+                "short arm for clearance under the handle",
+                "grippable surface for finger control"
+            ]
+        },
+        {
+            "task_goal": "Tune a snare drum by tightening the head lugs evenly",
+            "original_tool": "drum key",
+            "expected_outcome": "The drumhead achieves the desired tension with consistent tone around the rim",
+            "required_tool_attributes": [
+                "square socket sized for drum tension rods",
+                "T-handle for balanced torque application",
+                "rigid metal body to transmit torque",
+                "knurled grip for precise adjustments"
+            ]
+        },
+        {
+            "task_goal": "Secure a camera to a tripod by tightening the quick-release plate screw",
+            "original_tool": "coin",
+            "expected_outcome": "The camera is held firmly on the plate without rotation or wobble",
+            "required_tool_attributes": [
+                "thin, rigid edge to fit the slotted screw",
+                "hardened material to resist bending under torque",
+                "grippable circumference for finger torque",
+                "flat profile to operate in shallow recesses"
+            ]
+        },
+        {
+            "task_goal": "Tighten a coaxial cable F-connector to a wall plate",
+            "original_tool": "coaxial wrench",
+            "expected_outcome": "The connector is snug, ensuring stable signal and preventing dropout",
+            "required_tool_attributes": [
+                "thin, open-end profile to fit F-connectors in tight spaces",
+                "correct jaw size to avoid rounding",
+                "rigid steel construction for torque transfer",
+                "insulated or textured handle for grip"
+            ]
+        },
+        {
+            "task_goal": "Firm up a loose kitchen cabinet pull handle",
+            "original_tool": "Phillips screwdriver",
+            "expected_outcome": "The handle no longer wiggles and aligns flush with the cabinet face",
+            "required_tool_attributes": [
+                "properly sized Phillips tip to match screw head",
+                "rigid shaft to prevent torsional flex",
+                "ergonomic handle for higher torque",
+                "magnetized tip to hold the screw if needed"
+            ]
+        },
+        {
+            "task_goal": "True a bicycle wheel by tightening a loose spoke nipple",
+            "original_tool": "spoke wrench",
+            "expected_outcome": "The wheel runs straighter with even spoke tension and reduced wobble",
+            "required_tool_attributes": [
+                "correct slot size to fit spoke nipples",
+                "hardened, rigid jaws to prevent rounding",
+                "compact form for access between spokes",
+                "textured exterior for positive grip"
+            ]
+        },
+        {
+            "task_goal": "Secure a car battery terminal clamp on the post",
+            "original_tool": "10 mm socket wrench",
+            "expected_outcome": "The clamp is snug with solid electrical contact and no terminal movement",
+            "required_tool_attributes": [
+                "10 mm socket sized to nut",
+                "rigid drive and handle for torque transfer",
+                "ratcheting head to work in confined engine bays",
+                "insulated or textured grip for control"
+            ]
+        },
+        {
+            "task_goal": "Apply tension to a ratchet strap securing cargo in a pickup bed",
+            "original_tool": "ratchet strap handle",
+            "expected_outcome": "The strap is tightened to hold cargo firmly without shifting during transport",
+            "required_tool_attributes": [
+                "ratcheting mechanism with pawl to incrementally add tension",
+                "sturdy handle for leverage",
+                "high-tensile webbing compatible with the ratchet",
+                "non-slip grip for controlled force application"
+            ]
+        },
+        {
+            "task_goal": "Tighten a mason jar ring during home canning",
+            "original_tool": "jar wrench",
+            "expected_outcome": "The ring is snug to hold the lid in place for proper sealing during processing",
+            "required_tool_attributes": [
+                "adjustable strap or jaws to conform to lid diameter",
+                "high-friction rubber surface for grip",
+                "rigid handle to apply torque",
+                "comfortable grip to prevent slippage with wet hands"
+            ]
+        },
+        {
+            "task_goal": "Seal a threaded galvanized pipe fitting on an outdoor spigot",
+            "original_tool": "pipe wrench",
+            "expected_outcome": "The threaded joint is tightened securely, minimizing leaks under pressure",
+            "required_tool_attributes": [
+                "adjustable serrated jaws to bite pipe surfaces",
+                "long handle for high torque leverage",
+                "hardened, rigid frame to resist flex",
+                "self-tightening jaw geometry to hold under load"
+            ]
+        },
+        {
+            "task_goal": "Secure a propane tank regulator nut to the cylinder valve",
+            "original_tool": "adjustable wrench",
+            "expected_outcome": "The regulator connection is snug and leak-free when the valve is opened",
+            "required_tool_attributes": [
+                "adjustable jaw to fit the nut precisely",
+                "rigid steel body for torque transmission",
+                "fine knurl adjustment for quick sizing",
+                "non-slip handle to maintain grip"
+            ]
+        },
+        {
+            "task_goal": "Tighten the kingpin nut on a skateboard truck",
+            "original_tool": "skate T-tool",
+            "expected_outcome": "Trucks achieve the desired stiffness with stable turning response",
+            "required_tool_attributes": [
+                "correctly sized deep socket for kingpin nut",
+                "rigid T-shaped body to provide leverage",
+                "non-slip exterior for grip",
+                "integrated driver bits for associated hardware"
+            ]
+        },
+        {
+            "task_goal": "Mount a TV wall bracket by tightening lag bolts into studs",
+            "original_tool": "ratchet and socket",
+            "expected_outcome": "The bracket is firmly anchored, supporting the TV without sagging",
+            "required_tool_attributes": [
+                "socket sized to lag bolt heads",
+                "ratcheting mechanism for efficient torque application",
+                "rigid handle and drive for high torque",
+                "extension bar to clear the bracket frame"
+            ]
+        },
+        {
+            "task_goal": "Reinforce a door by tightening hinge screws into the jamb",
+            "original_tool": "Pozidriv screwdriver",
+            "expected_outcome": "The door swings smoothly without sagging or rubbing the frame",
+            "required_tool_attributes": [
+                "properly sized Pozidriv tip to prevent cam-out",
+                "rigid shaft for torque transfer",
+                "comfortable, grippable handle",
+                "magnetic tip to control screws in vertical orientation"
+            ]
+        },
+        {
+            "task_goal": "Secure roof rack crossbars by tightening the clamping bolts to spec",
+            "original_tool": "torque-limiting hex key",
+            "expected_outcome": "Crossbars are locked in place at specified torque, protecting the rails and preventing movement at highway speeds",
+            "required_tool_attributes": [
+                "correct hex size to match clamp bolts",
+                "built-in torque-limiting clutch to prevent over-tightening",
+                "rigid tool body to transmit torque accurately",
+                "ergonomic handle for steady, controlled rotation"
+            ]
+        }
+    ]
+}

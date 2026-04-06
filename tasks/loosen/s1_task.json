@@ -1,0 +1,225 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Loosen a rusted hex nut on a backyard gate hinge to realign the gate",
+            "original_tool": "adjustable wrench",
+            "expected_outcome": "The nut backs off counterclockwise, reducing clamping force so the hinge can be adjusted",
+            "required_tool_attributes": [
+                "adjustable jaw sized to hex flats",
+                "parallel, flat jaws for full-face contact",
+                "rigid steel handle for torque transmission",
+                "ergonomic grip for applying reverse torque",
+                "low jaw play to prevent rounding"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stuck lid on a pickle jar",
+            "original_tool": "rubber jar opener pad",
+            "expected_outcome": "The lid unscrews and the vacuum seal breaks, allowing the jar to open",
+            "required_tool_attributes": [
+                "high-friction rubber surface",
+                "flexible pad that conforms to lid contours",
+                "sufficient diameter coverage for grip",
+                "enables strong hand-applied rotational force"
+            ]
+        },
+        {
+            "task_goal": "Loosen the seatpost clamp bolt on a bicycle to adjust saddle height",
+            "original_tool": "5 mm hex key",
+            "expected_outcome": "Clamp tension relaxes and the seatpost can slide",
+            "required_tool_attributes": [
+                "5 mm hex tip that matches the bolt socket",
+                "hardened steel to resist twisting",
+                "L-shaped form for leverage",
+                "non-slip grip surface"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stuck 77 mm camera lens filter ring",
+            "original_tool": "lens filter wrench",
+            "expected_outcome": "The filter rotates free from lens threads without damage",
+            "required_tool_attributes": [
+                "thin, circular gripping band sized for the filter",
+                "non-marring, high-friction contact surface",
+                "leveraging handles for even reverse torque",
+                "clamp action to maintain grip under load"
+            ]
+        },
+        {
+            "task_goal": "Loosen an automotive oil filter during an oil change",
+            "original_tool": "oil filter wrench (band type)",
+            "expected_outcome": "The filter unscrews, releasing its seal from the engine",
+            "required_tool_attributes": [
+                "adjustable metal band to wrap the filter",
+                "textured inner surface for friction",
+                "long rigid handle for leverage",
+                "self-tightening action under reverse torque"
+            ]
+        },
+        {
+            "task_goal": "Loosen a corroded garden hose coupling from an outdoor spigot",
+            "original_tool": "tongue-and-groove pliers",
+            "expected_outcome": "The coupling backs off the faucet threads so the hose can be removed",
+            "required_tool_attributes": [
+                "adjustable jaw opening for various diameters",
+                "serrated jaws for bite on metal fittings",
+                "long handles to amplify reverse torque",
+                "angled head for wall clearance"
+            ]
+        },
+        {
+            "task_goal": "Loosen the tiny set screw retaining a door knob trim collar",
+            "original_tool": "precision flathead screwdriver",
+            "expected_outcome": "The set screw turns out slightly, releasing the collar for removal",
+            "required_tool_attributes": [
+                "narrow, flat blade that fits the slot snugly",
+                "rigid shaft for precise torque transmission",
+                "rotating cap or slim handle for control",
+                "textured grip to prevent slipping"
+            ]
+        },
+        {
+            "task_goal": "Loosen a woodworking C-clamp to release a glued board after curing",
+            "original_tool": "C-clamp T-handle",
+            "expected_outcome": "The screw backs out, relieving clamping pressure so the board can be removed",
+            "required_tool_attributes": [
+                "crossbar handle providing leverage",
+                "knurled or shaped grip for traction",
+                "rigid threaded screw converting rotation to axial release",
+                "steel construction to handle torque"
+            ]
+        },
+        {
+            "task_goal": "Loosen the regulator nut on a propane tank to disconnect the hose",
+            "original_tool": "7/8 inch open-end wrench",
+            "expected_outcome": "The nut turns counterclockwise, freeing the regulator fitting from the tank valve",
+            "required_tool_attributes": [
+                "accurately sized open jaws matching hex flats",
+                "slim head for access in tight spaces",
+                "hardened steel for high-torque loads",
+                "sufficient handle length for leverage"
+            ]
+        },
+        {
+            "task_goal": "Loosen lug nuts on a car wheel before lifting the vehicle",
+            "original_tool": "breaker bar with 19 mm six-point socket",
+            "expected_outcome": "Each lug nut breaks free, reducing clamping force so removal is easy",
+            "required_tool_attributes": [
+                "long rigid handle for high reverse torque",
+                "six-point socket for full-face hex engagement",
+                "secure square-drive coupling",
+                "hardened, corrosion-resistant construction"
+            ]
+        },
+        {
+            "task_goal": "Loosen the mounting nut securing a kitchen faucet from under the sink",
+            "original_tool": "basin wrench",
+            "expected_outcome": "The nut backs off, allowing the faucet to be lifted out or repositioned",
+            "required_tool_attributes": [
+                "pivoting, spring-loaded jaws to grab hidden nuts",
+                "long, narrow shaft for deep reach",
+                "T-handle to apply rotational force in confined space",
+                "serrated jaws for reliable grip"
+            ]
+        },
+        {
+            "task_goal": "Loosen the locknut on an angle grinder to change the cutting disc",
+            "original_tool": "pin spanner wrench",
+            "expected_outcome": "The locknut rotates free, releasing the disc from the spindle",
+            "required_tool_attributes": [
+                "dual pins spaced to fit locknut holes",
+                "rigid handle to transmit counter-torque",
+                "thin profile to fit near the guard",
+                "non-slip grip for controlled rotation"
+            ]
+        },
+        {
+            "task_goal": "Loosen a decorative ceiling light fixture\u2019s threaded retaining collar without marring it",
+            "original_tool": "strap wrench",
+            "expected_outcome": "The collar unscrews, allowing the fixture canopy to drop for access",
+            "required_tool_attributes": [
+                "flexible, non-marring strap that wraps the collar",
+                "self-tightening loop under reverse torque",
+                "handle for leverage in cramped positions",
+                "high-friction strap material"
+            ]
+        },
+        {
+            "task_goal": "Loosen the kingpin nut on a skateboard to make the trucks turn more freely",
+            "original_tool": "skate tool (1/2 inch socket)",
+            "expected_outcome": "The nut backs off slightly, reducing bushing compression for looser steering",
+            "required_tool_attributes": [
+                "correctly sized deep socket for hex nut",
+                "ergonomic T-shape for torque application",
+                "hardened steel socket to prevent rounding",
+                "compact profile for access near wheels"
+            ]
+        },
+        {
+            "task_goal": "Loosen the hose clamp securing a washing machine drain hose",
+            "original_tool": "1/4 inch nut driver",
+            "expected_outcome": "The clamp band slackens and the hose can be pulled off the fitting",
+            "required_tool_attributes": [
+                "1/4 inch hex socket end matching clamp screw",
+                "rigid shaft to reach recessed clamps",
+                "comfortable handle for steady torque",
+                "snug socket fit to prevent cam-out"
+            ]
+        },
+        {
+            "task_goal": "Loosen a recessed faucet aerator for cleaning mineral buildup",
+            "original_tool": "aerator key",
+            "expected_outcome": "The aerator unthreads from the spout without damage",
+            "required_tool_attributes": [
+                "keyed prongs sized to the aerator spline pattern",
+                "rigid ring body for even torque",
+                "durable material that resists deformation",
+                "compact profile to fit inside the spout"
+            ]
+        },
+        {
+            "task_goal": "Loosen the jam nut on a threaded rod of a gate latch adjustment",
+            "original_tool": "box-end wrench",
+            "expected_outcome": "The jam nut turns free, allowing the adjustment nut to spin independently",
+            "required_tool_attributes": [
+                "closed-loop hex engagement to prevent slippage",
+                "offset angled head for knuckle clearance",
+                "hardened steel for torque transmission",
+                "suitable handle length for leverage"
+            ]
+        },
+        {
+            "task_goal": "Loosen an over-tightened microphone stand clutch knob",
+            "original_tool": "rubber grip glove",
+            "expected_outcome": "The knob turns counterclockwise, relaxing the clutch so the stand height can adjust",
+            "required_tool_attributes": [
+                "high-friction palm to increase grip on smooth surfaces",
+                "flexible fit to conform to knob shape",
+                "abrasion-resistant material for traction under load",
+                "enables full-hand rotational force"
+            ]
+        },
+        {
+            "task_goal": "Loosen a tiny Phillips screw securing an eyeglasses hinge",
+            "original_tool": "precision Phillips #00 screwdriver",
+            "expected_outcome": "The screw backs out slightly, reducing hinge tension for adjustment or repair",
+            "required_tool_attributes": [
+                "correctly sized #00 cross-tip for positive engagement",
+                "rigid, narrow shaft for fine control",
+                "rotating end cap for fingertip torque",
+                "textured handle to prevent slipping"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stubborn lawn mower blade bolt to remove the blade for sharpening",
+            "original_tool": "cordless impact wrench with 1/2 inch drive and appropriate socket",
+            "expected_outcome": "The bolt breaks free and can be spun out by hand",
+            "required_tool_attributes": [
+                "high-torque reverse setting to apply rapid reverse torque",
+                "1/2 inch square drive for impact-rated sockets",
+                "impact-rated six-point socket for secure hex engagement",
+                "ergonomic, grippable body to control recoil"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,914 @@
+[
+    {
+        "task_goal": "Squeeze juice from a lemon half",
+        "action_type": "press",
+        "original_tool": "handheld citrus squeezer",
+        "expected_outcome": "Fresh lemon juice flows into a cup while the rind compresses",
+        "required_tool_attributes": [
+            "concave rigid press cups",
+            "hinged lever arms for mechanical advantage",
+            "corrosion-resistant material",
+            "drain slots/orifice"
+        ],
+        "unconventional_tools": [
+            "potato ricer (stainless steel, perforated cup press)",
+            "two spoons back-to-back as a manual press (squeeze lemon half)"
+        ],
+        "opposite_tool_attributes": [
+            "flat or convex, flexible pressing surfaces instead of concave rigid press cups",
+            "no hinged lever action (one-piece, non-levered, floppy design) providing no mechanical advantage",
+            "sealed pressing surfaces with no drain slots/orifice to direct juice out"
+        ],
+        "impossible_tools": [
+            "kitchen sponge",
+            "feather duster"
+        ],
+        "expected_outcome_impossible_tool": {
+            "kitchen sponge": "a person pressing a dry sponge against a lemon, absorbing any surface juice without squeezing the fruit.",
+            "feather duster": "a person lightly brushing a lemon half with a feather duster without extracting juice."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "handheld citrus squeezer",
+                "expected_outcome": "Fresh lemon juice flows into a cup while the rind compresses.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a handheld citrus squeezer to press a lemon half over a small clear glass on a kitchen counter. Be realistic.",
+                "descriptive_image_prompt": "Show a clear glass beneath a handheld citrus squeezer with the lemon rind inverted and flattened in the press; fresh lemon juice is visible in the glass, droplets cling to the rim, and a couple of seeds are trapped in the squeezer holes.",
+                "predictive_video_prompt": "Generate a short video predicting what will happen when a person places a lemon half into a handheld citrus squeezer and presses it over a glass on a countertop. Include the full attempt from start to finish.",
+                "descriptive_video_prompt": "Show a person placing a lemon half cut-side down into a handheld citrus squeezer, holding it over a clear glass, and squeezing the handles together. Juice streams into the glass as the rind flips and compresses. End with fresh lemon juice collected in the glass and the flattened rind in the squeezer."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "potato ricer (stainless steel, perforated cup press)",
+                "expected_outcome": "Fresh lemon juice flows into a cup while the rind compresses inside the perforated basket.",
+                "predictive_image_prompt": "Create a realistic image of the end state after using a stainless steel potato ricer to press a lemon half over a measuring cup on a kitchen counter.",
+                "descriptive_image_prompt": "Show a stainless steel potato ricer held above a measuring cup with a compressed, inverted lemon rind inside the perforated basket; fresh lemon juice is pooled in the cup and droplets cling to the ricer’s holes.",
+                "predictive_video_prompt": "Generate a video predicting what will happen when someone loads a lemon half into a stainless steel potato ricer and presses it over a measuring cup, showing the full process from start to finish.",
+                "descriptive_video_prompt": "Show a person placing a lemon half into the potato ricer’s perforated cup, holding it above a measuring cup, and closing the handles. Juice passes through the holes into the cup while the rind compresses against the plunger. End with fresh lemon juice collected in the cup and the flattened rind visible inside the ricer."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "two spoons back-to-back as a manual press (squeeze lemon half)",
+                "expected_outcome": "Fresh lemon juice flows into a cup while the rind compresses between the spoon backs.",
+                "predictive_image_prompt": "Generate an image showing the end state after using two metal spoons held back-to-back to press a lemon half over a small drinking glass.",
+                "descriptive_image_prompt": "Show two metal spoons held back-to-back over a small glass with a lemon half clamped between their curved backs; the rind appears crushed, and fresh lemon juice is visible in the glass with a few droplets on the rim.",
+                "predictive_video_prompt": "Create a short video predicting what will happen when a person sandwiches a lemon half between two spoons held back-to-back and squeezes over a glass, from start to finish.",
+                "descriptive_video_prompt": "Portray a person placing a lemon half between the backs of two sturdy spoons above a glass and pressing the spoons together. Juice dribbles into the glass as the rind compresses and flattens. End with a small pool of fresh lemon juice in the glass and the squeezed rind cupped by the spoons."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "kitchen sponge",
+                "expected_outcome": "The sponge soaks up the liquid; the lemon rind remains mostly uncompressed and the cup stays essentially empty except for a few stray drops.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after attempting to use a kitchen sponge to press a lemon half over a clear glass on a countertop.",
+                "descriptive_image_prompt": "Show a damp, yellow-stained kitchen sponge near a lemon half that looks mostly uncompressed above a clear empty glass; only a couple of stray droplets are on the rim, and no visible juice has collected in the glass.",
+                "predictive_video_prompt": "Generate a short video predicting what will happen when someone tries to press a lemon half over a glass using a kitchen sponge, covering the entire attempt from start to finish.",
+                "descriptive_video_prompt": "Show a person pressing a lemon half against a kitchen sponge above a glass. The sponge absorbs the liquid while the rind barely compresses, and almost nothing reaches the glass. End with the sponge wet and yellow-stained, the lemon still thick, and the glass essentially empty except for a few drops on the rim."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "feather duster",
+                "expected_outcome": "The soft feathers cannot apply squeezing force; the rind stays uncompressed and no juice collects in the cup.",
+                "predictive_image_prompt": "Create an image depicting the end state after trying to use a feather duster on a lemon half positioned over a clear glass on a kitchen counter.",
+                "descriptive_image_prompt": "Show a feather duster touching a lemon half above a clear empty glass; the lemon rind looks unchanged, the bottom of the glass has no juice, and a few feather tips appear slightly damp.",
+                "predictive_video_prompt": "Generate a video predicting what will happen when someone attempts to use a feather duster on a lemon half over a glass, showing the full sequence from start to finish.",
+                "descriptive_video_prompt": "Depict a person brushing and pressing at a lemon half with a feather duster above a glass. The soft feathers fail to apply pressure, the rind does not compress, and no juice falls into the glass. End with the lemon still intact, the duster’s tips a bit damp, and the glass empty."
+            }
+        ]
+    },
+    {
+        "task_goal": "Shatter a car side window to escape during an emergency",
+        "action_type": "break",
+        "original_tool": "emergency window hammer",
+        "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+        "required_tool_attributes": [
+            "hardened pointed tip to focus impact",
+            "sufficient head mass for impulse delivery",
+            "ergonomic, non-slip grip",
+            "spring-loaded striker or rigid hammer head for sudden force"
+        ],
+        "unconventional_tools": [
+            "car seat headrest metal prongs used as a puncture/impact point",
+            "wrench"
+        ],
+        "opposite_tool_attributes": [
+            "soft, rounded blunt tip that disperses impact instead of focusing it",
+            "very low-mass, compressible head that absorbs energy rather than delivering impulse",
+            "slippery, flexible handle that reduces grip and bends instead of transferring force"
+        ],
+        "impossible_tools": [
+            "water bottle",
+            "foam pool noodle"
+        ],
+        "expected_outcome_impossible_tool": {
+            "water bottle": "someone throwing a water bottle against a car window, making it bounce off harmlessly.",
+            "foam pool noodle": "a foam pool noodle bending in half as it is forcefully swung against a car window."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "emergency window hammer",
+                "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using an emergency window hammer on a car’s side window during an urgent escape. Keep it realistic and focused on the window area.",
+                "descriptive_image_prompt": "Show a car side window shattered into small cube-like tempered glass fragments with a clear opening to the outside. Pebbled glass beads are scattered on the seat and ground, and a red emergency window hammer is visible in the person’s hand near the jagged remaining edges.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person inside a car uses an emergency window hammer on the lower corner of a side window during an emergency. Include the setup, the strikes, and the moment the action concludes.",
+                "descriptive_video_prompt": "Show a person bracing inside a car, gripping an emergency window hammer and aiming at the lower corner of the side window. They deliver sharp, controlled blows; the tempered glass bursts into small cubes and collapses. The person brushes away loose fragments with the hammer’s tip to widen the gap, ending with a clear exit opening and piles of glass pellets on the seat and pavement."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "car seat headrest metal prongs used as a puncture/impact point",
+                "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+                "predictive_image_prompt": "Generate an image of the final state after someone removes a car seat headrest and drives its metal prongs into a side window to get out. Be realistic and focus on the door and glass.",
+                "descriptive_image_prompt": "Depict a side window shattered into pebble-like tempered glass cubes with a hand holding a removed headrest nearby. There is a clear opening where the metal prongs struck near the corner, with glass beads scattered across the seat and door sill.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person pulls out a seat headrest, grips the metal prongs, and jabs them into the lower corner of a car’s side window in an emergency.",
+                "descriptive_video_prompt": "The person presses the release buttons, removes the headrest, and positions the metal prongs at the lower corner of the side window. With firm, focused jabs, the tempered glass instantly breaks into small cubes and collapses inward. They knock away remaining fragments with the prongs and finish with a climb-through opening and pebbled glass scattered on the seat and ground."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "wrench",
+                "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+                "predictive_image_prompt": "Generate an image of the final state after someone uses a heavy wrench to strike a car’s side window to get out. Keep the scene realistic and close-up.",
+                "descriptive_image_prompt": "Show a side window broken into small, cube-like tempered glass fragments with a clear opening. A metal wrench is in the person’s hand near the remaining pebbled edges, and glass pellets litter the seat and the asphalt outside.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person swings a wrench at the lower corner of a car’s side window from inside the vehicle, capturing the attempt from wind-up to the end.",
+                "descriptive_video_prompt": "Inside the car, a person grips a heavy wrench and strikes the lower corner of the side window. After a solid impact, the tempered glass bursts into small cubes and falls away. They use the wrench to brush loose fragments from the frame, ending with a visible exit opening and scattered glass pellets on the seat and outside the door."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "water bottle",
+                "expected_outcome": "The window remains intact with no cracks or holes; only faint wet streaks and smudges appear on the glass, and the plastic bottle shows slight deformation.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after someone uses a filled plastic water bottle to hit a car side window in an attempt to get out. Keep it realistic and close-up.",
+                "descriptive_image_prompt": "Depict an intact car side window with no cracks or opening. There are faint wet streaks and smudge marks on the glass, and a slightly dented plastic water bottle is in the person’s hand. No loose glass is present anywhere.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person repeatedly swings a filled plastic water bottle at a car’s side window from inside the vehicle, from the first hit through the end of the attempt.",
+                "descriptive_video_prompt": "A person inside the car strikes and slaps the side window with a filled plastic water bottle. The bottle flexes and deforms as water sloshes, leaving only wet streaks and smudges. The tempered glass does not crack or break; the attempt ends with the window fully intact and the person holding the dented bottle."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "foam pool noodle",
+                "expected_outcome": "The side window remains completely intact with no cracks or damage; the soft foam shows compression but causes no visible change to the glass.",
+                "predictive_image_prompt": "Generate an image of the final state after someone tries to use a foam pool noodle on a car side window during an emergency. Keep it realistic.",
+                "descriptive_image_prompt": "Show a completely intact car side window with no cracks or breakage. A long foam pool noodle is slightly bent against the glass, leaving at most a faint dust mark and no loose glass anywhere.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person swings a foam pool noodle at a car’s side window while seated inside, aiming near the corner. Capture the whole sequence.",
+                "descriptive_video_prompt": "Inside the car, a person swings and presses a foam pool noodle against the side window. The noodle compresses and bounces off harmlessly without marking the glass. The window remains unbroken throughout, and the clip ends with the still-intact pane and the floppy noodle drooping across the door."
+            }
+        ]
+    },
+    {
+        "task_goal": "Fill a kitchen sink for soaking dishes",
+        "action_type": "block",
+        "original_tool": "sink stopper",
+        "expected_outcome": "Water is retained in the basin with no drain flow.",
+        "required_tool_attributes": [
+            "impermeable material",
+            "snug, tapered fit to drain opening",
+            "structural stiffness to resist water pressure",
+            "grippable edge for placement and removal"
+        ],
+        "unconventional_tools": [
+            "flat metal jar lid covered in plastic wrap and weighted by a mug",
+            "mini cup plunger pressed firmly to create suction over the drain"
+        ],
+        "opposite_tool_attributes": [
+            "porous or absorbent material that allows water to pass through",
+            "loose, non-tapered shape that cannot form a seal with the drain opening",
+            "flimsy, collapsible structure that deforms under water pressure and won't hold position"
+        ],
+        "impossible_tools": [
+            "kitchen sponge",
+            "paper towel sheet"
+        ],
+        "expected_outcome_impossible_tool": {
+            "kitchen sponge": "running tap water quickly draining right through a kitchen sponge placed over the sink hole.",
+            "paper towel sheet": "a paper towel instantly getting soaked and collapsing down the drain as water flows freely."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "sink stopper",
+                "expected_outcome": "Water is retained in the basin with no drain flow.",
+                "predictive_image_prompt": "Generate an image showing what the kitchen sink looks like at the end after a sink stopper is fitted in the drain and the faucet has been run to fill the basin for soaking dishes. Be realistic.",
+                "descriptive_image_prompt": "A kitchen sink basin holding several inches of clear water, a rubber sink stopper seated flush in the drain, no water movement at the drain, plates and utensils submerged, and the faucet off.",
+                "predictive_video_prompt": "Generate a video to illustrate what will happen when a person fits a sink stopper into the kitchen sink drain and runs the faucet to fill the basin for soaking dishes. Show the full process from placement to the end state.",
+                "descriptive_video_prompt": "Show a person pressing a sink stopper into the drain, turning on the faucet, and the basin steadily filling. They turn the faucet off; the water level stays high with the stopper sealed and no flow into the drain, leaving dishes soaking."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "flat metal jar lid covered in plastic wrap and weighted by a mug",
+                "expected_outcome": "Water is retained in the basin with no drain flow.",
+                "predictive_image_prompt": "Generate an image showing what the sink looks like after a flat metal jar lid wrapped in plastic is placed over the drain and held down with a ceramic mug to fill the basin for soaking dishes.",
+                "descriptive_image_prompt": "A kitchen sink basin full of water; a flat metal jar lid wrapped in plastic wrap centered over the drain, topped by a heavy mug as a weight; no bubbles or ripples around the drain; dishes sitting underwater.",
+                "predictive_video_prompt": "Generate a video to show what happens when someone stretches plastic wrap over a flat metal jar lid, sets it over the kitchen sink drain, and places a mug on top before running the faucet to fill the basin.",
+                "descriptive_video_prompt": "Show a person covering a flat metal jar lid with plastic wrap, positioning it over the drain, and setting a mug on top as a weight. They run the faucet until the basin fills, then turn the water off. The improvised seal holds; the water level remains steady with no flow into the drain and dishes soaking."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "mini cup plunger pressed firmly to create suction over the drain",
+                "expected_outcome": "Water is retained in the basin with no drain flow.",
+                "predictive_image_prompt": "Generate an image of the end state after a mini cup plunger is pressed firmly over a kitchen sink drain while the user attempts to fill the basin for soaking dishes.",
+                "descriptive_image_prompt": "A kitchen sink filled with water; a small rubber cup plunger seated over the drain with its handle upright; the water around the drain is still, indicating a tight seal; plates and utensils submerged.",
+                "predictive_video_prompt": "Generate a short video showing what happens when someone presses a mini cup plunger over the sink drain to make a seal and runs the tap to fill the basin for soaking dishes.",
+                "descriptive_video_prompt": "Show a person centering a mini cup plunger over the drain and pressing down to create suction, then turning on the faucet. The basin rises to full; after the tap is shut off, the plunger remains sealed and the water is retained with no flow into the drain, leaving dishes soaking."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "kitchen sponge",
+                "expected_outcome": "Water seeps through and around the sponge; the basin does not fill, leaving only a shallow puddle while liquid continues into the drain.",
+                "predictive_image_prompt": "Generate an image to show what the sink looks like after a kitchen sponge is pressed into the drain in an attempt to fill the basin for soaking dishes.",
+                "descriptive_image_prompt": "A kitchen sink with a saturated sponge jammed into the drain; only a thin puddle remains in the basin as water has passed around the sponge; the drain area glistens wet and the sink is not holding water.",
+                "predictive_video_prompt": "Generate a video illustrating what happens when someone tries to block the kitchen sink drain with a sponge and runs the faucet to fill the basin for soaking dishes.",
+                "descriptive_video_prompt": "Show a person stuffing a kitchen sponge into the drain and turning on the faucet. Water immediately seeps around and through the sponge, trickling into the drain. The basin never rises beyond a shallow puddle; when the tap is turned off, the soggy sponge remains in the drain and the sink is not filled."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "paper towel sheet",
+                "expected_outcome": "Water quickly soaks through and bypasses the paper towel; the basin fails to fill and only a shallow film of water remains with torn paper around the drain.",
+                "predictive_image_prompt": "Generate an image depicting the end state after a single sheet of paper towel is placed over the kitchen sink drain to try to fill the basin for soaking dishes.",
+                "descriptive_image_prompt": "A kitchen sink with a limp, translucent sheet of paper towel slumped over the drain, partly torn; water has passed through, leaving only a shallow film in the basin; small paper fibers cling to the strainer and the drain remains visibly open.",
+                "predictive_video_prompt": "Generate a video to show what happens when someone lays a paper towel sheet over the sink drain and runs the faucet to fill the basin for soaking dishes.",
+                "descriptive_video_prompt": "Show a person placing a single paper towel over the drain and turning on the faucet. The towel immediately soaks, sags, and tears as water flows straight into the drain. The basin never fills, and the clip ends with a wet, torn paper towel around the drain and only a thin layer of water left."
+            }
+        ]
+    },
+    {
+        "task_goal": "Keep a bedroom door from closing due to drafts",
+        "action_type": "block",
+        "original_tool": "doorstop wedge",
+        "expected_outcome": "The door remains fixed in the open position and does not swing shut.",
+        "required_tool_attributes": [
+            "rigid wedge geometry",
+            "high-friction contact surfaces",
+            "sufficient compressive strength",
+            "size matched to door gap"
+        ],
+        "unconventional_tools": [
+            "work boot",
+            "plastic bottle with full water"
+        ],
+        "opposite_tool_attributes": [
+            "rounded or rolling, non-wedge geometry",
+            "low-friction, slippery contact surfaces",
+            "soft, easily deformed with low compressive strength"
+        ],
+        "impossible_tools": [
+            "single sheet of A4 paper",
+            "inflated balloon"
+        ],
+        "expected_outcome_impossible_tool": {
+            "single sheet of A4 paper": "a draft blowing a bedroom door shut, easily sliding over and crumpling a single sheet of A4 paper on the floor.",
+            "inflated balloon": "a bedroom door swinging shut and effortlessly pushing an inflated balloon out of the way."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "doorstop wedge",
+                "expected_outcome": "The door remains fixed in the open position and does not swing shut.",
+                "predictive_image_prompt": "Generate a realistic image of a bedroom doorway on a hardwood floor where a person has placed a rubber doorstop wedge under the door to resist drafts; show the scene after it’s positioned.",
+                "descriptive_image_prompt": "Show the bedroom door held open about 60 degrees, with a rubber doorstop wedge snugly jammed under the door on the floor near the hinge side; the door is motionless despite a light draft.",
+                "predictive_video_prompt": "Generate a short, realistic video showing someone sliding a rubber doorstop wedge under a bedroom door on a hardwood floor as a light draft moves the door; include the placement, release, and the final settled position.",
+                "descriptive_video_prompt": "Show a person aligning and pushing a rubber doorstop wedge under the opening edge of a bedroom door on a hardwood floor; the draft tugs at the door, but the wedge grips and the door stays propped open around 60 degrees; end with a steady shot of the door remaining open."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "work boot",
+                "expected_outcome": "The door remains fixed in the open position and does not swing shut.",
+                "predictive_image_prompt": "Generate an image of a bedroom entry where a heavy work boot has been shoved under the door to keep it from drifting shut in a draft; show the arrangement after placement.",
+                "descriptive_image_prompt": "Show the bedroom door held open around 45 degrees, with a sturdy work boot wedged sole-first under the door edge on carpet; the boot’s tread bites and the door stays put.",
+                "predictive_video_prompt": "Generate a short video of someone using a heavy work boot as a makeshift doorstop on a carpeted bedroom floor: they kick the boot under the swinging door and step back, capturing the full attempt from start to end.",
+                "descriptive_video_prompt": "Depict a person pressing a work boot firmly under the door on a carpeted bedroom floor; the tread jams under the edge, and when the draft pushes, the boot holds the door fixed open around 45 degrees; finish with a stable shot of the unmoving door and boot."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "plastic bottle with full water",
+                "expected_outcome": "The door remains fixed in the open position and does not swing shut.",
+                "predictive_image_prompt": "Generate an image of a bedroom doorway where a full plastic water bottle is placed against the door’s lower edge to stop it from closing in a draft; show the setup after positioning.",
+                "descriptive_image_prompt": "Show the door held open roughly 50 degrees, with a full plastic water bottle standing upright and pressed against the door’s lower edge near the latch side; the bottle’s weight keeps the door from moving.",
+                "predictive_video_prompt": "Generate a short video in which a person sets a full plastic water bottle beside the bedroom door’s lower edge as the door drifts in a draft; include the placement and the final settled position.",
+                "descriptive_video_prompt": "Show a person sliding a full plastic water bottle snugly against the door’s lower edge near the latch side on a smooth floor; when the draft pushes, the bottle blocks the edge and the door remains open at about 50 degrees; end with a close-up of the stable gap."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "single sheet of A4 paper",
+                "expected_outcome": "The door swings shut against the frame; the A4 paper crumples and slips, ending up partly trapped and clearly not holding the door open.",
+                "predictive_image_prompt": "Generate an image of a bedroom door on a hardwood floor where someone has slipped a single sheet of A4 paper under the door edge to keep it from drifting shut; show the scene after they try this.",
+                "descriptive_image_prompt": "Show the failed result: the bedroom door is closed against the frame, while a single A4 sheet lies crumpled and partly torn under the door edge, not holding anything open.",
+                "predictive_video_prompt": "Generate a brief video showing a person sliding a single A4 sheet under the bottom edge of a bedroom door to stop it drifting from a draft, then letting go; capture the attempt from start to end.",
+                "descriptive_video_prompt": "Depict a person feeding a single A4 sheet under the door edge on a smooth floor; as the draft moves the door, the sheet buckles and slips, and the door continues to swing until it closes against the frame; end on the crumpled sheet trapped at the threshold and the door fully shut."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "inflated balloon",
+                "expected_outcome": "The balloon rolls away from the door and the door swings shut against the frame, leaving nothing holding it open.",
+                "predictive_image_prompt": "Generate an image of a bedroom doorway where an inflated balloon has been positioned at the bottom edge of the door to keep it from closing in a draft; show the arrangement after placement.",
+                "descriptive_image_prompt": "Show the failed outcome: the inflated balloon has rolled aside toward the baseboard, and the bedroom door now rests closed against the frame.",
+                "predictive_video_prompt": "Generate a short video where someone nudges an inflated balloon against the bottom edge of a bedroom door to stop it drifting shut and steps back; include the entire attempt until the door settles.",
+                "descriptive_video_prompt": "Show a person pressing an inflated balloon against the door’s lower edge; as the door moves with the draft, the round balloon squirts out and rolls away toward the wall, and the door swings shut until it rests against the frame; finish with the balloon off to the side and the door closed."
+            }
+        ]
+    },
+    {
+        "task_goal": "Serve soup from a pot into a bowl",
+        "action_type": "scoop",
+        "original_tool": "ladle",
+        "expected_outcome": "A ladleful of soup fills the bowl",
+        "required_tool_attributes": [
+            "deep concave bowl for liquid containment",
+            "watertight surface",
+            "long handle to reach into the pot",
+            "heat-resistant material"
+        ],
+        "unconventional_tools": [
+            "heat-safe glass measuring jug with spout",
+            "metal gravy boat used as a scoop and pour"
+        ],
+        "opposite_tool_attributes": [
+            "flat, perforated, or convex head lacking a deep concave bowl",
+            "porous or absorbent surface that is not watertight",
+            "short, heat-sensitive handle/material that cannot withstand pot heat"
+        ],
+        "impossible_tools": [
+            "fork",
+            "tongs"
+        ],
+        "expected_outcome_impossible_tool": {
+            "fork": "a person repeatedly dipping a fork into a pot of soup, capturing zero broth.",
+            "tongs": "a pair of tongs wildly clacking in a pot of liquid soup, catching absolutely nothing."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "ladle",
+                "expected_outcome": "A ladleful of soup fills the bowl",
+                "predictive_image_prompt": "Generate an image to visualize the end state after someone uses a ladle to transfer soup from a steaming pot into a ceramic bowl on a kitchen counter. Keep it realistic and focused on the setup and result scene.",
+                "descriptive_image_prompt": "Show a kitchen counter with a simmering pot nearby and a ceramic bowl now filled with a ladleful of soup, visible broth and ingredients inside the bowl, and the ladle resting above the pot.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what happens when a person uses a ladle to scoop soup from a pot and move it into a waiting bowl, from start to finish in a home kitchen with gentle steam rising.",
+                "descriptive_video_prompt": "Show a person dipping a ladle into a simmering pot, lifting it brimming with soup, positioning it over an empty bowl, and pouring smoothly. The clip ends with the bowl holding a ladleful of soup next to the pot."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "heat-safe glass measuring jug with spout",
+                "expected_outcome": "A ladleful of soup fills the bowl",
+                "predictive_image_prompt": "Create a realistic image of the end state after using a heat-safe glass measuring jug with a spout to scoop from a soup pot and aim into a bowl on a wooden table.",
+                "descriptive_image_prompt": "Depict a bowl now filled with a ladleful of soup, with the glass measuring jug held just above it, a small drip at the spout, and the pot of soup sitting nearby.",
+                "predictive_video_prompt": "Generate a short video showing what happens when someone dips a heat-safe glass measuring jug with a spout into a pot of soup and tilts it toward a nearby bowl, from start to finish.",
+                "descriptive_video_prompt": "Show a person lowering the glass measuring jug into the simmering pot, lifting it, aligning the spout over an empty bowl, and pouring steadily. End with the bowl containing a ladleful of soup on the table."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "metal gravy boat used as a scoop and pour",
+                "expected_outcome": "A ladleful of soup fills the bowl",
+                "predictive_image_prompt": "Generate an image that visualizes the end state after someone uses a metal gravy boat as a scoop and pour from a soup pot toward a waiting bowl on a kitchen island.",
+                "descriptive_image_prompt": "Show a bowl filled with a ladleful of soup, the metal gravy boat tilted above it with a small sheen of broth at the lip, and the pot close by.",
+                "predictive_video_prompt": "Create a short, realistic video showing what happens when a person dips a metal gravy boat into a pot of soup and pours from its spout into a nearby bowl, capturing the full sequence.",
+                "descriptive_video_prompt": "Show a person scooping soup from the pot using a metal gravy boat, lifting it carefully, and pouring through the spout into an empty bowl. The clip ends with the bowl holding a ladleful of soup beside the pot."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "fork",
+                "expected_outcome": "The attempt fails: the bowl remains mostly empty of broth, with only a few solid bits in it and scattered soup drips on the counter; most liquid is still in the pot.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after someone tries using a fork to move soup from a pot into a bowl on a kitchen counter. Keep it realistic without stating the result.",
+                "descriptive_image_prompt": "Show a nearly empty bowl with only a couple of noodles or vegetable pieces, wet droplets around the rim and on the counter, a soup pot still full nearby, and a wet fork resting beside the bowl.",
+                "predictive_video_prompt": "Create a short video predicting what happens when a person attempts to transfer soup from a pot to a bowl using only a fork, from start to finish.",
+                "descriptive_video_prompt": "Show a person dipping a fork into the pot; the liquid slips through the tines as they lift, with a few solids barely making it over. Repeated attempts leave drips on the counter. End with the bowl mostly empty of broth, holding just a few pieces, and the pot still containing most of the soup."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "tongs",
+                "expected_outcome": "The attempt fails: the bowl ends up with a few solid pieces and almost no broth, with stray splashes around; most liquid remains in the pot.",
+                "predictive_image_prompt": "Generate an image to visualize the end state after attempting to use tongs to move soup from a pot into a bowl on a stovetop area, without stating the outcome.",
+                "descriptive_image_prompt": "Depict a bowl containing only a few chunks of vegetables or noodles, minimal liquid, and a couple of splashes on the counter; the pot still holds most of the broth, and a pair of wet tongs rests nearby.",
+                "predictive_video_prompt": "Produce a short video showing what happens when a person uses tongs to try to serve soup from a pot into a bowl, from initial attempt to the end.",
+                "descriptive_video_prompt": "Show a person gripping pieces from the pot with tongs; the broth drains back between the arms while moving toward the bowl. Occasional drips land on the counter. End with the bowl holding a few solids and almost no broth, while the pot retains most of the liquid."
+            }
+        ]
+    },
+    {
+        "task_goal": "Scrape candle wax drips off a wooden table",
+        "action_type": "scrape",
+        "original_tool": "plastic putty knife",
+        "expected_outcome": "Wax flakes away, revealing the wood finish beneath",
+        "required_tool_attributes": [
+            "flat, slightly flexible plastic edge",
+            "non-scratch material",
+            "beveled front edge",
+            "grippable handle"
+        ],
+        "unconventional_tools": [
+            "plastic gift card",
+            "plastic windshield ice scraper"
+        ],
+        "opposite_tool_attributes": [
+            "rounded, non-beveled leading edge that cannot slide under wax",
+            "hard, sharp, abrasive metal edge that can scratch wood",
+            "no handle or a slick, non-grippable body"
+        ],
+        "impossible_tools": [
+            "rubber mallet",
+            "steel wire brush"
+        ],
+        "expected_outcome_impossible_tool": {
+            "rubber mallet": "a rubber mallet pounding onto wax drips, offering no scraping edge to remove them.",
+            "steel wire brush": "a harsh wire brush violently scratching up a wood table finish while smearing the wax."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "plastic putty knife",
+                "expected_outcome": "Wax flakes away, revealing the wood finish beneath",
+                "predictive_image_prompt": "Generate an image showing the final state after using a plastic putty knife to work on candle wax drips stuck to a wooden table. Keep it realistic and well-lit.",
+                "descriptive_image_prompt": "A close-up of a wooden tabletop where the candle wax drips have been cleanly lifted: thin translucent flakes of wax are scattered to the side, and the smooth wood finish is fully visible and intact where the scraping was done, with the plastic putty knife resting nearby.",
+                "predictive_video_prompt": "Generate a short video predicting what will happen when someone uses a plastic putty knife to address candle wax drips on a wooden table. Show the process from initial contact to the final state.",
+                "descriptive_video_prompt": "Show a person holding a plastic putty knife at a shallow angle and gently pushing under the candle wax drips on a wooden table. The wax lifts in brittle pieces and slides away in flakes with successive passes. By the end, the wax is removed and the smooth wood finish underneath is clean and visible, with small wax flakes gathered aside."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "plastic gift card",
+                "expected_outcome": "Wax flakes away, revealing the wood finish beneath",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a plastic gift card on candle wax drips stuck to a wooden table. Keep it realistic.",
+                "descriptive_image_prompt": "A wooden tabletop with the candle wax drips scraped away; small curled wax shavings are off to one side, and the plastic gift card lies nearby. The exposed area shows the undamaged wood finish.",
+                "predictive_video_prompt": "Generate a short video to show what will happen when someone uses a plastic gift card to tackle candle wax drips on a wooden table, from start to end.",
+                "descriptive_video_prompt": "Show a person flexing a plastic gift card and sliding its edge under the hardened wax at a shallow angle, prying and pushing to chip off sections. Flakes and thin sheets of wax break free and are swept aside. End with the wax gone and the wood surface beneath looking clean and intact."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "plastic windshield ice scraper",
+                "expected_outcome": "Wax flakes away, revealing the wood finish beneath",
+                "predictive_image_prompt": "Generate an image depicting the final state after using a plastic windshield ice scraper on candle wax drips on a wooden table. Make it realistic.",
+                "descriptive_image_prompt": "A wooden tabletop where candle wax drips have been scraped off; scattered wax shards are present, and a plastic windshield ice scraper rests beside a clean, undamaged patch of exposed wood grain.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person uses a plastic windshield ice scraper to work on candle wax drips stuck to a wooden table, from first contact to the end.",
+                "descriptive_video_prompt": "Show a person gripping a plastic windshield ice scraper and drawing its flat edge across the wax drips at a low angle. The hardened wax shears off in chips and strips with each pass. By the end, the wax is removed and the smooth wood finish is clearly visible, with loosened wax pieces pushed into a small pile."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "rubber mallet",
+                "expected_outcome": "Most wax remains adhered and compressed into flattened patches; there are no scraped flakes, and the wooden surface shows slight dents or scuff marks around the wax.",
+                "predictive_image_prompt": "Generate an image showing the final state after attempting to use a rubber mallet on candle wax drips stuck to a wooden table. Be realistic.",
+                "descriptive_image_prompt": "A close-up of a wooden tabletop with wax drips still mostly present but flattened and slightly smeared; no scraped flakes are around. Faint dent marks and scuffs surround the spots, and a rubber mallet rests nearby.",
+                "predictive_video_prompt": "Generate a short video to illustrate what will happen when someone tries using a rubber mallet on candle wax drips stuck to a wooden table, from the first strike to the end state.",
+                "descriptive_video_prompt": "Show a person tapping and striking the hardened wax drips on a wooden table with a rubber mallet. The blows compress and spread the wax without lifting it off; some areas smear, and the wood shows minor dents and scuffs. End with the wax still adhered in flattened patches and no pile of scraped flakes."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "steel wire brush",
+                "expected_outcome": "Aggressive brushing leaves deep scratches and dull patches in the wood finish, with streaks of wax residue still in the grain; the wax is not cleanly removed.",
+                "predictive_image_prompt": "Generate an image showing the final state after attempting to use a steel wire brush on candle wax drips stuck to a wooden table. Keep it realistic.",
+                "descriptive_image_prompt": "A wooden tabletop marred by obvious scratch marks and dull, abraded patches around where the wax was; streaks and smears of white wax remain in the grain, and a steel wire brush with wax residue on its bristles lies nearby.",
+                "predictive_video_prompt": "Generate a short video to predict what will happen when using a steel wire brush on candle wax drips stuck to a wooden table, from the first strokes to the end state.",
+                "descriptive_video_prompt": "Show a person scrubbing the candle wax drips on a wooden table with a steel wire brush. The bristles grind against the surface, scuffing and scratching the finish while smearing wax along the grain. By the end, the wood is visibly damaged with scratches and dull spots, and streaks of wax residue remain rather than a cleanly cleared surface."
+            }
+        ]
+    },
+    {
+        "task_goal": "Loosen a flat-head screw",
+        "action_type": "loose",
+        "original_tool": "flat-head screwdriver",
+        "expected_outcome": "The screw rotates counterclockwise and loosens from its position.",
+        "required_tool_attributes": [
+            "thin rigid edge that fits the screw slot",
+            "sufficient torsional strength to resist twisting",
+            "flat contact surface for torque transfer",
+            "grippable body for controlled hand rotation"
+        ],
+        "unconventional_tools": [
+            "coin",
+            "butter knife"
+        ],
+        "opposite_tool_attributes": [
+            "rounded contact surface with no usable edge",
+            "soft material that deforms under torque",
+            "incompatible thickness that cannot engage the slot"
+        ],
+        "impossible_tools": [
+            "pencil eraser end",
+            "rubber band"
+        ],
+        "expected_outcome_impossible_tool": {
+            "pencil eraser end": "The eraser compresses and slips on the screw head, cannot engage the flat slot, and the screw does not rotate.",
+            "rubber band": "The rubber band stretches and slides across the screw head, fails to transfer torque into the slot, and the screw remains tight."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "flat-head screwdriver",
+                "expected_outcome": "The screw rotates counterclockwise and loosens from its position.",
+                "predictive_image_prompt": "Generate an image to visualize the end state after using a flat-head screwdriver to try to loosen a flat-head screw on a cabinet hinge. Show a realistic close-up of the hinge on a wooden door.",
+                "descriptive_image_prompt": "Close-up of a cabinet hinge on a wooden door with the flat-head screw partially backed out and visibly raised above the hinge plate, several threads exposed and the slot turned counterclockwise relative to its starting orientation.",
+                "predictive_video_prompt": "Generate a short video to show what will happen when a person uses a flat-head screwdriver to turn a flat-head screw on a cabinet hinge counterclockwise, from first contact to the end of the attempt. Be realistic.",
+                "descriptive_video_prompt": "In a close-up, a person seats the screwdriver blade into the slot on the hinge screw and turns counterclockwise with steady pressure. The screw rotates and backs out a little more with each turn. The clip ends with the screw loosened and protruding above the hinge plate, several threads exposed."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "coin",
+                "expected_outcome": "The screw rotates counterclockwise and loosens from its position.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a coin to try to loosen a flat-head screw on a remote control’s battery door. Make it a realistic close-up.",
+                "descriptive_image_prompt": "Close-up of the remote’s battery door with the slotted screw backed out and standing proud of the surface, a few threads visible and the slot turned counterclockwise, the door edge slightly lifted as the screw has been loosened.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when someone holds a coin by the edges and uses it to turn the flat-head screw on a battery compartment counterclockwise, from start to finish.",
+                "descriptive_video_prompt": "A person fits the coin’s edge into the screw slot and twists counterclockwise. The screw rotates and rises, and the battery door loosens enough to lift. The video ends with the screw loosened and protruding, threads visible."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "butter knife",
+                "expected_outcome": "The screw rotates counterclockwise and loosens from its position.",
+                "predictive_image_prompt": "Generate an image to visualize the end state after using a butter knife to loosen a flat-head screw on a metal wall plate. Close-up, realistic lighting.",
+                "descriptive_image_prompt": "Close-up of a metal wall plate with the flat-head screw partially backed out and protruding above the surface, the slot rotated counterclockwise and several threads visible, the surrounding plate unmarred.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person uses the tip of a butter knife as a driver to turn a flat-head screw on a wall plate counterclockwise, from first contact to the end.",
+                "descriptive_video_prompt": "The person aligns the flat edge of the butter knife in the screw slot, presses firmly, and turns counterclockwise. The screw rotates and backs out gradually. The clip ends with the screw loosened and standing proud of the plate, threads exposed."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "pencil eraser end",
+                "expected_outcome": "The screw does not rotate or loosen; it remains fully seated and flush. The eraser end is smudged, rounded, and leaves pink residue and crumbs in the screw slot.",
+                "predictive_image_prompt": "Generate an image to visualize the end state after attempting to use the eraser end of a pencil to loosen a flat-head screw in a wooden board. Show a realistic close-up.",
+                "descriptive_image_prompt": "Close-up of a wooden board with the flat-head screw still flush and unmoved; the slot is smeared with pink eraser residue and tiny rubber crumbs, and the pencil’s eraser is rounded and scuffed.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when someone presses the eraser end of a pencil into the slot of a flat-head screw in a wooden board and twists, from start to finish.",
+                "descriptive_video_prompt": "A person presses the pencil’s eraser into the screw slot and tries to twist. The eraser compresses, smears, and slips repeatedly, leaving pink residue and crumbs while the screw head does not turn. The video ends with the screw still flush and the eraser visibly worn down."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "rubber band",
+                "expected_outcome": "The screw remains unmoved and flush; the rubber band stretches, slips, and may snap, leaving the screw unturned.",
+                "predictive_image_prompt": "Generate an image to visualize the end state after attempting to use a rubber band to loosen a flat-head screw on a metal bracket. Make it a realistic close-up.",
+                "descriptive_image_prompt": "Close-up of a metal bracket with the flat-head screw still fully seated and unmoved; a stretched, snapped rubber band lies near the screw head, with no visible rotation marks on the screw.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when someone tries to use only a rubber band, stretched over the head of a flat-head screw on a metal bracket, to turn it counterclockwise, from beginning to end.",
+                "descriptive_video_prompt": "The person stretches a rubber band across the screw head and pulls and twists in an effort to turn it. The band slips repeatedly, stretches thin, and eventually snaps back while the screw never rotates. The clip ends with the broken band on the surface and the screw unchanged and flush with the bracket."
+            }
+        ]
+    },
+    {
+        "task_goal": "Crack open a walnut shell",
+        "action_type": "break",
+        "original_tool": "nutcracker",
+        "expected_outcome": "The walnut shell cracks under compressive force, exposing the edible kernel inside.",
+        "required_tool_attributes": [
+            "hard contact surface",
+            "ability to apply concentrated compressive force",
+            "sufficient rigidity under load",
+            "stable grip or striking control"
+        ],
+        "unconventional_tools": [
+            "shoe with a hard sole",
+            "book with heavy cover"
+        ],
+        "opposite_tool_attributes": [
+            "soft cushioning surface",
+            "low structural rigidity",
+            "insufficient force transfer"
+        ],
+        "impossible_tools": [
+            "pillow",
+            "glass cup"
+        ],
+        "expected_outcome_impossible_tool": {
+            "pillow": "The pillow cushions the walnut instead of concentrating force, and the shell remains uncracked.",
+            "glass cup": "The glass cup breaks after hitting the walnut, and the walnut remains intact."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "nutcracker",
+                "expected_outcome": "The walnut shell cracks under compressive force, exposing the edible kernel inside.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a metal nutcracker on a walnut held in its jaws over a wooden cutting board. Be realistic.",
+                "descriptive_image_prompt": "A metal nutcracker rests open on a cutting board beside a walnut split into jagged shell halves, the pale kernel exposed, with small shell fragments scattered around.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what will happen when someone uses a metal nutcracker to press a walnut on a cutting board, from setup to the end state.",
+                "descriptive_video_prompt": "Show a person placing a walnut between the serrated jaws of a metal nutcracker and squeezing the handles together; the shell compresses and gives way with a crunch; they open the tool and remove the nut, revealing split shell halves and the exposed kernel; end with a steady close-up of the opened walnut and scattered shell pieces."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "shoe with a hard sole",
+                "expected_outcome": "The walnut shell cracks under compressive force, exposing the edible kernel inside.",
+                "predictive_image_prompt": "Create an image to show the final state after using a shoe with a hard sole to press down on a walnut on a firm floor.",
+                "descriptive_image_prompt": "On a floor-protecting cloth, a hard-soled shoe stands nearby while a walnut lies cracked open into shell pieces with the golden kernel visible and fragments scattered.",
+                "predictive_video_prompt": "Generate a short video of what will happen when someone places a walnut on a cloth on the floor and steps on it with a shoe that has a hard sole, showing the sequence from start to finish.",
+                "descriptive_video_prompt": "Show a person setting a walnut on a folded cloth, then shifting weight onto it with a hard-soled shoe, increasing pressure; the shell crunches and splits; they lift the shoe to reveal the cracked shell and exposed kernel; end with a close-up of the opened walnut and shell bits on the cloth."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "book with heavy cover",
+                "expected_outcome": "The walnut shell cracks under compressive force, exposing the edible kernel inside.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a heavy hardcover book to press on a walnut on a sturdy tabletop.",
+                "descriptive_image_prompt": "On a wooden table, a thick hardcover book rests to the side while a walnut sits cracked open with the pale kernel visible among several shell fragments.",
+                "predictive_video_prompt": "Generate a realistic short video showing what will happen when someone uses a heavy hardcover book to press down on a walnut on a table, from placement to the end state.",
+                "descriptive_video_prompt": "Show a person placing a walnut on a folded kitchen towel on a table, lowering a heavy hardcover book and pressing firmly; a crunch is heard; they lift the book to reveal a split walnut with the edible kernel exposed and shell pieces scattered; finish with a steady close-up of the opened nut on the towel."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "pillow",
+                "expected_outcome": "The walnut remains uncracked; the pillow is slightly compressed with no shell fragments present.",
+                "predictive_image_prompt": "Create an image to show the final state after trying to use a pillow to open a walnut on a sofa cushion. Be realistic.",
+                "descriptive_image_prompt": "On a sofa, a fluffy pillow sits slightly indented next to a walnut that remains intact, with no cracks or shell fragments visible.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when someone tries to press and smack a walnut with a pillow on a couch, from start to end.",
+                "descriptive_video_prompt": "Show a person placing a walnut on a couch cushion and repeatedly pressing and patting it with a soft pillow; the pillow compresses and rebounds without affecting the shell; end with a static shot of the intact walnut beside the slightly rumpled pillow, with no debris present."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "glass cup",
+                "expected_outcome": "The glass cup chips or cracks while the walnut remains largely intact; broken glass pieces are present and the kernel is not exposed.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after attempting to use an upside-down glass cup to press a walnut on a countertop.",
+                "descriptive_image_prompt": "On a kitchen countertop, an upside-down glass cup lies cracked with small shards nearby, while a walnut remains uncracked and mostly untouched, with no exposed kernel.",
+                "predictive_video_prompt": "Generate a realistic short video depicting what will happen when someone inverts a glass cup over a walnut on a cutting board and presses down, showing the sequence from start to finish.",
+                "descriptive_video_prompt": "Show a person placing a walnut on a cutting board, inverting a glass cup over it, and pressing; the cup flexes, then chips and cracks; they stop and pull back; the final shot shows the broken cup with scattered glass pieces around an intact walnut with no visible cracks."
+            }
+        ]
+    },
+    {
+        "task_goal": "Zip up a jacket with a missing zipper pull tab",
+        "action_type": "pull",
+        "original_tool": "zipper pull tab",
+        "expected_outcome": "The zipper slider is pulled upward and the jacket closes properly.",
+        "required_tool_attributes": [
+            "small hookable or loopable geometry",
+            "sufficient rigidity to transmit pulling force",
+            "grippable surface for fingers",
+            "size compatible with zipper slider hole"
+        ],
+        "unconventional_tools": [
+            "paperclip",
+            "key ring"
+        ],
+        "opposite_tool_attributes": [
+            "too thick to fit into slider hole",
+            "soft and floppy structure",
+            "slippery or hard-to-grip surface"
+        ],
+        "impossible_tools": [
+            "padlock",
+            "AA battery"
+        ],
+        "expected_outcome_impossible_tool": {
+            "padlock": "The padlock body is too thick to fit into the zipper slider hole, so it cannot attach as a zipper pull and the slider does not move.",
+            "AA battery": "The AA battery is far too thick to fit through the slider hole, so it cannot attach to the zipper slider for pulling."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "zipper pull tab",
+                "expected_outcome": "The zipper slider is pulled upward and the jacket closes properly.",
+                "predictive_image_prompt": "Generate an image to visualize the final state when a replacement zipper pull tab is attached to the slider of a jacket with a missing pull and then used to pull upward. Be realistic.",
+                "descriptive_image_prompt": "A close-up of a jacket front with the zipper fully closed up to the collar, with a new zipper pull tab attached to the slider at the top.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what will happen when someone attaches a replacement zipper pull tab to the slider on a jacket and then pulls up to zip the jacket. Show the full sequence from partly open to the end state.",
+                "descriptive_video_prompt": "Show a person snapping a replacement zipper pull tab into the zipper slider on a jacket missing its pull, gripping the new tab, and pulling the slider upward. The teeth interlock smoothly from bottom to top, and the video ends with the zipper fully closed at the collar and the new tab resting at the top."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "paperclip",
+                "expected_outcome": "The zipper slider is pulled upward and the jacket closes properly.",
+                "predictive_image_prompt": "Generate an image to visualize the final state when a paperclip is hooked through the small hole in a jacket’s zipper slider and used to pull upward on the zipper. Be realistic.",
+                "descriptive_image_prompt": "A jacket front fully zipped to the top, with a small silver paperclip looped through the zipper slider at the collar acting as a makeshift pull.",
+                "predictive_video_prompt": "Generate a short, realistic video illustrating what will happen when someone unfolds a paperclip, threads it through the zipper slider hole on a jacket, and pulls upward to close the zipper. Include the entire attempt from start to finish.",
+                "descriptive_video_prompt": "Show a person threading an unfolded paperclip through the zipper slider hole of a jacket missing its pull, gripping the paperclip, and pulling the slider upward. The teeth mesh cleanly, and the video ends with the zipper fully closed and the paperclip resting at the top."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "key ring",
+                "expected_outcome": "The zipper slider is pulled upward and the jacket closes properly.",
+                "predictive_image_prompt": "Generate an image to visualize the final state when a small key ring is attached to a jacket’s zipper slider and used as a pull to zip the jacket. Be realistic.",
+                "descriptive_image_prompt": "A jacket front zipped completely to the neckline, with a small round key ring attached to the zipper slider at the top serving as the pull.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what will happen when someone threads a small key ring through the zipper slider on a jacket and pulls up to close the zipper. Include the sequence from slightly open to the end state.",
+                "descriptive_video_prompt": "Show a person threading a small key ring through the zipper slider of a jacket with no pull tab, then pulling up on the ring. The slider travels smoothly, the teeth engage, and the video ends with the zipper fully closed and the key ring at the top."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "padlock",
+                "expected_outcome": "The jacket remains unzipped; the padlock cannot attach to or effectively pull the slider, so the slider does not move enough to close the teeth.",
+                "predictive_image_prompt": "Generate an image to visualize the final state when someone tries to use a small padlock to pull up the zipper slider on a jacket that’s missing its pull tab. Be realistic.",
+                "descriptive_image_prompt": "The jacket front is still mostly unzipped, with the zipper slider low on the tracks and a padlock beside it; the shackle is too thick to fit the slider hole, and the teeth above remain separated.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what will happen when a person attempts to use a padlock as a handle to zip up a jacket with a missing pull tab. Start with the zipper partway open and include the full attempt.",
+                "descriptive_video_prompt": "Show a person trying to slip a padlock shackle through the zipper slider hole on a jacket missing its pull, finding it won’t fit, then attempting to tug the slider by pinching it with the padlock body. The grip slips and the slider barely moves; the video ends with the jacket still unzipped and the padlock not attached."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "AA battery",
+                "expected_outcome": "The jacket remains unzipped; the smooth AA battery cannot grip or attach to the slider, so no closure occurs.",
+                "predictive_image_prompt": "Generate an image to visualize the final state when someone tries to zip up a jacket missing its pull tab by using an AA battery as the handle. Be realistic.",
+                "descriptive_image_prompt": "The jacket stays unzipped with the slider low on the tracks; an AA battery rests near the slider with no attachment point, and the teeth above remain apart.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what will happen when someone holds an AA battery against a jacket’s zipper slider and tries to use it to pull the zipper up. Include the full attempt from start to end.",
+                "descriptive_video_prompt": "Show a person pressing an AA battery against the zipper slider of a jacket missing its pull, trying to lever it upward. The smooth cylinder slips repeatedly, the slider doesn’t travel up the teeth, and the video ends with the zipper still open and the battery sliding away from the slider."
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut the sealing tape to open a cardboard box",
+        "action_type": "cut",
+        "original_tool": "scissors",
+        "expected_outcome": "The sealing tape is cut or torn through, allowing the box flaps to open.",
+        "required_tool_attributes": [
+            "thin rigid edge or pointed tip",
+            "ability to concentrate force on tape",
+            "sufficient hardness to resist bending",
+            "controllable hand grip"
+        ],
+        "unconventional_tools": [
+            "key",
+            "credit card"
+        ],
+        "opposite_tool_attributes": [
+            "blunt rounded surface",
+            "soft flexible body",
+            "broad edge that cannot concentrate force"
+        ],
+        "impossible_tools": [
+            "banana",
+            "sponge"
+        ],
+        "expected_outcome_impossible_tool": {
+            "banana": "The banana squashes against the tape, cannot create a cutting edge, and the tape remains sealed.",
+            "sponge": "The sponge deforms on contact and fails to tear the tape, so the box stays closed."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "scissors",
+                "expected_outcome": "The sealing tape is cut cleanly along the seam, allowing the cardboard box flaps to open.",
+                "predictive_image_prompt": "Create a realistic image showing what it looks like right after using a pair of scissors on the center seam of packing tape on a cardboard shipping box to open it.",
+                "descriptive_image_prompt": "A cardboard shipping box on a kitchen counter with its clear packing tape neatly cut down the middle; the top flaps are parted and ready to lift, and a pair of scissors rests beside the slit tape.",
+                "predictive_video_prompt": "Generate a short, realistic video showing what happens when a person uses scissors to cut along the packing tape on a sealed cardboard box, from first positioning the blades at the seam through the end of the attempt.",
+                "descriptive_video_prompt": "Show a person stabilizing the box on a counter, inserting the scissor tips under the tape at the center seam, squeezing and sliding forward along the length; the tape is sliced through and the top flaps separate so the box can be opened at the end."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "key",
+                "expected_outcome": "The sealing tape is torn through along the seam by the key’s edge, freeing the box flaps to open.",
+                "predictive_image_prompt": "Produce an image to visualize the state after someone uses a metal house key on the packing tape along the top seam of a sealed cardboard box in an effort to open it.",
+                "descriptive_image_prompt": "A cardboard box on an office desk with its brown sealing tape split along the center seam; the top flaps are free to lift, and a metal house key with a slightly scuffed edge lies next to the torn tape.",
+                "predictive_video_prompt": "Generate a realistic short video that follows a person dragging the edge of a metal key along the center seam of packing tape on a cardboard box in an attempt to open it, from first contact to the end.",
+                "descriptive_video_prompt": "Show a person bracing the box, wedging the key’s edge under the tape, then levering and dragging it down the seam; the tape tears open along the length, adhesive lifting, and the box flaps separate so the box is open at the end."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "credit card",
+                "expected_outcome": "The sealing tape is cut or torn along the seam using the card’s edge, and the box flaps can open.",
+                "predictive_image_prompt": "Create an image depicting the state after using the edge of a plastic credit card on the clear packing tape that seals a doorstep delivery box, aiming to open it.",
+                "descriptive_image_prompt": "A small delivery box on a doormat with its clear packing tape torn through along the center seam; the top flaps are slightly ajar, and a scuffed credit card lies nearby with its corner showing wear.",
+                "predictive_video_prompt": "Generate a short, realistic video showing a person pressing the stiff corner of a credit card against the tape on a sealed cardboard box and working it along the seam to open the box, from start to finish.",
+                "descriptive_video_prompt": "Show the person holding the box steady, using the card’s corner to saw and pry along the tape; the tape splits and peels back, and the top flaps lift apart so the box is open at the end."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "banana",
+                "expected_outcome": "The tape remains intact and the box stays closed; the banana becomes mashed and smeared on the tape.",
+                "predictive_image_prompt": "Create an image illustrating what it looks like after someone tries using a ripe banana against the packing tape on a closed cardboard box to open it.",
+                "descriptive_image_prompt": "A closed cardboard box with its packing tape still intact across the seam; smeared banana pulp and a bent, mushy banana sit on top; the flaps remain shut with no cuts in the tape.",
+                "predictive_video_prompt": "Generate a short, realistic video showing a person attempting to use a banana on the tape that seals a cardboard box, pressing and rubbing it along the center seam from start to finish.",
+                "descriptive_video_prompt": "Depict the person pressing the banana against the tape and rubbing along the seam; the fruit squashes, pulp smears on the tape, and nothing cuts through. End with the tape unbroken, flaps closed, and the banana mashed on top."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "sponge",
+                "expected_outcome": "The tape remains uncut and the box stays closed; the sponge compresses or frays and may leave a damp patch on the tape.",
+                "predictive_image_prompt": "Produce an image that shows the state after trying to use a household sponge on the packing tape sealing a cardboard box to open it.",
+                "descriptive_image_prompt": "A sealed cardboard box with the packing tape uncut and firmly stuck across the top seam; a torn, damp sponge sits nearby with a dark wet patch on the tape, and the flaps remain fully closed.",
+                "predictive_video_prompt": "Generate a brief realistic video of a person attempting to open a taped cardboard box by rubbing a sponge along the center seam from beginning to end.",
+                "descriptive_video_prompt": "Show the person pressing and scrubbing the sponge over the tape; the sponge compresses and frays, moisture darkens the cardboard, but the tape never breaks. End with the tape intact and the box still closed."
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove the cork from a wine bottle without a corkscrew",
+        "action_type": "pull",
+        "original_tool": "corkscrew",
+        "expected_outcome": "The cork is extracted from the bottle neck and the bottle is opened.",
+        "required_tool_attributes": [
+            "ability to grip, twist, or penetrate the cork",
+            "sufficient friction or anchoring on cork surface",
+            "rigidity for leverage application",
+            "hand-controllable pulling motion"
+        ],
+        "unconventional_tools": [
+            "screw (twisted into the cork) and pliers",
+            "serrated knife used to twist and pry the cork upward"
+        ],
+        "opposite_tool_attributes": [
+            "smooth surface with no grip on cork",
+            "soft structure that bends under force",
+            "no leverage or anchoring capability"
+        ],
+        "impossible_tools": [
+            "bread slice",
+            "tomato wedge"
+        ],
+        "expected_outcome_impossible_tool": {
+            "bread slice": "The bread slice is too soft and squishes against the cork, cannot grip or twist it, and the cork remains in the bottle.",
+            "tomato wedge": "The tomato wedge is too blunt and bulky to twist or pry the cork, slips on the cork surface, and the cork remains in the bottle."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "corkscrew",
+                "expected_outcome": "The cork is extracted from the bottle neck and the bottle is opened.",
+                "predictive_image_prompt": "Generate an image to visualize the final state of using a corkscrew on a wine bottle to remove the cork. Keep it photorealistic on a kitchen counter.",
+                "descriptive_image_prompt": "A close-up of a wine bottle with the cork fully extracted and set beside the neck; the bottle mouth is open and a corkscrew rests nearby on the counter.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when someone uses a corkscrew to remove the cork from a wine bottle, from setup to end state. Keep it realistic.",
+                "descriptive_video_prompt": "Show a person centering a corkscrew on the cork, twisting it in, then pulling steadily until the cork slides out; end with the cork completely removed and the bottle open on the counter, the cork and corkscrew placed aside."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "screw (twisted into the cork) and pliers",
+                "expected_outcome": "The cork is extracted from the bottle neck and the bottle is opened.",
+                "predictive_image_prompt": "Generate an image to visualize the final state of using a screw (twisted into the cork) and pliers on a wine bottle for cork removal. Make it photorealistic.",
+                "descriptive_image_prompt": "A wine bottle sits with its cork fully removed; the extracted cork has a screw embedded in it, lying next to the open bottle mouth, and pliers rest nearby.",
+                "predictive_video_prompt": "Generate a video to illustrate what will happen when a person twists a screw into a wine cork and then uses pliers to pull upward, from start to end.",
+                "descriptive_video_prompt": "Show someone hand-twisting a large screw into the center of the cork, clamping pliers onto the screw head, and pulling and wiggling until the cork comes free; end with the cork completely out and the bottle open, the cork with the screw set on the table."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "serrated knife used to twist and pry the cork upward",
+                "expected_outcome": "The cork is extracted from the bottle neck and the bottle is opened.",
+                "predictive_image_prompt": "Generate an image to visualize the final state of using a serrated knife to twist and pry a wine cork upward on a bottle. Keep it realistic.",
+                "descriptive_image_prompt": "A wine bottle with the cork fully extracted and the mouth open; the cork lies on the table, and a serrated knife rests nearby.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when someone inserts a serrated knife into a wine cork and gently twists and pries upward to try to remove it, from start to end.",
+                "descriptive_video_prompt": "Depict a person carefully inserting a serrated knife at an angle into the cork, twisting to gain purchase, then levering and wiggling the handle upward in small increments until the cork lifts free; end with the cork completely removed and the bottle open, the knife set down."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "bread slice",
+                "expected_outcome": "The cork remains seated in the bottle neck; the slice of bread is crushed and torn with crumbs around the rim; the bottle stays unopened.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after trying to remove a wine cork using a bread slice on a kitchen counter. Be realistic.",
+                "descriptive_image_prompt": "The wine bottle remains sealed with the cork still seated flush in the neck; a squashed, torn slice of bread with crumbs is around the top, and no part of the cork is extracted.",
+                "predictive_video_prompt": "Generate a video to illustrate what will happen when someone tries to use a slice of bread to remove the cork from a wine bottle, capturing the attempt from start to end.",
+                "descriptive_video_prompt": "Show a person pressing and wrapping a slice of bread around the cork and attempting to twist and pull; the bread compresses, tears, and loses grip, leaving crumbs on the bottle rim while the cork does not move; end with the bottle still sealed and the mangled bread on the counter."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "tomato wedge",
+                "expected_outcome": "The cork remains in the bottle neck; the tomato wedge is crushed with juice and seeds smeared on the rim and counter; the bottle is still unopened.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after attempting to remove a wine cork using a tomato wedge. Keep it photorealistic.",
+                "descriptive_image_prompt": "The cork remains fully seated in the bottle neck; a squashed tomato wedge leaves juice and seeds smeared on the rim and counter, and the bottle is still unopened.",
+                "predictive_video_prompt": "Generate a short video showing what will happen when a person presses a tomato wedge against a wine cork to try to pull it out, from start to end of the attempt.",
+                "descriptive_video_prompt": "Depict a person gripping a tomato wedge against the cork and trying to twist and tug; the tomato collapses and slips, juice drips down the neck, and the cork never budges; end with the bottle still corked and the crushed tomato on the counter."
+            }
+        ]
+    },
+    {
+        "task_goal": "Pin a paper sheet onto a corkboard",
+        "action_type": "pin",
+        "original_tool": "push pin",
+        "expected_outcome": "The fastener penetrates the paper sheet and enters the corkboard enough to hold the paper sheet in place.",
+        "required_tool_attributes": [
+            "sharp pointed tip for penetration",
+            "sufficient compressive strength",
+            "rigid slender body",
+            "small head or grip area for pushing"
+        ],
+        "unconventional_tools": [
+            "short uncooked straight spaghetti",
+            "toothpick"
+        ],
+        "opposite_tool_attributes": [
+            "blunt tip with no penetration capability",
+            "brittle body that snaps under push force",
+            "soft deformable structure"
+        ],
+        "impossible_tools": [
+            "marshmallow",
+            "ice cube"
+        ],
+        "expected_outcome_impossible_tool": {
+            "marshmallow": "The marshmallow squashes flat against the paper under finger pressure, cannot form a sharp rigid tip, and the paper sheet is not attached to the corkboard.",
+            "ice cube": "The ice cube is too blunt and bulky to pierce the paper cleanly, slides on the paper surface while melting, and cannot anchor the paper to the corkboard."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "push pin",
+                "expected_outcome": "The pin penetrates the paper sheet and embeds into the corkboard deeply enough to hold the paper securely in place.",
+                "predictive_image_prompt": "Generate an image to visualize the final state of using a push pin to attach a single sheet of paper to a corkboard. Be realistic with a close-up view.",
+                "descriptive_image_prompt": "A close-up of a push pin driven through the upper corner of a white paper sheet and firmly embedded in the corkboard, with the paper held flat and secure against the cork.",
+                "predictive_video_prompt": "Generate a short video showing what happens when someone uses a push pin to attach a paper sheet to a corkboard, from initial positioning to the end of the attempt.",
+                "descriptive_video_prompt": "Show a person aligning the top corner of a white paper sheet on a corkboard, placing a push pin over the corner, and pressing it in with a thumb until the pin penetrates the paper and sinks into the cork. End with a steady close-up of the push pin seated in the corkboard and the paper held firmly in place."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "toothpick",
+                "expected_outcome": "The toothpick pierces the paper and bites into the corkboard, holding the paper sheet in place.",
+                "predictive_image_prompt": "Generate an image to visualize the final state of using a wooden toothpick to fix a sheet of paper onto a corkboard. Keep it photorealistic.",
+                "descriptive_image_prompt": "A sharpened wooden toothpick stuck through the top edge of a paper sheet and embedded diagonally into the corkboard, with the paper snugly pinned against the cork.",
+                "predictive_video_prompt": "Create a short video predicting what happens when someone uses a toothpick to attach a paper sheet to a corkboard, showing the hand aligning the sheet and pushing the toothpick into the board.",
+                "descriptive_video_prompt": "Show a person holding a toothpick, lining up the top edge of a paper sheet on a corkboard, then pressing the point through the paper and into the cork at a slight angle. The toothpick penetrates and lodges, leaving the paper firmly pinned. End with a close-up of the toothpick embedded and the paper secured."
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "short uncooked straight spaghetti",
+                "expected_outcome": "The short piece of uncooked spaghetti pierces the paper and embeds shallowly into the corkboard, holding the paper in place.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a short piece of uncooked straight spaghetti to attach a paper sheet to a corkboard. Make it realistic.",
+                "descriptive_image_prompt": "A short, intact piece of uncooked spaghetti pushed through the upper edge of a paper sheet and embedded a small distance into the corkboard at a shallow downward angle, with the paper held in place against the cork.",
+                "predictive_video_prompt": "Create a brief video showing what happens when someone tries to pin a paper sheet to a corkboard using a short piece of uncooked spaghetti, from setup through the pressing motion to the end state.",
+                "descriptive_video_prompt": "Show a person holding a short piece of uncooked spaghetti, positioning it over the top edge of a paper sheet on a corkboard, and carefully pressing it through the paper and into the cork at a shallow angle to avoid snapping. The spaghetti penetrates enough to lodge in the cork, keeping the paper pinned. End with a close-up of the intact spaghetti embedded and the paper securely held."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "marshmallow",
+                "expected_outcome": "The marshmallow deforms and smears without penetrating the paper or corkboard; the paper is not secured and hangs loose.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using a marshmallow to attach a paper sheet to a corkboard. Keep it photorealistic.",
+                "descriptive_image_prompt": "A slightly squashed marshmallow pressed against the paper’s corner on the corkboard, leaving a sticky smudge. The paper is not fastened and droops away, with no puncture marks in the cork.",
+                "predictive_video_prompt": "Create a short video showing what happens when someone uses a marshmallow to try to fix a paper sheet onto a corkboard, from the initial press to the end state.",
+                "descriptive_video_prompt": "Show a person pressing a marshmallow against the top corner of a paper sheet on a corkboard as if to pin it. The marshmallow compresses and spreads, failing to pierce the paper or the cork; the paper corner slips and sags. End with a close-up of the flattened marshmallow residue and the paper hanging unpinned."
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "ice cube",
+                "expected_outcome": "The ice cube slides and melts, wetting the paper and corkboard without penetrating; the paper remains unsecured and droops.",
+                "predictive_image_prompt": "Generate an image to visualize the final state after using an ice cube to attach a paper sheet to a corkboard. Make it realistic.",
+                "descriptive_image_prompt": "A small melting ice cube held at the paper’s top corner against the corkboard, with water droplets and a dark wet patch on the paper and cork. The paper is not secured and hangs away from the board.",
+                "predictive_video_prompt": "Create a brief video showing what happens when someone uses an ice cube to try to fix a paper sheet to a corkboard, from approach to the final moment.",
+                "descriptive_video_prompt": "Show a person pressing an ice cube against the top corner of a paper sheet on a corkboard. The cube slides and begins melting, soaking the paper without making a hole; the paper corner slips free and droops. End with a close-up of the damp, sagging paper and the melting cube leaving water on the cork."
+            }
+        ]
+    }
+]

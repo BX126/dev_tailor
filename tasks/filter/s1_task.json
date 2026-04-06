@@ -1,0 +1,224 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Brew a clean pour-over coffee by separating grounds from the brew",
+            "original_tool": "paper coffee filter",
+            "expected_outcome": "Clear, sediment-free coffee drips into the mug while grounds remain in the filter",
+            "required_tool_attributes": [
+                "microporous cellulose fibers with pores smaller than coffee grounds",
+                "conical shape to seat in dripper and promote directed flow",
+                "wet strength to resist tearing in hot water",
+                "edge sealing against dripper walls to prevent bypass"
+            ]
+        },
+        {
+            "task_goal": "Clarify used frying oil by removing burnt crumbs and batter bits",
+            "original_tool": "fine-mesh metal sieve lined with paper towel",
+            "expected_outcome": "Clean oil flows into the container while food particles are trapped in the liner",
+            "required_tool_attributes": [
+                "heat-resistant metal mesh to support the liner",
+                "absorbent, porous paper with smaller pores than crumbs",
+                "rigid rim and handle to hold steady over a pot",
+                "sufficient open area to maintain oil flow rate"
+            ]
+        },
+        {
+            "task_goal": "Make Greek yogurt by straining whey from plain yogurt",
+            "original_tool": "cheesecloth",
+            "expected_outcome": "Thickened yogurt remains in the cloth while whey drains into the bowl",
+            "required_tool_attributes": [
+                "woven cotton with micron-scale pores to retain milk solids",
+                "food-safe and non-reactive material",
+                "high tensile strength when wet",
+                "flexible fabric to form a hanging pouch for drainage"
+            ]
+        },
+        {
+            "task_goal": "Sift flour to remove lumps and aerate before baking",
+            "original_tool": "flour sifter (fine-mesh)",
+            "expected_outcome": "Uniform, lump-free flour falls into the mixing bowl; larger clumps are retained",
+            "required_tool_attributes": [
+                "fine stainless-steel mesh with uniform aperture",
+                "rigid frame to keep mesh taut",
+                "agitation mechanism to drive particles through",
+                "food-safe construction"
+            ]
+        },
+        {
+            "task_goal": "Brew loose-leaf tea without leaves escaping into the cup",
+            "original_tool": "tea infuser basket (fine-mesh)",
+            "expected_outcome": "Tea liquor flows into the cup while leaves are confined in the basket",
+            "required_tool_attributes": [
+                "fine perforated or mesh walls small enough to retain tea fragments",
+                "heat-resistant stainless steel",
+                "secure lid or closure to prevent leaf escape",
+                "rigid basket to maintain shape in hot water"
+            ]
+        },
+        {
+            "task_goal": "Remove dried skin and debris from latex paint before spraying",
+            "original_tool": "paint strainer cone (nylon mesh)",
+            "expected_outcome": "Smooth, debris-free paint collects in the sprayer cup, reducing nozzle clogs",
+            "required_tool_attributes": [
+                "solvent-resistant nylon mesh",
+                "fine pores sized to catch paint skins and nibs",
+                "cone shape to fit paint cans and funnels",
+                "strong seams to withstand flow"
+            ]
+        },
+        {
+            "task_goal": "Filter rust flakes from gasoline while refueling a generator",
+            "original_tool": "funnel with built-in fine mesh screen",
+            "expected_outcome": "Clean fuel reaches the tank while particulates are trapped by the screen",
+            "required_tool_attributes": [
+                "gasoline-resistant plastic or metal construction",
+                "fine stainless-steel mesh at the outlet",
+                "rigid funnel geometry for controlled flow",
+                "secure fit to receiving tank to prevent spills and bypass"
+            ]
+        },
+        {
+            "task_goal": "Keep an HVAC system clean by trapping dust in return air",
+            "original_tool": "pleated HVAC air filter (MERV-rated)",
+            "expected_outcome": "Dust and lint accumulate in the filter while clean air circulates through the ducts",
+            "required_tool_attributes": [
+                "fibrous porous media with rated pore size",
+                "pleated design for high surface area",
+                "stiff frame and gasket to eliminate bypass",
+                "structural integrity under airflow and pressure"
+            ]
+        },
+        {
+            "task_goal": "Improve office air quality by capturing fine particulates and pollen",
+            "original_tool": "HEPA air purifier filter cartridge",
+            "expected_outcome": "Air exiting the purifier has significantly fewer fine particles and allergens",
+            "required_tool_attributes": [
+                "submicron fibrous media (HEPA-rated)",
+                "pleated area to reduce pressure drop",
+                "sealed edges within the cartridge to prevent bypass",
+                "compatibility with a fan to draw air through"
+            ]
+        },
+        {
+            "task_goal": "Make stream water potable on a backpacking trip",
+            "original_tool": "pump water filter with hollow-fiber cartridge",
+            "expected_outcome": "Clear water free of sediment, protozoa, and bacteria fills the bottle",
+            "required_tool_attributes": [
+                "hollow-fiber membrane with 0.2\u20130.3 \u00b5m pores",
+                "hand pump to create pressure differential",
+                "backflushable design to restore flow",
+                "impact-resistant housing and seals"
+            ]
+        },
+        {
+            "task_goal": "Keep leaves and debris out of a rain barrel during collection",
+            "original_tool": "rain barrel debris screen",
+            "expected_outcome": "Rainwater passes into the barrel while leaves and insects are blocked on top",
+            "required_tool_attributes": [
+                "coarse mesh sized to retain leaves and twigs",
+                "UV- and weather-resistant material",
+                "rigid ring or frame to sit on the barrel opening",
+                "easy-to-clean surface"
+            ]
+        },
+        {
+            "task_goal": "Clear cloudy aquarium water by removing suspended solids",
+            "original_tool": "aquarium canister filter with mechanical filter pad",
+            "expected_outcome": "Aquarium water becomes visibly clearer as particles are trapped in the pad",
+            "required_tool_attributes": [
+                "porous foam or floss with graded porosity",
+                "sealed canister forcing all water through media",
+                "aquarium-safe materials",
+                "pump-driven flow through the filter"
+            ]
+        },
+        {
+            "task_goal": "Restore swimming pool clarity by trapping fine debris",
+            "original_tool": "pool sand filter",
+            "expected_outcome": "Pool water runs clear as fine particulates are captured in the sand bed",
+            "required_tool_attributes": [
+                "graded silica bed forming tortuous pore paths",
+                "pressure-rated tank to contain flow",
+                "underdrain laterals for even collection",
+                "multiport valve for backwashing"
+            ]
+        },
+        {
+            "task_goal": "Collect a precipitate from a reaction mixture in a chemistry lab",
+            "original_tool": "Buchner funnel with filter paper and vacuum flask",
+            "expected_outcome": "Solid precipitate remains on the paper while filtrate is pulled into the flask",
+            "required_tool_attributes": [
+                "filter paper with specified retention rating",
+                "perforated support plate to distribute suction",
+                "vacuum-tight seal between funnel and flask",
+                "chemical-resistant glass/ceramic components"
+            ]
+        },
+        {
+            "task_goal": "Separate soil into size fractions for particle-size analysis",
+            "original_tool": "stacked sieves with mechanical shaker",
+            "expected_outcome": "Soil fractions are sorted by mesh size into separate sieves and a pan",
+            "required_tool_attributes": [
+                "wire meshes with standardized aperture sizes",
+                "rigid frames to maintain mesh geometry",
+                "mechanical agitation to promote passage",
+                "lid and catch pan to contain sample"
+            ]
+        },
+        {
+            "task_goal": "Remove wax cappings and bee parts from raw honey",
+            "original_tool": "double stainless-steel honey strainer",
+            "expected_outcome": "Clean honey flows into the bucket while coarse and fine debris are retained",
+            "required_tool_attributes": [
+                "nested coarse and fine stainless meshes",
+                "food-grade metal resistant to warm viscous honey",
+                "hooked rim to sit securely on a bucket",
+                "large open area to maintain flow"
+            ]
+        },
+        {
+            "task_goal": "Reuse leftover UV resin by removing cured flakes before pouring back into the bottle",
+            "original_tool": "resin filter cone and funnel",
+            "expected_outcome": "Filtered resin passes cleanly into the bottle without solid contaminants",
+            "required_tool_attributes": [
+                "UV- and solvent-resistant nylon mesh (190\u2013220 \u00b5m)",
+                "conical form that nests in a funnel/bottle neck",
+                "support ring to maintain the opening",
+                "fine pores to capture cured resin bits"
+            ]
+        },
+        {
+            "task_goal": "Prepare compost tea for a sprayer by removing solid particles",
+            "original_tool": "reusable nylon filter bag",
+            "expected_outcome": "Particle-free liquid fills the sprayer tank, reducing nozzle clogging",
+            "required_tool_attributes": [
+                "fine porous nylon fabric",
+                "drawstring or closure to prevent solids escape",
+                "tear-resistant material when wet",
+                "high permeability to maintain flow"
+            ]
+        },
+        {
+            "task_goal": "Keep hop matter out of wort before fermentation",
+            "original_tool": "hop spider (nylon mesh bag with frame)",
+            "expected_outcome": "Wort drains clear of hop particles while hops remain captured in the mesh",
+            "required_tool_attributes": [
+                "heat-resistant mesh (300\u2013400 \u00b5m) to retain hop material",
+                "rigid frame to suspend bag in kettle or fermenter",
+                "seams and closure that prevent bypass",
+                "sufficient open area for rapid wort flow"
+            ]
+        },
+        {
+            "task_goal": "Remove large gravel from paydirt before fine gold panning",
+            "original_tool": "classifier sieve (1/4-inch mesh)",
+            "expected_outcome": "Oversize rocks are retained while finer material suitable for panning passes into the bucket",
+            "required_tool_attributes": [
+                "rigid mesh of known aperture size",
+                "sturdy plastic frame that nests on a bucket",
+                "high open area for fast throughput",
+                "abrasion resistance for rough aggregates"
+            ]
+        }
+    ]
+}

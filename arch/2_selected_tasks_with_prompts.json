@@ -1,0 +1,452 @@
+[
+    {
+        "task_goal": "Zip up a jacket with a missing zipper pull tab",
+        "original_tool": "zipper pull tab",
+        "expected_outcome": "The zipper slider is pulled upward and the jacket closes properly.",
+        "required_tool_attributes": [
+            "small hookable or loopable geometry",
+            "sufficient rigidity to transmit pulling force",
+            "grippable surface for fingers",
+            "size compatible with zipper slider hole"
+        ],
+        "unconventional_tools": [
+            "paperclip",
+            "key ring"
+        ],
+        "opposite_tool_attributes": [
+            "too thick to fit into slider hole",
+            "soft and floppy structure",
+            "slippery or hard-to-grip surface"
+        ],
+        "impossible_tools": [
+            "padlock",
+            "AA battery"
+        ],
+        "expected_outcome_impossible_tool": {
+            "padlock": "The padlock body is too thick to fit into the zipper slider hole, so it cannot attach as a zipper pull and the slider does not move.",
+            "AA battery": "The AA battery is far too thick to fit through the slider hole, so it cannot attach to the zipper slider for pulling."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "zipper pull tab",
+                "predictive_image_prompt": "Close-up of someone aligning a replacement metal zipper pull tab with the slider on a navy puffer jacket at the hem, fingers ready to pull upward to close the front, with neutral indoor lighting and a wooden table edge in the background.",
+                "grounded_image_prompt": "The navy puffer jacket is fully zipped to the collar with teeth perfectly aligned; a new metal zipper pull tab is attached to the slider resting at the top center, and the fabric lies flat and even.",
+                "predictive_video_prompt": "A short clip shows a person snapping a replacement zipper pull tab onto the slider of a navy puffer jacket and starting to pull the zipper upward from the hem.",
+                "grounded_video_prompt": "From a waist-level view, a person clips a replacement metal pull tab into the zipper slider of a navy puffer jacket, grips the tab, and steadily pulls the slider from the hem to the collar; the teeth interlock smoothly and the jacket ends fully closed with the pull tab parked at the top.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "paperclip",
+                "predictive_image_prompt": "Close-up of an unfolded silver paperclip being hooked through the small hole of a zipper slider on a gray hoodie lying flat, hands poised to use it as a makeshift pull.",
+                "grounded_image_prompt": "The gray hoodie front is fully zipped to the neck; a silver paperclip is looped through the zipper slider at the top acting as a pull; the teeth are evenly closed and aligned.",
+                "predictive_video_prompt": "A short clip shows someone threading a silver paperclip through the zipper slider of a gray hoodie with the original pull missing and beginning to tug upward.",
+                "grounded_video_prompt": "A person feeds a silver paperclip through the slider hole of a gray hoodie, bends it into a small loop, grips the clip, and pulls the slider smoothly from the hem to the neck; the hoodie finishes completely zipped with the paperclip sitting at the top as the pull.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "key ring",
+                "predictive_image_prompt": "A small round key ring being threaded through the hole of a zipper slider on a brown leather jacket held upright, the person's fingers ready to use the ring as a handle.",
+                "grounded_image_prompt": "The brown leather jacket is closed all the way to the collar; a small chrome key ring is attached to the zipper slider at the top center; both sides of the zipper teeth are neatly interlocked.",
+                "predictive_video_prompt": "A short clip shows a person feeding a key ring through the zipper slider on a brown leather jacket and getting ready to pull up the front.",
+                "grounded_video_prompt": "The person slides a small key ring through the slider hole of a brown leather jacket, flips the ring flat, and pulls upward from the hem to the collar; the teeth close completely and the key ring ends at the top as the pull.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "padlock",
+                "predictive_image_prompt": "Close-up of hands trying to clip a medium padlock onto the tiny hole of a zipper slider at the bottom of a black winter coat, as if preparing to pull the zipper up.",
+                "grounded_image_prompt": "The black winter coat remains unzipped from the hem upward; the zipper slider sits at the bottom with no pull attached; a medium padlock is in the person's hand beside the slider because its shackle cannot fit through the small hole.",
+                "predictive_video_prompt": "A short clip shows someone attempting to use a medium padlock as a makeshift zipper pull on a black winter coat, trying to attach the shackle to the slider and tug upward.",
+                "grounded_video_prompt": "The person positions a medium padlock at the zipper slider of a black winter coat and tries several times to fit the shackle through the small slider hole; it will not go through, and attempts to pull by gripping the lock slip off; the video ends with the coat still open and the lock held off to the side while the slider remains at the hem.",
+                "grounded_expected_outcome": "failure"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "AA battery",
+                "predictive_image_prompt": "A person presses an AA battery against the zipper slider at the bottom of a blue rain jacket with the pull tab missing, positioning it like a handle to start zipping.",
+                "grounded_image_prompt": "The blue rain jacket front stays open with the slider at the hem; the smooth AA battery rests in the person's fingers near the slider, not attached; the zipper teeth above remain separated.",
+                "predictive_video_prompt": "A short clip shows someone trying to use an AA battery as a handle against the zipper slider of a blue rain jacket, attempting to lever the slider upward.",
+                "grounded_video_prompt": "The person wedges an AA battery against the zipper slider of a blue rain jacket and tries to pull upward; the battery slips off the smooth metal, offering no grip; repeated attempts fail to move the slider, and the clip ends with the jacket still unzipped and the battery loose in hand.",
+                "grounded_expected_outcome": "failure"
+            }
+        ]
+    },
+    {
+        "task_goal": "Loosen a flat-head screw",
+        "original_tool": "flat-head screwdriver",
+        "expected_outcome": "The screw rotates counterclockwise and loosens from its position.",
+        "required_tool_attributes": [
+            "thin rigid edge that fits the screw slot",
+            "sufficient torsional strength to resist twisting",
+            "flat contact surface for torque transfer",
+            "grippable body for controlled hand rotation"
+        ],
+        "unconventional_tools": [
+            "coin",
+            "butter knife"
+        ],
+        "opposite_tool_attributes": [
+            "rounded contact surface with no usable edge",
+            "soft material that deforms under torque",
+            "incompatible thickness that cannot engage the slot"
+        ],
+        "impossible_tools": [
+            "pencil eraser end",
+            "rubber band"
+        ],
+        "expected_outcome_impossible_tool": {
+            "pencil eraser end": "The eraser compresses and slips on the screw head, cannot engage the flat slot, and the screw does not rotate.",
+            "rubber band": "The rubber band stretches and slides across the screw head, fails to transfer torque into the slot, and the screw remains tight."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "flat-head screwdriver",
+                "predictive_image_prompt": "Close-up of a hand setting a flat-head screwdriver into the slot of a slightly rusted flat-head screw on a wooden cabinet hinge, about to twist counterclockwise.",
+                "grounded_image_prompt": "The flat-head screw on the wooden cabinet hinge sits partially backed out and turned counterclockwise, its head raised above the surface, with a flat-head screwdriver lying nearby.",
+                "predictive_video_prompt": "A short clip showing someone aligning a flat-head screwdriver with a flat-head screw on a cabinet hinge and beginning to turn the handle counterclockwise.",
+                "grounded_video_prompt": "From a steady angle, a person seats a flat-head screwdriver in the screw slot on a cabinet hinge and applies steady counterclockwise turns; the screw rotates and backs out until it is visibly loosened and protruding.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "coin",
+                "predictive_image_prompt": "A hand presses the edge of a coin into the slot of a flat-head screw on the back of a remote control’s battery door, ready to twist counterclockwise.",
+                "grounded_image_prompt": "The flat-head screw on the remote’s battery door is partially unscrewed and turned counterclockwise, sitting proud of the surface, with the coin resting beside it.",
+                "predictive_video_prompt": "A brief video where someone uses the edge of a coin in the slot of a flat-head screw on a battery compartment cover, starting to twist counterclockwise.",
+                "grounded_video_prompt": "A person wedges the edge of a coin into the flat-head screw of a battery door and turns counterclockwise in short, firm motions; the screw rotates and backs out until it is loosened and the door edge lifts slightly.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "butter knife",
+                "predictive_image_prompt": "Kitchen scene: a person places the tip of a butter knife into the wide slot of a flat-head screw on a metal door strike plate, poised to turn counterclockwise.",
+                "grounded_image_prompt": "The flat-head screw on the door strike plate is partly withdrawn and rotated counterclockwise, its head lifted from the plate, with a butter knife set next to it.",
+                "predictive_video_prompt": "A short video showing someone gripping a butter knife by the handle and starting to twist counterclockwise in the slot of a large flat-head screw on a piece of furniture hardware.",
+                "grounded_video_prompt": "Holding a butter knife like a screwdriver, the person seats the blade in the screw slot and turns counterclockwise with controlled pressure; the screw rotates and backs out until it is visibly loose and protruding from the hardware.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "pencil eraser end",
+                "predictive_image_prompt": "Close-up of a yellow pencil held eraser-first against the slot of a flat-head screw on a light switch cover, positioned to twist counterclockwise.",
+                "grounded_image_prompt": "The flat-head screw on the light switch cover remains fully seated and unmoved; the pencil’s pink eraser is smudged and slightly torn, with rubber residue around the screw head.",
+                "predictive_video_prompt": "A brief clip of someone trying to use the eraser end of a pencil to turn a flat-head screw on a wall plate counterclockwise.",
+                "grounded_video_prompt": "The person presses the pencil’s eraser into the screw slot and twists counterclockwise; the eraser deforms, slips, and leaves rubber crumbs on the plate while the screw does not turn. The attempt ends with a worn eraser and the screw still flush and unchanged.",
+                "grounded_expected_outcome": "failure"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "rubber band",
+                "predictive_image_prompt": "A person loops a thin rubber band around the head of a flat-head screw in a wooden shelf, pulling the band to try to twist the screw counterclockwise.",
+                "grounded_image_prompt": "A slack, stretched rubber band lies beside the flat-head screw in the wooden shelf; the screw head is still flush in its original orientation, with slight scuff marks but no movement.",
+                "predictive_video_prompt": "A short video where someone wraps a rubber band around a flat-head screw on a wooden crate and pulls the band to attempt a counterclockwise turn.",
+                "grounded_video_prompt": "They wrap a rubber band around the screw head and tug to rotate it counterclockwise; the band slips and stretches without transmitting torque, then snaps loose. The clip ends with a limp or broken band near the screw, which remains fully seated and unchanged.",
+                "grounded_expected_outcome": "failure"
+            }
+        ]
+    },
+    {
+        "task_goal": "Crack open a walnut shell",
+        "original_tool": "nutcracker",
+        "expected_outcome": "The walnut shell cracks under compressive force, exposing the edible kernel inside.",
+        "required_tool_attributes": [
+            "hard contact surface",
+            "ability to apply concentrated compressive force",
+            "sufficient rigidity under load",
+            "stable grip or striking control"
+        ],
+        "unconventional_tools": [
+            "shoe with a hard sole",
+            "book with heavy cover"
+        ],
+        "opposite_tool_attributes": [
+            "soft cushioning surface",
+            "low structural rigidity",
+            "insufficient force transfer"
+        ],
+        "impossible_tools": [
+            "pillow",
+            "glass cup"
+        ],
+        "expected_outcome_impossible_tool": {
+            "pillow": "The pillow cushions the walnut instead of concentrating force, and the shell remains uncracked.",
+            "glass cup": "The glass cup breaks after hitting the walnut, and the walnut remains intact."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "nutcracker",
+                "predictive_image_prompt": "What would it look like the moment a hand squeezes a metal nutcracker around a walnut over a wooden cutting board, with the jaws centered on the seam?",
+                "grounded_image_prompt": "On a wooden cutting board, a walnut lies split open with shell fragments and the edible kernel exposed, a metal nutcracker resting open beside it.",
+                "predictive_video_prompt": "A short close-up video of someone placing a walnut between the jaws of a metal nutcracker over a kitchen table and squeezing the handles firmly, showing the tool and nut as pressure increases.",
+                "grounded_video_prompt": "Start with a whole walnut on a cutting board. A person seats it in a metal nutcracker, aligns the seam, and steadily squeezes. The shell breaks with a snap, pieces drop to the board, and the kernel is revealed. The clip ends with the nutcracker open and the cracked shell halves beside an exposed kernel.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "shoe with a hard sole",
+                "predictive_image_prompt": "How would it look as someone in a sturdy shoe with a hard sole places their foot over a walnut on a concrete patio, about to press down?",
+                "grounded_image_prompt": "On a concrete surface, a cracked walnut with scattered shell pieces and the exposed kernel sits where a hard-soled shoe has just pressed; the shoe’s sole is visible nearby.",
+                "predictive_video_prompt": "A short video showing a person positioning a walnut under the hard sole of a sturdy shoe on a patio, then carefully shifting weight onto it.",
+                "grounded_video_prompt": "A person sets a walnut on a firm surface, centers the hard sole of a sturdy shoe over it, and gradually applies body weight. The shell fractures audibly; they lift the shoe to reveal broken shell pieces and an exposed kernel on the ground. The clip ends on a close-up of the cracked walnut.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "book with heavy cover",
+                "predictive_image_prompt": "Show a thick hardcover book being positioned over a walnut on a wooden table, hands about to press the cover down.",
+                "grounded_image_prompt": "On a wooden table, a walnut lies cracked open with shell fragments and the visible kernel, the heavy hardcover book resting slightly ajar beside the pieces.",
+                "predictive_video_prompt": "A short clip where someone places a walnut on a cutting board and lowers a heavy hardcover book onto it, pressing down with both hands.",
+                "grounded_video_prompt": "A person sets a walnut on a cutting board, places a heavy hardcover book flat over it, and presses firmly. The shell gives way; they lift the book to show fractured shell and the exposed kernel. End on a steady shot of the cracked walnut pieces and kernel.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "pillow",
+                "predictive_image_prompt": "What would it look like as someone pushes down hard on a soft pillow placed over a walnut on a tabletop?",
+                "grounded_image_prompt": "On a tabletop, an intact walnut sits next to a soft pillow showing a small dimple; the shell remains uncracked with no fragments around it.",
+                "predictive_video_prompt": "A short video of a person placing a soft pillow over a walnut on a table and pressing down with both hands, trying to use the cushion to apply force.",
+                "grounded_video_prompt": "A person puts a walnut on a table, lays a soft pillow over it, and pushes down with both hands. The pillow compresses and deforms, but the nut doesn’t crack and only shifts slightly beneath the fabric. The clip ends with the pillow lifted to reveal the walnut still whole and unbroken on the table.",
+                "grounded_expected_outcome": "failure"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "glass cup",
+                "predictive_image_prompt": "Show a clear glass cup turned upside down over a walnut on a kitchen counter, with a hand beginning to push down on the base.",
+                "grounded_image_prompt": "On a kitchen counter, shards from a broken glass cup surround a whole walnut that remains closed, with tiny scuff marks but no cracks in the shell.",
+                "predictive_video_prompt": "A brief video of someone in a kitchen flipping a glass cup upside down over a walnut on a countertop and pushing down on the base to try to compress it.",
+                "grounded_video_prompt": "A person places a walnut on a countertop and inverts a glass cup over it, pressing down. Under increasing pressure, the cup fractures and breaks; pieces scatter while the walnut remains largely unchanged. The video ends with a close-up of the intact walnut amid broken glass fragments.",
+                "grounded_expected_outcome": "failure"
+            }
+        ]
+    },
+    {
+        "task_goal": "Cut the sealing tape to open a cardboard box",
+        "original_tool": "scissors",
+        "expected_outcome": "The sealing tape is cut or torn through, allowing the box flaps to open.",
+        "required_tool_attributes": [
+            "thin rigid edge or pointed tip",
+            "ability to concentrate force on tape",
+            "sufficient hardness to resist bending",
+            "controllable hand grip"
+        ],
+        "unconventional_tools": [
+            "key",
+            "credit card"
+        ],
+        "opposite_tool_attributes": [
+            "blunt rounded surface",
+            "soft flexible body",
+            "broad edge that cannot concentrate force"
+        ],
+        "impossible_tools": [
+            "banana",
+            "sponge"
+        ],
+        "expected_outcome_impossible_tool": {
+            "banana": "The banana squashes against the tape, cannot create a cutting edge, and the tape remains sealed.",
+            "sponge": "The sponge deforms on contact and fails to tear the tape, so the box stays closed."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "scissors",
+                "predictive_image_prompt": "A close-up of a brown cardboard shipping box sealed with clear packing tape on a table, with a hand positioning stainless steel scissors at the tape seam, blades slightly open and about to cut along the center.",
+                "grounded_image_prompt": "The cardboard box with its clear packing tape cleanly cut down the center seam; the two top flaps are parted open, and the scissors rest nearby on the table.",
+                "predictive_video_prompt": "A short clip shows a person aligning scissors with the clear packing tape on a sealed cardboard box and beginning to snip along the seam while steadying the box with the other hand.",
+                "grounded_video_prompt": "Film a person placing the tips of scissors into the clear packing tape on a sealed cardboard box, making successive snips along the seam until the tape splits all the way; they lift the top flaps open at the end.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "key",
+                "predictive_image_prompt": "A hand grips a metal house key and presses its edge against the clear packing tape along the center seam of a sealed cardboard box, ready to drag it forward.",
+                "grounded_image_prompt": "The cardboard box with its sealing tape torn through along the center seam in a rough line; the top flaps are pried open, and a house key with a scuffed edge lies next to the box.",
+                "predictive_video_prompt": "Create a short video of someone using a house key on the clear packing tape that seals a cardboard box, angling the key’s tip into the seam and starting to run it along the tape.",
+                "grounded_video_prompt": "Show a person puncturing the clear packing tape on a sealed cardboard box with the tip of a house key, then dragging the key along the seam to rip the tape open; the tape splits and the person spreads the flaps apart at the end.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "credit card",
+                "predictive_image_prompt": "On a desk, a sealed cardboard box with clear packing tape is shown as a hand pushes the corner of a plastic credit card into the tape seam, poised to scrape along it.",
+                "grounded_image_prompt": "The box’s clear tape is split along the center seam with a jagged tear; the top flaps gape open slightly, and a credit card with a slightly bent corner rests beside it.",
+                "predictive_video_prompt": "Generate a short clip where a person wedges the sharp corner of a credit card under the clear tape on a sealed cardboard box and begins sawing it along the seam.",
+                "grounded_video_prompt": "Record a person forcing the corner of a credit card under the edge of the clear tape on a sealed cardboard box, sawing and prying until the tape tears through along the seam; they finish by pulling the flaps open.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "banana",
+                "predictive_image_prompt": "A ripe banana is held against the clear packing tape that seals the center of a cardboard box on a countertop, with the person pressing the fruit along the seam.",
+                "grounded_image_prompt": "The cardboard box remains sealed with the clear tape unbroken; smeared banana marks and a bit of mashed fruit are on the tape, the flaps are still closed, and the banana looks bruised.",
+                "predictive_video_prompt": "Create a short video of someone trying to use a banana on the clear packing tape sealing a cardboard box, pressing and rubbing it along the center seam.",
+                "grounded_video_prompt": "Show a person pressing and rubbing a ripe banana along the clear tape seam of a sealed cardboard box; the banana smears and deforms, leaving pulp on the tape, but the tape stays intact and the box flaps never open; end with the sticky, unbroken tape and a bruised banana.",
+                "grounded_expected_outcome": "failure"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "sponge",
+                "predictive_image_prompt": "A hand holds a kitchen sponge against the clear packing tape sealing the middle seam of a cardboard shipping box, pushing the sponge’s edge along the tape.",
+                "grounded_image_prompt": "The cardboard box is still sealed with the clear tape uncut; faint scuff marks and a damp patch are on the tape, the flaps remain shut, and a sponge sits nearby.",
+                "predictive_video_prompt": "Generate a brief video of someone trying to run a kitchen sponge along the clear packing tape on a sealed cardboard box, pressing and rubbing at the seam.",
+                "grounded_video_prompt": "Film a person pressing and dragging a kitchen sponge back and forth along the clear tape seam of a sealed cardboard box; the sponge compresses and leaves moisture and slight marks, but the tape does not cut, and the box stays closed at the end.",
+                "grounded_expected_outcome": "failure"
+            }
+        ]
+    },
+    {
+        "task_goal": "Remove the cork from a wine bottle without a corkscrew",
+        "original_tool": "corkscrew",
+        "expected_outcome": "The cork is extracted from the bottle neck and the bottle is opened.",
+        "required_tool_attributes": [
+            "ability to grip, twist, or penetrate the cork",
+            "sufficient friction or anchoring on cork surface",
+            "rigidity for leverage application",
+            "hand-controllable pulling motion"
+        ],
+        "unconventional_tools": [
+            "screw (twisted into the cork) and pliers",
+            "serrated knife used to twist and pry the cork upward"
+        ],
+        "opposite_tool_attributes": [
+            "smooth surface with no grip on cork",
+            "soft structure that bends under force",
+            "no leverage or anchoring capability"
+        ],
+        "impossible_tools": [
+            "bread slice",
+            "tomato wedge"
+        ],
+        "expected_outcome_impossible_tool": {
+            "bread slice": "The bread slice is too soft and squishes against the cork, cannot grip or twist it, and the cork remains in the bottle.",
+            "tomato wedge": "The tomato wedge is too blunt and bulky to twist or pry the cork, slips on the cork surface, and the cork remains in the bottle."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "corkscrew",
+                "predictive_image_prompt": "Show a person positioning a metal corkscrew over a sealed wine bottle on a kitchen counter, beginning to twist the helix into the center of the cork with one hand steadying the bottle.",
+                "grounded_image_prompt": "An open wine bottle with the cork completely removed and resting beside it, still attached to the corkscrew, with a small drip visible on the bottle’s lip.",
+                "predictive_video_prompt": "In a short clip, a person centers a corkscrew on a wine bottle’s cork, twists the helix downward, braces the tool, and starts pulling upward on a kitchen counter.",
+                "grounded_video_prompt": "Show the person twisting the corkscrew deep into the cork, engaging the lever/handle, and drawing the cork upward in a smooth motion until it comes free; the video ends with the open bottle on the counter and the cork still on the corkscrew beside it.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "screw (twisted into the cork) and pliers",
+                "predictive_image_prompt": "Depict a hand starting a long wood screw into the center of a wine bottle’s cork while a pair of pliers lies nearby on the counter.",
+                "grounded_image_prompt": "An open wine bottle with the cork fully extracted; the cork has a screw embedded in it and is clamped in the pliers, both resting next to the bottle.",
+                "predictive_video_prompt": "A short video shows someone twisting a screw into the cork of a wine bottle, then reaching for pliers to grip the screw head and pull upward.",
+                "grounded_video_prompt": "The person twists the screw firmly into the cork, grips the screw with pliers, and pulls with a gentle wiggle until the cork slides out of the neck; the clip ends with the open bottle and the cork—with the screw still in it—set on the counter.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "serrated knife used to twist and pry the cork upward",
+                "predictive_image_prompt": "Show someone carefully inserting the tip of a small serrated knife into the edge of a wine bottle’s cork, beginning to twist and lever upward on a wooden table.",
+                "grounded_image_prompt": "An open wine bottle with the cork fully out on the table; the serrated knife rests nearby with a few cork crumbs on its blade and scattered around the neck.",
+                "predictive_video_prompt": "A brief clip of a person working a serrated knife into a wine bottle’s cork, twisting and gently prying around the rim to work the cork upward.",
+                "grounded_video_prompt": "The person wedges the serrated knife into the cork for grip, twists to gain purchase, and pries around the circumference, gradually easing the cork up until it pops free; the video ends on the open bottle and the crumb-dusted cork on the table next to the knife.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "bread slice",
+                "predictive_image_prompt": "Illustrate a person pressing a slice of bread over the cork of a wine bottle on a kitchen counter, as if trying to grip and pull it out.",
+                "grounded_image_prompt": "The wine bottle remains sealed with the cork in place; a torn, squashed slice of bread with crumbs is smeared around the bottle’s lip and lying on the counter.",
+                "predictive_video_prompt": "A short video shows someone wrapping a slice of bread over a wine bottle’s cork and tugging upward to try to pull it free.",
+                "grounded_video_prompt": "The person folds a slice of bread over the cork, squeezes and twists to pull, but the bread stretches, slips, and tears, leaving crumbs on the lip; the video ends with the bottle still corked and the mangled bread on the counter.",
+                "grounded_expected_outcome": "failure"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "tomato wedge",
+                "predictive_image_prompt": "Show a hand pressing a juicy tomato wedge against the cork of a wine bottle on a cutting board, attempting to twist and pull it out.",
+                "grounded_image_prompt": "The bottle is still sealed with the cork unmoved; a smashed tomato wedge has left red juice and seeds smeared around the bottle lip and on the board.",
+                "predictive_video_prompt": "A brief clip of someone using a tomato wedge to try to twist and tug at a wine bottle’s cork on a kitchen counter.",
+                "grounded_video_prompt": "The person presses a tomato wedge against the cork and twists; the wedge collapses into mush, slips off, and smears juice and seeds while the cork doesn’t budge; the clip ends with the corked bottle and the squashed tomato nearby.",
+                "grounded_expected_outcome": "failure"
+            }
+        ]
+    },
+    {
+        "task_goal": "Pin a paper sheet onto a corkboard",
+        "original_tool": "push pin",
+        "expected_outcome": "The fastener penetrates the paper sheet and enters the corkboard enough to hold the paper sheet in place.",
+        "required_tool_attributes": [
+            "sharp pointed tip for penetration",
+            "sufficient compressive strength",
+            "rigid slender body",
+            "small head or grip area for pushing"
+        ],
+        "unconventional_tools": [
+            "short uncooked straight spaghetti",
+            "toothpick"
+        ],
+        "opposite_tool_attributes": [
+            "blunt tip with no penetration capability",
+            "brittle body that snaps under push force",
+            "soft deformable structure"
+        ],
+        "impossible_tools": [
+            "marshmallow",
+            "ice cube"
+        ],
+        "expected_outcome_impossible_tool": {
+            "marshmallow": "The marshmallow squashes flat against the paper under finger pressure, cannot form a sharp rigid tip, and the paper sheet is not attached to the corkboard.",
+            "ice cube": "The ice cube is too blunt and bulky to pierce the paper cleanly, slides on the paper surface while melting, and cannot anchor the paper to the corkboard."
+        },
+        "evaluation_instances": [
+            {
+                "tool_type": "regular",
+                "tool": "push pin",
+                "predictive_image_prompt": "Show a close-up of a hand about to press a red push pin through the top of a white sheet of paper against a corkboard on a wall.",
+                "grounded_image_prompt": "A white sheet of paper is neatly posted on a corkboard, held by a single red push pin driven through the top center; the pin is embedded in the cork and the paper lies flat.",
+                "predictive_video_prompt": "Create a short clip where a person lines up a white paper on a corkboard and brings a red push pin to the top edge to attach it.",
+                "grounded_video_prompt": "A person aligns a white sheet on a corkboard, presses a red push pin through the paper into the cork with their thumb, and then removes their hand; the paper remains secured flat with the pin at the top center.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "toothpick",
+                "predictive_image_prompt": "Show a close-up of a hand positioning a wooden toothpick at a slight angle against the top edge of a white paper sheet on a corkboard, ready to push it in.",
+                "grounded_image_prompt": "A white paper sheet is held to a corkboard by a wooden toothpick pushed diagonally through the top edge into the cork; part of the toothpick protrudes and the paper lies flat.",
+                "predictive_video_prompt": "Make a short clip of someone trying to post a white sheet onto a corkboard by pressing a wooden toothpick through the top edge.",
+                "grounded_video_prompt": "The person presses the sharp end of a toothpick through the paper into the corkboard at a slight angle until it bites; they let go and the paper stays up, held flat by the toothpick.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "unconventional",
+                "tool": "short uncooked straight spaghetti",
+                "predictive_image_prompt": "Show a close-up of a hand lining up a short piece of uncooked spaghetti at the top of a white paper sheet on a corkboard, about to push it in like a tiny pin.",
+                "grounded_image_prompt": "A white paper sheet is secured to a corkboard by a short piece of uncooked spaghetti inserted through the top edge and embedded into the cork, with a small yellowish fragment visible and the paper held flat.",
+                "predictive_video_prompt": "Generate a short clip where a person attempts to tack a sheet of paper onto a corkboard by pressing a short stick of dry spaghetti through the paper into the cork.",
+                "grounded_video_prompt": "Holding a short piece of dry spaghetti, the person carefully presses its pointed end through the paper and into the corkboard until it seats; a small section remains protruding, and when they remove their hand the paper stays in place.",
+                "grounded_expected_outcome": "success"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "marshmallow",
+                "predictive_image_prompt": "Show a close-up of a hand pressing a marshmallow against the top of a white paper sheet on a corkboard, trying to stick it up.",
+                "grounded_image_prompt": "After the attempt, the white paper sheet is not attached to the corkboard: it has fallen to the floor below, and a squashed marshmallow smear remains on the cork near the top with no hole in the paper.",
+                "predictive_video_prompt": "Create a short clip where someone tries to post a paper onto a corkboard by pressing a marshmallow against the top edge.",
+                "grounded_video_prompt": "The person presses a marshmallow against the paper and corkboard; it compresses and sticks briefly without penetrating, then loosens and drops. The paper slips off and falls to the floor, leaving a flattened marshmallow smear on the corkboard.",
+                "grounded_expected_outcome": "failure"
+            },
+            {
+                "tool_type": "impossible",
+                "tool": "ice cube",
+                "predictive_image_prompt": "Show a hand holding a small ice cube against the top of a white sheet of paper on a corkboard, attempting to pin it up.",
+                "grounded_image_prompt": "After the attempt, the paper is not attached: its top corner is damp and curled, and a wet streak runs down the corkboard where the ice cube slid; no fastener pierces the paper.",
+                "predictive_video_prompt": "Make a short clip of a person trying to secure a paper to a corkboard by pressing a melting ice cube against the top edge.",
+                "grounded_video_prompt": "The person presses an ice cube against the paper on the corkboard; it slides and melts, water drips down, the paper corner becomes wet and curls, and then the paper slips off, leaving a damp streak on the corkboard.",
+                "grounded_expected_outcome": "failure"
+            }
+        ]
+    }
+]

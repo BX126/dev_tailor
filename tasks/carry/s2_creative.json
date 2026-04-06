@@ -1,0 +1,324 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Carry six grocery bags from the car to the kitchen in one trip",
+            "original_tool": "reusable tote bag",
+            "expected_outcome": "All groceries arrive intact in the kitchen without tearing bags or dropping items",
+            "required_tool_attributes": [
+                "reinforced dual handles for load support",
+                "tear-resistant fabric with high-friction exterior",
+                "flat semi-rigid bottom insert to stabilize the center of mass",
+                "gusseted sides that prevent shifting"
+            ],
+            "unconventional_tools": [
+                "car trunk organizer with carry handles",
+                "collapsible fabric laundry basket with reinforced handles",
+                "plastic storage bin with side handles"
+            ]
+        },
+        {
+            "task_goal": "Carry a laptop, charger, and notebook from a desk to a conference room",
+            "original_tool": "laptop shoulder bag",
+            "expected_outcome": "Electronics and documents arrive organized and undamaged at the meeting",
+            "required_tool_attributes": [
+                "padded anti-slip shoulder strap for frictional grip and load distribution",
+                "semi-rigid frame panel to support weight",
+                "segmented compartments to prevent shifting",
+                "sturdy top handle to maintain balance during lifting"
+            ],
+            "unconventional_tools": [
+                "soft-sided insulated cooler bag with shoulder strap",
+                "messenger-style diaper bag",
+                "electrician's tool tote with padded shoulder strap"
+            ]
+        },
+        {
+            "task_goal": "Carry a hot casserole from the oven to the dining table",
+            "original_tool": "insulated casserole carrier",
+            "expected_outcome": "The casserole reaches the table upright without spills or burns",
+            "required_tool_attributes": [
+                "rigid bottom tray to support the dish weight",
+                "zippered insulated lid that secures and stabilizes contents",
+                "wide heat-resistant handles with textured grip",
+                "non-slip interior surface to reduce sliding"
+            ],
+            "unconventional_tools": [
+                "insulated grocery cooler tote with rigid base insert",
+                "hard-sided picnic cooler (small ice chest)",
+                "rectangular cake carrier"
+            ]
+        },
+        {
+            "task_goal": "Carry a bundle of firewood from the woodpile to the fireplace",
+            "original_tool": "canvas log carrier",
+            "expected_outcome": "Logs are transported indoors cleanly and without dropping pieces",
+            "required_tool_attributes": [
+                "heavy-duty canvas for load support and abrasion resistance",
+                "wide wraparound handles that center the load",
+                "semi-rigid base to maintain shape and stability",
+                "textured fabric to increase friction against logs"
+            ],
+            "unconventional_tools": [
+                "contractor\u2019s canvas tool tote bag with wraparound webbing handles and a hard bottom insert",
+                "large IKEA-style woven polypropylene moving bag (FRAKTA) with wide straps and a semi-rigid base panel",
+                "soft-sided pet carrier with wraparound handles and a removable rigid floor"
+            ]
+        },
+        {
+            "task_goal": "Move a stack of packed boxes from the garage to a moving truck",
+            "original_tool": "hand truck (dolly)",
+            "expected_outcome": "Boxes are transported safely and remain upright without tipping",
+            "required_tool_attributes": [
+                "steel frame rated for the load",
+                "wide non-slip toe plate to support and grip boxes",
+                "tall handle for controlled leverage and balance",
+                "large wheels for stable rolling over thresholds"
+            ],
+            "unconventional_tools": [
+                "wheelbarrow",
+                "rolling trash bin (wheelie bin)",
+                "garden utility wagon (kids' pull wagon)"
+            ]
+        },
+        {
+            "task_goal": "Carry newly potted seedlings from the potting bench to the garden bed",
+            "original_tool": "nursery tray",
+            "expected_outcome": "Seedlings arrive upright with soil undisturbed",
+            "required_tool_attributes": [
+                "rigid plastic tray to prevent flexing under load",
+                "raised rim to block lateral movement",
+                "textured base to add friction under pots",
+                "side finger slots for a balanced grip"
+            ],
+            "unconventional_tools": [
+                "entryway boot tray (shoe drip tray)",
+                "breakfast serving tray with handles and a non\u2011slip surface",
+                "stackable office letter tray (paper inbox)"
+            ]
+        },
+        {
+            "task_goal": "Carry a kayak from the car to the shoreline",
+            "original_tool": "kayak portage shoulder strap",
+            "expected_outcome": "The kayak reaches the water without scraping and with the carrier maintaining balance",
+            "required_tool_attributes": [
+                "adjustable strap to position the center of mass under the shoulder",
+                "padded shoulder pad for load distribution",
+                "locking attachment loops that secure to kayak handles",
+                "non-slip webbing to prevent sliding during movement"
+            ],
+            "unconventional_tools": [
+                "Cam-buckle roof-rack tie-down strap with carabiner ends used as a shoulder sling",
+                "Detachable duffel/laptop bag shoulder strap with padded, non-slip shoulder pad and swivel clips",
+                "Hands-free running dog leash with adjustable length and locking carabiner"
+            ]
+        },
+        {
+            "task_goal": "Carry a large sheet of glass from the workshop rack to a cutting table",
+            "original_tool": "suction cup glass lifter",
+            "expected_outcome": "The glass panel is transported flat without slipping or chipping",
+            "required_tool_attributes": [
+                "high-friction rubber suction pads for grip",
+                "lock-down levers to maintain vacuum",
+                "rigid crossbar handle for balanced lifting",
+                "rated hardware for the panel\u2019s weight"
+            ],
+            "unconventional_tools": [
+                "suction shower grab bar (bathroom safety handle with locking levers)",
+                "heavy-duty toilet plunger",
+                "car windshield suction phone/GPS mount with locking lever"
+            ]
+        },
+        {
+            "task_goal": "Carry two full paint cans up a flight of stairs to a work area",
+            "original_tool": "paint can carrier",
+            "expected_outcome": "Paint cans reach the work area without swinging excessively or spilling",
+            "required_tool_attributes": [
+                "steel hook that securely engages can bails",
+                "centered handle for balanced load support",
+                "rubberized grip to increase friction in hand",
+                "adequate load rating for full cans"
+            ],
+            "unconventional_tools": [
+                "ratchet tie-down strap with S-hooks",
+                "bicycle U-lock",
+                "heavy-duty wire coat hanger (bent into dual hooks)"
+            ]
+        },
+        {
+            "task_goal": "Deliver four coffees from a cafe counter to a coworker\u2019s desk",
+            "original_tool": "cardboard drink carrier tray",
+            "expected_outcome": "All cups arrive upright without tipping or sloshing",
+            "required_tool_attributes": [
+                "molded cup wells that centralize each cup\u2019s mass",
+                "rigid paperboard to resist bending",
+                "perimeter lip to block lateral movement",
+                "finger cutouts for a secure carry grip"
+            ],
+            "unconventional_tools": [
+                "6-cup metal muffin tin",
+                "cardboard 4-bottle beer/wine carrier",
+                "plastic nursery plant 4-pack carrier"
+            ]
+        },
+        {
+            "task_goal": "Carry 10 liters of water from a campground spigot to a tent site",
+            "original_tool": "jerry can",
+            "expected_outcome": "Water arrives at the campsite without leaking or excessive slosh",
+            "required_tool_attributes": [
+                "molded top and side handles for controlled lifting",
+                "rigid HDPE walls to support liquid weight",
+                "screw cap with gasket to seal and stabilize contents",
+                "rectangular form that keeps mass close to the body"
+            ],
+            "unconventional_tools": [
+                "Empty rectangular cat litter jug with screw cap",
+                "Rinsed laundry detergent bottle or jug",
+                "5-gallon bucket fitted with a gamma-seal screw lid"
+            ]
+        },
+        {
+            "task_goal": "Carry a cat safely from home to the veterinarian",
+            "original_tool": "pet carrier",
+            "expected_outcome": "The pet arrives secure and calm, with the carrier remaining level",
+            "required_tool_attributes": [
+                "rigid ventilated shell to support weight",
+                "locking door and latches to prevent shifting or escape",
+                "centered top handle and optional shoulder strap",
+                "non-slip interior mat to stabilize the animal"
+            ],
+            "unconventional_tools": [
+                "wicker picnic basket with hinged lid and buckle closures",
+                "perforated plastic file storage crate with snap-on lid and top handle",
+                "ventilated produce/milk crate with clip-on lid and carry handles"
+            ]
+        },
+        {
+            "task_goal": "Transport a decorated cake from the kitchen to a birthday party venue",
+            "original_tool": "cake carrier",
+            "expected_outcome": "The cake arrives intact with decorations undisturbed",
+            "required_tool_attributes": [
+                "rigid base plate that supports cake weight",
+                "locking lid and side latches to prevent movement",
+                "top handle centered over the load for balance",
+                "non-slip base surface to hold the cake board"
+            ],
+            "unconventional_tools": [
+                "hard-sided pet carrier",
+                "large toolbox or tackle box with latching lid",
+                "small hard-sided cooler with a top handle (e.g., Igloo Playmate)"
+            ]
+        },
+        {
+            "task_goal": "Carry a car battery from the parts counter to a vehicle in the parking lot",
+            "original_tool": "battery lifting strap",
+            "expected_outcome": "Battery is moved without slipping, tilting, or straining the carrier",
+            "required_tool_attributes": [
+                "acid-resistant strap with textured underside for frictional grip",
+                "clamp or cam mechanism that secures under battery lips",
+                "central rigid handle to keep the load balanced",
+                "sufficient load rating for heavy batteries"
+            ],
+            "unconventional_tools": [
+                "Heavy-duty ratchet tie-down strap with S-hooks and a short pipe as a central handle",
+                "5-gallon HDPE bucket with metal bail (battery placed inside)",
+                "Plastic milk crate with hand holes and a rubber mat liner"
+            ]
+        },
+        {
+            "task_goal": "Carry a 4\u00d78 sheet of plywood from a stack to a table saw",
+            "original_tool": "panel carrier",
+            "expected_outcome": "The sheet is transported on edge without dragging or losing control",
+            "required_tool_attributes": [
+                "rubber-lined jaw that grips the panel edge via friction",
+                "angled design to position the center of mass beneath the handle",
+                "steel frame to resist bending under load",
+                "ergonomic handle for controlled carry"
+            ],
+            "unconventional_tools": [
+                "large F-style bar clamp with soft jaw pads used as a carry handle",
+                "heavy-duty C-clamp with a rubber or leather pad on the contact face",
+                "wooden handscrew clamp tightened on the sheet edge as a temporary handle"
+            ]
+        },
+        {
+            "task_goal": "Move a framed painting from the storage room to a gallery wall",
+            "original_tool": "padded art carrying straps",
+            "expected_outcome": "The artwork arrives without frame stress, slipping, or surface contact damage",
+            "required_tool_attributes": [
+                "soft, non-abrasive straps with slip-resistant sleeves",
+                "adjustable length to balance the artwork\u2019s center of mass",
+                "padded handles to distribute load",
+                "corner protectors to stabilize and support the frame"
+            ],
+            "unconventional_tools": [
+                "Yoga mat straps + foam pipe insulation corner sleeves + silicone jar grippers + oven mitt handles",
+                "Cotton bedsheet sling + non-slip drawer liner + quartered pool noodle corner protectors + rolled towel handles",
+                "Fabric luggage straps + repurposed backpack shoulder pad cushions + rubber shelf liner wraps + cardboard corner protectors"
+            ]
+        },
+        {
+            "task_goal": "Clear dirty dishes from a dining table to the kitchen sink",
+            "original_tool": "bus tub",
+            "expected_outcome": "Plates, glasses, and cutlery are transported together without breakage",
+            "required_tool_attributes": [
+                "rigid reinforced walls for load support",
+                "molded side handles for a secure grip",
+                "textured interior to reduce sliding",
+                "flat sturdy bottom to keep the load level"
+            ],
+            "unconventional_tools": [
+                "large plastic storage tote (e.g., Rubbermaid bin)",
+                "plastic laundry basket",
+                "large roasting pan"
+            ]
+        },
+        {
+            "task_goal": "Carry ice from the freezer to a home bar for a party",
+            "original_tool": "ice bucket with handle",
+            "expected_outcome": "Ice is delivered without spilling or dropping the container",
+            "required_tool_attributes": [
+                "thick rigid walls to support the mass of ice",
+                "bail handle with textured grip for friction and control",
+                "fitted lid to limit slosh and spillage",
+                "flat base for stable setting down"
+            ],
+            "unconventional_tools": [
+                "New 5-gallon paint bucket with snap-on lid and metal bail handle",
+                "Insulated beverage cooler/jug with locking lid and carry handle",
+                "Pressure cooker pot with locking lid and handles"
+            ]
+        },
+        {
+            "task_goal": "Transport labeled blood samples from a clinic room to the lab",
+            "original_tool": "biohazard transport box",
+            "expected_outcome": "Specimens arrive upright, sealed, and within containment requirements",
+            "required_tool_attributes": [
+                "impact-resistant rigid shell for load support",
+                "gasketed locking lid to prevent leaks",
+                "integrated top handle for balanced carrying",
+                "internal rack or foam to keep tubes upright and stable"
+            ],
+            "unconventional_tools": [
+                "Waterproof ammo can with rubber gasket and top handle",
+                "Hard camera equipment case with pick-and-pluck foam",
+                "Waterproof marine tackle/dry box with locking lid and carry handle"
+            ]
+        },
+        {
+            "task_goal": "Carry a guitar from home to a rehearsal space",
+            "original_tool": "hard-shell guitar case",
+            "expected_outcome": "The instrument arrives protected and the case remains closed and balanced during transport",
+            "required_tool_attributes": [
+                "hard shell that supports and protects the load",
+                "form-fit padded interior to immobilize the guitar",
+                "centered handle for balanced lifting",
+                "secure metal latches to keep the case closed"
+            ],
+            "unconventional_tools": [
+                "hard rifle/long gun case with pick-and-pluck foam",
+                "golf travel hard case",
+                "hard ski/snowboard travel case"
+            ]
+        }
+    ]
+}

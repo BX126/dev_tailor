@@ -1,0 +1,2293 @@
+{
+    "block": [
+        {
+            "task_goal": "Keep a bedroom door from closing due to drafts",
+            "original_tool": "doorstop wedge",
+            "expected_outcome": "The door remains fixed in the open position and does not swing shut.",
+            "required_tool_attributes": [
+                "rigid wedge geometry",
+                "high-friction contact surfaces",
+                "sufficient compressive strength",
+                "size matched to door gap"
+            ],
+            "unconventional_tools": [
+                "old sneaker or work boot (toe wedged under door)",
+                "rubber wheel chock (vehicle chock)",
+                "wedge-heeled shoe",
+                "foam yoga wedge",
+                "large triangular rubber eraser"
+            ],
+            "opposite_tool_attributes": [
+                "rounded or rolling, non-wedge geometry",
+                "low-friction, slippery contact surfaces",
+                "soft, easily deformed with low compressive strength"
+            ],
+            "impossible_tools": [
+                "helium balloon",
+                "single ball bearing (marble)",
+                "puddle of cooking oil",
+                "soap bubble",
+                "handful of loose sand"
+            ]
+        },
+        {
+            "task_goal": "Prevent a parked trailer from rolling on a sloped driveway",
+            "original_tool": "wheel chocks",
+            "expected_outcome": "The trailer stays stationary with its wheels immobilized.",
+            "required_tool_attributes": [
+                "triangular profile to oppose wheel motion",
+                "high-friction base",
+                "high compressive strength",
+                "sufficient width to contact tire tread"
+            ],
+            "unconventional_tools": [
+                "Wedge cut from a 4x4 lumber offcut (wooden wheel wedge)",
+                "Heavy rubber doorstop wedge",
+                "Triangular landscape edging stone or a large wedge-shaped rock"
+            ],
+            "opposite_tool_attributes": [
+                "rounded or cylindrical profile that promotes rolling instead of blocking",
+                "smooth, low-friction base that slides on pavement",
+                "low compressive strength or easily deformable under load"
+            ],
+            "impossible_tools": [
+                "skateboard",
+                "inflatable beach ball",
+                "banana peel",
+                "bar of soap",
+                "metal pipe (round rod)"
+            ]
+        },
+        {
+            "task_goal": "Block a hallway to keep a dog from entering a room",
+            "original_tool": "baby gate",
+            "expected_outcome": "The gate spans the doorway and the dog cannot pass through",
+            "required_tool_attributes": [
+                "rigid frame",
+                "adjustable width to span opening",
+                "secure latching mechanism",
+                "stable feet or pressure mounts"
+            ],
+            "unconventional_tools": [
+                "ratcheting cargo/load bar (for truck beds)",
+                "photography backdrop stand kit (telescoping crossbar with tripods)",
+                "folding fireplace screen with locking doors",
+                "SUV pet cargo barrier (pressure-mounted)",
+                "adjustable shower curtain tension rod"
+            ],
+            "opposite_tool_attributes": [
+                "soft, floppy material with no rigid frame",
+                "fixed-width panel that cannot adjust to span the opening",
+                "no secure latch and lacks stable feet or pressure mounts (slides or tips easily)"
+            ],
+            "impossible_tools": [
+                "silk scarf",
+                "jump rope",
+                "hula hoop",
+                "balloon",
+                "slinky toy"
+            ]
+        },
+        {
+            "task_goal": "Fill a kitchen sink for soaking dishes",
+            "original_tool": "sink stopper",
+            "expected_outcome": "Water is retained in the basin with no drain flow.",
+            "required_tool_attributes": [
+                "impermeable material",
+                "snug, tapered fit to drain opening",
+                "structural stiffness to resist water pressure",
+                "grippable edge for placement and removal"
+            ],
+            "unconventional_tools": [
+                "silicone suction bowl lid",
+                "mini cup plunger",
+                "partially inflated balloon inserted into the drain"
+            ],
+            "opposite_tool_attributes": [
+                "porous or absorbent material that allows water to pass through",
+                "loose, non-tapered shape that cannot form a seal with the drain opening",
+                "flimsy, collapsible structure that deforms under water pressure and won't hold position"
+            ],
+            "impossible_tools": [
+                "wire mesh strainer",
+                "kitchen sponge",
+                "paper towel",
+                "rope"
+            ]
+        },
+        {
+            "task_goal": "Stop a row of books from sliding over",
+            "original_tool": "bookend",
+            "expected_outcome": "Books remain upright and do not slide when lightly pushed",
+            "required_tool_attributes": [
+                "L-shaped rigid plate",
+                "weighted or broad base",
+                "non-slip bottom pad",
+                "sufficient height to contact book sides"
+            ],
+            "unconventional_tools": [
+                "L-shaped acrylic sign holder (countertop menu display)",
+                "Heavy-duty steel shelf bracket (angle bracket)",
+                "Metal magazine file holder (upright desk organizer)",
+                "3-ring binder opened to a right angle",
+                "Pot-lid or cutting-board rack with rubber feet"
+            ],
+            "opposite_tool_attributes": [
+                "Soft, flexible, non\u2013L-shaped form that collapses under load",
+                "Lightweight, narrow, top-heavy base that tips easily",
+                "Smooth, low-friction or wheeled bottom that slides or rolls on the shelf"
+            ],
+            "impossible_tools": [
+                "Inflatable beach ball",
+                "Silk scarf",
+                "Roller skate",
+                "Greased rolling pin",
+                "Banana peel"
+            ]
+        },
+        {
+            "task_goal": "Stop a car from overrunning a parking spot",
+            "original_tool": "parking curb (wheel stop)",
+            "expected_outcome": "The vehicle tires contact the curb and cannot advance further.",
+            "required_tool_attributes": [
+                "rigid, high-compressive-strength body",
+                "anchoring spikes or bolts",
+                "sufficient height to meet tire",
+                "base friction and footprint stability"
+            ],
+            "unconventional_tools": [
+                "Pressure-treated 6x6 timber (railroad tie) anchored with rebar spikes",
+                "Concrete landscape edging blocks pinned with rebar or concrete anchors",
+                "Concrete masonry unit (cinder block) laid flat and bolted to the slab"
+            ],
+            "opposite_tool_attributes": [
+                "soft, deformable, low-compressive-strength body that collapses under tire load",
+                "unanchored, low-friction or rolling base that slides or moves instead of resisting",
+                "ultra-low-profile or tapered shape that fails to meet the tire and allows climb-over"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "balloon",
+                "rope",
+                "skateboard"
+            ]
+        }
+    ],
+    "break": [
+        {
+            "task_goal": "Crack open a coconut to access the water and flesh",
+            "original_tool": "claw hammer",
+            "expected_outcome": "The coconut shell fractures and splits open, exposing the liquid and white flesh inside",
+            "required_tool_attributes": [
+                "heavy head to deliver high-impact force",
+                "hard steel face to resist deformation",
+                "small striking surface to concentrate stress",
+                "rigid handle for controlled swinging"
+            ],
+            "unconventional_tools": [
+                "adjustable crescent wrench",
+                "pipe wrench",
+                "lug wrench (tire iron)",
+                "steel pry bar (crowbar)",
+                "golf iron club"
+            ],
+            "opposite_tool_attributes": [
+                "lightweight, compressible head that absorbs impact instead of delivering it",
+                "soft, wide, cushioned striking surface that spreads force",
+                "flexible or floppy handle/tether that prevents controlled swinging"
+            ],
+            "impossible_tools": [
+                "feather duster",
+                "inflatable beach ball",
+                "pillow",
+                "wet sponge",
+                "silk scarf"
+            ]
+        },
+        {
+            "task_goal": "Crack open a walnut to extract intact nutmeat",
+            "original_tool": "nutcracker",
+            "expected_outcome": "The shell breaks while the kernel remains mostly whole and retrievable",
+            "required_tool_attributes": [
+                "hard opposing jaws to compress the shell",
+                "levered pivot for mechanical advantage",
+                "rigid frame that resists flexing",
+                "textured grips to prevent slipping"
+            ],
+            "unconventional_tools": [
+                "locking pliers (Vise-Grips)",
+                "C-clamp (G-clamp)",
+                "ratcheting bar clamp (Quick-Grip style)"
+            ],
+            "opposite_tool_attributes": [
+                "Soft, compressible jaws instead of hard opposing jaws",
+                "No levered pivot (elastic/stretch-based action without mechanical advantage)",
+                "Flexible frame that bends under load instead of staying rigid"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "plastic wrap"
+            ]
+        },
+        {
+            "task_goal": "Shatter a car side window to escape during an emergency",
+            "original_tool": "emergency window hammer/punch",
+            "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+            "required_tool_attributes": [
+                "hardened pointed tip to focus impact",
+                "sufficient head mass for impulse delivery",
+                "ergonomic, non-slip grip",
+                "spring-loaded striker or rigid hammer head for sudden force"
+            ],
+            "unconventional_tools": [
+                "car seat headrest metal prongs",
+                "lug wrench/tire iron",
+                "adjustable (crescent) wrench"
+            ],
+            "opposite_tool_attributes": [
+                "soft, rounded blunt tip that disperses impact instead of focusing it",
+                "very low-mass, compressible head that absorbs energy rather than delivering impulse",
+                "slippery, flexible handle that reduces grip and bends instead of transferring force"
+            ],
+            "impossible_tools": [
+                "inflatable beach ball",
+                "bath sponge",
+                "silk scarf",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Break apart a frozen block of ground meat for cooking",
+            "original_tool": "meat mallet",
+            "expected_outcome": "The frozen mass fractures into smaller chunks that thaw and cook evenly",
+            "required_tool_attributes": [
+                "flat or textured striking face to distribute or focus impact",
+                "food-safe, corrosion-resistant head",
+                "sufficient head mass for effective impacts",
+                "rigid handle for energy transfer"
+            ],
+            "unconventional_tools": [
+                "cast-iron skillet",
+                "marble pestle",
+                "stainless-steel potato masher"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible, non-flat striking surface that absorbs impact instead of delivering it",
+                "reactive, corrosion-prone or non-food-safe head material",
+                "very low head mass with a flexible or limp handle that bends and dissipates energy"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "plastic wrap (cling film)",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Break large compacted soil clods when preparing a garden bed",
+            "original_tool": "pick mattock",
+            "expected_outcome": "Soil clods fracture into finer particles suitable for planting",
+            "required_tool_attributes": [
+                "hardened pick end to concentrate force",
+                "heavy head for momentum",
+                "long rigid handle for swing energy",
+                "durable head-to-handle attachment"
+            ],
+            "unconventional_tools": [
+                "crowbar (wrecking bar/pry bar)",
+                "tire iron or breaker bar",
+                "fireplace poker"
+            ],
+            "opposite_tool_attributes": [
+                "soft, blunt, or cushioned striking end that disperses impact",
+                "ultra-lightweight or hollow head with very low mass",
+                "short, flexible, or limp handle that bends and absorbs swing energy"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Shatter a sheet of brittle toffee for dessert garnish",
+            "original_tool": "kitchen mallet",
+            "expected_outcome": "The toffee breaks into decorative shards of various sizes",
+            "required_tool_attributes": [
+                "flat, smooth striking face to control fragment size",
+                "sufficient head mass to exceed brittle strength",
+                "rigid handle for precise impacts",
+                "food-safe construction"
+            ],
+            "unconventional_tools": [
+                "heavy-bottomed small saucepan used bottom-first as a striker",
+                "ceramic mug held by the handle, using its flat base",
+                "glass measuring cup with handle, using the flat bottom"
+            ],
+            "opposite_tool_attributes": [
+                "soft, cushioned, or irregular/spiked striking surface instead of a flat, smooth face",
+                "ultra-lightweight or hollow/air-filled head that cannot deliver sufficient impact",
+                "flexible or floppy handle that bends and absorbs force rather than remaining rigid"
+            ],
+            "impossible_tools": [
+                "rope",
+                "inflatable beach ball",
+                "wet sponge",
+                "feather pillow"
+            ]
+        },
+        {
+            "task_goal": "Fracture a CD/DVD before disposal to prevent data recovery",
+            "original_tool": "bench vise",
+            "expected_outcome": "The disc cracks and splits into multiple pieces, rendering data unreadable",
+            "required_tool_attributes": [
+                "rigid, hardened jaws for strong clamping",
+                "screw mechanism to apply high compressive force",
+                "stable base to resist movement",
+                "parallel jaws to apply even stress"
+            ],
+            "unconventional_tools": [
+                "car scissor jack",
+                "screw-type nutcracker",
+                "cast-iron tortilla press"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compliant jaws that deform instead of rigid, hardened jaws",
+                "elastic or friction-only holding instead of a screw mechanism to apply compressive force",
+                "unstable base and non-parallel/curved contact surfaces that apply uneven stress"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Crush a garlic bulb to separate cloves quickly",
+            "original_tool": "knife (flat side)",
+            "expected_outcome": "The bulb's base plate fractures and cloves separate for peeling",
+            "required_tool_attributes": [
+                "wide, rigid blade to spread impact",
+                "sufficient mass for a decisive strike",
+                "flat surface to apply compressive load",
+                "sturdy handle for safe control"
+            ],
+            "unconventional_tools": [
+                "small cast-iron skillet (use the flat bottom)",
+                "sturdy ceramic mug (flat base and handle)",
+                "metal bench scraper"
+            ],
+            "opposite_tool_attributes": [
+                "narrow, flexible edge that bends instead of a wide, rigid blade",
+                "very light, soft, or compressible material that absorbs impact instead of providing mass",
+                "rounded or cushioned contact surface with no flat face and no sturdy handle for control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "feather duster",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Open a fishing hole by breaking lake ice near the shore",
+            "original_tool": "ice spud bar",
+            "expected_outcome": "The ice fractures and a hole is created through successive strikes",
+            "required_tool_attributes": [
+                "heavy, hardened chisel tip to penetrate ice",
+                "long shaft for swing and reach",
+                "non-slip grip for control",
+                "rigid, one-piece construction"
+            ],
+            "unconventional_tools": [
+                "steel fence T-post",
+                "36-inch wrecking bar (crowbar)",
+                "pickaxe"
+            ],
+            "opposite_tool_attributes": [
+                "soft, rounded, deformable tip that cannot cut or chip ice",
+                "short, flexible shaft that bends and lacks reach/mass",
+                "flexible, jointed or telescoping, multi-piece body that deflects on impact"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster",
+                "foam pool noodle"
+            ]
+        }
+    ],
+    "carry": [
+        {
+            "task_goal": "Carry six grocery bags from the car to the kitchen in one trip",
+            "original_tool": "reusable tote bag",
+            "expected_outcome": "All groceries arrive intact in the kitchen without tearing bags or dropping items",
+            "required_tool_attributes": [
+                "reinforced dual handles for load support",
+                "tear-resistant fabric with high-friction exterior",
+                "flat semi-rigid bottom insert to stabilize the center of mass",
+                "gusseted sides that prevent shifting"
+            ],
+            "unconventional_tools": [
+                "car trunk organizer with carry handles",
+                "collapsible fabric laundry basket with reinforced handles",
+                "plastic storage bin with side handles"
+            ],
+            "opposite_tool_attributes": [
+                "single, non-reinforced handle (or no handles) that stretches or tears under load",
+                "slick, tear-prone exterior material with low friction (e.g., thin plastic or satin)",
+                "floppy, rounded bottom with non-gusseted, collapsing sides that allow contents to shift"
+            ],
+            "impossible_tools": [
+                "inflated beach ball",
+                "plastic wrap (cling film) sheet",
+                "rope (single length)",
+                "ceramic dinner plate"
+            ]
+        },
+        {
+            "task_goal": "Carry a laptop, charger, and notebook from a desk to a conference room",
+            "original_tool": "laptop shoulder bag",
+            "expected_outcome": "Electronics and documents arrive organized and undamaged at the meeting",
+            "required_tool_attributes": [
+                "padded anti-slip shoulder strap for frictional grip and load distribution",
+                "semi-rigid frame panel to support weight",
+                "segmented compartments to prevent shifting",
+                "sturdy top handle to maintain balance during lifting"
+            ],
+            "unconventional_tools": [
+                "soft-sided insulated cooler bag with shoulder strap",
+                "messenger-style diaper bag",
+                "electrician's tool tote with padded shoulder strap"
+            ],
+            "opposite_tool_attributes": [
+                "slippery, narrow, unpadded strap that slides off the shoulder and creates pressure points",
+                "flimsy, fully collapsible body with no semi-rigid support panel",
+                "single unpartitioned or open-mesh compartment that allows contents to shift or spill"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "open mesh produce bag",
+                "single sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Carry a hot casserole from the oven to the dining table",
+            "original_tool": "insulated casserole carrier",
+            "expected_outcome": "The casserole reaches the table upright without spills or burns",
+            "required_tool_attributes": [
+                "rigid bottom tray to support the dish weight",
+                "zippered insulated lid that secures and stabilizes contents",
+                "wide heat-resistant handles with textured grip",
+                "non-slip interior surface to reduce sliding"
+            ],
+            "unconventional_tools": [
+                "insulated grocery cooler tote with rigid base insert",
+                "hard-sided picnic cooler (small ice chest)",
+                "rectangular cake carrier"
+            ],
+            "opposite_tool_attributes": [
+                "flexible, sagging bottom with no rigid support",
+                "open, unfastened, non-insulated top that doesn't secure contents",
+                "narrow, heat-conductive, slick handles or no handles"
+            ],
+            "impossible_tools": [
+                "plastic grocery bag",
+                "rope",
+                "silk scarf",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Carry a car battery from the parts counter to a vehicle in the parking lot",
+            "original_tool": "battery lifting strap",
+            "expected_outcome": "Battery is moved without slipping, tilting, or straining the carrier",
+            "required_tool_attributes": [
+                "acid-resistant strap with textured underside for frictional grip",
+                "clamp or cam mechanism that secures under battery lips",
+                "central rigid handle to keep the load balanced",
+                "sufficient load rating for heavy batteries"
+            ],
+            "unconventional_tools": [
+                "Heavy-duty ratchet tie-down strap with S-hooks and a short pipe as a central handle",
+                "5-gallon HDPE bucket with metal bail (battery placed inside)",
+                "Plastic milk crate with hand holes and a rubber mat liner"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, non-textured, acid-absorbent strap material that degrades on acid contact",
+                "no under-lip securing mechanism (relies only on friction, magnets, or suction)",
+                "no central rigid handle; floppy/off-center flexible grip with low load rating"
+            ],
+            "impossible_tools": [
+                "magnetic lifting clamp (battery case is non-ferrous plastic)",
+                "silk ribbon or satin scarf",
+                "paper towel roll or tissue",
+                "suction-cup glass lifter"
+            ]
+        }
+    ],
+    "cut": [
+        {
+            "task_goal": "Slice a loaf of crusty sourdough for sandwiches",
+            "original_tool": "bread knife",
+            "expected_outcome": "Even slices are produced without crushing the loaf, ready for making sandwiches",
+            "required_tool_attributes": [
+                "long serrated edge to concentrate stress on tough crust",
+                "thin, sharp bevel to minimize drag",
+                "rigid blade to prevent flex during sawing",
+                "ergonomic handle for controlled shearing force"
+            ],
+            "unconventional_tools": [
+                "hacksaw with a fine-tooth blade",
+                "folding pruning saw",
+                "serrated cake server"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, short, dull edge with no serrations that spreads force over the crust",
+                "thick, blunt bevel that increases drag and crushes the crumb",
+                "flexible, floppy blade that bends under load and wanders during sawing"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber spatula",
+                "rope",
+                "inflatable pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Cut vinyl aquarium tubing to a precise length",
+            "original_tool": "tubing cutter (scissor-style)",
+            "expected_outcome": "Tubing ends are square and clean, ensuring a tight, leak-free fit",
+            "required_tool_attributes": [
+                "curved, sharp blade to focus shear on soft tubing",
+                "rigid anvil jaw to oppose cutting force",
+                "aligned pivot for consistent edge contact",
+                "non-flexing handles for steady pressure"
+            ],
+            "unconventional_tools": [
+                "anvil-style pruning shears (garden pruners)",
+                "double-guillotine cigar cutter",
+                "large toenail clippers"
+            ],
+            "opposite_tool_attributes": [
+                "dull, flat or flexible edge that spreads force instead of a curved, sharp blade",
+                "soft, compressible opposing surface that deforms under load instead of a rigid anvil jaw",
+                "loose, misaligned pivot and bending handles that flex and twist under pressure instead of aligned, non-flexing linkage"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Open a sealed cardboard box by cutting the packing tape",
+            "original_tool": "utility knife",
+            "expected_outcome": "The tape splits and the box flaps release open",
+            "required_tool_attributes": [
+                "replaceable, razor-sharp blade",
+                "rigid blade support to prevent wobble",
+                "narrow tip to initiate the cut",
+                "ergonomic handle for safe, steady pressure"
+            ],
+            "unconventional_tools": [
+                "disposable safety razor (shaving razor)",
+                "vegetable peeler (Y-peeler or swivel peeler)",
+                "letter opener",
+                "flathead screwdriver",
+                "seam ripper (sewing tool)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded edge made of soft material (non-razor, non-replaceable)",
+                "flexible or wobbly blade support that bends under pressure",
+                "bulky, rounded tip with a slippery or absent handle"
+            ],
+            "impossible_tools": [
+                "rubber spatula",
+                "feather duster",
+                "inflatable beach ball",
+                "cooked spaghetti noodle",
+                "marshmallow"
+            ]
+        },
+        {
+            "task_goal": "Remove a damaged section of carpet for patching",
+            "original_tool": "carpet knife (hook blade)",
+            "expected_outcome": "The damaged area is cut out cleanly along the pile direction with minimal fraying",
+            "required_tool_attributes": [
+                "hooked, replaceable sharp blade to engage fibers",
+                "rigid handle to apply controlled force",
+                "thin cutting edge to concentrate shear",
+                "secure blade clamp to prevent flex or slip"
+            ],
+            "unconventional_tools": [
+                "seatbelt cutter/rescue hook",
+                "safety box opener with concealed hook blade",
+                "razor blade window/paint scraper"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded non-hooked edge that cannot catch or sever fibers",
+                "flexible, compressible handle that bends or collapses under load",
+                "loose, non-locking blade mount that allows wobble, flex, or slip"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "balloon",
+                "feather duster",
+                "silicone oven mitt"
+            ]
+        },
+        {
+            "task_goal": "Trim printed handouts to final size for a meeting",
+            "original_tool": "paper guillotine trimmer",
+            "expected_outcome": "Stacks of paper are cut to consistent, clean edges matching the target dimensions",
+            "required_tool_attributes": [
+                "long, sharp guillotine blade for shearing through stacks",
+                "rigid base and anvil edge for opposing force",
+                "levered pivot to amplify cutting force",
+                "paper clamp to prevent sheet shift during shear"
+            ],
+            "unconventional_tools": [
+                "rotary pizza cutter guided by a metal ruler on a cutting mat (stack held with binder clips)",
+                "large kitchen cleaver against a wooden cutting board with a straightedge fence (stack clamped with spring clamps)",
+                "kitchen mandoline slicer using its hand guard as a paper clamp and the bed as the anvil base"
+            ],
+            "opposite_tool_attributes": [
+                "short, dull, flexible edge that bends instead of a long, sharp guillotine blade",
+                "soft, compressible base with no rigid anvil edge to oppose the cut",
+                "no pivoted lever or mechanical advantage; requires direct, unamplified force"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Cut a ribeye steak into bite-sized pieces at the table",
+            "original_tool": "steak knife",
+            "expected_outcome": "The steak is portioned cleanly without tearing the meat fibers",
+            "required_tool_attributes": [
+                "sharp fine or micro-serrated edge to shear cooked fibers",
+                "rigid, narrow blade for precise cuts",
+                "pointed tip to initiate cuts",
+                "hard steel to sustain a sharp edge"
+            ],
+            "unconventional_tools": [
+                "utility knife (box cutter) with a fresh blade",
+                "office scissors",
+                "metal letter opener"
+            ],
+            "opposite_tool_attributes": [
+                "dull, rounded edge with no serration",
+                "flexible, wide blade that lacks rigidity and precision",
+                "soft, low-hardness material that cannot hold a sharp edge"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "silicone rubber spatula"
+            ]
+        }
+    ],
+    "filter": [
+        {
+            "task_goal": "Drain cooked spaghetti from boiling water",
+            "original_tool": "colander",
+            "expected_outcome": "Water rushes into the sink while the spaghetti stays in the colander",
+            "required_tool_attributes": [
+                "bowl-shaped perforated body",
+                "holes smaller than pasta",
+                "heat-resistant material",
+                "rigid frame with handles"
+            ],
+            "unconventional_tools": [
+                "folding metal steamer basket (petal steamer insert)",
+                "deep-fryer wire mesh basket",
+                "perforated grill wok/grill basket",
+                "air fryer crisper basket",
+                "perforated stainless-steel fruit bowl with side handles"
+            ],
+            "opposite_tool_attributes": [
+                "solid, non-perforated surface instead of a perforated bowl",
+                "openings larger than spaghetti strands (lets pasta fall through)",
+                "heat-sensitive, flexible body without rigid handles"
+            ],
+            "impossible_tools": [
+                "solid mixing bowl",
+                "paper bag",
+                "plastic grocery bag",
+                "wire cooling rack or grill grate",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Brew a clean pour-over coffee by separating grounds from the brew",
+            "original_tool": "paper coffee filter",
+            "expected_outcome": "Clear, sediment-free coffee drips into the mug while grounds remain in the filter",
+            "required_tool_attributes": [
+                "microporous cellulose fibers with pores smaller than coffee grounds",
+                "conical shape to seat in dripper and promote directed flow",
+                "wet strength to resist tearing in hot water",
+                "edge sealing against dripper walls to prevent bypass"
+            ],
+            "unconventional_tools": [
+                "High-strength paper towel folded into a cone",
+                "Empty disposable paper tea filter bag lined in the dripper",
+                "Stacked paper cupcake liners pressed into a cone"
+            ],
+            "opposite_tool_attributes": [
+                "macroporous or perforated material with pores larger than coffee grounds, allowing solids to pass",
+                "flat or non-conforming shape that cannot form a cone or seat in a dripper, causing undirected flow",
+                "low wet strength or soluble material that tears/disintegrates in hot water and cannot maintain an edge seal (bypass)"
+            ],
+            "impossible_tools": [
+                "plastic wrap (cling film)",
+                "metal colander",
+                "kitchen sponge",
+                "flat ceramic plate",
+                "solid dinner plate",
+                "kitchen sponge",
+                "plastic wrap/cling film",
+                "balloon",
+                "saucepan without holes"
+            ]
+        },
+        {
+            "task_goal": "Clarify used frying oil by removing burnt crumbs and batter bits",
+            "original_tool": "fine-mesh metal sieve lined with paper towel",
+            "expected_outcome": "Clean oil flows into the container while food particles are trapped in the liner",
+            "required_tool_attributes": [
+                "heat-resistant metal mesh to support the liner",
+                "absorbent, porous paper with smaller pores than crumbs",
+                "rigid rim and handle to hold steady over a pot",
+                "sufficient open area to maintain oil flow rate"
+            ],
+            "unconventional_tools": [
+                "stainless-steel splatter screen lined with a coffee filter or paper towel",
+                "folding metal steamer basket lined with paper towel or brown paper, set over the pot",
+                "stainless-steel canning funnel lined with a paper coffee filter"
+            ],
+            "opposite_tool_attributes": [
+                "heat-sensitive plastic or nylon mesh that softens or melts in hot oil",
+                "non-porous, non-absorbent liner that blocks oil flow (e.g., plastic film)",
+                "flimsy, rimless form with no handle that collapses under the oil's weight"
+            ],
+            "impossible_tools": [
+                "plastic wrap (cling film)",
+                "plastic colander or nylon-mesh strainer",
+                "solid metal ladle",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Make Greek yogurt by straining whey from plain yogurt",
+            "original_tool": "cheesecloth",
+            "expected_outcome": "Thickened yogurt remains in the cloth while whey drains into the bowl",
+            "required_tool_attributes": [
+                "woven cotton with micron-scale pores to retain milk solids",
+                "food-safe and non-reactive material",
+                "high tensile strength when wet",
+                "flexible fabric to form a hanging pouch for drainage"
+            ],
+            "unconventional_tools": [
+                "Clean, pre-washed cotton pillowcase",
+                "Pre-washed 100% cotton T-shirt (used as a straining cloth)",
+                "Stacked paper coffee filters placed in a colander"
+            ],
+            "opposite_tool_attributes": [
+                "non-porous/impermeable material that prevents whey from draining",
+                "very coarse pore size (millimeter-scale holes) that allows milk solids to pass through",
+                "low tensile strength when wet, making it unable to support a hanging pouch of yogurt"
+            ],
+            "impossible_tools": [
+                "plastic wrap (cling film)",
+                "standard pasta colander with large holes",
+                "kitchen sponge",
+                "rope",
+                "aluminum foil"
+            ]
+        },
+        {
+            "task_goal": "Sift flour to remove lumps and aerate before baking",
+            "original_tool": "flour sifter (fine-mesh)",
+            "expected_outcome": "Uniform, lump-free flour falls into the mixing bowl; larger clumps are retained",
+            "required_tool_attributes": [
+                "fine stainless-steel mesh with uniform aperture",
+                "rigid frame to keep mesh taut",
+                "agitation mechanism to drive particles through",
+                "food-safe construction"
+            ],
+            "unconventional_tools": [
+                "stainless-steel splatter screen (for frying)",
+                "reusable stainless-steel pour-over coffee filter cone",
+                "large stainless-steel tea infuser basket"
+            ],
+            "opposite_tool_attributes": [
+                "solid surface or very coarse/irregular openings instead of a fine, uniform mesh",
+                "flexible, collapsible frame that lets the mesh sag instead of keeping it taut",
+                "no agitation mechanism or a sealed design that traps flour rather than promoting flow"
+            ],
+            "impossible_tools": [
+                "solid ceramic plate",
+                "kitchen sponge",
+                "rope",
+                "sealed plastic bag"
+            ]
+        }
+    ],
+    "hammer": [
+        {
+            "task_goal": "Hang a framed photo by driving a small picture hook nail into drywall at an angle",
+            "original_tool": "claw hammer",
+            "expected_outcome": "The hook sits flush and the nail is embedded securely in the wall",
+            "required_tool_attributes": [
+                "weighted steel head for impulse",
+                "flat hardened striking face",
+                "rigid head-to-handle connection",
+                "short-to-medium handle for controlled swing"
+            ],
+            "unconventional_tools": [
+                "steel meat tenderizer (flat-faced side)",
+                "small hatchet/hand axe (use the flat poll)",
+                "heavy adjustable wrench (steel; strike with the broad flat jaw side)",
+                "short steel pry bar/wrecking bar (use the flat chisel end)",
+                "stainless-steel saucepan with riveted handle (strike with the flat base)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, low-mass head (foam/rubber/inflatable) instead of weighted steel",
+                "rounded or compliant striking surface that absorbs impact (not flat/hardened)",
+                "flexible or loose head-to-handle joint with a long, whippy handle that reduces control"
+            ],
+            "impossible_tools": [
+                "inflatable toy mallet (beach hammer)",
+                "feather duster",
+                "balloon",
+                "cooked spaghetti noodle",
+                "sponge"
+            ]
+        },
+        {
+            "task_goal": "Crack cooked crab claws cleanly for serving",
+            "original_tool": "wooden crab mallet",
+            "expected_outcome": "Shells crack open without pulverizing the meat or damaging the plate",
+            "required_tool_attributes": [
+                "lightweight yet weighted head for controlled impulse",
+                "broad, rigid wooden striking faces for distributed force",
+                "non-marring material safe for tableware",
+                "rigid handle for swing control"
+            ],
+            "unconventional_tools": [
+                "wooden pepper mill (use the flat base as the striker)",
+                "cocktail muddler (wood/bamboo, flat end)",
+                "wooden rolling pin (hold a handle and tap with the barrel/end)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible striking surface that absorbs impact instead of delivering it",
+                "narrow, sharp or abrasive edges that concentrate force and mar shells and tableware",
+                "flexible or limp handle that bends or flops, reducing swing control"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Pitch a tent by driving an aluminum stake into the ground",
+            "original_tool": "camping mallet",
+            "expected_outcome": "The stake is driven to ground level and holds the guyline taut",
+            "required_tool_attributes": [
+                "broad durable striking face",
+                "weighted head to deliver momentum",
+                "long handle for swing leverage",
+                "rigid construction for efficient force transfer"
+            ],
+            "unconventional_tools": [
+                "garden spade/shovel (using the back of the blade as the striking face)",
+                "cast-iron skillet or heavy frying pan (flat bottom)",
+                "large Maglite-style flashlight (bezel end)",
+                "pipe wrench (flat side of the jaw/head)",
+                "baseball bat (barrel end/side)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible striking face that deforms on impact",
+                "ultra-light, hollow head with minimal mass",
+                "short, flexible handle that bends and absorbs force"
+            ],
+            "impossible_tools": [
+                "feather duster",
+                "inflatable beach ball",
+                "cooked spaghetti noodle",
+                "foam pool noodle",
+                "helium balloon"
+            ]
+        },
+        {
+            "task_goal": "Straighten a bent steel L-bracket on an anvil",
+            "original_tool": "cross-peen hammer",
+            "expected_outcome": "The bracket is flattened and reformed to a true right angle",
+            "required_tool_attributes": [
+                "flat face for general strikes and cross-peen to localize force",
+                "hardened, rigid faces for effective metal deformation",
+                "balanced head for precise blows",
+                "sufficient mass for momentum transfer"
+            ],
+            "unconventional_tools": [
+                "large adjustable wrench",
+                "steel crowbar/wrecking bar",
+                "trailer hitch ball mount"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or shock-absorbing striking faces instead of hardened, rigid faces",
+                "no flat face or peen; rounded/spherical or knife-like edges that can't apply broad or linear localized force",
+                "extremely light, poorly balanced, or wobbly head/handle that prevents precise, high-momentum blows"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        }
+    ],
+    "loosen": [
+        {
+            "task_goal": "Loosen the tiny screw on an eyeglass arm hinge",
+            "original_tool": "precision Phillips screwdriver",
+            "expected_outcome": "The hinge screw turns counterclockwise and the arm slackens slightly",
+            "required_tool_attributes": [
+                "small precision Phillips tip",
+                "slim, rigid shaft",
+                "rotating cap or fine-control handle",
+                "non-slip grip for delicate torque"
+            ],
+            "unconventional_tools": [
+                "bobby pin (flattened end used like a tiny flathead)",
+                "SIM card ejector pin",
+                "mechanical pencil with lead retracted (metal nozzle used for purchase)",
+                "metal nail file from a manicure kit (pointed tip as driver)",
+                "safety pin"
+            ],
+            "opposite_tool_attributes": [
+                "large, non-Phillips or rounded tip that cannot engage a tiny cross-slot",
+                "flexible or soft, bulky shaft that bends or can\u2019t access the hinge",
+                "smooth, fixed handle with no rotating cap or fine-control grip"
+            ],
+            "impossible_tools": [
+                "sledgehammer",
+                "inflatable pool noodle",
+                "silicone spatula",
+                "paintbrush",
+                "coin (e.g., quarter)"
+            ]
+        },
+        {
+            "task_goal": "Loosen a rusted hex nut on a backyard gate hinge to realign the gate",
+            "original_tool": "adjustable wrench",
+            "expected_outcome": "The nut backs off counterclockwise, reducing clamping force so the hinge can be adjusted",
+            "required_tool_attributes": [
+                "adjustable jaw sized to hex flats",
+                "parallel, flat jaws for full-face contact",
+                "rigid steel handle for torque transmission",
+                "ergonomic grip for applying reverse torque",
+                "low jaw play to prevent rounding"
+            ],
+            "unconventional_tools": [
+                "Small C-clamp tightened onto the nut and used as an improvised wrench",
+                "F-style bar clamp gripping the hex flats and turned as a handle",
+                "Locking pliers with stacked coin or washer shims to present parallel, flat jaws on the nut"
+            ],
+            "opposite_tool_attributes": [
+                "non-adjustable, wrong-sized or rounded/serrated jaws that aren\u2019t parallel, giving only point contact",
+                "flexible or soft handle/body (rubber/plastic) that bends or deforms under torque instead of rigid steel",
+                "high jaw play/loose hinge tolerance causing sloppy fit and rounding of hex flats"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Loosen a stuck lid on a pickle jar",
+            "original_tool": "rubber jar opener pad",
+            "expected_outcome": "The lid unscrews and the vacuum seal breaks, allowing the jar to open",
+            "required_tool_attributes": [
+                "high-friction rubber surface",
+                "flexible pad that conforms to lid contours",
+                "sufficient diameter coverage for grip",
+                "enables strong hand-applied rotational force"
+            ],
+            "unconventional_tools": [
+                "rubber dishwashing glove",
+                "mouse pad (rubber backing side)",
+                "wide rubber band(s) wrapped around the lid"
+            ],
+            "opposite_tool_attributes": [
+                "slick, low-friction surface (e.g., polished or lubricated)",
+                "rigid, non-conforming shape that cannot wrap around the lid",
+                "minimal contact area that fails to cover the lid\u2019s diameter and distribute grip"
+            ],
+            "impossible_tools": [
+                "bar of soap",
+                "PTFE (Teflon) sheet",
+                "helium-filled party balloon",
+                "single steel ball bearing"
+            ]
+        }
+    ],
+    "pin": [
+        {
+            "task_goal": "Eject the SIM card from a phone",
+            "original_tool": "SIM ejector pin",
+            "expected_outcome": "The SIM tray pops out slightly from the phone",
+            "required_tool_attributes": [
+                "very narrow, rigid pin tip",
+                "straight, stiff shaft",
+                "small handle for grip",
+                "corrosion-resistant metal"
+            ],
+            "unconventional_tools": [
+                "uncooked spaghetti noodle",
+                "unfolded paperclip",
+                "sewing needle",
+                "open safety pin",
+                "earring stud post",
+                "thumbtack (push pin)"
+            ],
+            "opposite_tool_attributes": [
+                "wide, rounded, flexible tip that deforms under pressure",
+                "floppy, curved shaft that cannot transmit push force",
+                "bulky, slippery handle or no handle for grip"
+            ],
+            "impossible_tools": [
+                "marshmallow",
+                "rubber suction cup",
+                "cooked spaghetti noodle",
+                "refrigerator magnet",
+                "inflatable balloon"
+            ]
+        },
+        {
+            "task_goal": "Align and secure two fabric panels along a seam before stitching",
+            "original_tool": "sewing pins",
+            "expected_outcome": "The fabric layers are immobilized together along the seam line, preventing shifting while sewing",
+            "required_tool_attributes": [
+                "sharp tapered tip to penetrate fabric with minimal force",
+                "rigid slender shaft to resist bending under thumb pressure",
+                "small head to concentrate applied pressure and stop pull-through",
+                "smooth surface to reduce snagging while maintaining frictional hold"
+            ],
+            "unconventional_tools": [
+                "small finishing brad nails",
+                "stud earrings with backs",
+                "cocktail picks (toothpicks with a small bulb head)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, non-tapered tip that cannot penetrate fabric",
+                "flexible or compressible shaft that buckles under thumb pressure",
+                "large, soft, or absent head that fails to stop pull-through and diffuses applied pressure"
+            ],
+            "impossible_tools": [
+                "cooked spaghetti noodle",
+                "kitchen sponge",
+                "inflated balloon",
+                "cotton rope"
+            ]
+        },
+        {
+            "task_goal": "Affix a printed notice to a corkboard in an office hallway",
+            "original_tool": "pushpin",
+            "expected_outcome": "The paper stays flat and secured to the board without sagging or falling",
+            "required_tool_attributes": [
+                "sharp point to penetrate cork with minimal effort",
+                "rigid pin shaft to transmit localized force",
+                "broad head to apply thumb pressure safely",
+                "small cross-sectional area to achieve high insertion pressure"
+            ],
+            "unconventional_tools": [
+                "safety pin",
+                "earring stud with backing",
+                "small wood screw (twisted in by hand)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt or rounded tip with large contact area that cannot pierce cork",
+                "flexible or compressible shaft that bends instead of transmitting force",
+                "no head or a tiny/slippery head that prevents safe thumb pressure"
+            ],
+            "impossible_tools": [
+                "rope",
+                "cooked spaghetti noodle",
+                "sponge",
+                "suction cup",
+                "magnet"
+            ]
+        },
+        {
+            "task_goal": "Secure a tent corner to the ground in windy conditions",
+            "original_tool": "tent stake",
+            "expected_outcome": "The tent remains anchored with the corner immobilized against wind forces",
+            "required_tool_attributes": [
+                "pointed tip to pierce soil with localized force",
+                "rigid body to resist bending under tension",
+                "hooked or notched head to capture guyline",
+                "sufficient length to develop soil frictional hold"
+            ],
+            "unconventional_tools": [
+                "large metal barbecue skewer with loop handle",
+                "long Phillips-head screwdriver",
+                "small pry bar with nail-puller hook"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded tip that spreads force and cannot pierce soil",
+                "flexible or soft body that bends, stretches, or compresses under tension",
+                "smooth, unnotched head with no hook to retain a guyline"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "balloon",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Mount a smartphone securely on a tripod for steady video recording",
+            "original_tool": "smartphone tripod clamp",
+            "expected_outcome": "The phone is immobilized in the clamp without slipping or wobbling",
+            "required_tool_attributes": [
+                "small padded jaws to localize pressure and protect the device",
+                "spring or screw mechanism to apply and maintain clamping force",
+                "rigid frame to prevent flexing",
+                "textured pads to increase friction"
+            ],
+            "unconventional_tools": [
+                "mini C-clamp with added felt or rubber pads",
+                "heavy-duty binder clip with adhesive foam on jaws",
+                "small spring clamp (Pony-style) with rubberized pads"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, unpadded contact surfaces that are slick and can scratch the device",
+                "no clamping mechanism (loose fit relying only on gravity or incidental friction)",
+                "flexible or elastic frame that bends or twists under load"
+            ],
+            "impossible_tools": [
+                "inflated balloon",
+                "kitchen sponge",
+                "wet bar of soap",
+                "Slinky spring toy"
+            ]
+        }
+    ],
+    "press": [
+        {
+            "task_goal": "Crush a garlic clove",
+            "original_tool": "garlic press",
+            "expected_outcome": "Garlic paste extrudes through the holes into a dish",
+            "required_tool_attributes": [
+                "opposing rigid press plates/basket",
+                "hinged handles for leverage",
+                "small perforations to extrude garlic",
+                "sturdy pivot"
+            ],
+            "unconventional_tools": [
+                "potato ricer",
+                "handheld citrus squeezer (two-cup style with drain holes)",
+                "spaetzle press (lever-style with holed basket)",
+                "lever-style French fry cutter (grid die and push plate)",
+                "perforated tea-infuser tongs (metal spoon-style)"
+            ],
+            "opposite_tool_attributes": [
+                "Soft, flexible contacting surfaces with no opposing rigid press plates or basket",
+                "No hinge or leverage mechanism (single-piece, non-articulated or floppy form)",
+                "No small perforations for extrusion (either a solid face or large gaps that don't constrain garlic)"
+            ],
+            "impossible_tools": [
+                "Feather duster",
+                "Inflatable balloon",
+                "Rubber band",
+                "Kitchen sponge",
+                "Lace doily"
+            ]
+        },
+        {
+            "task_goal": "Squeeze juice from a lemon half",
+            "original_tool": "handheld citrus squeezer",
+            "expected_outcome": "Fresh lemon juice flows into a cup while the rind compresses",
+            "required_tool_attributes": [
+                "concave rigid press cups",
+                "hinged lever arms for mechanical advantage",
+                "corrosion-resistant material",
+                "drain slots/orifice"
+            ],
+            "unconventional_tools": [
+                "potato ricer (stainless steel, perforated cup press)",
+                "spaetzle press (perforated hopper with hinged lever arms)",
+                "garlic press (metal basket with drain holes)",
+                "perforated salad/serving tongs with spoon-shaped ends (stainless steel)",
+                "stainless steel tea infuser tongs (ball-style with perforations)"
+            ],
+            "opposite_tool_attributes": [
+                "flat or convex, flexible pressing surfaces instead of concave rigid press cups",
+                "no hinged lever action (one-piece, non-levered, floppy design) providing no mechanical advantage",
+                "sealed pressing surfaces with no drain slots/orifice to direct juice out"
+            ],
+            "impossible_tools": [
+                "inflatable beach ball",
+                "rubber band",
+                "kitchen sponge",
+                "sheet of plastic wrap (cling film)",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Compact espresso grounds evenly in a portafilter",
+            "original_tool": "espresso tamper",
+            "expected_outcome": "A level, compressed coffee puck with consistent density is formed",
+            "required_tool_attributes": [
+                "flat, rigid tamper base",
+                "diameter matched to basket for edge-to-edge pressure",
+                "ergonomic handle to apply vertical force",
+                "smooth face to prevent grounds from sticking"
+            ],
+            "unconventional_tools": [
+                "flat-bottomed shot glass or small rocks glass used upside-down",
+                "stainless steel 1/4-cup measuring cup",
+                "small spice jar with a flat, smooth base used upside-down"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or convex contact surface instead of a flat, rigid base",
+                "mismatched diameter (too small/too large) or irregular shape that can't reach edge-to-edge",
+                "no stable, ergonomic handle to apply controlled vertical force; awkward grip needed"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "wire whisk",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Remove wrinkles from a cotton shirt",
+            "original_tool": "steam iron",
+            "expected_outcome": "The fabric lies flat and smooth without creases",
+            "required_tool_attributes": [
+                "smooth, rigid soleplate to distribute compressive load",
+                "sufficient weight to maintain contact pressure",
+                "ergonomic handle for additional downward force",
+                "heat-resistant structure to maintain rigidity under temperature"
+            ],
+            "unconventional_tools": [
+                "hair straightener (flat iron)",
+                "flat-bottomed saucepan with heat-resistant handle",
+                "electric kettle with insulated handle",
+                "panini press with smooth plates",
+                "ceramic coffee mug filled with hot water (using the flat base)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, uneven contact surface that cannot distribute compressive load",
+                "extremely lightweight body with no ergonomic handle to apply downward force",
+                "heat-sensitive structure that warps or melts under moderate ironing temperatures"
+            ],
+            "impossible_tools": [
+                "feather duster",
+                "inflatable beach ball",
+                "plastic cling film",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Emboss an official seal on a document",
+            "original_tool": "handheld embosser",
+            "expected_outcome": "A crisp, raised seal impression appears without tearing the paper",
+            "required_tool_attributes": [
+                "hardened male and female dies",
+                "lever mechanism for high localized pressure",
+                "rigid frame to prevent flex under load",
+                "registration guides for accurate placement"
+            ],
+            "unconventional_tools": [
+                "C-clamp with paired engraved steel washers acting as male/female dies and taped-on edge guides",
+                "Locking pliers (Vise-Grips) fitted with small matched die inserts and a simple registration jig",
+                "Garlic press outfitted with matching emboss plates and a corner-stop guide"
+            ],
+            "opposite_tool_attributes": [
+                "soft, unengraved contact surfaces instead of hardened mating dies",
+                "no lever or mechanical advantage; broad, diffuse, low pressure rather than high localized pressure",
+                "flexible, flimsy body without a rigid frame or registration guides, allowing flex and misalignment under load"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflatable beach ball",
+                "rubber ink stamp",
+                "silicone spatula"
+            ]
+        }
+    ],
+    "pull": [
+        {
+            "task_goal": "Open a glass-front cabinet door whose handle snapped off without scratching the surface",
+            "original_tool": "suction cup handle",
+            "expected_outcome": "The cabinet door is pulled open cleanly using the suction grip, with no damage to the glass",
+            "required_tool_attributes": [
+                "high-friction rubber cup that forms a vacuum seal",
+                "rigid handle to transmit tensile force",
+                "locking lever to maintain suction under load",
+                "ergonomic, non-slip grip"
+            ],
+            "unconventional_tools": [
+                "windshield smartphone mount with suction cup and locking lever",
+                "small sink plunger",
+                "suction-cup shower hook with lever lock"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, low-friction, porous or vented contact surface that cannot form an airtight vacuum seal",
+                "limp, flexible linkage instead of a rigid handle to transmit tensile force",
+                "no locking mechanism and a slippery, non-ergonomic grip that slips under load"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "paper towel",
+                "magnet hook"
+            ]
+        },
+        {
+            "task_goal": "Uncork a wine bottle at a dinner party",
+            "original_tool": "waiter's corkscrew",
+            "expected_outcome": "The cork is pulled out intact, leaving the bottle ready to pour",
+            "required_tool_attributes": [
+                "sharp helical worm to hook into the cork",
+                "lever fulcrum for controlled directional pull",
+                "rigid handle for tension transfer",
+                "textured grip for secure hold"
+            ],
+            "unconventional_tools": [
+                "screw eye (eye bolt)",
+                "self-drilling drywall anchor",
+                "dinner fork (used Ah-So style)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, non-helical tip that cannot penetrate or bite into cork",
+                "flexible, floppy body with no lever fulcrum or rigid handle",
+                "smooth, slick grip surface that offers no traction"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "cooked spaghetti noodle",
+                "bar of soap"
+            ]
+        },
+        {
+            "task_goal": "Zip up a jacket without a zipper pull tab",
+            "original_tool": "zipper pull tab",
+            "expected_outcome": "The zipper slider travels upward and the jacket closes",
+            "required_tool_attributes": [
+                "small rigid tab for grip",
+                "firm linkage to slider",
+                "low-friction slider movement",
+                "finger-sized opening or textured surface"
+            ],
+            "unconventional_tools": [
+                "paperclip",
+                "safety pin",
+                "split key ring",
+                "mini carabiner",
+                "zip tie"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or stretchy body that collapses under pull (not a small rigid tab)",
+                "loose, weak, or non-existent connection to the zipper slider (no firm linkage)",
+                "smooth, featureless surface with no hole or texture for fingers"
+            ],
+            "impossible_tools": [
+                "cooked spaghetti noodle",
+                "wet bar of soap",
+                "feather",
+                "cotton ball",
+                "puddle of oil"
+            ]
+        }
+    ],
+    "reach": [
+        {
+            "task_goal": "Drag a tennis ball out from under a sofa",
+            "original_tool": "hockey stick",
+            "expected_outcome": "The ball is hooked by the blade and pulled into the open",
+            "required_tool_attributes": [
+                "long rigid shaft",
+                "angled blade to catch and drag",
+                "stiffness to transmit pulling force",
+                "low-profile blade to fit under furniture"
+            ],
+            "unconventional_tools": [
+                "fireplace poker with a hooked end",
+                "window squeegee on a pole",
+                "golf club (wedge or putter)",
+                "long-handled shoehorn",
+                "car ice scraper/snow brush"
+            ],
+            "opposite_tool_attributes": [
+                "short, flexible or limp shaft that bends or collapses instead of reaching",
+                "rounded, smooth tip with no angled blade or hook to catch and drag the ball",
+                "bulky, high-profile, soft head that can\u2019t fit under furniture or transmit pulling force"
+            ],
+            "impossible_tools": [
+                "pillow",
+                "balloon",
+                "cooked spaghetti noodle",
+                "slime/putty",
+                "rubber band"
+            ]
+        }
+    ],
+    "roll": [
+        {
+            "task_goal": "Flatten pie dough to an even thickness for a crust",
+            "original_tool": "rolling pin",
+            "expected_outcome": "Dough is uniformly flattened to the desired thickness without tearing",
+            "required_tool_attributes": [
+                "smooth cylindrical surface for continuous rotational contact",
+                "rigid structure to maintain shape under pressure",
+                "low-friction rotation relative to hands or handles",
+                "sufficient mass to aid rolling with reduced sliding"
+            ],
+            "unconventional_tools": [
+                "wine bottle",
+                "straight-sided drinking glass",
+                "stainless steel water bottle (filled)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, or compressible body that deforms under pressure",
+                "irregular, non-cylindrical, or textured surface that prevents smooth continuous contact",
+                "fixed or high-friction interface with hands that prevents low-friction rotation"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "chain",
+                "wire whisk",
+                "cheese grater"
+            ]
+        },
+        {
+            "task_goal": "Thin sheets of pasta to the final thickness for fettuccine",
+            "original_tool": "pasta machine",
+            "expected_outcome": "Pasta sheets are evenly thinned and emerge smooth and uniform",
+            "required_tool_attributes": [
+                "parallel steel rollers with adjustable gap",
+                "smooth cylindrical surfaces to prevent sticking",
+                "crank-driven rotation for controlled feed",
+                "stable bearings for consistent rolling pressure"
+            ],
+            "unconventional_tools": [
+                "hand-cranked clothes wringer (laundry mangle)",
+                "polymer clay conditioning machine",
+                "office thermal laminator"
+            ],
+            "opposite_tool_attributes": [
+                "non-parallel rollers with a fixed or uneven gap (no adjustability)",
+                "rough, sticky, serrated, or porous contact surfaces instead of smooth cylinders",
+                "no controlled rotational feed and loose, wobbly bearings causing inconsistent pressure"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "chainsaw",
+                "jackhammer"
+            ]
+        },
+        {
+            "task_goal": "Press down wallpaper seams after hanging",
+            "original_tool": "wallpaper seam roller",
+            "expected_outcome": "Seams lie flat and adhere without visible ridges or bubbles",
+            "required_tool_attributes": [
+                "narrow, smooth cylindrical wheel",
+                "slightly rounded edges to avoid cutting paper",
+                "rigid handle for precise pressure control",
+                "low-friction axle for smooth rolling"
+            ],
+            "unconventional_tools": [
+                "small toy car with smooth plastic wheels",
+                "empty thread spool on a pencil",
+                "detached office chair caster wheel"
+            ],
+            "opposite_tool_attributes": [
+                "broad, flat, textured or sticky contact surface that does not roll",
+                "sharp, square, or serrated edges that can cut or tear the wallpaper",
+                "flexible/flimsy handle and a high-friction or fixed axle that drags instead of rolling"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "serrated kitchen knife",
+                "sandpaper block",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Self-massage tight calf muscles after running",
+            "original_tool": "foam roller",
+            "expected_outcome": "Muscle tension is reduced through controlled rolling pressure",
+            "required_tool_attributes": [
+                "cylindrical geometry for smooth body contact",
+                "firm, resilient foam with rigid core",
+                "sufficient diameter to maintain curvature under load",
+                "high-friction exterior to prevent unwanted sliding"
+            ],
+            "unconventional_tools": [
+                "wooden rolling pin",
+                "stainless-steel water bottle with a silicone sleeve",
+                "pool noodle slid over a broomstick"
+            ],
+            "opposite_tool_attributes": [
+                "flat, flexible sheet-like geometry instead of a rigid cylinder",
+                "soft, collapsible material with no rigid core that deforms under body weight",
+                "slick, low-friction exterior that slides on skin or floor"
+            ],
+            "impossible_tools": [
+                "silk scarf",
+                "water balloon",
+                "empty cardboard paper towel tube",
+                "rope",
+                "kitchen sponge"
+            ]
+        }
+    ],
+    "scoop": [
+        {
+            "task_goal": "Move flour from a bag into a mixing bowl to start baking",
+            "original_tool": "measuring cup",
+            "expected_outcome": "A measured cupful of flour is transferred into the bowl",
+            "required_tool_attributes": [
+                "rigid concave cup to contain loose powder",
+                "defined volume capacity for measurement",
+                "flat leading rim to push into flour",
+                "handle for controlled scooping and pouring"
+            ],
+            "unconventional_tools": [
+                "1-cup portion ladle (soup ladle with labeled capacity)",
+                "Flat-front pet food measuring scoop (1 cup)",
+                "Ice scoop with marked 8 oz (1 cup) capacity and flat leading edge",
+                "Protein powder scoop (30 mL) from supplement container",
+                "Coffee scoop (1 tablespoon) used repeatedly to total 1 cup"
+            ],
+            "opposite_tool_attributes": [
+                "flexible, non-concave surface that collapses instead of a rigid cup",
+                "perforated or mesh head that lets fine powder pass through rather than containing it",
+                "no handle or a slippery, tiny grip that prevents controlled scooping and pouring"
+            ],
+            "impossible_tools": [
+                "wire whisk",
+                "slotted spatula",
+                "mesh sieve/strainer",
+                "sponge",
+                "rope"
+            ]
+        },
+        {
+            "task_goal": "Portion ice cream into a serving bowl",
+            "original_tool": "ice cream scoop",
+            "expected_outcome": "A rounded scoop of ice cream drops into the bowl",
+            "required_tool_attributes": [
+                "deep hemispherical bowl for volume support",
+                "sturdy construction to resist bending in hard ice cream",
+                "sharp rim to cut through dense material",
+                "handle for leverage and control"
+            ],
+            "unconventional_tools": [
+                "stainless steel coffee scoop",
+                "melon baller",
+                "gravy ladle",
+                "large stainless steel tablespoon",
+                "1/4-cup stainless steel measuring cup with handle"
+            ],
+            "opposite_tool_attributes": [
+                "flat or perforated surface instead of a deep hemispherical bowl",
+                "flexible, flimsy, or elastic construction that bends under pressure",
+                "dull, rounded edge with no cutting rim"
+            ],
+            "impossible_tools": [
+                "wire whisk",
+                "feather duster",
+                "paper towel",
+                "inflatable beach ball",
+                "rubber band"
+            ]
+        },
+        {
+            "task_goal": "Serve soup from a pot into a bowl",
+            "original_tool": "ladle",
+            "expected_outcome": "A ladleful of soup fills the bowl",
+            "required_tool_attributes": [
+                "deep concave bowl for liquid containment",
+                "watertight surface",
+                "long handle to reach into the pot",
+                "heat-resistant material"
+            ],
+            "unconventional_tools": [
+                "small saucepan with a long handle",
+                "long-handled solid basting spoon",
+                "stainless steel ice scoop (solid, no perforations)",
+                "1-cup stainless steel measuring cup with long handle",
+                "borosilicate glass coffee carafe (drip coffee pot)"
+            ],
+            "opposite_tool_attributes": [
+                "flat, perforated, or convex head lacking a deep concave bowl",
+                "porous or absorbent surface that is not watertight",
+                "short, heat-sensitive handle/material that cannot withstand pot heat"
+            ],
+            "impossible_tools": [
+                "fork",
+                "slotted spatula (turner)",
+                "colander",
+                "tongs",
+                "sponge"
+            ]
+        }
+    ],
+    "scrape": [
+        {
+            "task_goal": "Remove peeling paint from a wooden windowsill before repainting",
+            "original_tool": "paint scraper",
+            "expected_outcome": "Loose and flaking paint is lifted off, leaving a smooth, bare surface ready for primer",
+            "required_tool_attributes": [
+                "rigid, flat beveled steel edge",
+                "sturdy ergonomic handle for controlled force",
+                "sufficient blade width to cover surface",
+                "replaceable sharp blade"
+            ],
+            "unconventional_tools": [
+                "kitchen bench/pastry scraper (dough cutter)",
+                "plastic car windshield ice scraper",
+                "stiff butter knife (non-serrated)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, rounded rubber edge (not a rigid, flat beveled steel edge)",
+                "flimsy, slippery handle that prevents controlled force",
+                "very narrow, non-replaceable, dull edge"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "feather duster",
+                "paper towel",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Remove a price sticker from a glass jar",
+            "original_tool": "plastic razor scraper",
+            "expected_outcome": "The sticker peels away cleanly, leaving a bare glass patch",
+            "required_tool_attributes": [
+                "thin, stiff plastic edge",
+                "non-marring material",
+                "slight bevel to get under label",
+                "small form for curved surfaces"
+            ],
+            "unconventional_tools": [
+                "plastic bread bag tab (bread clip)",
+                "guitar pick",
+                "cut end of a nylon zip tie",
+                "keychain loyalty card (mini rewards card)",
+                "plastic plant label stake"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible, rounded surface with no thin edge",
+                "abrasive or sharp metal edge that can scratch/mar glass",
+                "bulky, oversized form without a bevel that can't fit under labels on curved jars"
+            ],
+            "impossible_tools": [
+                "inflatable beach ball",
+                "cooked spaghetti noodle",
+                "feather duster",
+                "marshmallow",
+                "yoga ball"
+            ]
+        },
+        {
+            "task_goal": "Remove chewing gum stuck in a shoe sole",
+            "original_tool": "putty knife",
+            "expected_outcome": "The gum lifts out of the tread, leaving the sole visibly cleaner",
+            "required_tool_attributes": [
+                "stiff, flat metal blade",
+                "square edge to push under gum",
+                "narrow width for tread channels",
+                "solid handle for leverage"
+            ],
+            "unconventional_tools": [
+                "flathead screwdriver",
+                "paint can opener (church key pry tool)",
+                "dull butter knife",
+                "metal nail file",
+                "house key"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible or compressible head instead of a stiff, flat metal blade",
+                "rounded/curved or serrated edge instead of a square scraping edge",
+                "bulky, wide head and/or no solid handle for leverage instead of a narrow blade with a sturdy handle"
+            ],
+            "impossible_tools": [
+                "feather duster",
+                "kitchen sponge",
+                "helium balloon",
+                "paint roller",
+                "pillow"
+            ]
+        },
+        {
+            "task_goal": "Scrape candle wax drips off a wooden table",
+            "original_tool": "plastic putty knife",
+            "expected_outcome": "Wax flakes away, revealing the wood finish beneath",
+            "required_tool_attributes": [
+                "flat, slightly flexible plastic edge",
+                "non-scratch material",
+                "beveled front edge",
+                "grippable handle"
+            ],
+            "unconventional_tools": [
+                "expired plastic gift or hotel key card",
+                "plastic butter knife",
+                "plastic windshield ice scraper",
+                "silicone bowl or pan scraper",
+                "plastic decal squeegee card (screen protector applicator)"
+            ],
+            "opposite_tool_attributes": [
+                "rounded, non-beveled leading edge that cannot slide under wax",
+                "hard, sharp, abrasive metal edge that can scratch wood",
+                "no handle or a slick, non-grippable body"
+            ],
+            "impossible_tools": [
+                "inflatable beach ball",
+                "feather duster",
+                "rubber mallet",
+                "serrated steak knife",
+                "steel wire brush"
+            ]
+        },
+        {
+            "task_goal": "Remove burnt-on spills from a glass-ceramic cooktop",
+            "original_tool": "glass cooktop razor scraper",
+            "expected_outcome": "Hardened residue is cleanly shaved from the glass without scratches",
+            "required_tool_attributes": [
+                "sharp, rigid razor blade",
+                "low-angle head to keep blade nearly flat",
+                "non-slip handle for delicate control",
+                "blade guard for consistent angle"
+            ],
+            "unconventional_tools": [
+                "Single-edge razor blade clamped in a medium binder clip (makeshift scraper with angle guard)",
+                "Utility knife blade embedded slightly into a thick rubber eraser to create a flat, grippy scraper",
+                "Old plastic gift/credit card used at a very low angle as a gentle scraper"
+            ],
+            "opposite_tool_attributes": [
+                "dull, flexible, rounded edge instead of a sharp, rigid blade",
+                "high/steep scraping angle or convex head that lifts the edge off the glass",
+                "slick, handle-less grip with no blade guard or angle control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "feather duster",
+                "inflatable beach ball",
+                "cooked spaghetti noodle"
+            ]
+        }
+    ],
+    "shake": [
+        {
+            "task_goal": "Blend protein powder with water for a post-workout drink",
+            "original_tool": "protein shaker bottle",
+            "expected_outcome": "Smooth, lump-free shake with fully dissolved powder",
+            "required_tool_attributes": [
+                "leak-proof cap to contain vigorous motion",
+                "internal mixing ball or baffles to break clumps",
+                "rigid body to transmit shaking energy",
+                "contoured, grippable exterior",
+                "adequate headspace for fluid movement"
+            ],
+            "unconventional_tools": [
+                "cobbler-style cocktail shaker",
+                "mason jar with screw-on lid",
+                "insulated travel coffee tumbler with a screw-top lid"
+            ],
+            "opposite_tool_attributes": [
+                "unsealed or leaky opening (open top or perforated cap) that cannot contain vigorous shaking",
+                "soft, collapsible body that deforms and absorbs shaking energy",
+                "smooth interior with no internal agitator (no ball or baffles) to break clumps"
+            ],
+            "impossible_tools": [
+                "mesh colander",
+                "flat cutting board",
+                "cheese grater",
+                "mesh laundry bag",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Evenly season fries with salt",
+            "original_tool": "salt shaker",
+            "expected_outcome": "A light, even dusting of salt falls over the fries",
+            "required_tool_attributes": [
+                "perforated cap for controlled dispensing",
+                "rigid container body",
+                "dry granular contents free to flow",
+                "grippable shape for rapid oscillation"
+            ],
+            "unconventional_tools": [
+                "tea infuser ball",
+                "mason jar with perforated sprouting lid",
+                "powdered sugar dredger",
+                "cobbler-style cocktail shaker",
+                "parmesan cheese shaker jar"
+            ],
+            "opposite_tool_attributes": [
+                "solid, non-perforated or sealed cap that prevents controlled sprinkling",
+                "flexible, collapsible container body that deforms when shaken",
+                "wet, clumped, or non-granular contents that do not flow freely"
+            ],
+            "impossible_tools": [
+                "water spray bottle (mister)",
+                "wet sponge soaked in saltwater brine",
+                "ketchup squeeze bottle",
+                "pepper grinder with non-refillable peppercorns",
+                "solid brick"
+            ]
+        },
+        {
+            "task_goal": "Evenly dust a cake with powdered sugar",
+            "original_tool": "fine-mesh sieve",
+            "expected_outcome": "A uniform, clump-free layer of powdered sugar over the cake",
+            "required_tool_attributes": [
+                "fine mesh that releases powder under vibration",
+                "rigid frame to maintain mesh tension during shaking",
+                "handle for controlled oscillation",
+                "bowl-shaped cavity to hold powder while moving",
+                "light but sturdy construction for rapid motion"
+            ],
+            "unconventional_tools": [
+                "tea infuser ball (mesh sphere with clamp and small handle)",
+                "reusable metal pour-over coffee filter cone",
+                "stainless steel mesh sink strainer"
+            ],
+            "opposite_tool_attributes": [
+                "solid, non-perforated surface that blocks powder instead of letting it pass",
+                "flexible, collapsible frame/mesh that sags and loses tension under shaking",
+                "heavy, handle-less, flat design with no bowl cavity to hold powder or control oscillation"
+            ],
+            "impossible_tools": [
+                "solid ceramic plate",
+                "sponge",
+                "rope",
+                "hammer",
+                "magnet"
+            ]
+        }
+    ],
+    "stab": [
+        {
+            "task_goal": "Puncture the shrink-wrap on a new electronics package to start opening it",
+            "original_tool": "utility knife",
+            "expected_outcome": "A clean initial hole in the plastic film allows it to tear open easily without excessive force",
+            "required_tool_attributes": [
+                "sharp, pointed tip",
+                "rigid steel blade",
+                "ergonomic handle for controlled force",
+                "high hardness to resist tip deformation"
+            ],
+            "unconventional_tools": [
+                "thumbtack (push pin)",
+                "Phillips screwdriver",
+                "metal nail file"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded, dull tip",
+                "flexible, soft blade/body that bends under pressure",
+                "low-hardness material that deforms or mushrooms at the tip"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "cooked spaghetti noodle",
+                "pillow"
+            ]
+        },
+        {
+            "task_goal": "Vent a microwave meal by piercing the plastic film cover",
+            "original_tool": "kitchen fork",
+            "expected_outcome": "Small holes in the film release steam so the meal heats evenly without bursting",
+            "required_tool_attributes": [
+                "tapered, pointed tines",
+                "rigid stainless steel construction",
+                "insulated handle for safe grip",
+                "corrosion resistance for food contact"
+            ],
+            "unconventional_tools": [
+                "corn cob holder (two-prong)",
+                "wooden toothpick",
+                "plastic-headed thumbtack"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded, non-tapered ends with no points",
+                "soft, flexible, compressible body that bends instead of puncturing",
+                "uninsulated, heat-conductive handle or corrosion-prone, non-food-safe material"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "towel",
+                "balloon",
+                "cooked spaghetti noodle"
+            ]
+        },
+        {
+            "task_goal": "Make steam-vent holes in a pie crust",
+            "original_tool": "fork",
+            "expected_outcome": "Multiple small holes appear in the crust surface",
+            "required_tool_attributes": [
+                "tapered pointed tines",
+                "rigid metal construction",
+                "handle for downward force",
+                "small tip area"
+            ],
+            "unconventional_tools": [
+                "corn-on-the-cob holders",
+                "metal kebab skewer",
+                "instant-read meat thermometer probe",
+                "seam ripper",
+                "thumbtack (push pin)"
+            ],
+            "opposite_tool_attributes": [
+                "broad, blunt, rounded surface with no points or tines",
+                "soft, flexible, compressible construction instead of rigid metal",
+                "no usable handle or shape that prevents applying strong downward force"
+            ],
+            "impossible_tools": [
+                "pillow",
+                "balloon",
+                "bath sponge",
+                "feather duster",
+                "soccer ball"
+            ]
+        },
+        {
+            "task_goal": "Add a new hole to a leather belt for a better fit",
+            "original_tool": "leather awl",
+            "expected_outcome": "A neat, correctly placed hole is formed through the belt without tearing",
+            "required_tool_attributes": [
+                "hardened, tapered point",
+                "rigid shaft that won\u2019t flex",
+                "comfortable handle for controlled force",
+                "smooth, low-friction tip to pass through leather"
+            ],
+            "unconventional_tools": [
+                "ice pick",
+                "metal barbecue skewer",
+                "geometry drawing compass (the pointed leg)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, blunt, rounded tip that deforms instead of piercing",
+                "flexible, floppy shaft that bends under pressure",
+                "abrasive or sticky tip surface that drags and tears instead of sliding through"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "cooked spaghetti noodle",
+                "inflated balloon"
+            ]
+        },
+        {
+            "task_goal": "Pop a decorative balloon for cleanup after a party",
+            "original_tool": "sewing pin",
+            "expected_outcome": "The balloon rapidly deflates with a single prick",
+            "required_tool_attributes": [
+                "very fine, sharp point",
+                "rigid steel wire",
+                "small head for precise handling",
+                "low diameter to concentrate stress"
+            ],
+            "unconventional_tools": [
+                "toothpick",
+                "mechanical pencil lead (extended)",
+                "stud earring post"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded tip with high diameter that disperses force",
+                "soft, flexible material that bends/compresses instead of remaining rigid",
+                "large, padded head that reduces precision and cushions impact"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "cotton ball",
+                "pillow",
+                "foam pool noodle"
+            ]
+        }
+    ],
+    "sweep": [
+        {
+            "task_goal": "Clear sawdust off a woodworking bench into a waste bin",
+            "original_tool": "bench brush",
+            "expected_outcome": "Loose sawdust is gathered along the bench edge and swept into a bin, leaving a clean work surface",
+            "required_tool_attributes": [
+                "dense, short bristles for fine particulate control",
+                "rigid brush spine to distribute force evenly",
+                "hand-sized handle for precise strokes",
+                "slightly compliant bristle tips to conform to minor surface irregularities"
+            ],
+            "unconventional_tools": [
+                "nail brush",
+                "plastic dough scraper",
+                "small window squeegee"
+            ],
+            "opposite_tool_attributes": [
+                "sparse, long, floppy bristles that scatter fine dust",
+                "flexible or limp spine/backing that cannot distribute force evenly",
+                "overly stiff, non-compliant bristle tips that won\u2019t conform to minor surface irregularities"
+            ],
+            "impossible_tools": [
+                "feather duster",
+                "loose rope",
+                "inflatable balloon",
+                "string mop head",
+                "wet sponge"
+            ]
+        },
+        {
+            "task_goal": "Gather wet leaves on a front porch into a pile for bagging",
+            "original_tool": "push broom",
+            "expected_outcome": "Leaves are moved into a manageable pile without clogging, ready for pickup",
+            "required_tool_attributes": [
+                "extra-wide head for high-coverage sweeping",
+                "stiff, water-resistant bristles to move clumped leaves",
+                "rigid block to transfer distributed force across the head",
+                "long handle for leverage over rough outdoor surfaces"
+            ],
+            "unconventional_tools": [
+                "wide snow pusher shovel",
+                "storefront window squeegee with extension pole",
+                "rubber boot-scraper doormat strapped to a long handle as a pusher"
+            ],
+            "opposite_tool_attributes": [
+                "narrow, small head with minimal contact area",
+                "soft, water-absorbent fibers that collapse when wet",
+                "flexible or floppy head that cannot transmit force across its width"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "sheet of paper",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Push standing water across a garage floor toward a floor drain",
+            "original_tool": "floor squeegee",
+            "expected_outcome": "Water is driven in a consistent sheet toward the drain, leaving the floor largely dry",
+            "required_tool_attributes": [
+                "continuous flexible rubber blade for edge-to-surface seal",
+                "rigid channel to maintain uniform pressure along the blade",
+                "wide head for efficient coverage",
+                "long handle to apply even, distributed force"
+            ],
+            "unconventional_tools": [
+                "rubber-edged snow pusher shovel",
+                "long-handled dustpan with rubber lip",
+                "sponge mop (roller mop)"
+            ],
+            "opposite_tool_attributes": [
+                "bristled or porous contact edge that cannot form a continuous seal with the floor",
+                "floppy, flexible head without a rigid channel, causing uneven pressure along the edge",
+                "narrow head with a short or no handle, limiting coverage and preventing even, distributed force"
+            ],
+            "impossible_tools": [
+                "rope",
+                "feather duster",
+                "wire whisk",
+                "bath towel"
+            ]
+        },
+        {
+            "task_goal": "Remove fresh snow from a car windshield toward the hood before driving",
+            "original_tool": "snow brush",
+            "expected_outcome": "Windshield and wipers are cleared of loose snow, improving visibility",
+            "required_tool_attributes": [
+                "wide foam head or soft bristles for broad contact without scratching",
+                "cold-resistant materials to remain flexible in low temperatures",
+                "long handle for reach across the windshield",
+                "slight head compliance to follow glass curvature"
+            ],
+            "unconventional_tools": [
+                "sponge mop (foam head) with long handle",
+                "window squeegee with telescoping handle",
+                "foam paint roller on an extension pole"
+            ],
+            "opposite_tool_attributes": [
+                "narrow, hard, abrasive edge that scratches glass instead of a wide soft contact surface",
+                "materials that become stiff or brittle in cold temperatures, losing flexibility or cracking",
+                "short, non-extendable handle with a rigid, non-compliant head that can\u2019t reach or follow windshield curvature"
+            ],
+            "impossible_tools": [
+                "rope",
+                "length of chain",
+                "kitchen sponge",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Clean accumulated chalk dust from a whiteboard tray into a waste bin",
+            "original_tool": "small counter brush",
+            "expected_outcome": "Chalk particles are consolidated and removed, preventing dust spread",
+            "required_tool_attributes": [
+                "narrow head for tray-sized strokes",
+                "stiff-but-flexible bristles for powdery debris",
+                "rigid spine for uniform sweeping pressure",
+                "slightly angled head for edge contact"
+            ],
+            "unconventional_tools": [
+                "old toothbrush (angled-neck)",
+                "expired gift card/credit card",
+                "small rubber shower squeegee"
+            ],
+            "opposite_tool_attributes": [
+                "overly wide, bulky head that cannot fit within the tray",
+                "ultra-soft, floppy bristles that collapse under light pressure",
+                "limp, flexible spine that bends instead of applying uniform pressure"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "feather duster",
+                "dish towel"
+            ]
+        }
+    ],
+    "tighten": [
+        {
+            "task_goal": "Stop a small leak by tightening a worm-drive hose clamp on a dishwasher drain hose",
+            "original_tool": "nut driver",
+            "expected_outcome": "The hose is compressed uniformly around the fitting and no water drips occur",
+            "required_tool_attributes": [
+                "nut driver tip sized to the clamp screw",
+                "long, rigid shaft to reach recessed clamps",
+                "ergonomic handle for higher torque",
+                "non-slip surface to maintain grip with wet hands"
+            ],
+            "unconventional_tools": [
+                "butter knife",
+                "coin clamped in locking pliers",
+                "metal ruler wrapped with a rubber band for grip"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, rounded, or wrong-size tip that cannot engage the clamp screw",
+                "short, flexible shaft that bends and cannot reach recessed clamps",
+                "slick, thin handle that provides low torque and slips when wet"
+            ],
+            "impossible_tools": [
+                "rope",
+                "wet sponge",
+                "paper towel",
+                "rubber band",
+                "inflatable balloon"
+            ]
+        },
+        {
+            "task_goal": "Firm up a loose kitchen cabinet pull handle",
+            "original_tool": "Phillips screwdriver",
+            "expected_outcome": "The handle no longer wiggles and aligns flush with the cabinet face",
+            "required_tool_attributes": [
+                "properly sized Phillips tip to match screw head",
+                "rigid shaft to prevent torsional flex",
+                "ergonomic handle for higher torque",
+                "magnetized tip to hold the screw if needed"
+            ],
+            "unconventional_tools": [
+                "Butter knife",
+                "Sturdy house key",
+                "Metal nail file (from a manicure kit)"
+            ],
+            "opposite_tool_attributes": [
+                "mismatched or rounded tip that cannot engage a Phillips screw head",
+                "flexible or soft shaft that twists or bends under torque",
+                "small, slippery handle that reduces grip and torque"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "cooked spaghetti noodle",
+                "balloon",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "True a bicycle wheel by tightening a loose spoke nipple",
+            "original_tool": "spoke wrench",
+            "expected_outcome": "The wheel runs straighter with even spoke tension and reduced wobble",
+            "required_tool_attributes": [
+                "correct slot size to fit spoke nipples",
+                "hardened, rigid jaws to prevent rounding",
+                "compact form for access between spokes",
+                "textured exterior for positive grip"
+            ],
+            "unconventional_tools": [
+                "mini adjustable crescent wrench with narrow jaws",
+                "needle-nose locking pliers (Vise-Grip style)",
+                "precision flathead jeweler\u2019s screwdriver used in the nipple\u2019s slot from the rim bed"
+            ],
+            "opposite_tool_attributes": [
+                "incorrect or rounded slot that cannot capture nipple flats",
+                "soft, flexible, non-hardened jaws that deform under torque",
+                "bulky form factor that cannot fit between spokes and a smooth exterior that slips in the hand"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber balloon",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Tighten a mason jar ring during home canning",
+            "original_tool": "jar wrench",
+            "expected_outcome": "The ring is snug to hold the lid in place for proper sealing during processing",
+            "required_tool_attributes": [
+                "adjustable strap or jaws to conform to lid diameter",
+                "high-friction rubber surface for grip",
+                "rigid handle to apply torque",
+                "comfortable grip to prevent slippage with wet hands"
+            ],
+            "unconventional_tools": [
+                "silicone-tipped kitchen tongs (use as a clamp to twist the ring)",
+                "nylon dog leash + wooden spoon handle (loop as a makeshift strap wrench for gentle torque)",
+                "automotive oil filter strap wrench (rubber strap with a rigid handle)"
+            ],
+            "opposite_tool_attributes": [
+                "non-adjustable, fixed-diameter opening that cannot conform to different lid sizes",
+                "smooth, low-friction contact surfaces (e.g., polished metal/plastic) with no rubber grip",
+                "flexible or stretchy handle with a narrow, slippery grip that fails when wet and cannot transmit torque"
+            ],
+            "impossible_tools": [
+                "wet bar of soap",
+                "silk scarf",
+                "helium balloon",
+                "feather duster"
+            ]
+        }
+    ]
+}

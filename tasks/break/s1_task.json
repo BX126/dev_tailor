@@ -1,0 +1,224 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Split a concrete paver into two pieces to fit a curved garden path",
+            "original_tool": "masonry chisel and sledgehammer",
+            "expected_outcome": "The paver fractures along the scored line into two usable sections with a relatively clean break",
+            "required_tool_attributes": [
+                "hardened steel chisel edge to concentrate stress",
+                "heavy hammer head for high-momentum impacts",
+                "rigid handle for efficient force transmission",
+                "broad striking face to deliver controlled blows"
+            ]
+        },
+        {
+            "task_goal": "Crack open a walnut to extract intact nutmeat",
+            "original_tool": "nutcracker",
+            "expected_outcome": "The shell breaks while the kernel remains mostly whole and retrievable",
+            "required_tool_attributes": [
+                "hard opposing jaws to compress the shell",
+                "levered pivot for mechanical advantage",
+                "rigid frame that resists flexing",
+                "textured grips to prevent slipping"
+            ]
+        },
+        {
+            "task_goal": "Shatter a car side window to escape during an emergency",
+            "original_tool": "emergency window hammer/punch",
+            "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+            "required_tool_attributes": [
+                "hardened pointed tip to focus impact",
+                "sufficient head mass for impulse delivery",
+                "ergonomic, non-slip grip",
+                "spring-loaded striker or rigid hammer head for sudden force"
+            ]
+        },
+        {
+            "task_goal": "Break up thick ice sheets on a driveway to clear a walking path",
+            "original_tool": "ice chopper",
+            "expected_outcome": "The ice fractures into smaller chunks that can be shoveled away",
+            "required_tool_attributes": [
+                "sharp, hardened steel blade to penetrate ice",
+                "long rigid handle for swing arc and energy",
+                "secure head-to-handle connection for repeated impacts",
+                "adequate head mass for effective blows"
+            ]
+        },
+        {
+            "task_goal": "Snap a ceramic tile along a straight score to fit around a corner",
+            "original_tool": "manual tile cutter",
+            "expected_outcome": "The tile cleanly breaks along the score line, producing a straight edge",
+            "required_tool_attributes": [
+                "carbide scoring wheel to create a stress riser",
+                "rigid rails/base to prevent flexing",
+                "snap bar to apply concentrated bending force",
+                "lever handle for controlled load"
+            ]
+        },
+        {
+            "task_goal": "Break apart a frozen block of ground meat for cooking",
+            "original_tool": "meat mallet",
+            "expected_outcome": "The frozen mass fractures into smaller chunks that thaw and cook evenly",
+            "required_tool_attributes": [
+                "flat or textured striking face to distribute or focus impact",
+                "food-safe, corrosion-resistant head",
+                "sufficient head mass for effective impacts",
+                "rigid handle for energy transfer"
+            ]
+        },
+        {
+            "task_goal": "Break a rusted padlock shackle on your own shed after losing the key",
+            "original_tool": "bolt cutters",
+            "expected_outcome": "The shackle fractures/cuts through, allowing the lock to be removed",
+            "required_tool_attributes": [
+                "hardened steel jaws exceeding shackle hardness",
+                "long handles for leverage",
+                "robust pivot for high clamping force",
+                "rigid arms to prevent flex under load"
+            ]
+        },
+        {
+            "task_goal": "Knock out a section of drywall to access a hidden junction box",
+            "original_tool": "claw hammer",
+            "expected_outcome": "The drywall fractures and a controlled opening is created around the box",
+            "required_tool_attributes": [
+                "hardened striking face for impact",
+                "balanced head with adequate mass",
+                "rigid handle for control",
+                "beveled edges to focus impact on brittle gypsum"
+            ]
+        },
+        {
+            "task_goal": "Break large compacted soil clods when preparing a garden bed",
+            "original_tool": "pick mattock",
+            "expected_outcome": "Soil clods fracture into finer particles suitable for planting",
+            "required_tool_attributes": [
+                "hardened pick end to concentrate force",
+                "heavy head for momentum",
+                "long rigid handle for swing energy",
+                "durable head-to-handle attachment"
+            ]
+        },
+        {
+            "task_goal": "Split a landscaping rock into smaller manageable pieces",
+            "original_tool": "stone mason\u2019s chisel and sledgehammer",
+            "expected_outcome": "The rock fractures along chisel marks into smaller pieces",
+            "required_tool_attributes": [
+                "hardened chisel edge to create stress lines",
+                "heavy hammer head to deliver impactful blows",
+                "rigid handle for accurate strikes",
+                "broad striking face for stability"
+            ]
+        },
+        {
+            "task_goal": "Shatter a sheet of brittle toffee for dessert garnish",
+            "original_tool": "kitchen mallet",
+            "expected_outcome": "The toffee breaks into decorative shards of various sizes",
+            "required_tool_attributes": [
+                "flat, smooth striking face to control fragment size",
+                "sufficient head mass to exceed brittle strength",
+                "rigid handle for precise impacts",
+                "food-safe construction"
+            ]
+        },
+        {
+            "task_goal": "Snap off delicate 3D-printed support structures from a PLA model",
+            "original_tool": "needle-nose pliers",
+            "expected_outcome": "Supports cleanly break away from the model without damaging details",
+            "required_tool_attributes": [
+                "narrow, hard jaws to concentrate bending stress",
+                "fine tip for precise grip",
+                "levered handles for mechanical advantage",
+                "textured grips for control"
+            ]
+        },
+        {
+            "task_goal": "Fracture a CD/DVD before disposal to prevent data recovery",
+            "original_tool": "bench vise",
+            "expected_outcome": "The disc cracks and splits into multiple pieces, rendering data unreadable",
+            "required_tool_attributes": [
+                "rigid, hardened jaws for strong clamping",
+                "screw mechanism to apply high compressive force",
+                "stable base to resist movement",
+                "parallel jaws to apply even stress"
+            ]
+        },
+        {
+            "task_goal": "Break an old cast iron soil pipe during bathroom demolition",
+            "original_tool": "chain-style snap cutter",
+            "expected_outcome": "The pipe snaps cleanly at the targeted location",
+            "required_tool_attributes": [
+                "hardened cutting wheels/links to score the pipe",
+                "chain wrap to distribute load circumferentially",
+                "ratcheting lever to apply high tension",
+                "rigid frame to resist deformation"
+            ]
+        },
+        {
+            "task_goal": "Crush a garlic bulb to separate cloves quickly",
+            "original_tool": "chef\u2019s knife (flat side)",
+            "expected_outcome": "The bulb\u2019s base plate fractures and cloves separate for peeling",
+            "required_tool_attributes": [
+                "wide, rigid blade to spread impact",
+                "sufficient mass for a decisive strike",
+                "flat surface to apply compressive load",
+                "sturdy handle for safe control"
+            ]
+        },
+        {
+            "task_goal": "Break a pallet board free to salvage scrap wood",
+            "original_tool": "wrecking bar",
+            "expected_outcome": "Selected boards pry and snap away from the pallet frame",
+            "required_tool_attributes": [
+                "hardened curved claw to get under boards",
+                "flat wedge tip to focus prying force",
+                "long lever arm for mechanical advantage",
+                "rigid steel construction to prevent flex"
+            ]
+        },
+        {
+            "task_goal": "Shatter a cracked ceramic flower pot to free a root-bound plant",
+            "original_tool": "ball-peen hammer",
+            "expected_outcome": "The pot breaks into pieces without harming the root ball",
+            "required_tool_attributes": [
+                "hardened rounded peen to localize impact",
+                "adequate head mass for clean fracture",
+                "rigid handle for control",
+                "secure head-to-handle fit"
+            ]
+        },
+        {
+            "task_goal": "Chip through a plaster wall to create a small cable pass-through",
+            "original_tool": "masonry (brick) hammer",
+            "expected_outcome": "The plaster fractures, leaving a neat opening sized for the cable",
+            "required_tool_attributes": [
+                "chisel peen to concentrate force",
+                "hardened striking face for durability",
+                "balanced head with sufficient mass",
+                "rigid handle for precise blows"
+            ]
+        },
+        {
+            "task_goal": "Open a fishing hole by breaking lake ice near the shore",
+            "original_tool": "ice spud bar",
+            "expected_outcome": "The ice fractures and a hole is created through successive strikes",
+            "required_tool_attributes": [
+                "heavy, hardened chisel tip to penetrate ice",
+                "long shaft for swing and reach",
+                "non-slip grip for control",
+                "rigid, one-piece construction"
+            ]
+        },
+        {
+            "task_goal": "Break an epoxy-bonded joint between two metal plates during disassembly",
+            "original_tool": "cold chisel and hammer",
+            "expected_outcome": "The adhesive bond and, if necessary, a thin edge of material fracture, separating the plates",
+            "required_tool_attributes": [
+                "hardened, acute chisel edge to focus stress",
+                "heavy hammer for impactful force",
+                "rigid handles for accurate energy transfer",
+                "tough tool steel to resist chipping"
+            ]
+        }
+    ]
+}

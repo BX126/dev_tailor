@@ -1,0 +1,224 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Open a glass-front cabinet door whose handle snapped off without scratching the surface",
+            "original_tool": "suction cup handle",
+            "expected_outcome": "The cabinet door is pulled open cleanly using the suction grip, with no damage to the glass",
+            "required_tool_attributes": [
+                "high-friction rubber cup that forms a vacuum seal",
+                "rigid handle to transmit tensile force",
+                "locking lever to maintain suction under load",
+                "ergonomic, non-slip grip"
+            ]
+        },
+        {
+            "task_goal": "Uncork a wine bottle at a dinner party",
+            "original_tool": "waiter's corkscrew",
+            "expected_outcome": "The cork is pulled out intact, leaving the bottle ready to pour",
+            "required_tool_attributes": [
+                "sharp helical worm to hook into the cork",
+                "lever fulcrum for controlled directional pull",
+                "rigid handle for tension transfer",
+                "textured grip for secure hold"
+            ]
+        },
+        {
+            "task_goal": "Remove a bent nail from a wooden pallet for reuse",
+            "original_tool": "claw hammer",
+            "expected_outcome": "The nail is pulled free without splitting the wood",
+            "required_tool_attributes": [
+                "V-notched curved claw to hook the nail head",
+                "hardened steel body for high tensile loads",
+                "long rigid handle for leverage and controlled pull",
+                "non-slip handle surface"
+            ]
+        },
+        {
+            "task_goal": "Lower a roller shade to block afternoon glare in an office",
+            "original_tool": "roller shade beaded chain",
+            "expected_outcome": "The shade is pulled down smoothly and stays at the chosen height",
+            "required_tool_attributes": [
+                "low-stretch chain to transmit tension reliably",
+                "small spherical beads for finger grip",
+                "abrasion-resistant links for repeated pulling",
+                "adequate tensile strength for shade weight"
+            ]
+        },
+        {
+            "task_goal": "Start a lawn mower that has been idle all winter",
+            "original_tool": "recoil starter cord",
+            "expected_outcome": "The engine fires and the starter cord safely recoils into its housing",
+            "required_tool_attributes": [
+                "T-shaped grippable handle",
+                "high-tensile, low-stretch cord",
+                "abrasion-resistant sheath",
+                "secure attachment to the recoil mechanism"
+            ]
+        },
+        {
+            "task_goal": "Extract tent stakes from compacted soil at the end of a camping trip",
+            "original_tool": "tent stake puller",
+            "expected_outcome": "Each stake is pulled straight out without bending",
+            "required_tool_attributes": [
+                "steel hook to capture the stake head or loop",
+                "rigid handle for directional force application",
+                "non-slip grip for secure pulling",
+                "high-strength construction to resist deformation"
+            ]
+        },
+        {
+            "task_goal": "Haul a kayak up onto a dock after paddling",
+            "original_tool": "tow rope with carabiner",
+            "expected_outcome": "The kayak is pulled alongside and onto the dock without tipping",
+            "required_tool_attributes": [
+                "high-tensile rope for load-bearing tension",
+                "water-resistant fibers for wet use",
+                "locking carabiner to hook the kayak handle",
+                "comfortable grip section to reduce hand strain"
+            ]
+        },
+        {
+            "task_goal": "Load a disabled sedan onto a trailer in a driveway",
+            "original_tool": "come-along hand winch",
+            "expected_outcome": "The car is pulled steadily up the ramps onto the trailer bed and held in place",
+            "required_tool_attributes": [
+                "ratcheting mechanism to incrementally pull under tension",
+                "steel cable with a safety-latch hook",
+                "long lever handle for mechanical advantage",
+                "load-rated anchor hook for secure attachment"
+            ]
+        },
+        {
+            "task_goal": "Complete a sled pull exercise in a gym circuit",
+            "original_tool": "battle rope",
+            "expected_outcome": "The weighted sled is pulled across the turf to the target line",
+            "required_tool_attributes": [
+                "thick, abrasion-resistant rope for high load",
+                "end knots or sleeves for grip",
+                "low-stretch construction for efficient force transfer",
+                "high tensile strength to prevent snapping"
+            ]
+        },
+        {
+            "task_goal": "Uproot a mature dandelion from a lawn without breaking the taproot",
+            "original_tool": "stand-up weed puller",
+            "expected_outcome": "The entire weed, including root, is pulled out cleanly",
+            "required_tool_attributes": [
+                "barbed jaws or tines to hook the root crown",
+                "long shaft to direct upward pulling force",
+                "foot pedal to set the tines for secure grip",
+                "corrosion-resistant steel components"
+            ]
+        },
+        {
+            "task_goal": "Close a winter coat securely before going outdoors",
+            "original_tool": "zipper pull tab",
+            "expected_outcome": "The zipper is pulled up smoothly and the jacket is fully closed",
+            "required_tool_attributes": [
+                "rigid tab with a loop for finger hooking",
+                "textured surface for grip in gloves",
+                "secure linkage to the slider to transmit pull",
+                "sufficient tab length for leverage"
+            ]
+        },
+        {
+            "task_goal": "Clear a bathroom sink clogged with hair",
+            "original_tool": "barbed drain snake",
+            "expected_outcome": "The hair clog is hooked and pulled out, restoring drainage",
+            "required_tool_attributes": [
+                "flexible yet tensile strip or cable",
+                "backward-facing barbs to snag debris",
+                "handle for controlled insertion and pullback",
+                "corrosion-resistant material for wet environments"
+            ]
+        },
+        {
+            "task_goal": "Remove a tightly packed Ethernet plug from a crowded patch panel",
+            "original_tool": "RJ45 connector extraction tool",
+            "expected_outcome": "The RJ45 plug is pulled free without damaging the latch or port",
+            "required_tool_attributes": [
+                "hooked tips sized to capture the connector body or latch",
+                "rigid, narrow-profile shaft for tight spaces",
+                "insulated, non-slip handle",
+                "sufficient tensile strength to resist bending"
+            ]
+        },
+        {
+            "task_goal": "Pop the hood of a car to check the oil level",
+            "original_tool": "hood release lever",
+            "expected_outcome": "The hood latch is released and the hood pops open to the safety catch",
+            "required_tool_attributes": [
+                "grippable lever end for hand pull",
+                "integrated pull cable linkage to the latch",
+                "rigid mount to transfer directional force",
+                "durable pivot to withstand repeated pulls"
+            ]
+        },
+        {
+            "task_goal": "Drag a fallen tree limb off a hiking trail",
+            "original_tool": "hookaroon",
+            "expected_outcome": "The limb is hooked and pulled clear of the trail without lifting fully",
+            "required_tool_attributes": [
+                "sharp hooked spike to bite into wood fibers",
+                "long rigid handle for leverage and reach",
+                "high-strength head-to-handle connection",
+                "non-slip grip for secure pulling"
+            ]
+        },
+        {
+            "task_goal": "Reposition a loaded pallet in a warehouse aisle",
+            "original_tool": "pallet jack handle",
+            "expected_outcome": "The pallet jack and load are pulled to the designated spot smoothly",
+            "required_tool_attributes": [
+                "steel tow bar linked to the jack frame",
+                "ergonomic D-handle for two-handed grip",
+                "pivoting linkage for directional control under tension",
+                "load-rated construction to transmit pull to the forks"
+            ]
+        },
+        {
+            "task_goal": "Retrieve a life ring and person back to the dock after a splash-in drill",
+            "original_tool": "lifebuoy throw line",
+            "expected_outcome": "The ring and person are pulled safely back to the dock edge",
+            "required_tool_attributes": [
+                "floating, water-resistant rope",
+                "high-visibility color for tracking",
+                "non-slip handle or knots for grip",
+                "adequate tensile strength for human load"
+            ]
+        },
+        {
+            "task_goal": "Pull three electrical conductors through conduit from one junction box to another",
+            "original_tool": "fish tape",
+            "expected_outcome": "The wires are pulled through the conduit without insulation damage and reach the target box",
+            "required_tool_attributes": [
+                "flexible tape to navigate bends yet resist buckling",
+                "hooked eye or loop to attach pull string/wires",
+                "reel and handle for controlled retrieval",
+                "high tensile strength to handle wire drag"
+            ]
+        },
+        {
+            "task_goal": "Shut a heavy sliding barn door against a strong crosswind",
+            "original_tool": "door pull strap",
+            "expected_outcome": "The door is pulled fully closed and latched",
+            "required_tool_attributes": [
+                "wide, textured strap for a secure handhold",
+                "low-stretch, high-strength webbing",
+                "reinforced mounting grommets",
+                "length sufficient for full-range pulling"
+            ]
+        },
+        {
+            "task_goal": "Extract an old fence post set in soil",
+            "original_tool": "farm jack with chain",
+            "expected_outcome": "The post is pulled vertically out of the ground without breaking",
+            "required_tool_attributes": [
+                "ratcheting climb mechanism to convert handle input into upward pull",
+                "load-rated chain with hook to grip the post",
+                "long lever handle for mechanical advantage",
+                "rigid steel column to guide directional force"
+            ]
+        }
+    ]
+}

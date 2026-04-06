@@ -1,0 +1,204 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Slice a loaf of bread evenly for sandwiches",
+            "original_tool": "bread knife",
+            "expected_outcome": "Uniform bread slices are separated from the loaf without crushing the crumb",
+            "required_tool_attributes": [
+                "long, serrated sharp edge to concentrate stress on the crust",
+                "rigid blade to prevent flexing during sawing",
+                "comfortable handle for controlled, straight strokes"
+            ]
+        },
+        {
+            "task_goal": "Open a cardboard shipping box by cutting the packing tape and top seam",
+            "original_tool": "utility knife",
+            "expected_outcome": "The tape and seam are cleanly severed so the box opens without tearing its panels",
+            "required_tool_attributes": [
+                "razor-sharp thin blade for high local stress",
+                "rigid blade support and locking mechanism to prevent wobble",
+                "pointed tip to initiate cuts"
+            ]
+        },
+        {
+            "task_goal": "Prune a small tree branch that is scraping the roof",
+            "original_tool": "bypass loppers",
+            "expected_outcome": "The branch is cleanly cut off close to the trunk without crushing the remaining wood",
+            "required_tool_attributes": [
+                "two sharp, scissor-like blades for shearing",
+                "long handles for leverage to generate high cutting force",
+                "stiff pivot and arms to maintain blade alignment under load"
+            ]
+        },
+        {
+            "task_goal": "Cut copper electrical wire to length for installing a light fixture",
+            "original_tool": "diagonal cutters",
+            "expected_outcome": "The copper conductor and insulation are cleanly severed without deforming the remaining wire end",
+            "required_tool_attributes": [
+                "induction-hardened cutting edges to withstand high local stress",
+                "precisely aligned jaws for complete shearing contact",
+                "high-leverage joint to amplify hand force"
+            ]
+        },
+        {
+            "task_goal": "Cut cotton fabric panels along a printed dress pattern",
+            "original_tool": "fabric shears",
+            "expected_outcome": "Pattern pieces are separated with smooth, accurate edges that don't fray",
+            "required_tool_attributes": [
+                "long, razor-sharp blades for continuous shearing",
+                "tight pivot to keep blades in close contact",
+                "offset handle to keep fabric flat on the table"
+            ]
+        },
+        {
+            "task_goal": "Cut PVC pipe sections for a drip irrigation manifold",
+            "original_tool": "ratcheting PVC pipe cutter",
+            "expected_outcome": "PVC pipe ends are squarely separated without cracking or crushing",
+            "required_tool_attributes": [
+                "hardened, sharp curved blade to focus shearing stress",
+                "ratcheting mechanism to multiply applied force",
+                "anvil support to stabilize the round pipe during the cut"
+            ]
+        },
+        {
+            "task_goal": "Portion a finished sushi roll into bite-sized pieces",
+            "original_tool": "sushi knife (yanagiba)",
+            "expected_outcome": "Clean, even slices are cut through nori, rice, and fillings without tearing",
+            "required_tool_attributes": [
+                "long, razor-sharp single-bevel edge for low-friction slicing",
+                "rigid spine to keep the cut straight",
+                "polished blade to reduce sticking"
+            ]
+        },
+        {
+            "task_goal": "Trim a stack of printed flyers to the bleed marks",
+            "original_tool": "guillotine paper cutter",
+            "expected_outcome": "The paper stack is cleanly separated to a uniform size with crisp edges",
+            "required_tool_attributes": [
+                "long, sharp straight blade to concentrate shearing along a line",
+                "lever arm to provide high mechanical advantage",
+                "rigid base and paper clamp to prevent shifting"
+            ]
+        },
+        {
+            "task_goal": "Trim overgrown bangs evenly at home",
+            "original_tool": "hair-cutting scissors",
+            "expected_outcome": "Hair strands are cleanly severed to the desired length without snagging",
+            "required_tool_attributes": [
+                "fine, razor-sharp blades for precise shearing of thin fibers",
+                "tight, smooth pivot to maintain blade contact",
+                "ergonomic handles for controlled angle and pressure"
+            ]
+        },
+        {
+            "task_goal": "Remove excess zip ties from a neatly bundled cable run",
+            "original_tool": "flush cutters",
+            "expected_outcome": "Zip tie tails are cut off flush without sharp protrusions",
+            "required_tool_attributes": [
+                "flush-ground, sharp cutting face to achieve close cuts",
+                "hardened jaws to sustain high localized stress",
+                "spring return for controlled, repeatable snips"
+            ]
+        },
+        {
+            "task_goal": "Fit laminate flooring by cutting a plank to length",
+            "original_tool": "manual laminate flooring cutter",
+            "expected_outcome": "A plank is sheared cleanly to the exact measurement with minimal chipping",
+            "required_tool_attributes": [
+                "hardened straight shear blade for high stress concentration",
+                "long handle for leverage to power the cut",
+                "rigid base and fence to hold the plank steady"
+            ]
+        },
+        {
+            "task_goal": "Resize a glass pane to fit a picture frame",
+            "original_tool": "glass cutter",
+            "expected_outcome": "A controlled score line enables a clean break so the glass separates to the target dimensions",
+            "required_tool_attributes": [
+                "hardened, small-radius cutting wheel for concentrated point load",
+                "rigid handle to transmit steady pressure",
+                "smooth rolling action to create a continuous score"
+            ]
+        },
+        {
+            "task_goal": "Break down a whole chicken by separating the thighs from the carcass",
+            "original_tool": "boning knife",
+            "expected_outcome": "Thighs are cleanly cut free along the joints with minimal tearing",
+            "required_tool_attributes": [
+                "narrow, very sharp blade to focus shearing near joints",
+                "pointed tip for precise cuts around cartilage",
+                "slightly flexible yet rigidly edged blade for control around bones"
+            ]
+        },
+        {
+            "task_goal": "Shorten a steel chain to the exact length for hanging a planter",
+            "original_tool": "bolt cutters",
+            "expected_outcome": "A chain link is severed cleanly so the remaining chain is the desired length",
+            "required_tool_attributes": [
+                "hardened alloy cutting jaws to withstand high compressive and shear stress",
+                "compound leverage hinges to greatly amplify input force",
+                "long, rigid handles for stability and power"
+            ]
+        },
+        {
+            "task_goal": "Make a circular cardboard backing for a science fair model",
+            "original_tool": "adjustable circle cutter",
+            "expected_outcome": "A clean, accurate circular disc is cut from the cardboard sheet",
+            "required_tool_attributes": [
+                "sharp pivoting blade to shear fibers along a curve",
+                "rigid adjustable radius arm to maintain set diameter",
+                "center pin to anchor and guide the cut"
+            ]
+        },
+        {
+            "task_goal": "Remove 3D-printed support sprues from a PLA model",
+            "original_tool": "sprue cutters",
+            "expected_outcome": "Support material is cut away flush with the model surface without gouging",
+            "required_tool_attributes": [
+                "sharp, flush-cut jaws to concentrate stress and leave a smooth surface",
+                "hardened steel to resist edge damage from plastic nibs",
+                "narrow nose to access tight spaces"
+            ]
+        },
+        {
+            "task_goal": "Cut a galvanized sheet-metal patch to close an HVAC duct opening",
+            "original_tool": "aviation snips",
+            "expected_outcome": "The sheet metal is cut to the template shape with controlled edges and minimal distortion",
+            "required_tool_attributes": [
+                "sharp, serrated blades to grip and shear metal",
+                "compound leverage for high cutting force",
+                "stiff handles and aligned pivot to prevent blade spread"
+            ]
+        },
+        {
+            "task_goal": "Fit rigid foam insulation board between wall studs by cutting to size",
+            "original_tool": "utility knife",
+            "expected_outcome": "Foam board pieces are cleanly separated along straight score lines to snugly fit between studs",
+            "required_tool_attributes": [
+                "long, razor-sharp blade to deeply score and shear foam",
+                "rigid blade lock to hold the edge steady",
+                "thin edge to focus stress without excessive crushing"
+            ]
+        },
+        {
+            "task_goal": "Shorten a leather belt strap before attaching a new buckle",
+            "original_tool": "round knife (leather knife)",
+            "expected_outcome": "The belt end is cut squarely and cleanly to the required length without stretching the leather",
+            "required_tool_attributes": [
+                "very sharp, curved rigid edge to slice dense leather fibers",
+                "broad blade for controlled push or pull cuts",
+                "comfortable handle for steady pressure application"
+            ]
+        },
+        {
+            "task_goal": "Cut carpet to fit around a stair tread and nosing",
+            "original_tool": "carpet knife with hook blade",
+            "expected_outcome": "Carpet is neatly cut to contour the stair with minimal fraying and a tight fit",
+            "required_tool_attributes": [
+                "hook-shaped, razor-sharp blade to engage backing fibers",
+                "rigid handle with secure blade lock to prevent flex",
+                "thin edge to concentrate shear through dense pile and backing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,552 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Align and secure two fabric panels along a seam before stitching",
+            "original_tool": "sewing pins",
+            "expected_outcome": "The fabric layers are immobilized together along the seam line, preventing shifting while sewing",
+            "required_tool_attributes": [
+                "sharp tapered tip to penetrate fabric with minimal force",
+                "rigid slender shaft to resist bending under thumb pressure",
+                "small head to concentrate applied pressure and stop pull-through",
+                "smooth surface to reduce snagging while maintaining frictional hold"
+            ],
+            "unconventional_tools": [
+                "small finishing brad nails",
+                "stud earrings with backs",
+                "cocktail picks (toothpicks with a small bulb head)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, non-tapered tip that cannot penetrate fabric",
+                "flexible or compressible shaft that buckles under thumb pressure",
+                "large, soft, or absent head that fails to stop pull-through and diffuses applied pressure"
+            ],
+            "impossible_tools": [
+                "cooked spaghetti noodle",
+                "kitchen sponge",
+                "inflated balloon",
+                "cotton rope"
+            ]
+        },
+        {
+            "task_goal": "Hold a metal plate steady on a drill press table for accurate hole drilling",
+            "original_tool": "toggle clamp (hold-down clamp)",
+            "expected_outcome": "The metal plate remains fixed in position without sliding or rotating during drilling",
+            "required_tool_attributes": [
+                "small contact foot to focus normal force on the workpiece",
+                "rigid linkage to prevent deflection under load",
+                "over-center locking mechanism to maintain clamping force",
+                "textured or rubberized pad to increase friction"
+            ],
+            "unconventional_tools": [
+                "bicycle quick-release skewer",
+                "ratchet tie-down strap",
+                "toolbox draw latch"
+            ],
+            "opposite_tool_attributes": [
+                "broad, smooth or rolling contact surface that lowers friction instead of a small, grippy foot",
+                "flexible or elastic linkage/body that deflects under load",
+                "no positive over-center lock; relies on hand pressure or a weak spring that can release under vibration"
+            ],
+            "impossible_tools": [
+                "bungee cord",
+                "inflatable beach ball",
+                "swivel caster wheel assembly",
+                "sponge"
+            ]
+        },
+        {
+            "task_goal": "Affix a printed notice to a corkboard in an office hallway",
+            "original_tool": "pushpin",
+            "expected_outcome": "The paper stays flat and secured to the board without sagging or falling",
+            "required_tool_attributes": [
+                "sharp point to penetrate cork with minimal effort",
+                "rigid pin shaft to transmit localized force",
+                "broad head to apply thumb pressure safely",
+                "small cross-sectional area to achieve high insertion pressure"
+            ],
+            "unconventional_tools": [
+                "safety pin",
+                "earring stud with backing",
+                "small wood screw (twisted in by hand)"
+            ],
+            "opposite_tool_attributes": [
+                "blunt or rounded tip with large contact area that cannot pierce cork",
+                "flexible or compressible shaft that bends instead of transmitting force",
+                "no head or a tiny/slippery head that prevents safe thumb pressure"
+            ],
+            "impossible_tools": [
+                "rope",
+                "cooked spaghetti noodle",
+                "sponge",
+                "suction cup",
+                "magnet"
+            ]
+        },
+        {
+            "task_goal": "Secure a tent corner to the ground in windy conditions",
+            "original_tool": "tent stake",
+            "expected_outcome": "The tent remains anchored with the corner immobilized against wind forces",
+            "required_tool_attributes": [
+                "pointed tip to pierce soil with localized force",
+                "rigid body to resist bending under tension",
+                "hooked or notched head to capture guyline",
+                "sufficient length to develop soil frictional hold"
+            ],
+            "unconventional_tools": [
+                "large metal barbecue skewer with loop handle",
+                "long Phillips-head screwdriver",
+                "small pry bar with nail-puller hook"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded tip that spreads force and cannot pierce soil",
+                "flexible or soft body that bends, stretches, or compresses under tension",
+                "smooth, unnotched head with no hook to retain a guyline"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "balloon",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Fix a frog specimen to a wax dissection tray for lab examination",
+            "original_tool": "dissection pins",
+            "expected_outcome": "The specimen is immobilized in the desired orientation for precise cuts and observation",
+            "required_tool_attributes": [
+                "fine sharp tip to penetrate tissue and wax cleanly",
+                "rigid stainless steel shaft to hold position",
+                "small head for controlled pressure and easy handling",
+                "corrosion resistance for wet lab environments"
+            ],
+            "unconventional_tools": [
+                "sewing pins",
+                "stainless steel safety pins",
+                "map pins"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded tip that cannot pierce tissue or wax",
+                "flexible, easily-bent shaft made of soft material that won't hold position",
+                "corrosion-prone material that rusts or degrades in wet conditions"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "rubber band",
+                "magnet"
+            ]
+        },
+        {
+            "task_goal": "Keep a rolled paper backdrop from curling during a tabletop photo shoot",
+            "original_tool": "binder clips",
+            "expected_outcome": "The backdrop edge remains pinned flat to the table, preventing movement and curl",
+            "required_tool_attributes": [
+                "narrow rigid jaws to concentrate clamping force at the edge",
+                "strong spring to maintain sustained pressure",
+                "textured or slightly grooved jaws to increase friction",
+                "flat handles for additional applied leverage"
+            ],
+            "unconventional_tools": [
+                "wooden clothespins",
+                "skirt hanger clips with serrated jaws",
+                "alligator hair clips (metal hair sectioning clamps)"
+            ],
+            "opposite_tool_attributes": [
+                "broad, flexible, cushioned jaws that disperse force and deform instead of gripping",
+                "weak or absent spring/closure mechanism, relying on gravity or adhesion rather than sustained clamping pressure",
+                "smooth, glossy jaw surfaces with low friction and rounded bulky handles that reduce leverage"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "towel",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Attach a tomato plant stem to a support stake to guide vertical growth",
+            "original_tool": "plant tie clips",
+            "expected_outcome": "The stem is held gently but firmly against the stake without slipping or damage",
+            "required_tool_attributes": [
+                "small curved contact surfaces to localize pressure without cutting",
+                "spring or latch mechanism to maintain clamping force",
+                "rigid frame to resist opening under plant weight",
+                "slightly textured pads to improve frictional hold"
+            ],
+            "unconventional_tools": [
+                "small hair claw clip",
+                "skirt/pants hanger clip",
+                "pacifier clip"
+            ],
+            "opposite_tool_attributes": [
+                "thin, sharp, straight contact edges that cut or bruise stems instead of small curved pads",
+                "no spring or latch mechanism to sustain clamping force",
+                "flexible, flimsy body with ultra-smooth/lubricated contact surfaces that slip under load"
+            ],
+            "impossible_tools": [
+                "razor blade",
+                "motor oil",
+                "loose sponge",
+                "glass marble"
+            ]
+        },
+        {
+            "task_goal": "Stabilize a bicycle chain link to press out a pin for removal",
+            "original_tool": "chain breaker tool",
+            "expected_outcome": "The selected link is immobilized and the chain pin is driven out cleanly",
+            "required_tool_attributes": [
+                "V-shaped anvil to confine and align chain plates",
+                "hardened driving pin with a small contact tip",
+                "threaded press mechanism for controlled localized force",
+                "rigid body to resist flex during pressing"
+            ],
+            "unconventional_tools": [
+                "Small C-clamp with a finish nail as the driving pin and a triangular file as the V-anvil",
+                "Bench vise using a 2 mm hex bit as the pusher and an L-shaped angle bracket as the V-anvil",
+                "F-style bar clamp with a hardened center punch tip as the driver and a V-notched hardwood block as the anvil"
+            ],
+            "opposite_tool_attributes": [
+                "Flat or rounded, non-confining support surface with no V-shaped anvil to align the chain",
+                "Soft, blunt, or wide contact tip that mushrooms or compresses instead of a hardened small driving pin",
+                "Impact-only or springy actuation with no threaded press, giving poorly controlled, non-localized force"
+            ],
+            "impossible_tools": [
+                "Rope",
+                "Kitchen sponge",
+                "Inflatable balloon",
+                "Rubber band",
+                "Towel"
+            ]
+        },
+        {
+            "task_goal": "Hold a thin wire and a small PCB pad steady for soldering",
+            "original_tool": "helping hands with alligator clips",
+            "expected_outcome": "The wire and PCB are immobilized in alignment, enabling a clean solder joint",
+            "required_tool_attributes": [
+                "small serrated jaws to increase friction at a tiny contact area",
+                "spring tension to maintain continuous pressure",
+                "adjustable rigid arms to set position and angle",
+                "heat-resistant or insulated jaws near the contact point"
+            ],
+            "unconventional_tools": [
+                "Gooseneck phone holder with a metal hair sectioning clip as the clamp",
+                "Skirt/pants hanger with spring-loaded clips",
+                "Mini needle-nose locking pliers (Vise-Grips) anchored to the bench as a third hand"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, wide, non-serrated gripping surfaces that provide low friction at tiny contact areas",
+                "no spring or locking mechanism; loose hinge that cannot maintain continuous pressure",
+                "heat-sensitive, uninsulated jaws that melt/soften or conduct heat into the work"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "plastic wrap"
+            ]
+        },
+        {
+            "task_goal": "Clamp a fish\u2019s tail to a fillet board to keep it from sliding while filleting",
+            "original_tool": "fish fillet board tail clamp",
+            "expected_outcome": "The fish is firmly held by the tail, allowing safe and accurate filleting",
+            "required_tool_attributes": [
+                "small serrated clamping surface for grip on slippery skin",
+                "rigid lever or spring to generate sustained force",
+                "corrosion-resistant metal suitable for wet conditions",
+                "compact jaw to focus pressure without excessive damage"
+            ],
+            "unconventional_tools": [
+                "stainless steel alligator hair clip (salon sectioning clip)",
+                "locking hemostat/forceps (stainless steel)",
+                "marine-grade stainless steel clothespin or chip bag clip with serrated grip"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, broad, non-serrated contact surface that slips on slimy skin",
+                "flexible, non-locking mechanism that cannot generate or maintain sustained clamping force",
+                "water-absorbent or rust-prone materials (fabric, untreated steel) unsuitable for wet conditions"
+            ],
+            "impossible_tools": [
+                "kitchen sponge",
+                "balloon",
+                "drinking straw",
+                "paintbrush",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Secure hair sections to form a bun for a dance performance",
+            "original_tool": "bobby pins",
+            "expected_outcome": "Hair remains pinned in place throughout the performance without slipping",
+            "required_tool_attributes": [
+                "narrow rigid prongs to localize pressure on hair strands",
+                "spring tension between prongs to maintain grip",
+                "wavy surface to increase friction with hair",
+                "rounded tips for safe application of pressure"
+            ],
+            "unconventional_tools": [
+                "mini wooden clothespins",
+                "tie clip (tie bar)",
+                "U-shaped bent paperclip"
+            ],
+            "opposite_tool_attributes": [
+                "broad, flexible prongs that disperse pressure instead of localizing it",
+                "no spring tension between prongs (prongs remain gaped and loose)",
+                "smooth, low-friction surfaces with no waves/texture"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "magnet",
+                "towel",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Temporarily stop coolant flow by pinching a rubber hose during car maintenance",
+            "original_tool": "hose pinch-off pliers",
+            "expected_outcome": "The hose is compressed and fluid flow is halted without damaging the hose",
+            "required_tool_attributes": [
+                "narrow rounded jaws to concentrate force and avoid cutting",
+                "adjustable locking mechanism to hold pressure",
+                "rigid handles and pivot to transmit clamping force",
+                "smooth, non-marring jaw surfaces"
+            ],
+            "unconventional_tools": [
+                "Large binder clip with rubber or folded tape padding on the jaws",
+                "Zip tie tightened around the hose with two coins used as smooth pinch plates",
+                "Small C-clamp with rubber or wooden pads on the jaws to prevent marring"
+            ],
+            "opposite_tool_attributes": [
+                "broad, sharp or serrated cutting edges that slice or puncture instead of rounded jaws",
+                "no adjustable locking mechanism; requires continuous hand pressure and cannot hold position",
+                "flexible/elastic body without a rigid pivot and handles to transmit clamping force"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "towel",
+                "sheet of sandpaper",
+                "inflatable balloon"
+            ]
+        },
+        {
+            "task_goal": "Hold delicate trim in place while glue sets during cabinetry",
+            "original_tool": "23-gauge pin nailer",
+            "expected_outcome": "Trim is immobilized without visible nail heads until adhesive cures",
+            "required_tool_attributes": [
+                "slim nosepiece to apply localized driving force precisely",
+                "high-speed driver to insert small-diameter pins",
+                "use of headless micro pins to rely on frictional retention",
+                "depth control to avoid surface damage"
+            ],
+            "unconventional_tools": [
+                "Automatic (spring-loaded) center punch used to drive headless dressmaker/insect pins with a tape depth stop",
+                "Nail set and jeweler\u2019s hammer driving cut-off micro brads (headless) with a makeshift depth collar",
+                "0.5 mm mechanical pencil used as a micro-pin holder/guide to press or lightly tap in headless sewing pins flush"
+            ],
+            "opposite_tool_attributes": [
+                "bulky, blunt nosepiece that can\u2019t reach tight profiles and spreads force widely",
+                "low-energy, slow, or diffuse impact that can\u2019t drive small-diameter pins into wood",
+                "uses large-headed or wide-crown fasteners with no depth adjustment, leaving visible damage"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "magnet",
+                "leaf blower",
+                "office stapler"
+            ]
+        },
+        {
+            "task_goal": "Seat and hold a wood blank on a lathe to start turning",
+            "original_tool": "spur center (lathe drive center)",
+            "expected_outcome": "The blank is pinned at the center and driven without slipping during initial cuts",
+            "required_tool_attributes": [
+                "hardened center point and spurs to bite into wood",
+                "small, sharp contact teeth to concentrate force",
+                "rigid steel body to prevent deflection",
+                "compatibility with tailstock pressure to maintain embedment"
+            ],
+            "unconventional_tools": [
+                "external tooth lock washer (star washer)",
+                "pronged T-nut (tee nut)",
+                "metal golf shoe cleat"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, blunt, non-toothed contact surface that spreads force instead of biting",
+                "soft, elastic, or flexible body that deflects under load instead of rigid steel",
+                "free-spinning or slipping interface that cannot transmit torque under tailstock pressure"
+            ],
+            "impossible_tools": [
+                "suction cup",
+                "foam sponge",
+                "rubber ball",
+                "live center (bearing-supported tailstock center)",
+                "magnetic chuck"
+            ]
+        },
+        {
+            "task_goal": "Attach a race bib to a running shirt before an event",
+            "original_tool": "safety pins",
+            "expected_outcome": "The bib stays securely attached without shifting during the run",
+            "required_tool_attributes": [
+                "sharp point to pierce fabric with localized force",
+                "rigid wire to maintain shape under tension",
+                "locking clasp to hold the pin closed under movement",
+                "small cross-section to minimize fabric damage"
+            ],
+            "unconventional_tools": [
+                "earring studs with butterfly backs",
+                "office stapler and staples",
+                "thumbtacks with pencil eraser or cork backs"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded tip that cannot pierce fabric",
+                "flexible, limp body that bends or stretches under tension",
+                "no locking or closing mechanism to keep it secured"
+            ],
+            "impossible_tools": [
+                "rubber band",
+                "sponge",
+                "rope",
+                "balloon",
+                "towel"
+            ]
+        },
+        {
+            "task_goal": "Anchor weed barrier fabric to the soil around garden beds",
+            "original_tool": "landscape staples",
+            "expected_outcome": "The fabric remains flat and fixed against wind and foot traffic",
+            "required_tool_attributes": [
+                "U-shaped design with two sharp legs for localized penetration",
+                "rigid steel to resist bending in compacted soil",
+                "sufficient leg length for soil frictional retention",
+                "narrow legs to achieve high insertion pressure"
+            ],
+            "unconventional_tools": [
+                "Metal coat hanger wire cut and bent into U-shaped pins",
+                "Old bicycle spokes cut and bent into U-shaped staples",
+                "Stainless steel BBQ skewers bent into U-shaped anchors"
+            ],
+            "opposite_tool_attributes": [
+                "Flat, legless form with no U-shaped, dual sharp points for penetration",
+                "Soft, flexible or compressible material that bends or buckles in compacted soil instead of rigid steel",
+                "Short, blunt, wide cross-section that lowers insertion pressure and lacks length for soil frictional retention"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "suction cup",
+                "rubber band",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Temporarily hold two sheet metal panels in alignment for riveting",
+            "original_tool": "cleco fasteners with cleco pliers",
+            "expected_outcome": "Panels are pinned together accurately so permanent fasteners can be installed",
+            "required_tool_attributes": [
+                "expandable pin that applies radial pressure in the hole",
+                "precise diameter to fit drilled holes snugly",
+                "spring mechanism to maintain constant clamping force",
+                "rigid nosepiece for localized contact on panel surfaces"
+            ],
+            "unconventional_tools": [
+                "foam earplug",
+                "nylon drywall anchor with a screw",
+                "automotive plastic push-rivet (trim clip)"
+            ],
+            "opposite_tool_attributes": [
+                "Non-expanding, flexible pin that exerts no radial pressure in the hole",
+                "Imprecise or tapered diameter that leaves play instead of a snug fit",
+                "Soft, compliant nosepiece or broad pad instead of a rigid, localized nose"
+            ],
+            "impossible_tools": [
+                "Sponge",
+                "Rope or cord",
+                "Suction cup",
+                "Rubber band",
+                "Paper towel"
+            ]
+        },
+        {
+            "task_goal": "Clamp a bleeding vessel during a first-aid procedure to control hemorrhage",
+            "original_tool": "hemostat clamp",
+            "expected_outcome": "The vessel is pinned closed, reducing or stopping blood flow until definitive care",
+            "required_tool_attributes": [
+                "narrow serrated jaws to increase friction on tissue",
+                "ratcheting lock to maintain constant pressure",
+                "rigid stainless steel structure to transmit localized force",
+                "fine tip for precise placement"
+            ],
+            "unconventional_tools": [
+                "needle-nose locking pliers (mini Vise-Grip)",
+                "electronics alligator clip (test lead clip)",
+                "cross-lock jeweler\u2019s tweezers"
+            ],
+            "opposite_tool_attributes": [
+                "wide, smooth, non-serrated jaws that reduce friction and slip on tissue",
+                "no locking mechanism; relies on hand pressure or elastic tension that can release",
+                "flexible, soft, nonmetallic body that cannot transmit focused, rigid force"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "oven mitt"
+            ]
+        },
+        {
+            "task_goal": "Mount a smartphone securely on a tripod for steady video recording",
+            "original_tool": "smartphone tripod clamp",
+            "expected_outcome": "The phone is immobilized in the clamp without slipping or wobbling",
+            "required_tool_attributes": [
+                "small padded jaws to localize pressure and protect the device",
+                "spring or screw mechanism to apply and maintain clamping force",
+                "rigid frame to prevent flexing",
+                "textured pads to increase friction"
+            ],
+            "unconventional_tools": [
+                "mini C-clamp with added felt or rubber pads",
+                "heavy-duty binder clip with adhesive foam on jaws",
+                "small spring clamp (Pony-style) with rubberized pads"
+            ],
+            "opposite_tool_attributes": [
+                "smooth, unpadded contact surfaces that are slick and can scratch the device",
+                "no clamping mechanism (loose fit relying only on gravity or incidental friction)",
+                "flexible or elastic frame that bends or twists under load"
+            ],
+            "impossible_tools": [
+                "inflated balloon",
+                "kitchen sponge",
+                "wet bar of soap",
+                "Slinky spring toy"
+            ]
+        },
+        {
+            "task_goal": "Hold a small PCB blank on a CNC router spoilboard for milling",
+            "original_tool": "cam clamp",
+            "expected_outcome": "The PCB remains firmly pinned in place throughout the milling operation",
+            "required_tool_attributes": [
+                "eccentric cam with a small contact point to concentrate force",
+                "rigid base anchored to the table for stability",
+                "lever action to generate high normal force quickly",
+                "textured or rubberized foot to increase friction"
+            ],
+            "unconventional_tools": [
+                "window sash lock (rotary cam latch)",
+                "flat-pack furniture cam lock connector (IKEA-style)",
+                "large coin or fender washer used as an eccentric cam with an off-center screw"
+            ],
+            "opposite_tool_attributes": [
+                "concentric, free-rolling wheel with a broad, smooth contact surface instead of an eccentric cam with a small contact point",
+                "flexible, unanchored base that shifts or deforms under load instead of a rigid base anchored to the table",
+                "smooth/polished or lubricated foot with low friction instead of a textured or rubberized foot"
+            ],
+            "impossible_tools": [
+                "swivel caster wheel assembly",
+                "kitchen sponge",
+                "bar of soap",
+                "polished steel ball bearing"
+            ]
+        }
+    ]
+}

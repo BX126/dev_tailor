@@ -1,0 +1,224 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Slice a loaf of crusty sourdough for sandwiches",
+            "original_tool": "bread knife",
+            "expected_outcome": "Even slices are produced without crushing the loaf, ready for making sandwiches",
+            "required_tool_attributes": [
+                "long serrated edge to concentrate stress on tough crust",
+                "thin, sharp bevel to minimize drag",
+                "rigid blade to prevent flex during sawing",
+                "ergonomic handle for controlled shearing force"
+            ]
+        },
+        {
+            "task_goal": "Trim protruding zip-tie tails in a server rack",
+            "original_tool": "flush cutters",
+            "expected_outcome": "Zip-tie ends are cut flush to the locking head, leaving no sharp snagging edges",
+            "required_tool_attributes": [
+                "flush-ground, razor-sharp jaws for near-surface cutting",
+                "hardened cutting edges to withstand high local stress",
+                "tight pivot alignment for precise shearing",
+                "leveraged handle geometry for force multiplication"
+            ]
+        },
+        {
+            "task_goal": "Cut vinyl aquarium tubing to a precise length",
+            "original_tool": "tubing cutter (scissor-style)",
+            "expected_outcome": "Tubing ends are square and clean, ensuring a tight, leak-free fit",
+            "required_tool_attributes": [
+                "curved, sharp blade to focus shear on soft tubing",
+                "rigid anvil jaw to oppose cutting force",
+                "aligned pivot for consistent edge contact",
+                "non-flexing handles for steady pressure"
+            ]
+        },
+        {
+            "task_goal": "Prune overgrown rose bush canes cleanly",
+            "original_tool": "bypass pruners",
+            "expected_outcome": "Stems are removed with clean, angled cuts that promote healthy regrowth",
+            "required_tool_attributes": [
+                "keen, bypassing blades for scissor-like shear",
+                "rigid, forged steel construction to resist flex",
+                "compound leverage pivot to increase cutting force",
+                "curved blade geometry to keep the cut aligned"
+            ]
+        },
+        {
+            "task_goal": "Open a sealed plastic clamshell package",
+            "original_tool": "utility knife",
+            "expected_outcome": "Package is separated along a cut seam, allowing safe access to the product",
+            "required_tool_attributes": [
+                "replaceable, ultra-sharp blade to create high stress concentration",
+                "rigid blade carrier to prevent wobble",
+                "secure blade lock to maintain cutting depth",
+                "thin edge for controlled penetration"
+            ]
+        },
+        {
+            "task_goal": "Cut an opening in drywall for an electrical outlet",
+            "original_tool": "utility knife",
+            "expected_outcome": "A rectangular opening is cut to size, allowing the outlet box to fit flush",
+            "required_tool_attributes": [
+                "sharp, pointed tip for scoring and starting cuts",
+                "stiff blade support to transmit force without flex",
+                "thin, sharp edge for effective scoring and shearing",
+                "lockable blade position for consistent depth"
+            ]
+        },
+        {
+            "task_goal": "Cut 0.8 mm aluminum sheet to fabricate a small bracket",
+            "original_tool": "aviation snips",
+            "expected_outcome": "Sheet is cut to the bracket\u2019s outline with clean, controlled edges",
+            "required_tool_attributes": [
+                "hardened, sharp cutting edges for metal shearing",
+                "compound leverage pivot to amplify force",
+                "rigid handles to prevent torsional flex",
+                "aligned jaws to maintain a narrow kerf"
+            ]
+        },
+        {
+            "task_goal": "Cut a wooden dowel to length for shelving pegs",
+            "original_tool": "backsaw",
+            "expected_outcome": "Dowel segments have square, smooth ends suitable for insertion",
+            "required_tool_attributes": [
+                "fine, sharp teeth to shear wood fibers cleanly",
+                "rigid spine to keep the blade straight",
+                "tooth set to clear sawdust (kerf control)",
+                "stiff blade to avoid wandering"
+            ]
+        },
+        {
+            "task_goal": "Remove a damaged section of carpet for patching",
+            "original_tool": "carpet knife (hook blade)",
+            "expected_outcome": "The damaged area is cut out cleanly along the pile direction with minimal fraying",
+            "required_tool_attributes": [
+                "hooked, replaceable sharp blade to engage fibers",
+                "rigid handle to apply controlled force",
+                "thin cutting edge to concentrate shear",
+                "secure blade clamp to prevent flex or slip"
+            ]
+        },
+        {
+            "task_goal": "Cut cotton fabric panels for a quilt",
+            "original_tool": "rotary cutter",
+            "expected_outcome": "Fabric is cut into accurate, clean-edged panels that match the cutting mat grid",
+            "required_tool_attributes": [
+                "circular, ultra-sharp wheel to deliver continuous shear",
+                "rigid axle to prevent wobble",
+                "thin bevel for low cutting resistance",
+                "stable handle for straight, downward force"
+            ]
+        },
+        {
+            "task_goal": "Cut ceramic tiles to size for a backsplash",
+            "original_tool": "wet tile saw",
+            "expected_outcome": "Tiles are cut to precise dimensions with minimal chipping",
+            "required_tool_attributes": [
+                "diamond-embedded cutting rim for hard, brittle material",
+                "rigid rotating disc to maintain a true edge",
+                "stable guide fence for straight cuts",
+                "stiff arbor mounting to resist deflection"
+            ]
+        },
+        {
+            "task_goal": "Cut copper plumbing pipe to replace a leaking segment",
+            "original_tool": "rotary pipe cutter",
+            "expected_outcome": "Pipe ends are cut square and ready for fitting soldered or compression joints",
+            "required_tool_attributes": [
+                "hardened steel cutting wheel to focus high local stress",
+                "rigid C-frame to hold alignment under load",
+                "feed screw to gradually increase shearing pressure",
+                "guide rollers to keep the cut square"
+            ]
+        },
+        {
+            "task_goal": "Snip support sprues off a plastic 3D print",
+            "original_tool": "precision flush cutters",
+            "expected_outcome": "Supports are removed cleanly, leaving minimal marks on the model surface",
+            "required_tool_attributes": [
+                "razor-sharp, flush-ground jaws for near-surface cuts",
+                "fine, pointed tips for access in tight spaces",
+                "hardened cutting edges to resist dulling",
+                "spring return for controlled, repeatable shearing"
+            ]
+        },
+        {
+            "task_goal": "Trim a small tree branch overhanging the driveway",
+            "original_tool": "pruning saw",
+            "expected_outcome": "Branch is removed with a clean cut near the branch collar",
+            "required_tool_attributes": [
+                "sharp, impulse-hardened teeth for aggressive shearing",
+                "rigid blade to prevent buckling under load",
+                "tooth set to clear kerf and prevent binding",
+                "handle geometry to deliver steady pull-cut force"
+            ]
+        },
+        {
+            "task_goal": "Slice foam board panels for an architectural model",
+            "original_tool": "craft knife",
+            "expected_outcome": "Foam board is cut into straight, smooth-edged panels without tearing the paper facing",
+            "required_tool_attributes": [
+                "ultra-sharp, pointed blade for clean scoring and cuts",
+                "rigid handle to prevent blade flex",
+                "thin bevel to reduce crushing",
+                "secure blade lock for consistent depth"
+            ]
+        },
+        {
+            "task_goal": "Cut nylon rope to length for a campsite tarp ridgeline",
+            "original_tool": "serrated pocket knife",
+            "expected_outcome": "Rope is cleanly separated to the required length without excessive fraying",
+            "required_tool_attributes": [
+                "sharp serrated edge to grip and shear fibers",
+                "rigid, locking blade to handle high localized force",
+                "corrosion-resistant hard steel to maintain edge",
+                "ergonomic handle for controlled slicing"
+            ]
+        },
+        {
+            "task_goal": "Trim printed handouts to final size for a meeting",
+            "original_tool": "paper guillotine trimmer",
+            "expected_outcome": "Stacks of paper are cut to consistent, clean edges matching the target dimensions",
+            "required_tool_attributes": [
+                "long, sharp guillotine blade for shearing through stacks",
+                "rigid base and anvil edge for opposing force",
+                "levered pivot to amplify cutting force",
+                "paper clamp to prevent sheet shift during shear"
+            ]
+        },
+        {
+            "task_goal": "Cut a gasket from sheet rubber for a faucet repair",
+            "original_tool": "utility knife",
+            "expected_outcome": "A precisely shaped rubber gasket is produced with smooth edges for a proper seal",
+            "required_tool_attributes": [
+                "sharp pointed blade for detailed curves",
+                "rigid blade support to avoid flex in thick rubber",
+                "thin cutting edge for high stress concentration",
+                "secure grip for controlled pressure"
+            ]
+        },
+        {
+            "task_goal": "Cut a ribeye steak into bite-sized pieces at the table",
+            "original_tool": "steak knife",
+            "expected_outcome": "The steak is portioned cleanly without tearing the meat fibers",
+            "required_tool_attributes": [
+                "sharp fine or micro-serrated edge to shear cooked fibers",
+                "rigid, narrow blade for precise cuts",
+                "pointed tip to initiate cuts",
+                "hard steel to sustain a sharp edge"
+            ]
+        },
+        {
+            "task_goal": "Cut a steel rod to length for a shelf bracket",
+            "original_tool": "hacksaw",
+            "expected_outcome": "Steel rod sections are cut to specified lengths with straight kerfs ready for deburring",
+            "required_tool_attributes": [
+                "hardened, fine-tooth blade for metal shearing",
+                "high-tension, rigid frame to keep the blade straight",
+                "narrow kerf to reduce cutting effort",
+                "ergonomic handle for steady stroke control"
+            ]
+        }
+    ]
+}

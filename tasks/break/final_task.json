@@ -1,0 +1,544 @@
+{
+    "tasks": [
+        {
+            "task_goal": "Split a concrete paver into two pieces to fit a curved garden path",
+            "original_tool": "masonry chisel and sledgehammer",
+            "expected_outcome": "The paver fractures along the scored line into two usable sections with a relatively clean break",
+            "required_tool_attributes": [
+                "hardened steel chisel edge to concentrate stress",
+                "heavy hammer head for high-momentum impacts",
+                "rigid handle for efficient force transmission",
+                "broad striking face to deliver controlled blows"
+            ],
+            "unconventional_tools": [
+                "Large flathead screwdriver (as a scoring chisel) paired with a 10-20 lb cast-iron dumbbell used as the striker",
+                "Flat pry bar with a chisel/wedge end (as the chisel) struck with a 12-inch adjustable wrench used as a makeshift hammer",
+                "Hardened concrete nail (as a scoring punch) struck with a kettlebell held by the handle for high-momentum blows"
+            ],
+            "opposite_tool_attributes": [
+                "soft, blunt edge that disperses stress instead of concentrating it",
+                "ultralight, energy-absorbing hammer head that cannot deliver high-momentum impacts",
+                "flexible or limp handle that bends or stretches and dissipates force"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable toy hammer",
+                "plastic butter knife"
+            ]
+        },
+        {
+            "task_goal": "Crack open a walnut to extract intact nutmeat",
+            "original_tool": "nutcracker",
+            "expected_outcome": "The shell breaks while the kernel remains mostly whole and retrievable",
+            "required_tool_attributes": [
+                "hard opposing jaws to compress the shell",
+                "levered pivot for mechanical advantage",
+                "rigid frame that resists flexing",
+                "textured grips to prevent slipping"
+            ],
+            "unconventional_tools": [
+                "locking pliers (Vise-Grips)",
+                "C-clamp (G-clamp)",
+                "ratcheting bar clamp (Quick-Grip style)"
+            ],
+            "opposite_tool_attributes": [
+                "Soft, compressible jaws instead of hard opposing jaws",
+                "No levered pivot (elastic/stretch-based action without mechanical advantage)",
+                "Flexible frame that bends under load instead of staying rigid"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "plastic wrap"
+            ]
+        },
+        {
+            "task_goal": "Shatter a car side window to escape during an emergency",
+            "original_tool": "emergency window hammer/punch",
+            "expected_outcome": "The tempered glass fractures into small cubes, creating an exit opening",
+            "required_tool_attributes": [
+                "hardened pointed tip to focus impact",
+                "sufficient head mass for impulse delivery",
+                "ergonomic, non-slip grip",
+                "spring-loaded striker or rigid hammer head for sudden force"
+            ],
+            "unconventional_tools": [
+                "car seat headrest metal prongs",
+                "lug wrench/tire iron",
+                "adjustable (crescent) wrench"
+            ],
+            "opposite_tool_attributes": [
+                "soft, rounded blunt tip that disperses impact instead of focusing it",
+                "very low-mass, compressible head that absorbs energy rather than delivering impulse",
+                "slippery, flexible handle that reduces grip and bends instead of transferring force"
+            ],
+            "impossible_tools": [
+                "inflatable beach ball",
+                "bath sponge",
+                "silk scarf",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Break up thick ice sheets on a driveway to clear a walking path",
+            "original_tool": "ice chopper",
+            "expected_outcome": "The ice fractures into smaller chunks that can be shoveled away",
+            "required_tool_attributes": [
+                "sharp, hardened steel blade to penetrate ice",
+                "long rigid handle for swing arc and energy",
+                "secure head-to-handle connection for repeated impacts",
+                "adequate head mass for effective blows"
+            ],
+            "unconventional_tools": [
+                "splitting maul",
+                "manual lawn edger (half-moon style)",
+                "heavy-duty pry bar/crowbar"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, soft or rounded edge (e.g., plastic or rubber) that cannot bite into ice",
+                "short, flexible handle that bends and absorbs impact energy",
+                "loose or wobbly head-to-handle connection that shifts or detaches under strikes"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable pool noodle",
+                "feather duster",
+                "plastic grocery bag"
+            ]
+        },
+        {
+            "task_goal": "Snap a ceramic tile along a straight score to fit around a corner",
+            "original_tool": "manual tile cutter",
+            "expected_outcome": "The tile cleanly breaks along the score line, producing a straight edge",
+            "required_tool_attributes": [
+                "carbide scoring wheel to create a stress riser",
+                "rigid rails/base to prevent flexing",
+                "snap bar to apply concentrated bending force",
+                "lever handle for controlled load"
+            ],
+            "unconventional_tools": [
+                "Glass cutter with metal straightedge and a sturdy table edge to snap",
+                "Carbide-tipped masonry drill bit used as a scribe with an aluminum level as guide, then snapped over a wooden dowel using a broom handle as lever",
+                "Hand grout saw (carbide grit) to score, then an F-clamp pressing over a pencil as snap bar on a flat board base"
+            ],
+            "opposite_tool_attributes": [
+                "soft, dull contact surface that cannot create a scratch/score (no carbide wheel)",
+                "flexible or compressible frame/base that bends under load instead of staying rigid",
+                "diffuse, uncontrolled force application without a snap bar or lever (no concentrated bending)"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflatable beach ball",
+                "silicone baking mat",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Break apart a frozen block of ground meat for cooking",
+            "original_tool": "meat mallet",
+            "expected_outcome": "The frozen mass fractures into smaller chunks that thaw and cook evenly",
+            "required_tool_attributes": [
+                "flat or textured striking face to distribute or focus impact",
+                "food-safe, corrosion-resistant head",
+                "sufficient head mass for effective impacts",
+                "rigid handle for energy transfer"
+            ],
+            "unconventional_tools": [
+                "cast-iron skillet",
+                "marble pestle",
+                "stainless-steel potato masher"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible, non-flat striking surface that absorbs impact instead of delivering it",
+                "reactive, corrosion-prone or non-food-safe head material",
+                "very low head mass with a flexible or limp handle that bends and dissipates energy"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "plastic wrap (cling film)",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Break a rusted padlock shackle on your own shed after losing the key",
+            "original_tool": "bolt cutters",
+            "expected_outcome": "The shackle fractures/cuts through, allowing the lock to be removed",
+            "required_tool_attributes": [
+                "hardened steel jaws exceeding shackle hardness",
+                "long handles for leverage",
+                "robust pivot for high clamping force",
+                "rigid arms to prevent flex under load"
+            ],
+            "unconventional_tools": [],
+            "opposite_tool_attributes": [
+                "soft, low-hardness jaws softer than the shackle metal",
+                "short handles that minimize leverage",
+                "loose, weak pivot/hinge that flexes or spreads under load"
+            ],
+            "impossible_tools": [
+                "wet sponge",
+                "cotton rope",
+                "plastic salad tongs",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Knock out a section of drywall to access a hidden junction box",
+            "original_tool": "claw hammer",
+            "expected_outcome": "The drywall fractures and a controlled opening is created around the box",
+            "required_tool_attributes": [
+                "hardened striking face for impact",
+                "balanced head with adequate mass",
+                "rigid handle for control",
+                "beveled edges to focus impact on brittle gypsum"
+            ],
+            "unconventional_tools": [
+                "large aluminum Maglite-style flashlight",
+                "metal meat tenderizer mallet",
+                "tire iron (lug wrench)"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compressible striking face that absorbs impact energy",
+                "flexible, whippy handle that lacks rigidity and control",
+                "broad, rounded or padded edges that diffuse force instead of focusing it"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Break large compacted soil clods when preparing a garden bed",
+            "original_tool": "pick mattock",
+            "expected_outcome": "Soil clods fracture into finer particles suitable for planting",
+            "required_tool_attributes": [
+                "hardened pick end to concentrate force",
+                "heavy head for momentum",
+                "long rigid handle for swing energy",
+                "durable head-to-handle attachment"
+            ],
+            "unconventional_tools": [
+                "crowbar (wrecking bar/pry bar)",
+                "tire iron or breaker bar",
+                "fireplace poker"
+            ],
+            "opposite_tool_attributes": [
+                "soft, blunt, or cushioned striking end that disperses impact",
+                "ultra-lightweight or hollow head with very low mass",
+                "short, flexible, or limp handle that bends and absorbs swing energy"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflatable beach ball",
+                "feather duster"
+            ]
+        },
+        {
+            "task_goal": "Split a landscaping rock into smaller manageable pieces",
+            "original_tool": "stone mason\u2019s chisel and sledgehammer",
+            "expected_outcome": "The rock fractures along chisel marks into smaller pieces",
+            "required_tool_attributes": [
+                "hardened chisel edge to create stress lines",
+                "heavy hammer head to deliver impactful blows",
+                "rigid handle for accurate strikes",
+                "broad striking face for stability"
+            ],
+            "unconventional_tools": [
+                "large flathead screwdriver (used as a chisel)",
+                "adjustable wrench used as a hammer",
+                "a heavy rock used as a striking tool"
+            ],
+            "opposite_tool_attributes": [
+                "soft, dull chisel edge that deforms instead of scoring stone",
+                "lightweight, energy-absorbing hammer head (e.g., rubber or hollow plastic) instead of a heavy mass",
+                "flexible handle with a small, rounded striking face that destabilizes strikes"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "silicone spatula",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Shatter a sheet of brittle toffee for dessert garnish",
+            "original_tool": "kitchen mallet",
+            "expected_outcome": "The toffee breaks into decorative shards of various sizes",
+            "required_tool_attributes": [
+                "flat, smooth striking face to control fragment size",
+                "sufficient head mass to exceed brittle strength",
+                "rigid handle for precise impacts",
+                "food-safe construction"
+            ],
+            "unconventional_tools": [
+                "heavy-bottomed small saucepan used bottom-first as a striker",
+                "ceramic mug held by the handle, using its flat base",
+                "glass measuring cup with handle, using the flat bottom"
+            ],
+            "opposite_tool_attributes": [
+                "soft, cushioned, or irregular/spiked striking surface instead of a flat, smooth face",
+                "ultra-lightweight or hollow/air-filled head that cannot deliver sufficient impact",
+                "flexible or floppy handle that bends and absorbs force rather than remaining rigid"
+            ],
+            "impossible_tools": [
+                "rope",
+                "inflatable beach ball",
+                "wet sponge",
+                "feather pillow"
+            ]
+        },
+        {
+            "task_goal": "Snap off delicate 3D-printed support structures from a PLA model",
+            "original_tool": "needle-nose pliers",
+            "expected_outcome": "Supports cleanly break away from the model without damaging details",
+            "required_tool_attributes": [
+                "narrow, hard jaws to concentrate bending stress",
+                "fine tip for precise grip",
+                "levered handles for mechanical advantage",
+                "textured grips for control"
+            ],
+            "unconventional_tools": [
+                "pointed-tip eyebrow tweezers",
+                "small nail clippers (straight edge)",
+                "small binder clip"
+            ],
+            "opposite_tool_attributes": [
+                "soft, wide, compliant jaws that diffuse force instead of concentrating stress",
+                "bulky, rounded tip that cannot make a precise grip",
+                "flexible, non-levered handle with smooth, slippery grips"
+            ],
+            "impossible_tools": [
+                "rope",
+                "kitchen sponge",
+                "inflatable beach ball",
+                "feather duster",
+                "sheet of paper"
+            ]
+        },
+        {
+            "task_goal": "Fracture a CD/DVD before disposal to prevent data recovery",
+            "original_tool": "bench vise",
+            "expected_outcome": "The disc cracks and splits into multiple pieces, rendering data unreadable",
+            "required_tool_attributes": [
+                "rigid, hardened jaws for strong clamping",
+                "screw mechanism to apply high compressive force",
+                "stable base to resist movement",
+                "parallel jaws to apply even stress"
+            ],
+            "unconventional_tools": [
+                "car scissor jack",
+                "screw-type nutcracker",
+                "cast-iron tortilla press"
+            ],
+            "opposite_tool_attributes": [
+                "soft, compliant jaws that deform instead of rigid, hardened jaws",
+                "elastic or friction-only holding instead of a screw mechanism to apply compressive force",
+                "unstable base and non-parallel/curved contact surfaces that apply uneven stress"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rubber band",
+                "rope",
+                "inflatable beach ball"
+            ]
+        },
+        {
+            "task_goal": "Break an old cast iron soil pipe during bathroom demolition",
+            "original_tool": "chain-style snap cutter",
+            "expected_outcome": "The pipe snaps cleanly at the targeted location",
+            "required_tool_attributes": [
+                "hardened cutting wheels/links to score the pipe",
+                "chain wrap to distribute load circumferentially",
+                "ratcheting lever to apply high tension",
+                "rigid frame to resist deformation"
+            ],
+            "unconventional_tools": [
+                "Bicycle chain loop cinched tight with a ratcheting cargo strap (using the strap\u2019s ratchet as the tensioning lever)",
+                "Heavy tow chain wrapped and tightened via a Spanish windlass using a steel pry bar or wrench as the twisting lever",
+                "Linked wide stainless worm-drive hose clamps with a thin steel shim (e.g., a hacksaw blade segment) under the band to act as a scoring edge, tightened with a nut driver"
+            ],
+            "opposite_tool_attributes": [
+                "soft, blunt links that cannot score or bite into cast iron",
+                "single-point or flat contact instead of a chain that wraps circumferentially",
+                "elastic, non-ratcheting tensioning that cannot deliver or hold high force"
+            ],
+            "impossible_tools": [
+                "rubber band",
+                "cotton shoelace",
+                "plastic food wrap (cling film)",
+                "kitchen sponge"
+            ]
+        },
+        {
+            "task_goal": "Crush a garlic bulb to separate cloves quickly",
+            "original_tool": "chef\u2019s knife (flat side)",
+            "expected_outcome": "The bulb\u2019s base plate fractures and cloves separate for peeling",
+            "required_tool_attributes": [
+                "wide, rigid blade to spread impact",
+                "sufficient mass for a decisive strike",
+                "flat surface to apply compressive load",
+                "sturdy handle for safe control"
+            ],
+            "unconventional_tools": [
+                "small cast-iron skillet (use the flat bottom)",
+                "sturdy ceramic mug (flat base and handle)",
+                "metal bench scraper"
+            ],
+            "opposite_tool_attributes": [
+                "narrow, flexible edge that bends instead of a wide, rigid blade",
+                "very light, soft, or compressible material that absorbs impact instead of providing mass",
+                "rounded or cushioned contact surface with no flat face and no sturdy handle for control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "feather duster",
+                "balloon"
+            ]
+        },
+        {
+            "task_goal": "Break a pallet board free to salvage scrap wood",
+            "original_tool": "wrecking bar",
+            "expected_outcome": "Selected boards pry and snap away from the pallet frame",
+            "required_tool_attributes": [
+                "hardened curved claw to get under boards",
+                "flat wedge tip to focus prying force",
+                "long lever arm for mechanical advantage",
+                "rigid steel construction to prevent flex"
+            ],
+            "unconventional_tools": [
+                "steel bow rake (garden rake) used to hook tines under the board and lever with the long handle",
+                "garden hoe with a forged steel blade slid under the board edge to pry using the handle as a lever",
+                "car scissor jack positioned under a slat to lift it off the stringer using screw-driven mechanical advantage"
+            ],
+            "opposite_tool_attributes": [
+                "soft, flexible body that deforms under load instead of rigid steel construction",
+                "rounded, non-wedged tip that cannot slip under boards to focus prying force",
+                "short, stubby handle that offers little to no lever arm or mechanical advantage"
+            ],
+            "impossible_tools": [
+                "rope",
+                "foam sponge",
+                "inflatable beach ball",
+                "paper towel"
+            ]
+        },
+        {
+            "task_goal": "Shatter a cracked ceramic flower pot to free a root-bound plant",
+            "original_tool": "ball-peen hammer",
+            "expected_outcome": "The pot breaks into pieces without harming the root ball",
+            "required_tool_attributes": [
+                "hardened rounded peen to localize impact",
+                "adequate head mass for clean fracture",
+                "rigid handle for control",
+                "secure head-to-handle fit"
+            ],
+            "unconventional_tools": [
+                "L-shaped lug wrench (tire iron)",
+                "Stone or metal pestle (from a mortar and pestle)",
+                "Pipe wrench (using the rounded back of the head)"
+            ],
+            "opposite_tool_attributes": [
+                "soft or cushioned striking surface that spreads force instead of a hardened rounded peen",
+                "featherweight head lacking sufficient mass/inertia to fracture ceramic",
+                "flexible or loose handle-to-head connection that absorbs impact and reduces control"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "pillow"
+            ]
+        },
+        {
+            "task_goal": "Chip through a plaster wall to create a small cable pass-through",
+            "original_tool": "masonry (brick) hammer",
+            "expected_outcome": "The plaster fractures, leaving a neat opening sized for the cable",
+            "required_tool_attributes": [
+                "chisel peen to concentrate force",
+                "hardened striking face for durability",
+                "balanced head with sufficient mass",
+                "rigid handle for precise blows"
+            ],
+            "unconventional_tools": [
+                "heavy flathead screwdriver",
+                "claw hammer (using the claw as a chisel edge)",
+                "large L-shaped hex key (Allen wrench)"
+            ],
+            "opposite_tool_attributes": [
+                "broad, cushioned impact face that disperses force instead of a chisel peen",
+                "soft, unhardened striking surface that deforms or rebounds on impact",
+                "lightweight, poorly balanced head with a flexible or whippy handle"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Open a fishing hole by breaking lake ice near the shore",
+            "original_tool": "ice spud bar",
+            "expected_outcome": "The ice fractures and a hole is created through successive strikes",
+            "required_tool_attributes": [
+                "heavy, hardened chisel tip to penetrate ice",
+                "long shaft for swing and reach",
+                "non-slip grip for control",
+                "rigid, one-piece construction"
+            ],
+            "unconventional_tools": [
+                "steel fence T-post",
+                "36-inch wrecking bar (crowbar)",
+                "pickaxe"
+            ],
+            "opposite_tool_attributes": [
+                "soft, rounded, deformable tip that cannot cut or chip ice",
+                "short, flexible shaft that bends and lacks reach/mass",
+                "flexible, jointed or telescoping, multi-piece body that deflects on impact"
+            ],
+            "impossible_tools": [
+                "rope",
+                "sponge",
+                "inflatable beach ball",
+                "feather duster",
+                "foam pool noodle"
+            ]
+        },
+        {
+            "task_goal": "Break an epoxy-bonded joint between two metal plates during disassembly",
+            "original_tool": "cold chisel and hammer",
+            "expected_outcome": "The adhesive bond and, if necessary, a thin edge of material fracture, separating the plates",
+            "required_tool_attributes": [
+                "hardened, acute chisel edge to focus stress",
+                "heavy hammer for impactful force",
+                "rigid handles for accurate energy transfer",
+                "tough tool steel to resist chipping"
+            ],
+            "unconventional_tools": [
+                "large flathead screwdriver used as a makeshift cold chisel",
+                "flat pry bar (wonder bar) driven along the seam",
+                "adjustable wrench used as a striking hammer"
+            ],
+            "opposite_tool_attributes": [
+                "blunt, rounded, soft edge that spreads load instead of concentrating stress",
+                "lightweight, shock-absorbing striker that absorbs impact rather than delivering it",
+                "flexible or elastic handles that bend and dissipate energy instead of transferring it rigidly"
+            ],
+            "impossible_tools": [
+                "sponge",
+                "rope",
+                "inflatable beach ball",
+                "silicone spatula"
+            ]
+        }
+    ]
+}
